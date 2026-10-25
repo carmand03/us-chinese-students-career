@@ -1,0 +1,9 @@
+pandas==2.2.3
+numpy==2.3.5
+networkx==3.4.2
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.29.5
+# Optional for static figures:
+matplotlib==3.10.7
+# Open the notebook in an existing Jupyter interface, or install jupyterlab.
