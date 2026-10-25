@@ -1,0 +1,235 @@
+﻿#;Province;City;n;Latitude;Longitude;Notes
+1;Guangdong 廣東;Taishan 台山;112;22.2516;112.7786;
+2;Jiangsu 江蘇;Shanghai 上海;71;31.2304;121.4737;
+3;Guangdong 廣東;Zhongshan 中山;38;22.5176;113.3926;
+4;Guangdong 廣東;Xinhui 新會;37;22.458;113.034;
+5;Jiangsu 江蘇;Wuxi 無錫;31;31.4906;120.3119;
+6;Hebei 河北;Tianjin 天津;30;39.3434;117.3616;
+7;Guangdong 廣東;Kaiping 開平;27;22.3762;112.6991;
+8;Jiangsu 江蘇;Wuxian 吳縣;20;31.3191;120.6291;"Historical county; now Suzhou area"
+9;Guangdong 廣東;Nanhai 南海;18;23.0277;113.1429;
+10;Jiangsu 江蘇;Wujin 武進;18;31.7781;119.9643;"Historical county; now Changzhou area"
+11;Hebei 河北;Beijing 北京;17;39.9042;116.4074;
+12;Fujian 福建;Minhou 閩侯;15;26.15;119.1333;"Historical county; now Fuzhou suburbs"
+13;Hunan 湖南;Changsha 長沙;14;28.2282;112.9388;
+14;Zhejiang 浙江;Hangxian 杭縣;12;30.2741;120.1551;"Historical county; now Hangzhou area"
+15;Zhejiang 浙江;Wuxing 吳興;11;30.8703;120.0933;"Historical county; now Huzhou"
+16;Zhejiang 浙江;Yinxian 鄞縣;11;29.8683;121.544;"Historical county; now Ningbo"
+17;Guangdong 廣東;Fanou 番禺;10;23,0000;113.3833;"Historical county; now Guangzhou area"
+18;Guangdong 廣東;Meixian 梅縣;10;24.2996;116.1228;
+19;Jiangsu 江蘇;Changshou 常熟;9;31.6542;120.7523;
+20;Zhejiang 浙江;Shaoxing 紹興;9;30.0025;120.58;
+21;Guangdong 廣東;Heshan 鶴山;8;22.765;112.9597;
+22;Zhejiang 浙江;Shengxian 嵊縣;8;29.5997;120.8275;"Historical county; now Shengzhou"
+23;Fujian 福建;Shamen 廈門;7;24.4798;118.0894;Xiamen
+24;Jiangsu 江蘇;Jiading 嘉定;7;31.375;121.2652;Now part of Shanghai
+25;Jiangsu 江蘇;Nantong 南通;7;31.9816;120.8944;
+26;Guangdong 廣東;Chaoyang 潮陽;6;23.2619;116.6007;
+27;Guangdong 廣東;Shunde 順德;6;22.8329;113.2453;
+28;Jiangsu 江蘇;Jiangyin 江陰;6;31.9208;120.286;
+29;Jiangsu 江蘇;Songjiang 松江;6;31.0323;121.2278;Now part of Shanghai
+30;Jiangxi 江西;Nanchang 南昌;6;28.682;115.8579;
+31;Shandong 山東;Penglai 蓬萊;6;37.8113;120.7591;
+32;Fujian 福建;Fuzhou 福州;5;26.0745;119.2965;
+33;Fujian 福建;Longxi 龍溪;5;24.5133;117.7265;"Historical county; now Zhangzhou area"
+34;Jiangsu 江蘇;Taicang 太倉;5;31.4578;121.1007;
+35;Jiangsu 江蘇;Yixing 宜興;5;31.3405;119.8233;
+36;Jiangxi 江西;Jiujiang 九江;5;29.7052;115.9928;
+37;Zhejiang 浙江;Jiaxing 嘉興;5;30.7522;120.7553;
+38;Zhejiang 浙江;Ningbo 寧波;5;29.8683;121.544;
+39;Guangdong 廣東;Dongguan 東莞;4;23.0207;113.7519;
+40;Guangdong 廣東;Enping 恩平;4;22.1833;112.3;
+41;Guangdong 廣東;Sanshui 三水;4;23.1565;112.8876;
+42;Guangdong 廣東;Shantou 汕頭;4;23.3535;116.682;
+43;Hubei 湖北;Wuchang 武昌;4;30.5539;114.3162;Now part of Wuhan
+44;Hunan 湖南;Xiangtan 湘潭;4;27.833;112.9443;
+45;Jiangsu 江蘇;Nanjing 南京;4;32.0603;118.7969;
+46;Jiangsu 江蘇;Zhenjiang 鎮江;4;32.2119;119.455;
+47;Zhejiang 浙江;Fenghua 奉化;4;29.6551;121.4068;
+48;Zhejiang 浙江;Pinghu 平湖;4;30.6978;121.0183;
+49;Fujian 福建;Nanan 南安;3;24.96;118.3862;
+50;Guangdong 廣東;Chaoan 潮安;3;23.4623;116.5978;
+51;Henan 河南;Kaifeng 開封;3;34.7971;114.3074;
+52;Henan 河南;Luoyang 洛陽;3;34.6197;112.4539;
+53;Hunan 湖南;Hengyang 衡陽;3;26.893;112.5716;
+54;Jiangsu 江蘇;Cixi 慈溪;3;30.1699;121.2644;"Listed under Jiangsu; likely Zhejiang Cixi"
+55;Jiangsu 江蘇;Dantu 丹徒;3;32.1317;119.4227;"Historical county; now Zhenjiang area"
+56;Jiangsu 江蘇;Jiangdu 江都;3;32.4344;119.5694;Now part of Yangzhou
+57;Jiangsu 江蘇;Yancheng 鹽城;3;33.3478;120.1635;
+58;Shandong 山東;Chanxian 單縣;3;34.793;116.087;
+59;Sichuan 四川;Chengdu 成都;3;30.5728;104.0668;
+60;Sichuan 四川;Zhongqing 重慶;3;29.563;106.5516;Chongqing
+61;Yunnan 雲南;Kunming 昆明;3;25.0389;102.7183;
+62;Zhejiang 浙江;Cixi 慈溪;3;30.1699;121.2644;
+63;Zhejiang 浙江;Haining 海寧;3;30.5131;120.6811;
+64;Zhejiang 浙江;Jiashan 嘉善;3;30.8456;120.9236;
+65;Anhui 安徽;Hefei 合肥;2;31.8206;117.2272;
+66;Anhui 安徽;Shouxian 壽縣;2;32.5758;116.7846;
+67;Anhui 安徽;Wuhu 蕪湖;2;31.3521;118.4327;
+68;Anhui 安徽;Wuyuan 婺源;2;29.2483;117.8613;Now in Jiangxi
+69;Fujian 福建;Changyue 長樂;2;25.9633;119.5226;Changle
+70;Fujian 福建;Fujian 福建;2;26.0745;119.2965;"Province-level entry; coordinates of Fuzhou"
+71;Fujian 福建;Tongan 同安;2;24.7231;118.149;Now part of Xiamen
+72;Guangdong 廣東;Jieyang 揭陽;2;23.5498;116.3725;
+73;Guangdong 廣東;Xingning 興寧;2;24.1355;115.731;
+74;Hebei 河北;Tongxian 通縣;2;39.9023;116.6586;Now Tongzhou, Beijing
+75;Hebei 河北;Yongqing 永清;2;39.3205;116.5007;
+76;Hebei 河北;Zunhua 遵化;2;40.1895;117.9656;
+77;Henan 河南;Shangyin 湯陰;2;35.9241;114.3595;Tangyin
+78;Henan 河南;Xiangcheng 項城;2;33.46;114.875;
+79;Hubei 湖北;Guangji 廣濟;2;29.7333;115.7333;"Historical county; now Wuxue"
+80;Hubei 湖北;Mianyang 沔陽;2;30.35;113.45;"Historical county; now Xiantao"
+81;Hunan 湖南;Shaoyang 邵陽;2;27.2384;111.4676;
+82;Hunan 湖南;Xiangxiang 湘鄉;2;27.7346;112.5316;
+83;Jiangsu 江蘇;Baoshan 寶山;2;31.4046;121.4892;Now part of Shanghai
+84;Jiangsu 江蘇;Chongming 崇明;2;31.6269;121.3973;"Island; now part of Shanghai"
+85;Jiangsu 江蘇;Taixian 泰縣;2;32.473;119.9196;"Historical county; now Taizhou area"
+86;Jiangsu 江蘇;Xinghua 興化;2;32.9116;119.8526;
+87;Jiangxi 江西;Guixi 貴溪;2;28.2964;117.2271;
+88;Shandong 山東;Jinan 濟南;2;36.6512;117.1201;
+89;Shandong 山東;Taian 泰安;2;36.2045;117.087;
+90;Shanxi 山西;Ningwu 寧武;2;38.9992;112.3053;
+91;Sichuan 四川;Neijiang 內江;2;29.5803;105.058;
+92;Sichuan 四川;Sichuan 四川;2;30.5728;104.0668;"Province-level; coordinates of Chengdu"
+93;Yunnan 雲南;Shiping 石屏;2;23.7073;102.4944;
+94;Zhejiang 浙江;Shangyu 上虞;2;30.0337;120.869;
+95;Zhejiang 浙江;Yuyao 余姚;2;30.0374;121.1547;
+96;Zhejiang 浙江;Zhenhai 鎮海;2;29.9489;121.7147;Now part of Ningbo
+97;Zhejiang 浙江;Zhuji 諸暨;2;29.7133;120.2347;
+98;Anhui 安徽;Chaoxian 巢縣;1;31.5993;117.8607;"Historical county; now Chaohu"
+99;Anhui 安徽;Hexian 和縣;1;31.7419;118.3531;
+100;Anhui 安徽;Jingxian 涇縣;1;30.6924;118.4196;
+101;Anhui 安徽;Shexian 歙縣;1;29.8674;118.4151;
+102;Anhui 安徽;Shucheng 舒城;1;31.4621;116.9486;
+103;Anhui 安徽;Tongcheng 桐城;1;31.0552;116.9766;
+104;Anhui 安徽;Wangjiang 望江;1;30.1246;116.6879;
+105;Anhui 安徽;Xiuning 休寧;1;29.7871;118.1869;
+106;Anhui 安徽;Zhide 至德;1;30.6421;117.2863;"Historical county; now Dongzhi"
+107;Fujian 福建;Dean 德安;1;26.3683;117.462;"德安 in Fujian context; likely De'an area"
+108;Fujian 福建;Jingjiang 靖江;1;32.0176;120.2774;"Note: Jingjiang is in Jiangsu; possible Fujian variant"
+109;Fujian 福建;Jinjiang 晉江;1;24.7817;118.5522;
+110;Fujian 福建;Nanping 南平;1;26.6453;118.178;
+111;Fujian 福建;Pingtan 平潭;1;25.499;119.7897;
+112;Fujian 福建;Pucheng 蒲城;1;27.9167;118.5333;Pucheng county, Fujian
+113;Fujian 福建;Xianyou 仙遊;1;25.3625;118.6922;
+114;Fujian 福建;Zhangpu 漳浦;1;24.1167;117.6167;
+115;Fujian 福建;Zhangzhou 漳州;1;24.5133;117.6478;
+116;Guangdong 廣東;Baoan 寶安;1;22.5552;113.8838;Now Shenzhen area
+117;Guangdong 廣東;Dabu 大埔;1;24.3499;116.6948;
+118;Guangdong 廣東;Dapu 大浦;1;24.3499;116.6948;Likely same as Dabu 大埔
+119;Guangdong 廣東;Deqing 德慶;1;23.1436;111.786;
+120;Guangdong 廣東;Fengshun 豐順;1;23.7682;116.1828;
+121;Guangdong 廣東;Hainan 海南;1;20.044;110.1999;"Hainan Island; coordinates of Haikou"
+122;Guangdong 廣東;Hepu 合浦;1;21.6667;109.2;Now in Guangxi
+123;Guangdong 廣東;Huan 湖安;1;23.7;116,0000;"Uncertain; approx. eastern Guangdong"
+124;Guangdong 廣東;Lianxian 連縣;1;24.7661;112.3837;Now Lianzhou
+125;Guangdong 廣東;Qingyuan 清遠;1;23.6823;113.0561;
+126;Guangdong 廣東;Sihui 四會;1;23.3274;112.6973;
+127;Guangdong 廣東;Wuhua 五華;1;23.9318;115.7753;
+128;Guangxi 廣西;Guilin 桂林;1;25.2736;110.29;
+129;Guangxi 廣西;Guiping 桂平;1;23.3944;110.0792;
+130;Guangxi 廣西;Guixian 貴縣;1;22.9978;109.5975;"Historical county; now Guigang"
+131;Guangxi 廣西;Jingxi 靖西;1;23.1342;106.4177;
+132;Guangxi 廣西;Xilin 西林;1;24.4897;105.0882;
+133;Guizhou 貴州;Anshun 安順;1;26.2456;105.932;
+134;Hebei 河北;Anci 安次;1;39.5018;116.6962;"Historical county; now Langfang area"
+135;Hebei 河北;Baxian 霸縣;1;39.1162;116.3935;Now Ba Zhou
+136;Hebei 河北;Boye 博野;1;38.4581;115.4644;
+137;Hebei 河北;Dingxian 定縣;1;38.5163;114.9901;Now Dingzhou
+138;Hebei 河北;Funing 撫寧;1;39.8882;119.245;
+139;Hebei 河北;Gaoyang 高陽;1;38.7003;115.7788;
+140;Hebei 河北;Jinxian 晉縣;1;37.9702;115.1254;Now Jinzhou, Hebei
+141;Hebei 河北;Luanxian 灤縣;1;39.7399;118.7029;Now Luanzhou
+142;Hebei 河北;Qingyuan 清苑;1;38.7012;115.487;Now part of Baoding
+143;Hebei 河北;Raoyang 饒陽;1;38.2341;115.7262;
+144;Hebei 河北;Wanxian 完縣;1;38.9571;115.1095;Now Shunping
+145;Hebei 河北;Wenan 文安;1;38.873;116.458;
+146;Hebei 河北;Yanshan 鹽山;1;38.0576;117.2296;
+147;Hebei 河北;Yutian 玉田;1;39.8998;117.7393;
+148;Hebei 河北;Zhixin 支新;1;38.35;115.5;"Uncertain historical location; approx. central Hebei"
+149;Heilongjiang 黑龍江;Harbin 哈爾濱;1;45.8038;126.5349;
+150;Henan 河南;Jixian 汲縣;1;35.4039;114.0659;"Historical county; now Weihui"
+151;Henan 河南;Mengjin 孟津;1;34.8229;112.4382;
+152;Henan 河南;Zhengxian 鄭縣;1;34.7466;113.6253;"Historical county; now Zhengzhou"
+153;Hubei 湖北;Hanchuan 漢川;1;30.6546;113.8388;
+154;Hubei 湖北;Huangan 黃安;1;31.3504;114.6787;"Historical county; now Hong'an"
+155;Hubei 湖北;Huanggang 黃岡;1;30.4548;114.8724;
+156;Hunan 湖南;Changhuai 常懷;1;29.05;111.5;"Uncertain; possibly Changde area"
+157;Hunan 湖南;Changning 常寧;1;26.4167;112.3833;
+158;Hunan 湖南;Hengshan 衡山;1;27.2302;112.8681;
+159;Hunan 湖南;Huarong 華容;1;29.53;112.56;
+160;Hunan 湖南;Hunan 湖南;1;28.2282;112.9388;"Province-level; coordinates of Changsha"
+161;Hunan 湖南;Linxiang 臨湘;1;29.4773;113.4508;
+162;Hunan 湖南;Ningxiang 寧鄉;1;28.2726;112.5516;
+163;Hunan 湖南;Taoyuan 桃源;1;28.9017;111.488;
+164;Jiangsu 江蘇;Chuansha 川沙;1;31.1999;121.6972;"Historical county; now Pudong, Shanghai"
+165;Jiangsu 江蘇;Danyang 丹陽;1;31.9893;119.5861;
+166;Jiangsu 江蘇;Gaoyou 高郵;1;32.7893;119.4459;
+167;Jiangsu 江蘇;Guanyun 灌雲;1;34.2844;119.2384;
+168;Jiangsu 江蘇;Hangxian 杭縣;1;30.2741;120.1551;"Historical county; now Hangzhou area"
+169;Jiangsu 江蘇;Huaian 淮安;1;33.56;119.0215;
+170;Jiangsu 江蘇;Huaiyin 淮陰;1;33.5883;119.022;Now part of Huai'an
+171;Jiangsu 江蘇;Jintan 金壇;1;31.7437;119.5975;
+172;Jiangsu 江蘇;Jurong 句容;1;31.9454;119.1685;
+173;Jiangsu 江蘇;Kunshan 昆山;1;31.3842;120.9581;
+174;Jiangsu 江蘇;Liyang 溧陽;1;31.4218;119.4845;
+175;Jiangsu 江蘇;Qingpu 青浦;1;31.1512;121.1241;Now part of Shanghai
+176;Jiangsu 江蘇;Rugao 如皋;1;32.3749;120.5742;
+177;Jiangsu 江蘇;Shangyu 上虞;1;30.0337;120.869;"Likely Zhejiang Shangyu; listed under Jiangsu"
+178;Jiangsu 江蘇;Suqian 宿遷;1;33.9613;118.2748;
+179;Jiangsu 江蘇;Suzhou 蘇州;1;31.299;120.5853;
+180;Jiangsu 江蘇;Taiding 泰定;1;32.473;119.9196;Likely Taizhou/Taixian area
+181;Jiangsu 江蘇;Xiaoxian 蕭縣;1;34.1884;116.9472;Now in Anhui
+182;Jiangsu 江蘇;Yibin 宜賓;1;28.7545;104.6428;"Note: Yibin is in Sichuan; likely a data anomaly"
+183;Jiangsu 江蘇;Yizheng 儀征;1;32.2721;119.1847;
+184;Jiangsu 江蘇;Yuyao 余姚;1;30.0374;121.1547;"Likely Zhejiang Yuyao; listed under Jiangsu"
+185;Jiangxi 江西;Gaoan 高安;1;28.4151;115.3747;
+186;Jiangxi 江西;Pingxiang 萍鄉;1;27.6285;113.854;
+187;Jiangxi 江西;Xiushui 修水;1;29.0254;114.5469;
+188;Jiangxi 江西;Yushan 玉山;1;28.6832;118.2461;
+189;Jilin 吉林;Ningan 寧安;1;44.3406;129.4634;
+190;Liaoning 遼寧;Haicheng 海城;1;40.8824;122.7349;
+191;Liaoning 遼寧;Jinxi 錦西;1;40.7469;120.9882;Now Huludao
+192;Liaoning 遼寧;Liaozhong 遼中;1;41.5063;122.7349;
+193;Liaoning 遼寧;Shenyang 沈陽;1;41.8057;123.4315;
+194;Rehe 熱河;Chengde 承德;1;40.9515;117.9634;"Rehe was a historical province; now Hebei"
+195;Shaanxi 陜西;Hancheng 漢城;1;35.4766;110.4384;
+196;Shaanxi 陜西;Huaxian 華縣;1;34.5122;109.7714;Now Huazhou
+197;Shaanxi 陜西;Xi'an 西安;1;34.3416;108.9398;
+198;Shaanxi 陜西;Yulin 榆林;1;38.2851;109.7346;
+199;Shandong 山東;Heze 菏澤;1;35.2333;115.4667;
+200;Shandong 山東;Jiaoxian 膠縣;1;36.2647;120.0337;Now Jiaozhou
+201;Shandong 山東;Laiwu 萊蕪;1;36.2139;117.6762;Now part of Jinan
+202;Shandong 山東;Yantai 煙台;1;37.4638;121.4479;
+203;Shanxi 山西;Changzi 長子;1;36.1222;112.8777;
+204;Shanxi 山西;Fencheng 汾城;1;35.86;111.52;"Historical county; now Xiangfen area"
+205;Shanxi 山西;Huairen 懷仁;1;39.8275;113.1007;
+206;Shanxi 山西;Qixian 祁縣;1;37.3579;112.3327;
+207;Shanxi 山西;Wenxi 聞喜;1;35.3753;111.2246;
+208;Sichuan 四川;Anxian 安縣;1;31.5347;104.5666;Now An'zhou
+209;Sichuan 四川;Emei 峨嵋;1;29.6012;103.552;
+210;Sichuan 四川;Huayang 華陽;1;30.5394;104.0658;"Historical county; now Chengdu suburbs"
+211;Sichuan 四川;Lianxi 蓮溪;1;30.45;105.05;"Uncertain; approx. central Sichuan"
+212;Sichuan 四川;Nanchong 南充;1;30.799;106.0827;
+213;Sichuan 四川;Tongliang 銅梁;1;29.8393;106.0549;
+214;Sichuan 四川;Wanxian 萬縣;1;30.8077;108.376;"Historical county; now Wanzhou"
+215;Yunnan 雲南;Tengchong 騰沖;1;25.0255;98.4956;
+216;Yunnan 雲南;Yunnan 雲南;1;25.0389;102.7183;"Province-level; coordinates of Kunming"
+217;Zhejiang 浙江;Dinghai 定海;1;30.0241;122.1064;Now part of Zhoushan
+218;Zhejiang 浙江;Fuyang 富陽;1;30.0487;119.9521;
+219;Zhejiang 浙江;Haiyan 海鹽;1;30.5264;120.9467;
+220;Zhejiang 浙江;Hangzhou 杭州;1;30.2741;120.1551;
+221;Zhejiang 浙江;Jiangshan 江山;1;28.7375;118.6244;
+222;Zhejiang 浙江;Jinhua 金華;1;29.0786;119.6471;
+223;Zhejiang 浙江;Lanxi 蘭溪;1;29.2083;119.4598;
+224;Zhejiang 浙江;Linhai 臨海;1;28.8581;121.1444;
+225;Zhejiang 浙江;Qingtian 青田;1;28.1399;120.2899;
+226;Zhejiang 浙江;Tiantai 天台;1;29.1398;121.0286;
+227;Zhejiang 浙江;Wenzhou 溫州;1;28.0153;120.672;
+228;Zhejiang 浙江;Wuxi 無錫;1;31.4906;120.3119;"Likely Jiangsu Wuxi; listed under Zhejiang"
+229;Zhejiang 浙江;Wuyi 武義;1;28.8931;119.816;
+230;Zhejiang 浙江;Xiangshan 象山;1;29.4766;121.8693;
+231;Zhejiang 浙江;Xiaoshan 蕭山;1;30.1588;120.2645;Now part of Hangzhou
+232;Zhejiang 浙江;Yongjia 永嘉;1;28.1528;120.6936;
+233;Zhejiang 浙江;Zhapu 乍浦;1;30.5508;121.1019;"Historical port town; now part of Pinghu"
+234;Zhejiang 浙江;Zhejiang 浙江;1;30.2741;120.1551;"Province-level; coordinates of Hangzhou"
