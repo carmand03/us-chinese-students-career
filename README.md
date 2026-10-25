@@ -1,5 +1,7 @@
 # Student employment analysis
 
+This repository contains materials for a study within a broader series examining Chinese students and university graduates in the United States during World War II. The study draws on the *Directory of Chinese University Graduates and Students in America* (旅美中國同人録), compiled by the China Institute in America and published in 1944 by the Committee on Wartime Planning for Chinese Students in the United States. This study complements related analyses of [student mobility](https://github.com/carmand03/chinese-students-us-mobility) and [post-education careers](https://github.com/carmand03/us-chinese-students-education-to-career/blob/carmand03/README.md).
+
 Open **index.html** to begin. Each HTML visualization contains its own data and libraries and works offline. The navigation links work when the folder structure is preserved. Individual HTML files can also be copied and opened independently.
 
 ## Main findings
