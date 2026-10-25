@@ -1,0 +1,42 @@
+[
+  {
+    "file": "index.html",
+    "inline_scripts_checked": 3,
+    "external_scripts": 0
+  },
+  {
+    "file": "README.html",
+    "inline_scripts_checked": 0,
+    "external_scripts": 0
+  },
+  {
+    "file": "maps/cities.html",
+    "inline_scripts_checked": 4,
+    "external_scripts": 0
+  },
+  {
+    "file": "maps/flows.html",
+    "inline_scripts_checked": 4,
+    "external_scripts": 0
+  },
+  {
+    "file": "maps/choropleths.html",
+    "inline_scripts_checked": 4,
+    "external_scripts": 0
+  },
+  {
+    "file": "sankey/employers.html",
+    "inline_scripts_checked": 4,
+    "external_scripts": 0
+  },
+  {
+    "file": "networks/employer_projection.html",
+    "inline_scripts_checked": 4,
+    "external_scripts": 0
+  },
+  {
+    "file": "networks/individual_employer.html",
+    "inline_scripts_checked": 4,
+    "external_scripts": 0
+  }
+]

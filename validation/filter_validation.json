@@ -1,0 +1,14 @@
+{
+  "physics_pace_pause_resume_controls_verified": true,
+  "filter_label_education_level_verified": true,
+  "filter_scenarios_passed": 27,
+  "bipartite_degree_and_centrality_matches_python": true,
+  "projection_degree_and_centrality_matches_python": true,
+  "direct_sankey_filter_scenarios_match_python": 27,
+  "direct_links_have_no_individual_stage": true,
+  "distinct_bridge_people_and_names_verified": true,
+  "other_groups_deduplicate_individuals": true,
+  "repeated_appointments_do_not_inflate_bridges": true,
+  "network_node_and_edge_tooltips_use_text_elements": true,
+  "browser_visual_preview": "blocked by local file URL security policy"
+}

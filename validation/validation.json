@@ -1,0 +1,9 @@
+{
+  "student_key_unique": true,
+  "career_join_preserves_rows": true,
+  "status_counts_reconcile": true,
+  "route_weights_reconcile": true,
+  "projection_edges_reconcile": true,
+  "unmatched_main_ids": 0,
+  "gender_conflicts": 0
+}

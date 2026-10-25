@@ -1,0 +1,10 @@
+{
+  "students": 1613,
+  "matched_birth_localities": 919,
+  "missing_birth_town": 694,
+  "province_proxy_entries_explicitly_labelled": 7,
+  "all_recorded_birth_localities_matched": true,
+  "route_coordinates_match_lookup": true,
+  "ambiguous_and_invalid_coordinates_not_guessed": true,
+  "decimal_comma_and_province_context_tests_passed": true
+}
