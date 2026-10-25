@@ -1,0 +1,90 @@
+table,rows,columns,fields
+ambiguous_birth_towns.csv,0,12,NameID; Birth_province_py_st; Birth_town_py; Birth_town_zh; birth_geocode_status; birth_lat; birth_lon; birth_lookup_ids; birth_lookup_city; birth_coordinate_precision; birth_coordinate_notes; birth_candidate_ids
+asset_manifest.csv,7,2,file; sha256
+bipartite_edges.csv,1592,2,NameID; employer
+bipartite_nodes.csv,1687,4,node; kind; degree; opposite_partition_centrality
+birth_coordinate_lookup_parsed.csv,234,10,#; Province; City; n; Latitude; Longitude; Notes; Latitude_parsed; Longitude_parsed; valid_coordinates
+birth_education_work_routes.csv,2097,19,record_id; NameID; birth_province; birth_town_py; birth_town_zh; birth_lon; birth_lat; birth_geocode_status; birth_coordinate_precision; birth_coordinate_notes; birth_lookup_ids; education; education_city; education_lon; education_lat; work_city; work_lon; work_lat; weight
+birthplace_geocodes.csv,1613,12,NameID; Birth_province_py_st; Birth_town_py; Birth_town_zh; birth_geocode_status; birth_lat; birth_lon; birth_lookup_ids; birth_lookup_city; birth_coordinate_precision; birth_coordinate_notes; birth_candidate_ids
+career_joined.csv,1689,53,_source_row; record_id; NameID; NameFull; employer; Institution_level2; Institution_zh; Institution_level2_zh; sector; institution_subsector; institution_affiliation; position; Position_Zh; group; level; status; current_US_appointment; city; province; country; latitude; longitude; source; 頁碼; gender; birth_year; Birth_province_zh_st; Birth_province_py_st; Birth_town_zh; Birth_town_py; study_start; study_end; education_records; education_institutions; degrees; education_levels; disciplines; education_countries; education_gender_values; gender_conflict; birth_decade; study_start_decade; study_end_decade; birth_geocode_status; birth_lat; birth_lon; birth_lookup_ids; birth_lookup_city; birth_coordinate_precision; birth_coordinate_notes; birth_candidate_ids; province_source; valid_coordinates
+china_province_counts.csv,23,5,province; appointments; students; employers; matched_boundary
+china_province_counts_unmatched.csv,277,5,record_id; NameID; country; province; city
+education_clean.csv,3151,22,NameID; FullName; FullName_PY; Name_WG; Gender; University; Department; Degree; Expanded; Level; discipline; Year; Page; University_zh; University_clean; City; Province_State; Country; Latitude; Longitude; latitude_revised; longitude_revised
+employer_by_Birth_province_py_st.csv,1151,5,Birth_province_py_st; employer; appointments; students; employers
+employer_by_birth_decade.csv,970,5,birth_decade; employer; appointments; students; employers
+employer_by_gender.csv,804,5,gender; employer; appointments; students; employers
+employer_by_position_level.csv,991,5,level; employer; appointments; students; employers
+employer_by_status.csv,862,5,status; employer; appointments; students; employers
+employer_by_study_end_decade.csv,952,5,study_end_decade; employer; appointments; students; employers
+employer_by_study_start_decade.csv,985,5,study_start_decade; employer; appointments; students; employers
+employer_combined_strata.csv,1273,8,status; gender; birth_decade; study_start_decade; employer; appointments; students; employers
+employer_edges.csv,986,4,source; target; shared_students; NameIDs
+employer_nodes.csv,760,5,employer; degree; degree_centrality; strength; community
+employer_overall.csv,761,4,employer; appointments; students; employers
+gender_conflicts.csv,0,28,NameID; Gender; birth_year; Birth_province_zh_st; Birth_province_py_st; Birth_town_zh; Birth_town_py; study_start; study_end; education_records; education_institutions; degrees; education_levels; disciplines; education_countries; education_gender_values; gender_conflict; birth_decade; study_start_decade; study_end_decade; birth_geocode_status; birth_lat; birth_lon; birth_lookup_ids; birth_lookup_city; birth_coordinate_precision; birth_coordinate_notes; birth_candidate_ids
+group_by_Birth_province_py_st.csv,218,5,Birth_province_py_st; group; appointments; students; employers
+group_by_birth_decade.csv,85,5,birth_decade; group; appointments; students; employers
+group_by_gender.csv,34,5,gender; group; appointments; students; employers
+group_by_status.csv,49,5,status; group; appointments; students; employers
+group_by_study_end_decade.csv,80,5,study_end_decade; group; appointments; students; employers
+group_by_study_start_decade.csv,90,5,study_start_decade; group; appointments; students; employers
+group_combined_strata.csv,372,8,status; gender; birth_decade; study_start_decade; group; appointments; students; employers
+group_overall.csv,23,4,group; appointments; students; employers
+jobs_by_city.csv,201,6,country; province; city; appointments; students; employers
+jobs_by_country.csv,15,4,country; appointments; students; employers
+jobs_by_province.csv,73,5,country; province; appointments; students; employers
+level_by_Birth_province_py_st.csv,100,5,Birth_province_py_st; level; appointments; students; employers
+level_by_birth_decade.csv,33,5,birth_decade; level; appointments; students; employers
+level_by_degrees.csv,109,5,degrees; level; appointments; students; employers
+level_by_disciplines.csv,252,5,disciplines; level; appointments; students; employers
+level_by_education_countries.csv,51,5,education_countries; level; appointments; students; employers
+level_by_education_institutions.csv,726,5,education_institutions; level; appointments; students; employers
+level_by_education_levels.csv,32,5,education_levels; level; appointments; students; employers
+level_by_gender.csv,12,5,gender; level; appointments; students; employers
+level_by_status.csv,16,5,status; level; appointments; students; employers
+level_by_study_end_decade.csv,29,5,study_end_decade; level; appointments; students; employers
+level_by_study_start_decade.csv,32,5,study_start_decade; level; appointments; students; employers
+level_combined_strata.csv,217,8,status; gender; birth_decade; study_start_decade; level; appointments; students; employers
+level_overall.csv,6,4,level; appointments; students; employers
+missingness.csv,50,4,field; main; educ; career
+position_by_Birth_province_py_st.csv,762,5,Birth_province_py_st; position; appointments; students; employers
+position_by_birth_decade.csv,518,5,birth_decade; position; appointments; students; employers
+position_by_gender.csv,373,5,gender; position; appointments; students; employers
+position_by_status.csv,430,5,status; position; appointments; students; employers
+position_by_study_end_decade.csv,493,5,study_end_decade; position; appointments; students; employers
+position_by_study_start_decade.csv,510,5,study_start_decade; position; appointments; students; employers
+position_combined_strata.csv,889,8,status; gender; birth_decade; study_start_decade; position; appointments; students; employers
+position_overall.csv,339,4,position; appointments; students; employers
+sankey_individual_bridges.csv,593,4,past_employer; current_employer; NameID; NameFull
+sankey_links.csv,552,6,source; target; weight; individuals; NameIDs; individual_names
+sector_by_Birth_province_py_st.csv,185,5,Birth_province_py_st; sector; appointments; students; employers
+sector_by_birth_decade.csv,71,5,birth_decade; sector; appointments; students; employers
+sector_by_degrees.csv,169,5,degrees; sector; appointments; students; employers
+sector_by_disciplines.csv,325,5,disciplines; sector; appointments; students; employers
+sector_by_education_countries.csv,100,5,education_countries; sector; appointments; students; employers
+sector_by_education_institutions.csv,915,5,education_institutions; sector; appointments; students; employers
+sector_by_education_levels.csv,69,5,education_levels; sector; appointments; students; employers
+sector_by_gender.csv,31,5,gender; sector; appointments; students; employers
+sector_by_position_level.csv,78,5,level; sector; appointments; students; employers
+sector_by_status.csv,41,5,status; sector; appointments; students; employers
+sector_by_study_end_decade.csv,69,5,study_end_decade; sector; appointments; students; employers
+sector_by_study_start_decade.csv,77,5,study_start_decade; sector; appointments; students; employers
+sector_combined_strata.csv,322,8,status; gender; birth_decade; study_start_decade; sector; appointments; students; employers
+sector_overall.csv,17,4,sector; appointments; students; employers
+source_manifest.csv,4,2,file; sha256
+state_corrections.csv,10,3,record_id; province_source; province
+status_by_degrees.csv,63,5,degrees; status; appointments; students; employers
+status_by_disciplines.csv,148,5,disciplines; status; appointments; students; employers
+status_by_education_countries.csv,31,5,education_countries; status; appointments; students; employers
+status_by_education_institutions.csv,494,5,education_institutions; status; appointments; students; employers
+status_by_education_levels.csv,18,5,education_levels; status; appointments; students; employers
+student_coverage_by_Birth_province_py_st.csv,24,5,Birth_province_py_st; students; with_career_record; with_current_record; career_record_coverage_pct
+student_coverage_by_Gender.csv,2,5,Gender; students; with_career_record; with_current_record; career_record_coverage_pct
+student_coverage_by_birth_decade.csv,7,5,birth_decade; students; with_career_record; with_current_record; career_record_coverage_pct
+student_coverage_by_study_start_decade.csv,7,5,study_start_decade; students; with_career_record; with_current_record; career_record_coverage_pct
+students_synthetic.csv,1613,28,NameID; Gender; birth_year; Birth_province_zh_st; Birth_province_py_st; Birth_town_zh; Birth_town_py; study_start; study_end; education_records; education_institutions; degrees; education_levels; disciplines; education_countries; education_gender_values; gender_conflict; birth_decade; study_start_decade; study_end_decade; birth_geocode_status; birth_lat; birth_lon; birth_lookup_ids; birth_lookup_city; birth_coordinate_precision; birth_coordinate_notes; birth_candidate_ids
+summary_metrics.csv,13,2,metric; value
+unmapped_appointments.csv,633,5,record_id; NameID; country; province; city
+unmapped_birth_towns.csv,694,12,NameID; Birth_province_py_st; Birth_town_py; Birth_town_zh; birth_geocode_status; birth_lat; birth_lon; birth_lookup_ids; birth_lookup_city; birth_coordinate_precision; birth_coordinate_notes; birth_candidate_ids
+us_state_counts.csv,35,5,province; appointments; students; employers; matched_boundary
+us_state_counts_unmatched.csv,286,5,record_id; NameID; country; province; city
