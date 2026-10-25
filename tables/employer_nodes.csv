@@ -1,0 +1,761 @@
+﻿employer,degree,degree_centrality,strength,community
+12th Naval District,0,0.0,0,81
+20th Century-Fox Studios,0,0.0,0,82
+25th International Labour Conference,5,0.006587615283267458,5,15
+Academia Sinica,15,0.019762845849802372,18,1
+Acorn Wire & Cable Company,1,0.0013175230566534915,1,4
+Address Investigation Bureau,4,0.005270092226613966,4,1
+Aerojet Engineering Corporation,3,0.003952569169960474,3,14
+Aeronautical Commission,18,0.023715415019762848,18,5
+Aiguang Secondary School,0,0.0,0,83
+Air Force Mechanics School,2,0.002635046113306983,2,5
+Aircraft Screw Brod Company,2,0.002635046113306983,2,23
+Aircraft Structural Development,3,0.003952569169960474,3,3
+Allied Engineers Incorporated,1,0.0013175230566534915,1,42
+Allis-Chalmers Manufacturing Company,2,0.002635046113306983,2,24
+Ambassador Wei Daoming,1,0.0013175230566534915,1,25
+American Accounting Systems,1,0.0013175230566534915,1,43
+American Airlines Incorporated,3,0.003952569169960474,3,8
+American Bureau for Medical Aid to China,4,0.005270092226613966,4,6
+American Gas & Electric Service Corporation,2,0.002635046113306983,2,26
+American Resinous Chemical Corporation,1,0.0013175230566534915,1,10
+American Sheet Metal Company,1,0.0013175230566534915,1,13
+American Volunteer Group (Flying Tigers),1,0.0013175230566534915,1,5
+Amherst College,2,0.002635046113306983,2,3
+Amoy University (Xiamen University),11,0.014492753623188406,11,2
+Ampco Metal Incorporated,0,0.0,0,84
+Anaconda Copper Mining Company,0,0.0,0,85
+Anhui First Girls’ Secondary School,2,0.002635046113306983,2,27
+"Antone Brothers Company, Incorporated",0,0.0,0,86
+Archer-Danials-Midland Vegetable Oil Company,1,0.0013175230566534915,1,44
+Armored Corps Factory,2,0.002635046113306983,2,5
+Army Mechanized School,6,0.007905138339920948,11,5
+Arthur Anderson & Company,4,0.005270092226613966,4,16
+Atlantic Union College,2,0.002635046113306983,2,28
+Atlas Powder Company,0,0.0,0,87
+Aviation Mechanics Monthly,2,0.002635046113306983,2,5
+Aviation Mechanics School,2,0.002635046113306983,2,5
+Babcock & Wilcox Company,2,0.002635046113306983,2,1
+Bacon Laboratory,1,0.0013175230566534915,1,3
+Baldwin Locomotive Works,3,0.003952569169960474,3,19
+Bank of Canton,0,0.0,0,88
+Bank of China,16,0.021080368906455864,17,3
+Bao’an District Court,0,0.0,0,89
+"Bauschlein Company, W.L.",0,0.0,0,90
+"Bechtel Company, W.A.",0,0.0,0,91
+Beijing Coal Depot,3,0.003952569169960474,3,1
+Beijing National Library,2,0.002635046113306983,3,7
+Beijing Normal University,6,0.007905138339920948,6,10
+Beijing-Shanghai Railway,1,0.0013175230566534915,1,45
+Beiping Datong Middle School,1,0.0013175230566534915,1,29
+Beiping Middle School,1,0.0013175230566534915,1,4
+Beiyang Women’s Hospital,1,0.0013175230566534915,1,2
+Bell Telephone Laboratory,1,0.0013175230566534915,1,4
+Bendix Aviation Corporation,2,0.002635046113306983,2,30
+Bethlehem Steel Company,0,0.0,0,92
+Bianhe Road Rolling Stock Division,2,0.002635046113306983,2,4
+Boeing Aircraft Company,0,0.0,0,93
+Boston Children's Hospital,0,0.0,0,94
+Boston City Hospital,1,0.0013175230566534915,1,46
+Bristol Aircraft Corporation,1,0.0013175230566534915,1,47
+British Embassy,4,0.005270092226613966,4,5
+Brown University,1,0.0013175230566534915,1,48
+Bruce Engineering Company,3,0.003952569169960474,3,2
+Bryant Chucking Grinder Company,3,0.003952569169960474,3,5
+"Bugbird & Company, H.C.",1,0.0013175230566534915,1,49
+Burlington County Hospital,0,0.0,0,95
+California Institute of Technology,3,0.003952569169960474,3,2
+California Spray Chemical Company,1,0.0013175230566534915,1,50
+Canton–Hankow Railway,8,0.010540184453227932,8,4
+Capital Power Plant,5,0.006587615283267458,5,17
+"Carbolog Company, Incorporated",0,0.0,0,96
+Carbon & Carbide Chemical Company,0,0.0,0,97
+Carco Products Incorporated,0,0.0,0,98
+Carnegie Corporation,2,0.002635046113306983,2,5
+Carnegie-Illinois Steel,2,0.002635046113306983,2,6
+Central Agricultural Experiment Station,4,0.005270092226613966,5,8
+Central Aircraft Manufacturing Factory,2,0.002635046113306983,2,3
+Central Bank of China,5,0.006587615283267458,5,1
+Central Broadcasting Administration,1,0.0013175230566534915,1,1
+Central Cotton Improvement Institute,2,0.002635046113306983,2,8
+Central Electrical Equipment Works,1,0.0013175230566534915,1,14
+Central Industrial Research Institute,3,0.003952569169960474,3,5
+Central Military Academy,2,0.002635046113306983,2,9
+Central Motors Corporation,3,0.003952569169960474,3,5
+Central News Agency,2,0.002635046113306983,2,25
+Central Political Department,3,0.003952569169960474,3,2
+Central Political School,3,0.003952569169960474,3,1
+Central Radio Works,1,0.0013175230566534915,1,3
+Central Trust of China,4,0.005270092226613966,4,16
+Century Industrial Company,0,0.0,0,99
+Chase National Bank,1,0.0013175230566534915,1,1
+Cheeloo University (Shandong University),12,0.015810276679841896,12,2
+Chekiang Industrial Bank,0,0.0,0,100
+Chengting–Taiyuan Railways,5,0.006587615283267458,5,4
+China Aircraft Corporation,3,0.003952569169960474,3,14
+China Association for Promotion of Commerce & Industry,5,0.006587615283267458,5,1
+China Automobile Manufacturing Company,4,0.005270092226613966,6,5
+China Defense Supplies Corporation,15,0.019762845849802372,17,4
+China Development Finance Corporation,4,0.005270092226613966,5,4
+China Film Enterprise Company,5,0.006587615283267458,5,1
+China Film Studio,3,0.003952569169960474,3,9
+China Food Products Company,2,0.002635046113306983,2,2
+China Industrial Company,0,0.0,0,101
+China Institute in America,11,0.014492753623188406,12,6
+China Institute of Psychological Physiology,1,0.0013175230566534915,1,3
+China Joint Transportation Company,1,0.0013175230566534915,1,4
+China Merchants Steam Navigation Company,4,0.005270092226613966,4,16
+China Monthly,2,0.002635046113306983,2,31
+China Motor Corporation,1,0.0013175230566534915,1,5
+China National Aviation Corporation (CNAC),2,0.002635046113306983,2,1
+China Oriental Trading & Engineering Company,1,0.0013175230566534915,1,10
+China Review Weekly,2,0.002635046113306983,2,4
+China Rural Reconstruction Talent Training Institute,2,0.002635046113306983,2,32
+China Social Education Association,2,0.002635046113306983,2,32
+China Tea Company,7,0.00922266139657444,8,1
+China Transport Company,3,0.003952569169960474,3,8
+Chinese Consulate General in Chicago,3,0.003952569169960474,3,3
+Chinese Consulate General in Havana,3,0.003952569169960474,4,3
+Chinese Consulate General in Honolulu,4,0.005270092226613966,5,3
+Chinese Consulate General in Iowa,2,0.002635046113306983,2,6
+Chinese Consulate General in New York,5,0.006587615283267458,5,6
+Chinese Consulate General in San Francisco,4,0.005270092226613966,4,6
+Chinese Consulate General in Seoul,2,0.002635046113306983,2,1
+Chinese Consulate in Boston,2,0.002635046113306983,2,12
+Chinese Consulate in Houston,8,0.010540184453227932,8,6
+Chinese Consulate in London,3,0.003952569169960474,3,1
+Chinese Consulate in Los Angeles,0,0.0,0,102
+Chinese Consulate in Luanda,3,0.003952569169960474,3,6
+Chinese Consulate in Managua,1,0.0013175230566534915,1,51
+Chinese Consulate in New Orleans,4,0.005270092226613966,5,3
+Chinese Consulate in Portland,6,0.007905138339920948,6,3
+Chinese Consulate in Seattle,5,0.006587615283267458,5,6
+Chinese Delegation for World Cultural Cooperation,4,0.005270092226613966,4,10
+Chinese Embassy in Cuba,1,0.0013175230566534915,1,6
+Chinese Embassy in Italy,1,0.0013175230566534915,1,12
+Chinese Embassy in the United States,2,0.002635046113306983,2,12
+Chinese Legation at Panama,0,0.0,0,103
+Chinese Legation in Germany,2,0.002635046113306983,2,3
+Chinese Ministry of Agriculture and Forestry,0,0.0,0,104
+Chinese Ministry of Communications,26,0.034255599472990776,33,4
+Chinese Ministry of Economic Affairs,11,0.014492753623188406,13,1
+Chinese Ministry of Education,2,0.002635046113306983,2,27
+Chinese Ministry of Finance,8,0.010540184453227932,8,16
+Chinese Ministry of Foreign Affairs,16,0.021080368906455864,17,3
+Chinese Ministry of Industry,11,0.014492753623188406,12,3
+Chinese Ministry of Military Administration,13,0.017127799736495388,21,5
+Chinese Ministry of Propaganda,7,0.00922266139657444,7,1
+Chinese Ministry of Social Affairs,0,0.0,0,105
+Chinese National Government,2,0.002635046113306983,2,3
+Chinese News Service,6,0.007905138339920948,7,6
+Chinese school in San Mateo,1,0.0013175230566534915,1,52
+Chinese-American Weekly,1,0.0013175230566534915,1,6
+Chizhi University,7,0.00922266139657444,7,1
+Chongqing Direct Tax Bureau,2,0.002635046113306983,2,33
+Chongqing Dredging and Maintenance Office,0,0.0,0,106
+Chongqing Girls' Normal High School,0,0.0,0,107
+Chongqing Minkang Industrial Company,2,0.002635046113306983,2,1
+Chongqing Municipal Government,0,0.0,0,108
+Chongqing New Society Daily,3,0.003952569169960474,3,9
+Chongqing Physical Education Promotion Association,1,0.0013175230566534915,1,53
+Chongqing Postal Remittance and Savings Bank,1,0.0013175230566534915,1,54
+Chongqing Sheshu Newspaper,0,0.0,0,109
+Chongqing University,3,0.003952569169960474,3,1
+Christ Church's Orchestra,0,0.0,0,110
+Chrysler Corporation,2,0.002635046113306983,2,2
+Chung Cheng University,0,0.0,0,111
+Church Committee for China Relief,0,0.0,0,112
+Citizens' Foreign Relations Association,1,0.0013175230566534915,1,55
+Columbia University,5,0.006587615283267458,5,6
+Commander-Larabee Milling Company,1,0.0013175230566534915,1,44
+Commercial Counsellor for North America,3,0.003952569169960474,3,1
+Commercial Press,2,0.002635046113306983,2,4
+Committee on Wartime Planning for Chinese Students in the United States,9,0.011857707509881424,9,2
+Common Council for American Unity,1,0.0013175230566534915,1,56
+Cone Automatic Machine Company,4,0.005270092226613966,4,5
+Conference on the Reduction of Armaments,7,0.00922266139657444,7,1
+Conrad O. Hersan Company,2,0.002635046113306983,2,11
+Consolidated Aircraft Corporation,1,0.0013175230566534915,1,5
+Construction Company,2,0.002635046113306983,2,6
+Consulate General in Shanghai [country unspecified],0,0.0,0,113
+Cook County Hospital,0,0.0,0,114
+Cornell University,1,0.0013175230566534915,1,3
+Crucible Steel Corporation,0,0.0,0,115
+Curtiss-Wright Aircraft Corporation,5,0.006587615283267458,5,8
+Dachang Industrial Company,3,0.003952569169960474,3,19
+Dadukou Iron and Steel Works,3,0.003952569169960474,3,17
+Dartmouth College,3,0.003952569169960474,3,2
+David H. Horn Architect,1,0.0013175230566534915,1,57
+Deal Electric Company,2,0.002635046113306983,2,23
+Defense Project,0,0.0,0,116
+Delisser Machine & Tool Company,2,0.002635046113306983,2,30
+Denver Chemical Manufacturing Company,0,0.0,0,117
+Department of Machinery Division,2,0.002635046113306983,2,5
+Department of Military Training,12,0.015810276679841896,27,5
+Detroit Edison Company,2,0.002635046113306983,2,7
+Dinghai Girls’ Secondary School,2,0.002635046113306983,2,27
+Doctor's Hospital (Manhattan),0,0.0,0,118
+Dongbin Railway Administration,3,0.003952569169960474,3,4
+Dorr Company,1,0.0013175230566534915,1,34
+Douglas Aircraft Company,0,0.0,0,119
+Drury & McNamee Shoecraft,2,0.002635046113306983,2,7
+Dry Food Incorporated,1,0.0013175230566534915,1,2
+Duke University,1,0.0013175230566534915,1,4
+"Ebasco Services, Incorporated",0,0.0,0,120
+Economic Commission,7,0.00922266139657444,7,3
+Ely Kahn & Robert Jacobs Architects,1,0.0013175230566534915,1,58
+Emil S. Fischer,2,0.002635046113306983,2,33
+Ethyl Gasoline Corporation,2,0.002635046113306983,2,35
+"Euston Architect, A.F.",1,0.0013175230566534915,1,59
+Executive Yuan,2,0.002635046113306983,2,12
+Far East Religious Association,0,0.0,0,121
+Farmers Bank of China,1,0.0013175230566534915,1,60
+Federal Broadcasting Intelligence Service,2,0.002635046113306983,2,36
+Federal Communication Commission,0,0.0,0,122
+Federal Reserve Bank,0,0.0,0,123
+Federal Telephone & Radio Corporation,2,0.002635046113306983,2,4
+Ferro Enamel Corporation,5,0.006587615283267458,5,4
+Fifth Army,8,0.010540184453227932,14,5
+"Finkel & Finkel, C.P.A.",2,0.002635046113306983,2,1
+Firestone Tire & Rubber Corporation,0,0.0,0,124
+Food & Drug Laboratory of Costa Rica,0,0.0,0,125
+Ford Motor Company,5,0.006587615283267458,5,5
+Foster Wheeler Corporation,0,0.0,0,126
+Francis Engineering Company,1,0.0013175230566534915,1,42
+Franco-Chinese University,1,0.0013175230566534915,1,61
+Frank Wyckoop Company,1,0.0013175230566534915,1,6
+Fred J. Ryan Company,2,0.002635046113306983,2,11
+Free World (Monthly),2,0.002635046113306983,2,29
+Fu Jen Catholic University,4,0.005270092226613966,4,7
+Fuhua Trading Company,1,0.0013175230566534915,1,3
+Fujian Provincial Department of Reconstruction,0,0.0,0,127
+Fujian Provincial Senior Industrial Vocational School,1,0.0013175230566534915,1,2
+Fujian-Zhejiang Highway Transport Office,3,0.003952569169960474,3,4
+Fukien Christian University,3,0.003952569169960474,3,2
+Fuzhou Provincial Secondary School of Home Economics,0,0.0,0,128
+Fu’an Company,3,0.003952569169960474,3,4
+Gansu Petroleum Bureau,4,0.005270092226613966,4,1
+Garod Radio Corporation,0,0.0,0,129
+Garry & Shaffey Company,0,0.0,0,130
+General Bureau of Highway Transport,3,0.003952569169960474,3,4
+General Cable Corporation,1,0.0013175230566534915,1,24
+General Electric Company,7,0.00922266139657444,7,14
+General Transport Headquarters,3,0.003952569169960474,3,4
+Geological Survey,1,0.0013175230566534915,1,1
+George Washington University,0,0.0,0,131
+Georgetown University,1,0.0013175230566534915,1,62
+Giffels & Vallet Incorporated,7,0.00922266139657444,8,7
+Ginling University,2,0.002635046113306983,2,3
+Glenn L. Martin Company,3,0.003952569169960474,3,3
+Gliding Society,1,0.0013175230566534915,1,3
+Gong County Arsenal,3,0.003952569169960474,3,5
+Gongliang School,1,0.0013175230566534915,1,13
+Grace Hospital,0,0.0,0,132
+Grand Central Airport,0,0.0,0,133
+Great China University (Daxia University),2,0.002635046113306983,2,3
+Grunman Aircraft Engineering Corporation,1,0.0013175230566534915,1,5
+Guangdong Department of Reconstruction,3,0.003952569169960474,3,4
+Guangdong Guomin University,0,0.0,0,134
+Guangdong Provincial Government,5,0.006587615283267458,5,9
+Guangxi Agricultural investigator to Honolulu,0,0.0,0,135
+Guangxi Electric Power Plant,3,0.003952569169960474,3,5
+Guangxi Provincial Grain Planning Commission,2,0.002635046113306983,2,1
+Guangxi Student Army,2,0.002635046113306983,2,9
+Guangxi University,0,0.0,0,136
+Guangzhou Daily,3,0.003952569169960474,3,2
+Guangzhou District Court,4,0.005270092226613966,4,2
+Guangzhou Electricity Administration Office,3,0.003952569169960474,3,1
+Guangzhou Hanguang Middle School,0,0.0,0,137
+Guangzhou Municipal Bureau of Engineering,2,0.002635046113306983,2,11
+Guangzhou Municipal First Middle School,3,0.003952569169960474,3,2
+Guangzhou Municipal Telephone Administration,3,0.003952569169960474,3,4
+Guangzhou Pui Ching Middle School,3,0.003952569169960474,3,7
+Guangzhou University,2,0.002635046113306983,2,6
+Guaranty Trust Company,0,0.0,0,138
+Guilin Field Headquarters,2,0.002635046113306983,3,5
+Guizhou Aviation Office,1,0.0013175230566534915,1,63
+Guizhou Reconstruction Office,1,0.0013175230566534915,1,63
+Guomin Daily,9,0.011857707509881424,9,2
+Guomindang,10,0.013175230566534916,10,6
+Haikang County Education Bureau,1,0.0013175230566534915,1,64
+Hangzhou Girls' Middle School,0,0.0,0,139
+Hankow Commodity Inspection Bureau,2,0.002635046113306983,2,1
+"Harmon Foundation, William E.",0,0.0,0,140
+Harrison Gas Works,0,0.0,0,141
+Harvard University,13,0.017127799736495388,15,4
+Harvard-Yenching Institute,4,0.005270092226613966,4,3
+Health Demonstration Center,0,0.0,0,142
+Hebei Provincial Agricultural College,3,0.003952569169960474,3,20
+Hebei Provincial Fisheries Specialized School,1,0.0013175230566534915,1,10
+Hebei Provincial No. 17 Middle School,2,0.002635046113306983,2,37
+Hebei University,3,0.003952569169960474,3,20
+Heilongjiang Gold Mine Prospecting Team,3,0.003952569169960474,3,1
+Henan Provincial Department of Reconstruction,2,0.002635046113306983,2,26
+Hengtong Chemical Company,1,0.0013175230566534915,1,61
+Henry Street Visiting Nurse Service,0,0.0,0,143
+Hermann Biggs Memorial Hospital,0,0.0,0,144
+Hermans & Simon Architecture,1,0.0013175230566534915,1,57
+Heyuan Procasa Company,2,0.002635046113306983,2,9
+Higgins Industries Incoporated,0,0.0,0,145
+High Standard Manufacturing Company,3,0.003952569169960474,3,8
+Historical Annal,2,0.002635046113306983,2,7
+Holabird & Root Company,1,0.0013175230566534915,1,34
+Holley Carburetor Company,2,0.002635046113306983,2,5
+Home Insurance Company,0,0.0,0,146
+Hong Kong Commercial Daily,2,0.002635046113306983,2,38
+Hong Kong Pui Ching Middle School,1,0.0013175230566534915,1,7
+Houdalle-Hershey Corporation,0,0.0,0,147
+Houde Engineering Company,0,0.0,0,148
+Howard Hughes Aircraft Company,0,0.0,0,149
+Hsiangya (Hunan-Yale) Medical College,1,0.0013175230566534915,1,3
+Huacheng Electric Motor Manufacturing Works,3,0.003952569169960474,3,1
+Huai'an Middle School,2,0.002635046113306983,2,3
+Huanghai Chemical Industry Research Institute,0,0.0,0,150
+Huanqiu Paper Mill,0,0.0,0,151
+Huasheng Electrical Appliance Manufacturing Works,2,0.002635046113306983,2,1
+Huawen Secondary School,0,0.0,0,152
+Huaying Girls’ Secondary School,0,0.0,0,153
+Huazhong University,1,0.0013175230566534915,1,48
+Hubei Provincial Direct Tax Bureau,2,0.002635046113306983,2,33
+Hudson Coal Company,1,0.0013175230566534915,1,21
+Hunan University,1,0.0013175230566534915,1,2
+Hunan-Guangxi Railway,0,0.0,0,154
+"Hutton & Company, E.F.",1,0.0013175230566534915,1,65
+Hwa Nan Academy,1,0.0013175230566534915,1,56
+Illinois Institute of Technology,3,0.003952569169960474,3,11
+"Imco Company, The",0,0.0,0,155
+Industry Incorporated,2,0.002635046113306983,2,39
+Inland Steel Company,0,0.0,0,156
+Institute For Juvenile Research,0,0.0,0,157
+Institute for National Survey Research,2,0.002635046113306983,2,3
+Institute for the Ideological Education of Overseas Chinese,3,0.003952569169960474,3,10
+Institute of Pacific Relations,0,0.0,0,158
+International Business Machine Corporation,0,0.0,0,159
+International Red Cross,0,0.0,0,160
+International Standard Electric Company,1,0.0013175230566534915,1,4
+Iowa State College,4,0.005270092226613966,4,2
+Irving Trust Company New York,3,0.003952569169960474,3,3
+Irvington Varnish Insolator Company,1,0.0013175230566534915,1,18
+Jacques Wolf & Company,1,0.0013175230566534915,1,49
+James Stewart Corporation,2,0.002635046113306983,2,34
+Jersey City Medical Center,1,0.0013175230566534915,1,66
+Jianghan Bureau,4,0.005270092226613966,4,16
+Jiangnan Cement Company,2,0.002635046113306983,2,1
+Jiangsu Bureau of Entomology,2,0.002635046113306983,2,8
+Jiangsu Department of Reconstruction,2,0.002635046113306983,2,39
+Jiangsu Huaihe River Diversion Project Office,2,0.002635046113306983,2,9
+Jiangsu Provincial Changzhou Middle School,1,0.0013175230566534915,1,3
+Jiangsu Provincial College of Education,2,0.002635046113306983,2,32
+Jiangsu Provincial Farmers Bank,1,0.0013175230566534915,1,6
+Jiangsu Provincial Popular Education College,2,0.002635046113306983,2,1
+Jiangsu Wuxian Red Cross Society,5,0.006587615283267458,5,15
+Jianguo Secondary School,0,0.0,0,161
+Jiangxi Highway Bureau,3,0.003952569169960474,3,5
+Jiangxi Provincial Popular Education Center,1,0.0013175230566534915,1,67
+Jiangxi Provincial Travelling Educational Film Unit,1,0.0013175230566534915,1,67
+Jiangxi Provincial Women’s Guidance Office,1,0.0013175230566534915,1,7
+Jiaotong University,29,0.038208168642951255,31,1
+Jing River Commission,2,0.002635046113306983,2,40
+Jinjiang Daily,3,0.003952569169960474,3,9
+Jiujiang Coal Administration Office,3,0.003952569169960474,3,1
+John B. Fischer Architect,1,0.0013175230566534915,1,68
+John Hopkins University,1,0.0013175230566534915,1,7
+Jones & Lamson Machine Company,4,0.005270092226613966,4,11
+"Joseph E. Seagran & Sons, Incorporated",2,0.002635046113306983,2,7
+K.C.F. Food Products Laboratory,1,0.0013175230566534915,1,52
+Kailan Mining Administration,2,0.002635046113306983,2,7
+Kaiser Shipbuilding Corporation,7,0.00922266139657444,8,13
+Kansas City Power & Light Company,0,0.0,0,162
+"Kellogg Company, M.W.",6,0.007905138339920948,6,4
+Kiaochow–Tsinan Railway Administration,3,0.003952569169960474,3,19
+Kodak Research Laboratory,0,0.0,0,163
+Kofa American Drug Company,1,0.0013175230566534915,1,5
+Koppers Company,2,0.002635046113306983,2,26
+"Kump Company, E.S.",0,0.0,0,164
+Kunming Broadcasting Station,0,0.0,0,165
+Kunming Central Electrical Equipment Factory,2,0.002635046113306983,2,41
+Kunming Direct Tax Bureau,0,0.0,0,166
+Kunming Huayi Trading Company,3,0.003952569169960474,3,8
+Kwang Hua University,2,0.002635046113306983,2,2
+Lanzhou Power Plant,2,0.002635046113306983,2,17
+League of Nations,1,0.0013175230566534915,1,29
+Lederle Laboratories Incorporated,5,0.006587615283267458,5,15
+Lee Engineering Company,5,0.006587615283267458,5,5
+Legislative Yuan,12,0.015810276679841896,12,1
+Liberty Tool & Cage Incoporation,0,0.0,0,167
+Library of Congress,6,0.007905138339920948,7,7
+Lingnan University,19,0.02503293807641634,22,2
+Liongsin Press,1,0.0013175230566534915,1,8
+Liuhegou Ironworks,2,0.002635046113306983,2,1
+"Longhua Cement Works, Shanghai",2,0.002635046113306983,2,41
+"Lorec Architect, D.D.",1,0.0013175230566534915,1,59
+Los Angeles County General Hospital,0,0.0,0,168
+"Louis Allis Company, The",1,0.0013175230566534915,1,5
+Louisiana Sugar Factory,2,0.002635046113306983,2,1
+Luke Field,0,0.0,0,169
+Lummus Company,3,0.003952569169960474,4,1
+Luotian County Finance Bureau,4,0.005270092226613966,4,16
+Machine & Tool Design Company,0,0.0,0,170
+Madison College,2,0.002635046113306983,2,28
+Mahony-Troast Construction Company,0,0.0,0,171
+"Marmon-Herrington Company, Incorporated",0,0.0,0,172
+Mary's Hospital,0,0.0,0,173
+Massachusetts General Hospital,0,0.0,0,174
+Massachusetts Institute of Technology,10,0.013175230566534916,10,3
+Materials Testing Division,3,0.003952569169960474,3,1
+Matlock & Campell Mechanical,1,0.0013175230566534915,1,58
+May Chemical Company,1,0.0013175230566534915,1,22
+Mayers' Aircraft Corporation,1,0.0013175230566534915,1,2
+McQuay Norris Manufacturing Company,0,0.0,0,175
+McTyeire School for Girls,2,0.002635046113306983,2,3
+Merck & Company,7,0.00922266139657444,7,5
+Merrimack Manufacturing Company,0,0.0,0,176
+Methodist Church,1,0.0013175230566534915,1,2
+Mexico Refractories Company,5,0.006587615283267458,5,4
+Micamold Radio Corporation,2,0.002635046113306983,2,35
+Michigan Agricultural Experiment Station,2,0.002635046113306983,2,28
+Michigan State College,0,0.0,0,177
+Military Affairs Commission,11,0.014492753623188406,11,9
+Military Operations Department,1,0.0013175230566534915,1,69
+Mills College,2,0.002635046113306983,2,38
+Mingda Company,2,0.002635046113306983,2,41
+Minguo University (Beijing),0,0.0,0,178
+Ministry of Posts and Communications,0,0.0,0,179
+Minnesota Agricultural Experiment Station,2,0.002635046113306983,2,8
+Minqi Daily,9,0.011857707509881424,9,6
+Minsheng Industrial Company,5,0.006587615283267458,5,3
+Mississippi River Commission,4,0.005270092226613966,4,4
+Mississippi Valley Structural Company,1,0.0013175230566534915,1,68
+Models & Patents Corporation,2,0.002635046113306983,2,23
+Moore Dry Dock Company,0,0.0,0,180
+Mount Morris Tuberculosis Hospital,1,0.0013175230566534915,1,46
+Municipal Government,1,0.0013175230566534915,1,70
+Murray Iron Works Company,1,0.0013175230566534915,1,24
+Mutai Engineering Office,1,0.0013175230566534915,1,7
+Nanjing General Headquarters,2,0.002635046113306983,2,5
+Nanjing Higher Police Officers Academy,1,0.0013175230566534915,1,2
+Nankai Institute of Economics,1,0.0013175230566534915,1,1
+Nankai University,13,0.017127799736495388,14,4
+Nankai University Journal,3,0.003952569169960474,3,6
+Nankou Locomotive Works,1,0.0013175230566534915,1,4
+"Nanning District Court, Guangxi",1,0.0013175230566534915,1,64
+National Bank of Detroit,1,0.0013175230566534915,1,7
+National Bureau of Economic Research,1,0.0013175230566534915,1,3
+National Central University,23,0.030303030303030304,25,1
+National City Bank of New York,0,0.0,0,181
+National Conservatory of Music,1,0.0013175230566534915,1,1
+National Construction Commission,4,0.005270092226613966,6,1
+National Daily Special Edition,6,0.007905138339920948,6,6
+National Defense Planning Commission,5,0.006587615283267458,5,1
+National Diplomacy Association,2,0.002635046113306983,2,3
+National Diplomacy Monthly,2,0.002635046113306983,2,3
+National General Mobilization Council,1,0.0013175230566534915,1,12
+National Geophysical Company,0,0.0,0,182
+National Guangdong College of Law,4,0.005270092226613966,4,2
+National Gypsim Company,3,0.003952569169960474,3,3
+National Paint & Varnish Company,0,0.0,0,183
+"National Reconditioning Company, Incorporated",3,0.003952569169960474,3,18
+National Refractories Company,5,0.006587615283267458,5,4
+National Resources Commission,58,0.07641633728590251,68,1
+National Rice and Wheat Improvement Institute,1,0.0013175230566534915,1,8
+National Southeastern University,7,0.00922266139657444,7,1
+National Southwestern Associated University,6,0.007905138339920948,10,3
+National Tariff Commission,3,0.003952569169960474,3,1
+New England Aircraft School,1,0.0013175230566534915,1,4
+New Republic Chinese Daily,1,0.0013175230566534915,1,71
+New York Central Railroad Company,1,0.0013175230566534915,1,5
+New York Central System,0,0.0,0,184
+New York City Chemical Corporation,2,0.002635046113306983,2,9
+New York Commercial News,1,0.0013175230566534915,1,9
+New York Infirmary Hospital,1,0.0013175230566534915,1,66
+New York Memorial Hospital,0,0.0,0,185
+New York Public Library,0,0.0,0,186
+New York State Agricultural Experiment Station,0,0.0,0,187
+New York State Department of Health,0,0.0,0,188
+New York Stock Exchange,1,0.0013175230566534915,1,65
+North China River Conservancy Commission,1,0.0013175230566534915,1,40
+Northeast Air Lines,1,0.0013175230566534915,1,72
+Northeastern (Dongbei) University,6,0.007905138339920948,6,1
+Northeastern University,0,0.0,0,189
+Northern Pacific Railroad Company,1,0.0013175230566534915,1,73
+Northern Yunnan Mining Bureau,3,0.003952569169960474,3,1
+Northwestern University,1,0.0013175230566534915,1,2
+Office of Censorship,0,0.0,0,190
+Office of Emergency Man,0,0.0,0,191
+Office of Scientific Research & Development,1,0.0013175230566534915,1,4
+Office of Strategic Service,0,0.0,0,192
+Office of the Deputy Chief of the General Staff,2,0.002635046113306983,2,5
+Office of the United States Army Attaché,2,0.002635046113306983,2,9
+Office of the United States Commercial Counsellor,0,0.0,0,193
+Office of the United States Naval Attaché,0,0.0,0,194
+Ohio Division of Social Administration,2,0.002635046113306983,2,7
+Ohio State University,2,0.002635046113306983,2,7
+Ohio Wesleyan University Library,0,0.0,0,195
+Opium Suppression Commissioner,5,0.006587615283267458,5,15
+Ordnance Specialized School,3,0.003952569169960474,3,1
+Oregon Shipbuilding Corporation,2,0.002635046113306983,2,14
+Oregon State College,6,0.007905138339920948,6,2
+Ottawa Consultate,0,0.0,0,196
+Overseas Chinese Affairs Commission,6,0.007905138339920948,6,6
+Overseas Chinese School,3,0.003952569169960474,3,6
+Pacific News Agency,4,0.005270092226613966,4,2
+Pacification Commissioner of Mangshi,1,0.0013175230566534915,1,55
+Pan-American Airways System,0,0.0,0,197
+Park College,1,0.0013175230566534915,1,12
+Peiping Academy,2,0.002635046113306983,2,2
+Peiping Municipal Psychiatric Hospital,1,0.0013175230566534915,1,7
+Peiping Specialized School of Finance and Commerce,1,0.0013175230566534915,1,74
+Peiping–Mukden Railway,7,0.00922266139657444,8,4
+Peiping–Suiyuan Railway,5,0.006587615283267458,5,4
+Peiyang University,2,0.002635046113306983,2,1
+Peizhi Middle School,1,0.0013175230566534915,1,75
+Peking Union Medical College (PUMC),7,0.00922266139657444,7,7
+Peking University,12,0.015810276679841896,14,2
+Pennsylvania Railroad,1,0.0013175230566534915,1,4
+People's Daily (New York),6,0.007905138339920948,6,6
+People's Political Council,7,0.00922266139657444,8,1
+"Perdon Wright Law Office, J.",0,0.0,0,198
+Philadelphia Public Schools,1,0.0013175230566534915,1,76
+Philco Corporation,2,0.002635046113306983,2,8
+Pillsbury's Flour Mills Company,1,0.0013175230566534915,1,54
+Political Critic,0,0.0,0,199
+Pomona College,3,0.003952569169960474,3,2
+Pontiac Motor Corporation,0,0.0,0,200
+Power Fuel Plant,4,0.005270092226613966,4,1
+Primary School,1,0.0013175230566534915,1,77
+Princeton Institute for Advanced Study,2,0.002635046113306983,2,37
+Princeton University,2,0.002635046113306983,2,2
+Professional Pharmacy,2,0.002635046113306983,2,5
+Providence College,1,0.0013175230566534915,1,62
+Publicker Commercial Alcohol Company,1,0.0013175230566534915,1,2
+Puget Sound Navy Yard,3,0.003952569169960474,3,22
+Pullman Car Manufacturing Company,2,0.002635046113306983,2,7
+Purdue University,2,0.002635046113306983,2,1
+Qingdao Railway,1,0.0013175230566534915,1,77
+Qiuzhi Middle School,2,0.002635046113306983,2,21
+Qixin Foreign Trading Company,2,0.002635046113306983,2,1
+"R.L.A. Laboratories, Incorporated",0,0.0,0,201
+Radio Corporation of America (RCA),3,0.003952569169960474,3,2
+Rangqin University (SoengKen University of Canton),2,0.002635046113306983,2,11
+Reece Button-Hole Company,0,0.0,0,202
+Reed & Carnrick Company,1,0.0013175230566534915,1,7
+Republic Aviation Corporation,7,0.00922266139657444,7,8
+Republic Steel Mill,1,0.0013175230566534915,1,18
+Richmond Gard #2,0,0.0,0,203
+Riskin & Feer Architect,0,0.0,0,204
+Riverside Nursery School,1,0.0013175230566534915,1,21
+Rockefeller Foundation,1,0.0013175230566534915,1,6
+Rola Company,0,0.0,0,205
+Royal Netherlands Navy,1,0.0013175230566534915,1,78
+Rural Financial Society,2,0.002635046113306983,2,6
+Rural Reconstruction Association,1,0.0013175230566534915,1,79
+Rural Reconstruction Talent Training Institute,0,0.0,0,206
+Rust Engineering Company,3,0.003952569169960474,3,11
+Sacred Heart Hospital,2,0.002635046113306983,2,5
+San Francisco Baptist Secondary School,2,0.002635046113306983,2,22
+Sanbei Company,1,0.0013175230566534915,1,78
+Sanderson & Porter,3,0.003952569169960474,3,2
+Seattle School of Economics,3,0.003952569169960474,3,13
+Shaanxi Department of Education,2,0.002635046113306983,2,4
+Shaanxi Provincial First Vocational School,2,0.002635046113306983,2,4
+Shandong First Provincial Middle School,2,0.002635046113306983,2,37
+Shanghai Girls' Middle School,0,0.0,0,207
+Shanghai Huahua Middle School,1,0.0013175230566534915,1,1
+Shanghai Medical College,2,0.002635046113306983,2,7
+Shanghai Municipal Council,1,0.0013175230566534915,1,1
+Shanghai Municipal Council Girls' Middle School,2,0.002635046113306983,2,3
+Shanghai Power Company,5,0.006587615283267458,5,1
+Shanghai Ta Kung Pao,3,0.003952569169960474,3,6
+Shanghai Wuben Girls' High School,0,0.0,0,208
+Shanghai-Hangzhou-Ningbo Railway,1,0.0013175230566534915,1,45
+Shantou Post Office,0,0.0,0,209
+Shunde Sugar Refinery,0,0.0,0,210
+Sichuan Nanchong Provincial Middle School,2,0.002635046113306983,2,3
+Sichuan Oil Works,3,0.003952569169960474,3,1
+Sichuan Provincial Geological Survey,1,0.0013175230566534915,1,40
+Sichuan Provincial Government Planning Commission,1,0.0013175230566534915,1,74
+Sichuan Sanjiang County Middle School,2,0.002635046113306983,2,3
+Sichuan Secondary School Teachers' Summer Training Class,1,0.0013175230566534915,1,1
+Sichuan University,5,0.006587615283267458,5,3
+"Sin Hua Trust, Savings & Commercial Bank",2,0.002635046113306983,2,3
+Sino-American Cultural Association,5,0.006587615283267458,5,1
+Sino-American Daily,2,0.002635046113306983,2,36
+Sino-American News Agency,2,0.002635046113306983,2,2
+Sino-French Foundation Commission,1,0.0013175230566534915,1,10
+Smith College,2,0.002635046113306983,2,2
+Social Welfare (Yishibao),2,0.002635046113306983,2,31
+Social Welfare Service Department,2,0.002635046113306983,2,31
+Socony-Vacuum Oil Company Incorporated,1,0.0013175230566534915,1,80
+Songjiang Guangzheng Middle School,0,0.0,0,211
+Soochow University,4,0.005270092226613966,4,3
+Southern Gansu Petroleum Bureau,4,0.005270092226613966,4,1
+Southern Pacific Railway Company,0,0.0,0,212
+Southern University,7,0.00922266139657444,7,1
+Southwestern Highway,2,0.002635046113306983,2,4
+Sparks-Withington Company,0,0.0,0,213
+Specialized School of Taxation,2,0.002635046113306983,2,2
+Sperry Gyroscope Research Laboratory,0,0.0,0,214
+St. Francis Hospital,0,0.0,0,215
+St. John’s University,2,0.002635046113306983,2,3
+St. Louis Ordnance Plant,0,0.0,0,216
+St. Luke Hospital,0,0.0,0,217
+St. Paul's College,0,0.0,0,218
+Standard Oil Company of New York,0,0.0,0,219
+Standard Oil Development Company,0,0.0,0,220
+Stanford University,2,0.002635046113306983,2,10
+State of California Division of Highway,2,0.002635046113306983,2,22
+State of Connecticut,1,0.0013175230566534915,1,7
+Steel Company of Canada,1,0.0013175230566534915,1,5
+Sterling Engineering & Manufacturing Company,2,0.002635046113306983,2,39
+Stinson Aircraft Corporation,3,0.003952569169960474,3,2
+Stone & Webster Engineering Corporation,2,0.002635046113306983,2,4
+Stran Steel Corporation,0,0.0,0,221
+Studebaker Corporation,2,0.002635046113306983,2,11
+Sun Yat-sen University,18,0.023715415019762848,18,2
+Sundstrand Machine Tool Company,0,0.0,0,222
+Swiss Legation,1,0.0013175230566534915,1,12
+Swiss-American Gear Corporation,0,0.0,0,223
+Sylvanin Electric Product Incorporated,0,0.0,0,224
+Syracuse University,1,0.0013175230566534915,1,4
+Tacomy Engineering Company,5,0.006587615283267458,5,3
+"Taishan County Secondary School, Guangdong",3,0.003952569169960474,3,13
+"Taohua Datong Company, Amoy",1,0.0013175230566534915,1,2
+Tax Police Corps,1,0.0013175230566534915,1,53
+Tennessee Valley Authority,4,0.005270092226613966,4,4
+Texas Company,2,0.002635046113306983,2,35
+The City College of New York,3,0.003952569169960474,3,10
+Third Fleet,1,0.0013175230566534915,1,69
+Three Principles of the People Youth Corps,1,0.0013175230566534915,1,3
+Thunderbird Field,1,0.0013175230566534915,1,8
+Tianjin French-Chinese College,4,0.005270092226613966,4,3
+Tianjin Institute of Commerce and Industry,3,0.003952569169960474,3,7
+Tianshenggang Power Plant,3,0.003952569169960474,3,17
+Tientsin–Pukow Railway,6,0.007905138339920948,7,4
+Trico Products Corporation,0,0.0,0,225
+Tsinghua Mechanized Training School,1,0.0013175230566534915,1,11
+Tsinghua University,28,0.03689064558629776,33,3
+Twelfth Infantry Division,2,0.002635046113306983,2,9
+Union Audit Bureau,1,0.0013175230566534915,1,43
+United Arts Dental Laboratory,0,0.0,0,226
+United China Relief,1,0.0013175230566534915,1,51
+United Nations,1,0.0013175230566534915,1,25
+United Nations Relief and Rehabilitation Administration,0,0.0,0,227
+United States Agriculture Western Regional Laboratory,1,0.0013175230566534915,1,50
+United States Air Corporation,1,0.0013175230566534915,1,72
+United States Army,4,0.005270092226613966,5,7
+United States Bureau Of Mines,0,0.0,0,228
+United States Bureau of Census,0,0.0,0,229
+United States Department of Agriculture,3,0.003952569169960474,3,20
+United States Department of Interior,5,0.006587615283267458,5,2
+United States Department of Labor,0,0.0,0,230
+United States Department of State,2,0.002635046113306983,2,2
+United States Department of War,6,0.007905138339920948,6,6
+United States Educational Mission,1,0.0013175230566534915,1,1
+United States Embassy,11,0.014492753623188406,11,12
+United States Military Mission,5,0.006587615283267458,5,9
+United States Naval Liaison Staff Office,0,0.0,0,231
+United States Navy,4,0.005270092226613966,4,4
+United States Nitrate Plant 02,0,0.0,0,232
+United States Office of War Information,3,0.003952569169960474,3,5
+United States Plywood Corporation,3,0.003952569169960474,3,3
+United States Steel Export Company,2,0.002635046113306983,2,18
+United States Treasury Department,1,0.0013175230566534915,1,70
+United States Waterways Experiment Station,4,0.005270092226613966,4,4
+Universal Camera Corporation,2,0.002635046113306983,2,30
+Universal Radio,1,0.0013175230566534915,1,2
+Universal Trading Corporation,38,0.05006587615283268,40,4
+University of Arkansas,3,0.003952569169960474,3,2
+University of California,13,0.017127799736495388,13,2
+University of Chicago,13,0.017127799736495388,13,7
+University of Colorado,1,0.0013175230566534915,1,2
+University of Hawaii,5,0.006587615283267458,6,2
+University of Illinois,4,0.005270092226613966,4,20
+University of Michigan,14,0.01844532279314888,14,2
+University of Minnesota,14,0.01844532279314888,15,8
+University of Nanking (Ginling University),6,0.007905138339920948,6,2
+University of Notre Dame,3,0.003952569169960474,3,11
+University of Oregon,2,0.002635046113306983,2,13
+University of Pennsylvania,3,0.003952569169960474,3,8
+University of Pittsburgh,3,0.003952569169960474,3,1
+University of Shanghai,6,0.007905138339920948,6,1
+University of South California,0,0.0,0,233
+University of Southern California,3,0.003952569169960474,3,1
+University of Washington,0,0.0,0,234
+University of Wisconsin,0,0.0,0,235
+Utah Copper Company,0,0.0,0,236
+Utopia University (Datong University),0,0.0,0,237
+Vanderbilt University,0,0.0,0,238
+Victor Chemical Works,0,0.0,0,239
+Vidal Research Corporation,1,0.0013175230566534915,1,47
+Virginia Hospital Medical College,0,0.0,0,240
+Vought-Sikorsky Aircraft Company,3,0.003952569169960474,3,14
+"Vultee Aircraft, Incorporated",1,0.0013175230566534915,1,2
+Wah Chang Trading Corporation,2,0.002635046113306983,2,21
+Wally Timm Company,0,0.0,0,241
+"Warren Company, S.D.",0,0.0,0,242
+Washington Pump & Machinery Company,1,0.0013175230566534915,1,14
+Wayland Academy (Hangzhou Huilan Middle School),1,0.0013175230566534915,1,2
+Weihaiwei Administrative Office,2,0.002635046113306983,2,12
+Wells Fargo Bank & Union Trust Company,3,0.003952569169960474,3,3
+Wenshang County Government,1,0.0013175230566534915,1,79
+West China Union University,3,0.003952569169960474,3,10
+Western Electric Company,0,0.0,0,243
+Western Yunnan Railway,0,0.0,0,244
+Westinghouse Electric Manufacturing Company,2,0.002635046113306983,2,18
+Whampoa Military Academy,4,0.005270092226613966,4,2
+"White Engineering Corporation, J.G.",1,0.0013175230566534915,1,73
+Willamette Iron & Steel Works,3,0.003952569169960474,4,13
+Wilputte Coke Oven Company,3,0.003952569169960474,3,2
+World Book Company,1,0.0013175230566534915,1,1
+Wu County Hospital,5,0.006587615283267458,5,15
+Wu County Opium Rehabilitation Centre,5,0.006587615283267458,5,15
+Wuhan Daily,4,0.005270092226613966,4,2
+Wuhan University,7,0.00922266139657444,7,1
+Wuhu County Education Bureau,0,0.0,0,245
+Wuzhou Municipal Education Bureau,1,0.0013175230566534915,1,9
+Xiamen Municipal Government,0,0.0,0,246
+Xiang-Gui Railway Assistant Engineering Office,3,0.003952569169960474,3,4
+Xinjiang Provincial Capital,3,0.003952569169960474,3,2
+"Xinyi Pharmaceutical Works, Shanghai",1,0.0013175230566534915,1,80
+Xi’an Field Headquarters,3,0.003952569169960474,3,2
+Yale University,2,0.002635046113306983,2,3
+Yellow River Commission,4,0.005270092226613966,4,4
+Yenching University,25,0.03293807641633729,26,3
+Yien Yieh Commercial Bank,0,0.0,0,247
+"Yingguang Secondary School, Canton",1,0.0013175230566534915,1,3
+Yongli Chemical Industry Co.,0,0.0,0,248
+Yongtai Company,3,0.003952569169960474,3,19
+York Aircraft Corporation,3,0.003952569169960474,3,8
+Young China Morning News,1,0.0013175230566534915,1,71
+Young Men’s Christian Association (YMCA),0,0.0,0,249
+Young Women's Christian Association (YWCA),0,0.0,0,250
+Yuantailin Transport Company,2,0.002635046113306983,2,36
+"Yufeng Cotton-Spinning Mill, Henan",3,0.003952569169960474,3,17
+Yuhua Enterprise Finance Company,0,0.0,0,251
+"Yumei Secondary School, Taishan",1,0.0013175230566534915,1,3
+Yungli Chemical Industries Limited,0,0.0,0,252
+Yunnan First Provincial Middle School,3,0.003952569169960474,3,6
+Yunnan Investigation & Design Commission,1,0.0013175230566534915,1,60
+Yunnan Provincial Economic Commission,2,0.002635046113306983,2,3
+Yunnan University,1,0.0013175230566534915,1,3
+Yunnan-Guangxi Railway,3,0.003952569169960474,3,4
+Yunnan–Burma Railway,7,0.00922266139657444,7,5
+Zhejiang Bureau of Entomology,2,0.002635046113306983,2,8
+Zhejiang Provincial Hangzhou Normal School,2,0.002635046113306983,2,1
+Zhejiang Provincial Senior High School,2,0.002635046113306983,2,4
+Zhejiang University,16,0.021080368906455864,20,1
+Zhejiang-Jiangxi Railway Administration,0,0.0,0,253
+Zhengtai Railway Engineering Office,1,0.0013175230566534915,1,1
+Zhenjiang Dazhao Electric Light & Power Company,1,0.0013175230566534915,1,1
+Zhongfu Coal Mining Company,3,0.003952569169960474,3,1
+Zhonghua Girls' Middle School,0,0.0,0,254
+Zhonghua Middle School (San Francisco),1,0.0013175230566534915,1,5
+Zhonghua News Agency,8,0.010540184453227932,8,2
+Zhonghua School (Chicago),2,0.002635046113306983,2,6
+Zhonghua School (Seattle),2,0.002635046113306983,2,13
+Zhonghua School [Provincial],1,0.0013175230566534915,1,75
+Zhongshan Middle School,2,0.002635046113306983,2,38
+Zhongxiao Bank,1,0.0013175230566534915,1,3
+Zhoushan Secondary School,1,0.0013175230566534915,1,76
+Ziliujing Power Plant,3,0.003952569169960474,3,1
+lowa Agricultural Experiment Station,0,0.0,0,255

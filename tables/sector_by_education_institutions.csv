@@ -1,0 +1,916 @@
+﻿education_institutions,sector,appointments,students,employers
+Yenching University,Academic / education,87,53,44
+Tsinghua University,Academic / education,63,44,22
+University of Michigan,Academic / education,60,40,32
+Jiaotong University,Government / public administration,53,36,13
+Columbia University,Academic / education,46,30,30
+Harvard University,Academic / education,40,24,17
+University of Chicago,Academic / education,38,20,25
+Massachusetts Institute of Technology,Academic / education,33,26,13
+University of California,Academic / education,33,21,22
+Jiaotong University,Industry / manufacturing / extraction,33,25,24
+Columbia University,Government / public administration,31,24,23
+Jiaotong University,Academic / education,30,24,15
+Massachusetts Institute of Technology,Government / public administration,29,22,8
+Jiaotong University,Transport / utilities / communications,29,19,22
+Massachusetts Institute of Technology,Industry / manufacturing / extraction,27,23,24
+Tsinghua University,Government / public administration,24,19,17
+Lingnan University,Academic / education,24,12,14
+University of Minnesota,Academic / education,23,17,14
+Purdue University,Industry / manufacturing / extraction,23,17,18
+University of Michigan,Industry / manufacturing / extraction,23,19,22
+Shanghai University,Academic / education,22,13,19
+Central University,Academic / education,21,12,16
+Central Army Military Academy,Military / defense,21,16,9
+University of Michigan,Professional services,20,16,8
+New York University,Finance / banking / insurance,20,19,6
+Jiaotong University,Military / defense,20,13,9
+New York University,Government / public administration,19,16,16
+University of Southern California,Academic / education,19,12,12
+Beijing University,Academic / education,19,15,13
+Yenching University,Government / public administration,19,19,14
+Jinling University,Academic / education,19,16,11
+University of Chicago,Government / public administration,19,13,18
+Harvard University,Government / public administration,16,13,13
+Southeast University,Academic / education,15,10,11
+Tsinghua University,Military / defense,15,8,7
+Columbia University,Non-state / nonprofit organization,15,12,11
+University of Illinois,Government / public administration,15,9,10
+Zhongshan University,Academic / education,15,9,12
+University of Illinois,Academic / education,15,10,9
+New York University,Academic / education,14,8,14
+Cornell University,Academic / education,14,8,13
+University of Michigan,Government / public administration,14,12,9
+St. John's University,Government / public administration,14,10,11
+California Institute of Technology,Academic / education,13,11,7
+University of Pennsylvania,Academic / education,13,8,12
+Purdue University,Business / commerce,13,11,12
+University of Toronto,Academic / education,13,9,7
+Tsinghua University,Industry / manufacturing / extraction,13,12,12
+New York University,Industry / manufacturing / extraction,13,10,12
+Shanghai University,Government / public administration,13,8,10
+Beijing University,Government / public administration,13,9,12
+Central University,Government / public administration,13,11,9
+Stanford University,Academic / education,12,9,9
+Peking Union Medical College,Academic / education,12,7,7
+Yenching University,Industry / manufacturing / extraction,12,9,12
+Fudan University,Government / public administration,11,8,10
+Columbia University,Media / publishing / entertainment,11,10,10
+Beiyang University,Government / public administration,11,6,7
+Ginling College,Academic / education,11,7,11
+California Institute of Technology,Industry / manufacturing / extraction,11,7,10
+State University of Iowa,Academic / education,11,7,8
+Massachusetts Institute of Technology,Military / defense,10,9,6
+Cambridge University,Academic / education,10,5,8
+University of California,Industry / manufacturing / extraction,10,10,8
+Fujian Union University,Academic / education,10,6,4
+Columbia University,Business / commerce,10,10,7
+University of London,Academic / education,10,6,6
+Massachusetts Institute of Technology,Business / commerce,10,9,9
+Oregon State College,Academic / education,9,7,5
+Central University,Military / defense,9,5,2
+Jinling University,Government / public administration,9,6,8
+University of California,Government / public administration,9,9,8
+University of Michigan,Transport / utilities / communications,9,8,7
+University of London,Government / public administration,9,7,7
+University of Illinois,Transport / utilities / communications,9,6,8
+Edinburgh University,Academic / education,8,3,7
+Yenching University,Finance / banking / insurance,8,8,4
+Harvard University,Industry / manufacturing / extraction,8,8,7
+Columbia University,Industry / manufacturing / extraction,8,8,8
+Lingnan University,Industry / manufacturing / extraction,8,6,8
+Princeton University,Academic / education,8,5,8
+Purdue University,Government / public administration,8,8,2
+St. John's University,Professional services,8,7,4
+Southeast University,Government / public administration,8,5,8
+Xiamen University,Academic / education,8,3,6
+St. John's University,Industry / manufacturing / extraction,8,7,8
+University of Michigan,Finance / banking / insurance,8,8,3
+University of Michigan,Business / commerce,8,8,7
+Jiaotong University,Business / commerce,8,7,7
+University of Wisconsin,Academic / education,8,5,7
+University of Illinois,Professional services,8,8,7
+Jinling University,Research institutions,7,5,6
+Columbia University,Finance / banking / insurance,7,7,4
+Lingnan University,Government / public administration,7,4,7
+Purdue University,Academic / education,7,6,6
+University of Minnesota,Industry / manufacturing / extraction,7,5,6
+Cornell University,Government / public administration,7,5,6
+State University of Iowa,Government / public administration,7,5,7
+Yenching University,Military / defense,7,4,6
+Jiaotong University,Professional services,7,6,5
+Yenching University,Media / publishing / entertainment,7,5,4
+Tri-State College,Industry / manufacturing / extraction,7,6,5
+Tsinghua University,Business / commerce,7,5,7
+Unknown,Government / public administration,7,7,6
+Zhijiang University,Academic / education,6,5,5
+Zhejiang University,Government / public administration,6,6,3
+Technical University Berlin,Military / defense,6,1,2
+Zhejiang University,Military / defense,6,4,3
+Purdue University,Military / defense,6,5,3
+Yenching University,Research institutions,6,5,5
+Harvard University,Finance / banking / insurance,6,5,3
+Harvard University,Research institutions,6,5,2
+University of Minnesota,Government / public administration,6,4,6
+Syracuse University,Academic / education,6,4,4
+Zhongshan University,Industry / manufacturing / extraction,6,5,6
+Harvard University,Media / publishing / entertainment,6,4,5
+Nankai University,Academic / education,6,5,5
+University of Minnesota,Research institutions,6,4,4
+Stanford University,Government / public administration,6,3,6
+Tsinghua University,Research institutions,6,6,4
+Normal University,Military / defense,6,4,4
+St. John's University,Healthcare / medical services,6,5,6
+St. John's University,Finance / banking / insurance,6,5,4
+St. John's University,Academic / education,6,4,6
+Michigan State College,Academic / education,6,3,5
+Iowa State College,Academic / education,6,6,5
+University of Pennsylvania,Finance / banking / insurance,6,5,5
+Edinburgh University,Government / public administration,6,3,5
+Guangxi University,Military / defense,5,1,3
+University of Illinois,Industry / manufacturing / extraction,5,5,5
+University of Michigan,Military / defense,5,5,4
+Fu-jen University,Academic / education,5,4,5
+Duke University,Academic / education,5,4,4
+University of California,Military / defense,5,5,5
+Harvard University,Professional services,5,4,5
+Yenching University,Non-state / nonprofit organization,5,4,4
+Massachusetts Institute of Technology,Professional services,5,5,5
+Oxford University,Government / public administration,5,2,3
+University of Washington,Government / public administration,5,4,3
+University of Southern California,Government / public administration,5,5,5
+Northeast University,Industry / manufacturing / extraction,5,2,5
+University of Pittsburgh,Academic / education,5,3,3
+Mount Holyoke College,Academic / education,5,3,4
+Normal University,Academic / education,5,3,5
+Penn State College,Government / public administration,5,4,5
+Oregon State College,Industry / manufacturing / extraction,5,4,5
+Yenching University,Business / commerce,5,5,5
+Yenching University,Libraries / cultural institutions,5,4,2
+Penn State College,Industry / manufacturing / extraction,5,3,5
+University of Washington,Academic / education,5,4,5
+University of Notre Dame,Academic / education,5,4,4
+University of Missouri,Academic / education,5,4,5
+Army Mechanization School,Military / defense,5,3,2
+State University of Iowa,Industry / manufacturing / extraction,5,4,5
+Zhongshan University,Finance / banking / insurance,5,5,2
+Zhejiang University,Industry / manufacturing / extraction,5,5,5
+University of Washington,Business / commerce,4,3,3
+American National University,Government / public administration,4,3,3
+University of Chicago,Industry / manufacturing / extraction,4,4,4
+University of Washington,Industry / manufacturing / extraction,4,3,3
+West China University,Academic / education,4,3,4
+Iowa State College,Research institutions,4,3,4
+Northwestern University,Government / public administration,4,2,4
+Nankai University,Military / defense,4,2,4
+Mills College,Academic / education,4,3,4
+St. John's University,Business / commerce,4,4,4
+University of Wisconsin,Government / public administration,4,4,4
+Stanford University,Industry / manufacturing / extraction,4,4,4
+Nankai University,Media / publishing / entertainment,4,3,4
+Brown University,Academic / education,4,2,3
+Zhejiang University,Academic / education,4,4,3
+St. John's University,Non-state / nonprofit organization,4,3,2
+Yale University,Academic / education,4,3,4
+New York University,Professional services,4,3,4
+Haverford College,Military / defense,4,1,3
+Glasgow University,Academic / education,4,1,4
+New York University,Military / defense,4,3,3
+Yale University,Professional services,4,2,4
+Army University,Military / defense,4,1,3
+Beijing University,Military / defense,4,3,4
+Yenching University,Healthcare / medical services,4,4,4
+Nankai University,Government / public administration,4,4,3
+University of Minnesota,Business / commerce,4,4,4
+Massachusetts Institute of Technology,Transport / utilities / communications,4,3,3
+Central Political School,Government / public administration,4,3,4
+University of Minnesota,Military / defense,4,2,4
+Lingnan University,Finance / banking / insurance,4,4,3
+Cornell University,Transport / utilities / communications,4,4,4
+Lingnan University,Business / commerce,4,4,4
+University of Missouri,Media / publishing / entertainment,4,4,2
+Loyola University,Government / public administration,4,1,2
+Clark University,Academic / education,4,1,4
+Shandong University,Academic / education,4,2,4
+University of Pennsylvania,Government / public administration,4,4,4
+China University,Military / defense,4,1,3
+Peiping College of Finance and Commerce,Academic / education,4,1,4
+University of Houston,Media / publishing / entertainment,4,1,4
+Central University,Industry / manufacturing / extraction,4,4,4
+Central Political School,Military / defense,4,3,2
+University of Chicago,Non-state / nonprofit organization,4,3,3
+Jinan University,Government / public administration,4,1,2
+Massachusetts Institute of Technology,Research institutions,4,4,3
+Jiaozuo Institute of Technology,Government / public administration,4,1,3
+Jinan University,Academic / education,4,2,4
+Shanghai University,Industry / manufacturing / extraction,3,2,3
+Johns Hopkins University,Industry / manufacturing / extraction,3,2,3
+Rensselaer Polytechnic Institute,Industry / manufacturing / extraction,3,1,3
+Hebei University,Academic / education,3,1,3
+Hebei Institute of Technology,Military / defense,3,1,3
+Hebei Institute of Technology,Industry / manufacturing / extraction,3,1,3
+Qilu University,Healthcare / medical services,3,1,2
+Pomona College,Government / public administration,3,2,3
+Jiaotong University,Finance / banking / insurance,3,3,2
+Shanghai University,Non-state / nonprofit organization,3,2,2
+Michigan State College,Research institutions,3,2,2
+Qilu University,Academic / education,3,2,3
+New York University,Business / commerce,3,3,3
+State University of Iowa,Healthcare / medical services,3,2,3
+Purdue University,Transport / utilities / communications,3,3,3
+Nankai University,Research institutions,3,3,2
+Ohio State University,Finance / banking / insurance,3,2,2
+Stanford University,Business / commerce,3,3,3
+Shanghai Sanyu University,Academic / education,3,1,2
+Johns Hopkins University,Academic / education,3,2,3
+Oberlin College,Academic / education,3,2,3
+Southeast University,Professional services,3,3,3
+Shanghai University,Military / defense,3,3,3
+Northeast University,Government / public administration,3,2,3
+Jinling University,Business / commerce,3,3,3
+Normal University,Libraries / cultural institutions,3,1,2
+St. John's University,Military / defense,3,3,3
+Oberlin College,Government / public administration,3,1,3
+Peking Metropolitan University,Government / public administration,3,1,3
+Penn State College,Academic / education,3,2,2
+Ohio State University,Media / publishing / entertainment,3,1,3
+Jinling University,Military / defense,3,2,3
+Hwa Nan College,Academic / education,3,2,3
+Polytechnic Institute of Brooklyn,Business / commerce,3,2,3
+Jinan University,Industry / manufacturing / extraction,3,2,2
+Ohio State University,Academic / education,3,2,3
+Pomona College,Academic / education,3,2,2
+Mary Hardin-Baylor College,Finance / banking / insurance,3,1,3
+Ohio Wesleyan University,Academic / education,3,2,2
+Naval school,Military / defense,3,1,2
+Wheaton College,Academic / education,3,2,3
+University of Cincinnati,Industry / manufacturing / extraction,3,3,3
+Fu-jen University,Military / defense,3,3,1
+University of Colorado,Academic / education,3,2,3
+University of Wisconsin,Industry / manufacturing / extraction,3,3,3
+University of Washington,Military / defense,3,3,3
+University of Washington,Media / publishing / entertainment,3,2,3
+University of Hong Kong,Government / public administration,3,3,3
+University of Hong Kong,Industry / manufacturing / extraction,3,3,3
+Emmanuel Missionary College,Academic / education,3,1,2
+University of Houston,Government / public administration,3,1,2
+University of Illinois,Business / commerce,3,3,3
+University of Illinois,Military / defense,3,2,1
+University of Texas,Finance / banking / insurance,3,1,3
+Catholic University of America,Academic / education,3,2,3
+Daxia University,Media / publishing / entertainment,3,1,3
+Chengdu Sino-French University,Media / publishing / entertainment,3,1,3
+Datong University,Industry / manufacturing / extraction,3,2,3
+University of Michigan,Healthcare / medical services,3,3,3
+University of Pennsylvania,Transport / utilities / communications,3,3,3
+Cornell University,Non-state / nonprofit organization,3,3,3
+University of Pennsylvania,Non-state / nonprofit organization,3,3,2
+Cornell University,Business / commerce,3,3,3
+University of Pennsylvania,Healthcare / medical services,3,3,3
+China College University Department,Military / defense,3,1,3
+China University,Government / public administration,3,1,3
+Colorado School of Mines,Business / commerce,3,2,3
+University of Missouri,Government / public administration,3,2,3
+Fudan University,Finance / banking / insurance,3,3,1
+University of Paris,Government / public administration,3,2,3
+Yale University,Government / public administration,3,3,2
+Zhongshan University,Government / public administration,3,3,3
+Tsinghua University,Non-state / nonprofit organization,3,3,3
+Tsinghua University,Transport / utilities / communications,3,3,3
+Tulane University,Government / public administration,3,1,3
+Zhijiang University,Government / public administration,3,3,2
+Zhijiang University,Professional services,3,3,2
+Beiyang University,Academic / education,3,3,3
+Antioch College,Military / defense,3,1,3
+George Washington University,Government / public administration,3,2,2
+Glasgow University,Government / public administration,3,1,3
+Zhongshan University,Media / publishing / entertainment,3,2,3
+Wusong Merchant Shipping School,Military / defense,3,2,3
+Fujian Union University,Non-state / nonprofit organization,3,3,3
+Tangshan Chiao Tung University,Transport / utilities / communications,3,1,3
+Harvard University,Healthcare / medical services,3,2,3
+University of California,Media / publishing / entertainment,3,2,3
+Tri-State College,Transport / utilities / communications,3,3,2
+Guanghua University,Academic / education,3,2,2
+Yenching University,Transport / utilities / communications,2,2,2
+University of Pittsburgh,Government / public administration,2,2,2
+University of Richmond,Academic / education,2,1,2
+University of San Francisco,Academic / education,2,1,2
+University of Perugia,Government / public administration,2,1,2
+Wuhan University,Government / public administration,2,2,2
+Zhejiang Provincial Technical College,Academic / education,2,1,2
+Zhejiang University,Research institutions,2,1,2
+University of Southern California,Industry / manufacturing / extraction,2,2,2
+University of Pennsylvania,Industry / manufacturing / extraction,2,2,2
+Zhongshan University,Political / party organization,2,2,2
+New School For Social Research,Non-state / nonprofit organization,2,1,1
+Polytechnic Institute of Brooklyn,Industry / manufacturing / extraction,2,1,2
+University of Pennsylvania,Business / commerce,2,2,2
+University of Paris,Non-state / nonprofit organization,2,2,2
+University of Southern California,Finance / banking / insurance,2,2,2
+Oregon State College,Military / defense,2,2,2
+University of Southern California,Media / publishing / entertainment,2,2,2
+Propaganda Fide,Media / publishing / entertainment,2,1,2
+Wusong Merchant Shipping School,Business / commerce,2,1,1
+Northeastern University,Academic / education,2,2,2
+Northwestern University,Academic / education,2,1,2
+West China Union University,Industry / manufacturing / extraction,2,1,2
+Unknown,Military / defense,2,2,1
+Northwestern University,Transport / utilities / communications,2,1,2
+Unknown,Media / publishing / entertainment,2,2,2
+Xiamen University,Healthcare / medical services,2,1,2
+Unknown,Academic / education,2,2,2
+New York University,Transport / utilities / communications,2,2,2
+Oxford University,Academic / education,2,1,2
+Ohio State University,Government / public administration,2,2,2
+University of Turin,Military / defense,2,1,1
+Ohio State University,Military / defense,2,2,2
+New York University,Political / party organization,2,2,2
+University of Texas,Industry / manufacturing / extraction,2,2,2
+Yale University,Media / publishing / entertainment,2,2,2
+Wuhan University,Academic / education,2,2,2
+University of Southern California,Transport / utilities / communications,2,2,2
+University of Southern California,Military / defense,2,2,2
+University of the Philippines,Business / commerce,2,1,2
+State University of Iowa,Professional services,2,2,2
+University of Paris,Academic / education,2,1,2
+Sino-French University,Industry / manufacturing / extraction,2,2,2
+University of Cincinnati,Academic / education,2,1,2
+Southeast University,Military / defense,2,1,2
+Southeast University,Non-state / nonprofit organization,2,1,1
+University of Chicago,Research institutions,2,2,2
+University of Chicago,Media / publishing / entertainment,2,2,2
+University of Chicago,Finance / banking / insurance,2,2,2
+University of California,Research institutions,2,2,2
+University of California,Professional services,2,2,2
+National College of Music,Academic / education,2,1,2
+Springfield College,Academic / education,2,1,2
+University of California,Finance / banking / insurance,2,2,1
+University of California,Business / commerce,2,2,2
+University of Berlin,Government / public administration,2,1,2
+University de Nancy,Academic / education,2,1,2
+St. John's University,Transport / utilities / communications,2,2,2
+Tsinghua University,Media / publishing / entertainment,2,2,2
+St. Louis College of Pharmacy,Healthcare / medical services,2,1,2
+Tri-State College,Academic / education,2,1,2
+Tokyo Imperial University,Academic / education,2,1,2
+Stanford University,Media / publishing / entertainment,2,1,2
+Tientsin Institute of Commerce,Professional services,2,1,2
+Tianjin Industrial and Commercial College,Academic / education,2,2,1
+Stanford University,Military / defense,2,2,2
+Stanford University,Professional services,2,2,2
+Technical College of Hanover,Government / public administration,2,1,2
+State University of Iowa,Business / commerce,2,2,2
+Taliesin Fellowship,Professional services,2,1,2
+University of Denver,Government / public administration,2,1,2
+University of Detroit,Professional services,2,1,2
+University of Oklahoma,Military / defense,2,1,2
+Shanghai Xinhua University of Art,Government / public administration,2,1,2
+University of Oklahoma,Academic / education,2,2,2
+University of Notre Dame,Industry / manufacturing / extraction,2,2,2
+Purdue University,Non-state / nonprofit organization,2,2,1
+Purdue University,Professional services,2,2,2
+University of Minnesota,Non-state / nonprofit organization,2,2,2
+University of Minnesota,Finance / banking / insurance,2,2,2
+University of Michigan,Research institutions,2,2,2
+Syracuse University,Industry / manufacturing / extraction,2,1,2
+Qilu University,Industry / manufacturing / extraction,2,2,2
+Qilu University,Military / defense,2,1,2
+Radcliffe College,Academic / education,2,1,2
+Rensselaer Polytechnic Institute,Academic / education,2,1,1
+University of Maryland,Industry / manufacturing / extraction,2,1,2
+Rensselaer Polytechnic Institute,Professional services,2,2,2
+Rice Institute,Industry / manufacturing / extraction,2,2,2
+Rostock University,Healthcare / medical services,2,1,2
+University of London,Military / defense,2,2,2
+University of London,Libraries / cultural institutions,2,1,2
+University of London,Industry / manufacturing / extraction,2,2,2
+University of Kansas,Government / public administration,2,1,2
+University of Illinois,Non-state / nonprofit organization,2,2,2
+Shanghai Sanyu University,Research institutions,2,1,1
+University of Houston,Political / party organization,2,1,1
+University of Hong Kong,Professional services,2,2,2
+University of Hong Kong,Business / commerce,2,2,2
+University of Hawaii,Government / public administration,2,1,1
+University of Dubuque,Finance / banking / insurance,2,2,1
+University of Michigan,Media / publishing / entertainment,2,2,2
+École Libre des Sciences Politiques,Government / public administration,2,1,1
+Jiaotong University,Unknown / not stated,2,2,0
+Missouri School of Mines & Metals,Business / commerce,2,2,1
+Cornell University,Professional services,2,2,2
+Iowa State College,Industry / manufacturing / extraction,2,1,2
+Beiyang University,Industry / manufacturing / extraction,2,2,2
+Cornell University,Military / defense,2,2,2
+City College of New York,Professional services,2,1,2
+Georgetown University,Government / public administration,2,2,2
+City College of New York,Industry / manufacturing / extraction,2,2,2
+Beijing University,Media / publishing / entertainment,2,2,2
+George Washington University,Military / defense,2,1,2
+Beijing University,Business / commerce,2,2,2
+Johns Hopkins University,Healthcare / medical services,2,1,2
+Colorado College,Finance / banking / insurance,2,1,1
+Cornell University,Industry / manufacturing / extraction,2,2,2
+Baldwin Wallace College,Government / public administration,2,1,2
+Duquesne University,Academic / education,2,1,2
+Huazhong University,Academic / education,2,1,2
+Mercer University,Academic / education,2,1,2
+Hunan University,Government / public administration,2,1,2
+Boston University,Government / public administration,2,1,2
+Illinois Institute of Technology,Business / commerce,2,1,2
+Datong University,Government / public administration,2,2,2
+Kansas State College,Research institutions,2,1,2
+Illinois Institute of Technology,Professional services,2,1,2
+Guanghua University,Government / public administration,2,2,2
+College of St. Elisabeth,Industry / manufacturing / extraction,2,2,1
+Guanghua University,Finance / banking / insurance,2,2,2
+Carnegie Institute of Technology,Academic / education,2,1,2
+Canisus College,Government / public administration,2,1,2
+Daxia University,Academic / education,2,2,2
+Indiana Technical College,Industry / manufacturing / extraction,2,2,1
+Bryn Mawr College,Non-state / nonprofit organization,2,1,1
+Birmingham University,Military / defense,2,1,2
+Maryville College,Healthcare / medical services,2,1,2
+Curtiss-Wright Technical Institute,Transport / utilities / communications,2,2,2
+Lingnan University,Professional services,2,1,2
+Ecole des Hautes Etudes Industrielles et Commerciales,Government / public administration,2,1,2
+George Washington University,Academic / education,2,2,2
+Fordham University,Business / commerce,2,1,2
+Columbia University,Military / defense,2,2,2
+California Institute of Technology,Professional services,2,2,2
+Central University,Research institutions,2,2,1
+Fordham University,Industry / manufacturing / extraction,2,2,1
+Fudan University,Business / commerce,2,2,2
+Nankai University,Finance / banking / insurance,2,2,2
+Fudan University,Academic / education,2,2,2
+Fu-jen University,Transport / utilities / communications,2,2,2
+Fu-jen University,Industry / manufacturing / extraction,2,1,2
+Fordham University,Media / publishing / entertainment,2,1,2
+Aachen Technical University,Military / defense,2,1,2
+Fordham University,Non-state / nonprofit organization,2,2,2
+Nanking Higher Normal School,Academic / education,2,1,2
+Nanking Higher Normal School,Government / public administration,2,1,2
+Central University,Media / publishing / entertainment,2,2,2
+Datong University,Academic / education,2,2,2
+Arkansas State College,Academic / education,2,1,2
+Fudan University,Non-state / nonprofit organization,2,2,2
+China College University Department,Government / public administration,2,1,1
+Harvard University,Military / defense,2,2,2
+George Peabody College,Academic / education,2,2,2
+Central University,Finance / banking / insurance,2,1,2
+Henan University,Military / defense,2,1,2
+Louisiana State University,Government / public administration,2,1,2
+Moody Bible Institute,Religious / faith organization,2,1,1
+Art Institute of Chicago,Government / public administration,2,1,2
+Emmanuel Missionary College,Research institutions,2,1,1
+Army Signal Corps School,Military / defense,2,1,2
+Jinan University,Professional services,2,1,2
+Harvard University,Non-state / nonprofit organization,2,2,2
+Fudan University,Transport / utilities / communications,2,2,2
+Harvard University,Transport / utilities / communications,2,2,2
+University of Missouri,Non-state / nonprofit organization,1,1,1
+University of Notre Dame,Business / commerce,1,1,1
+Colorado School of Mines,Academic / education,1,1,1
+University of Missouri,Political / party organization,1,1,1
+University of Paris,Military / defense,1,1,1
+College of St. Elisabeth,Government / public administration,1,1,1
+Chrysler Institute of Engineering,Business / commerce,1,1,1
+University of Pittsburgh,Business / commerce,1,1,1
+Central University,Transport / utilities / communications,1,1,1
+Chemical Institute of Lyon,Industry / manufacturing / extraction,1,1,1
+University of Pennsylvania,Unknown / not stated,1,1,0
+Chengdu Sino-French University,Military / defense,1,1,1
+Chicago Aeronautical University,Military / defense,1,1,1
+University of Pennsylvania,Military / defense,1,1,1
+"Children Hospital, Massachusetts",Non-state / nonprofit organization,1,1,1
+Chongqing University,Academic / education,1,1,1
+City College of New York,Academic / education,1,1,1
+University of Notre Dame,Military / defense,1,1,1
+University of Minnesota,Transport / utilities / communications,1,1,1
+University of Paris,Media / publishing / entertainment,1,1,1
+University of Paris,Industry / manufacturing / extraction,1,1,1
+Claremont College,Academic / education,1,1,1
+Clarence White School of Photography,Non-state / nonprofit organization,1,1,1
+Clark University,Business / commerce,1,1,1
+University of Oklahoma,Government / public administration,1,1,1
+University of Oklahoma,Business / commerce,1,1,1
+Clark University,Government / public administration,1,1,1
+Colorado School of Mines,Industry / manufacturing / extraction,1,1,1
+Nanking Higher Normal School,Military / defense,1,1,1
+Columbia University,Healthcare / medical services,1,1,1
+University of Minnesota,Professional services,1,1,1
+University of Iowa,Industry / manufacturing / extraction,1,1,1
+Dickinson College,Academic / education,1,1,1
+Drake University,Academic / education,1,1,1
+University of Illinois,Political / party organization,1,1,1
+Drew University,Finance / banking / insurance,1,1,1
+Drew University,Government / public administration,1,1,1
+University of Illinois,Media / publishing / entertainment,1,1,1
+Duke University,Military / defense,1,1,1
+Duke University,Religious / faith organization,1,1,1
+Duquesne University,Government / public administration,1,1,1
+Ecole des Hautes Etudes Industrielles et Commerciales,Professional services,1,1,1
+Edinburgh University,Intergovernmental / international organization,1,1,1
+University of Hong Kong,Transport / utilities / communications,1,1,1
+Embry–Riddle Aeronautical University (ERAU),Industry / manufacturing / extraction,1,1,1
+University of Hong Kong,Military / defense,1,1,1
+Field Artillery School,Military / defense,1,1,1
+Fordham University,Academic / education,1,1,1
+University of Hawaii,Research institutions,1,1,1
+University of Hawaii,Non-state / nonprofit organization,1,1,1
+University of Hawaii,Healthcare / medical services,1,1,1
+University of Hawaii,Business / commerce,1,1,1
+University of Hawaii,Academic / education,1,1,1
+University of Dubuque,Government / public administration,1,1,1
+Detroit Institute of Technology,Business / commerce,1,1,1
+University of Kentucky,Military / defense,1,1,1
+Denison University,Government / public administration,1,1,1
+University of Michigan,Libraries / cultural institutions,1,1,1
+Columbia University,Libraries / cultural institutions,1,1,1
+Columbia University,Research institutions,1,1,1
+University of Minnesota,Healthcare / medical services,1,1,1
+Columbia University,Unknown / not stated,1,1,0
+Cornell University,Finance / banking / insurance,1,1,1
+Cornell University,Intergovernmental / international organization,1,1,1
+Cornell University,Media / publishing / entertainment,1,1,1
+University of Michigan,Non-state / nonprofit organization,1,1,1
+Cornell University,Research institutions,1,1,1
+Curtiss-Wright Technical Institute,Industry / manufacturing / extraction,1,1,1
+Curtiss-Wright Technical Institute,Military / defense,1,1,1
+University of London,Business / commerce,1,1,1
+University of Pittsburgh,Industry / manufacturing / extraction,1,1,1
+Datong University,Business / commerce,1,1,1
+Datong University,Professional services,1,1,1
+University of Maryland,Government / public administration,1,1,1
+University of Maryland,Business / commerce,1,1,1
+University of Maryland,Academic / education,1,1,1
+University of Lyon,Industry / manufacturing / extraction,1,1,1
+Daxia University,Business / commerce,1,1,1
+Daxia University,Military / defense,1,1,1
+De La Salle College,Industry / manufacturing / extraction,1,1,1
+Dartmouth College,Government / public administration,1,1,1
+Central Political School,Finance / banking / insurance,1,1,1
+University of Pittsburgh,Research institutions,1,1,1
+Baldwin Wallace College,Industry / manufacturing / extraction,1,1,1
+Baylor University,Non-state / nonprofit organization,1,1,1
+Beijing University,Industry / manufacturing / extraction,1,1,1
+Beijing University,Research institutions,1,1,1
+Beijing University,Transport / utilities / communications,1,1,1
+Yale University,Research institutions,1,1,1
+Beiyang University,Finance / banking / insurance,1,1,1
+Yale University,Non-state / nonprofit organization,1,1,1
+Beiyang University,Military / defense,1,1,1
+Bennett College,Non-state / nonprofit organization,1,1,1
+Xiamen University,Non-state / nonprofit organization,1,1,1
+Xiamen University,Intergovernmental / international organization,1,1,1
+Xiamen University,Industry / manufacturing / extraction,1,1,1
+Birmingham University,Academic / education,1,1,1
+Xiamen University,Government / public administration,1,1,1
+Boston University,Academic / education,1,1,1
+Wusong Merchant Shipping School,Government / public administration,1,1,1
+Boston University,Finance / banking / insurance,1,1,1
+Wuhan University,Research institutions,1,1,1
+Wuhan University,Military / defense,1,1,1
+Brown University,Finance / banking / insurance,1,1,1
+Wuchang University,Military / defense,1,1,1
+Worcester Polytechnic Institute,Industry / manufacturing / extraction,1,1,1
+Women's Christian Medical College,Healthcare / medical services,1,1,1
+Witwatersrand College,Transport / utilities / communications,1,1,1
+Witwatersrand College,Military / defense,1,1,1
+Williams Hospital,Non-state / nonprofit organization,1,1,1
+Wheaton College,Industry / manufacturing / extraction,1,1,1
+Barnard College,Non-state / nonprofit organization,1,1,1
+Aurora University,Academic / education,1,1,1
+Western Reserve University,Healthcare / medical services,1,1,1
+Yenching University,Professional services,1,1,1
+Zhongshan University,Transport / utilities / communications,1,1,1
+Zhongshan University,Non-state / nonprofit organization,1,1,1
+Zhongshan University,Military / defense,1,1,1
+Air Force Technical College,Academic / education,1,1,1
+Alfred University,Government / public administration,1,1,1
+American Conservatory of Music,Religious / faith organization,1,1,1
+American National University,Finance / banking / insurance,1,1,1
+Zhongshan University,Business / commerce,1,1,1
+Arizona State Teachers' College,Military / defense,1,1,1
+Zhonghua University,Military / defense,1,1,1
+Zhizhi College,Industry / manufacturing / extraction,1,1,1
+Zhijiang University,Transport / utilities / communications,1,1,1
+Zhijiang University,Research institutions,1,1,1
+Zhijiang University,Military / defense,1,1,1
+Zhijiang University,Media / publishing / entertainment,1,1,1
+Zhijiang University,Industry / manufacturing / extraction,1,1,1
+Arkansas State College,Industry / manufacturing / extraction,1,1,1
+Armstrong Junior College,Academic / education,1,1,1
+Art Institute of Chicago,Finance / banking / insurance,1,1,1
+Art Institute of Chicago,Professional services,1,1,1
+Zhejiang University,Business / commerce,1,1,1
+Asbury College,Academic / education,1,1,1
+Zhejiang Provincial Technical College,Military / defense,1,1,1
+Asbury College,Libraries / cultural institutions,1,1,1
+Yungli Chemical Industries Limited,Military / defense,1,1,1
+Atlantic Union College,Academic / education,1,1,1
+Atlantic Union College,Non-state / nonprofit organization,1,1,1
+Brown University,Research institutions,1,1,1
+West China University,Military / defense,1,1,1
+Central University,Professional services,1,1,1
+University of Wisconsin,Media / publishing / entertainment,1,1,1
+Cambridge University,Industry / manufacturing / extraction,1,1,1
+Cambridge University,Military / defense,1,1,1
+University of Washington,Non-state / nonprofit organization,1,1,1
+Cambridge University,Religious / faith organization,1,1,1
+Carleton College,Finance / banking / insurance,1,1,1
+Carleton College,Non-state / nonprofit organization,1,1,1
+University of Washington,Finance / banking / insurance,1,1,1
+Carnegie Institute of Technology,Government / public administration,1,1,1
+Carnegie Institute of Technology,Industry / manufacturing / extraction,1,1,1
+Carnegie Institute of Technology,Military / defense,1,1,1
+Carroll College,Industry / manufacturing / extraction,1,1,1
+Case School of Applied Science,Business / commerce,1,1,1
+University of Tennessee,Government / public administration,1,1,1
+Case School of Applied Science,Industry / manufacturing / extraction,1,1,1
+University of Southern California,Professional services,1,1,1
+University of Southern California,Non-state / nonprofit organization,1,1,1
+Catholic University of America,Government / public administration,1,1,1
+Catholic University of America,Military / defense,1,1,1
+University of Colorado,Professional services,1,1,1
+Central Political School,Non-state / nonprofit organization,1,1,1
+Central University,Business / commerce,1,1,1
+University of Santo Tomas,Business / commerce,1,1,1
+University of San Francisco,Non-state / nonprofit organization,1,1,1
+University of San Francisco,Media / publishing / entertainment,1,1,1
+University of San Francisco,Government / public administration,1,1,1
+University of Rochester,Academic / education,1,1,1
+University of Richmond,Healthcare / medical services,1,1,1
+Cambridge University,Government / public administration,1,1,1
+University of Wisconsin,Non-state / nonprofit organization,1,1,1
+West China University,Industry / manufacturing / extraction,1,1,1
+University of Wisconsin,Political / party organization,1,1,1
+California Institute of Technology,Business / commerce,1,1,1
+West China Union University,Business / commerce,1,1,1
+Wentworth Institute,Professional services,1,1,1
+Wentworth Institute,Academic / education,1,1,1
+Wellesley College,Academic / education,1,1,1
+Wayne University,Healthcare / medical services,1,1,1
+Washington University,Military / defense,1,1,1
+Washington University,Government / public administration,1,1,1
+Washington University,Business / commerce,1,1,1
+Washington University,Academic / education,1,1,1
+Washington State College,Professional services,1,1,1
+Washington Missionary College,Military / defense,1,1,1
+Washington & Jefferson College,Government / public administration,1,1,1
+Unknown,Unknown / not stated,1,1,0
+Unknown,Transport / utilities / communications,1,1,1
+Unknown,Political / party organization,1,1,1
+Unknown,Non-state / nonprofit organization,1,1,1
+California Institute of Technology,Government / public administration,1,1,1
+California Institute of Technology,Media / publishing / entertainment,1,1,1
+Unknown,Libraries / cultural institutions,1,1,1
+Unknown,Intergovernmental / international organization,1,1,1
+Unknown,Business / commerce,1,1,1
+California Institute of Technology,Research institutions,1,1,1
+University of the Philippines,Transport / utilities / communications,1,1,1
+University of the Philippines,Media / publishing / entertainment,1,1,1
+California Institute of Technology,Transport / utilities / communications,1,1,1
+University of Wisconsin,Research institutions,1,1,1
+University of Costa Rica,Research institutions,1,1,1
+University of California,Transport / utilities / communications,1,1,1
+University of Colorado,Industry / manufacturing / extraction,1,1,1
+Royal Polytechnic University of Milan,Industry / manufacturing / extraction,1,1,1
+Princeton University,Government / public administration,1,1,1
+Madison College,Transport / utilities / communications,1,1,1
+Princeton Seminary,Government / public administration,1,1,1
+Princeton Seminary,Academic / education,1,1,1
+Manhattan College,Industry / manufacturing / extraction,1,1,1
+Mapúa Institute of Technology,Media / publishing / entertainment,1,1,1
+Mapúa Institute of Technology,Transport / utilities / communications,1,1,1
+Marquette University,Military / defense,1,1,1
+Peter Bent Brigham Hospital,Healthcare / medical services,1,1,1
+Marquette University,Transport / utilities / communications,1,1,1
+Mary Hardin-Baylor College,Industry / manufacturing / extraction,1,1,1
+Penn State College,Business / commerce,1,1,1
+Maryville College,Business / commerce,1,1,1
+Peking Union Medical College,Business / commerce,1,1,1
+Massachusetts College of Pharmacy,Academic / education,1,1,1
+Peiping Minguo University,Academic / education,1,1,1
+Peiping College of Finance and Commerce,Government / public administration,1,1,1
+Massachusetts College of Pharmacy,Industry / manufacturing / extraction,1,1,1
+Peabody Conservatory of Music,Academic / education,1,1,1
+Parks Air College,Industry / manufacturing / extraction,1,1,1
+Park College,Government / public administration,1,1,1
+Park College,Business / commerce,1,1,1
+Park College,Academic / education,1,1,1
+Pacific School of Religion,Finance / banking / insurance,1,1,1
+Oxford University,Research institutions,1,1,1
+Massachusetts Institute of Technology,Media / publishing / entertainment,1,1,1
+Massachusetts Institute of Technology,Non-state / nonprofit organization,1,1,1
+Princeton University,Military / defense,1,1,1
+Princeton University,Research institutions,1,1,1
+Madison College,Industry / manufacturing / extraction,1,1,1
+LaSalle College,Industry / manufacturing / extraction,1,1,1
+Royal Military College,Government / public administration,1,1,1
+Rostock University,Non-state / nonprofit organization,1,1,1
+Rostock University,Intergovernmental / international organization,1,1,1
+Rostock University,Industry / manufacturing / extraction,1,1,1
+Johns Hopkins University,Intergovernmental / international organization,1,1,1
+Rostock University,Government / public administration,1,1,1
+Rochester Institute of Technology,Libraries / cultural institutions,1,1,1
+Johns Hopkins University,Military / defense,1,1,1
+Johns Hopkins University,Non-state / nonprofit organization,1,1,1
+Kansas State College,Business / commerce,1,1,1
+Radio Corporation of America Institute,Industry / manufacturing / extraction,1,1,1
+Radcliffe College,Non-state / nonprofit organization,1,1,1
+Qilu University,Transport / utilities / communications,1,1,1
+Propaganda Fide,Non-state / nonprofit organization,1,1,1
+Qilu University,Non-state / nonprofit organization,1,1,1
+Lehigh University,Industry / manufacturing / extraction,1,1,1
+Linfield College,Finance / banking / insurance,1,1,1
+Linfield College,Industry / manufacturing / extraction,1,1,1
+Lingnan University,Healthcare / medical services,1,1,1
+Lingnan University,Military / defense,1,1,1
+Louisiana State University,Finance / banking / insurance,1,1,1
+Louisiana State University,Military / defense,1,1,1
+Lowell Textile Institute,Industry / manufacturing / extraction,1,1,1
+Loyola University,Academic / education,1,1,1
+Madison College,Academic / education,1,1,1
+Pughy College,Government / public administration,1,1,1
+Massachusetts Institute of Technology,Unknown / not stated,1,1,0
+Master Institute of United Arts,Non-state / nonprofit organization,1,1,1
+Oregon State College,Government / public administration,1,1,1
+Mount Union College,Business / commerce,1,1,1
+Normal University,Research institutions,1,1,1
+Normal University,Non-state / nonprofit organization,1,1,1
+Montana State College,Academic / education,1,1,1
+Normal University,Finance / banking / insurance,1,1,1
+Mount Mary College,Academic / education,1,1,1
+Nihon University,Military / defense,1,1,1
+Nihon University,Media / publishing / entertainment,1,1,1
+Nihon University,Government / public administration,1,1,1
+Niagara University,Media / publishing / entertainment,1,1,1
+Niagara University,Academic / education,1,1,1
+New York University,Unknown / not stated,1,1,0
+Mount Mary College,Healthcare / medical services,1,1,1
+Mount Union College,Industry / manufacturing / extraction,1,1,1
+Northeast University,Business / commerce,1,1,1
+New York University,Non-state / nonprofit organization,1,1,1
+Multnomah University,Industry / manufacturing / extraction,1,1,1
+New York University,Media / publishing / entertainment,1,1,1
+Nankai School,Government / public administration,1,1,1
+New York University,Healthcare / medical services,1,1,1
+Nankai School,Non-state / nonprofit organization,1,1,1
+Nankai University,Intergovernmental / international organization,1,1,1
+Nankai University,Non-state / nonprofit organization,1,1,1
+Nankai University,Unknown / not stated,1,1,0
+New School For Social Research,Government / public administration,1,1,1
+New School For Social Research,Finance / banking / insurance,1,1,1
+New School For Social Research,Academic / education,1,1,1
+Northeast University,Academic / education,1,1,1
+Montana School of Mines,Business / commerce,1,1,1
+Oregon State College,Business / commerce,1,1,1
+Oberlin College,Industry / manufacturing / extraction,1,1,1
+McGill University,Academic / education,1,1,1
+Ohio Wesleyan University,Military / defense,1,1,1
+Aachen Technical University,Government / public administration,1,1,1
+McGill University,Industry / manufacturing / extraction,1,1,1
+McGill University,Military / defense,1,1,1
+Medical College of Virginia,Healthcare / medical services,1,1,1
+Mercer University,Government / public administration,1,1,1
+Oberlin College,Unknown / not stated,1,1,0
+Oberlin College,Professional services,1,1,1
+Oberlin College,Non-state / nonprofit organization,1,1,1
+Oberlin College,Military / defense,1,1,1
+Oberlin College,Media / publishing / entertainment,1,1,1
+Mercer University,Media / publishing / entertainment,1,1,1
+Missouri School of Mines & Metals,Industry / manufacturing / extraction,1,1,1
+Mercer University,Non-state / nonprofit organization,1,1,1
+Michigan State College,Unknown / not stated,1,1,0
+Northwestern University,Military / defense,1,1,1
+Middlesex University,Healthcare / medical services,1,1,1
+Millsaps College,Professional services,1,1,1
+Northeastern University,Religious / faith organization,1,1,1
+Northeastern University,Professional services,1,1,1
+Northeastern University,Non-state / nonprofit organization,1,1,1
+Northeastern University,Media / publishing / entertainment,1,1,1
+Northeastern University,Industry / manufacturing / extraction,1,1,1
+Northeastern University,Finance / banking / insurance,1,1,1
+Northeast University,Unknown / not stated,1,1,0
+Royal Military College,Military / defense,1,1,1
+Rutgers University,Academic / education,1,1,1
+University of Colorado,Government / public administration,1,1,1
+Rutgers University,Business / commerce,1,1,1
+Ginling College,Research institutions,1,1,1
+Glasgow University,Intergovernmental / international organization,1,1,1
+Gonzaga University,Government / public administration,1,1,1
+Tsinghua University,Finance / banking / insurance,1,1,1
+Gonzaga University,Unknown / not stated,1,1,0
+Goucher College,Healthcare / medical services,1,1,1
+Guangdong College of Law,Business / commerce,1,1,1
+Guangdong College of Law,Industry / manufacturing / extraction,1,1,1
+Tokyo University of Commerce,Academic / education,1,1,1
+Guanghua University,Religious / faith organization,1,1,1
+Tianjin Industrial and Commercial College,Professional services,1,1,1
+Tianjin Industrial and Commercial College,Military / defense,1,1,1
+Tianjin Industrial and Commercial College,Finance / banking / insurance,1,1,1
+Guangxi University,Government / public administration,1,1,1
+Texas Technical College,Academic / education,1,1,1
+Guangxi University,Transport / utilities / communications,1,1,1
+Guangzhou University,Finance / banking / insurance,1,1,1
+Taxation College,Government / public administration,1,1,1
+Harbin Polytechnic Institute,Transport / utilities / communications,1,1,1
+Tangshan Chiao Tung University,Government / public administration,1,1,1
+Harvard University,Business / commerce,1,1,1
+Syracuse University,Religious / faith organization,1,1,1
+Harvard University,Intergovernmental / international organization,1,1,1
+Syracuse University,Business / commerce,1,1,1
+Harvard University,Libraries / cultural institutions,1,1,1
+Sweet Briar College,Academic / education,1,1,1
+Stevens Institute of Technology,Transport / utilities / communications,1,1,1
+Ginling College,Government / public administration,1,1,1
+Georgia School of Technology,Military / defense,1,1,1
+Tsinghua University,Political / party organization,1,1,1
+University of California,Non-state / nonprofit organization,1,1,1
+University of Colorado,Business / commerce,1,1,1
+University of Chicago,Professional services,1,1,1
+Fudan University,Industry / manufacturing / extraction,1,1,1
+University of Chicago,Military / defense,1,1,1
+Fudan University,Media / publishing / entertainment,1,1,1
+University of Chicago,Intergovernmental / international organization,1,1,1
+Fudan University,Military / defense,1,1,1
+University of Chicago,Healthcare / medical services,1,1,1
+Fudan University,Professional services,1,1,1
+Nanking Higher Normal School,Research institutions,1,1,1
+Fujian Union University,Government / public administration,1,1,1
+Fujian Union University,Healthcare / medical services,1,1,1
+Fujian Union University,Industry / manufacturing / extraction,1,1,1
+Tsinghua University,Professional services,1,1,1
+Fujian Union University,Media / publishing / entertainment,1,1,1
+George Peabody College,Media / publishing / entertainment,1,1,1
+George Peabody College,Non-state / nonprofit organization,1,1,1
+George Washington University,Business / commerce,1,1,1
+University of British Columbia,Research institutions,1,1,1
+University of Bonn,Political / party organization,1,1,1
+University of Bonn,Government / public administration,1,1,1
+University of Berlin,Military / defense,1,1,1
+George Washington University,Media / publishing / entertainment,1,1,1
+University de Liege,Industry / manufacturing / extraction,1,1,1
+Georgetown University,Libraries / cultural institutions,1,1,1
+Georgetown University,Non-state / nonprofit organization,1,1,1
+State University of Iowa,Transport / utilities / communications,1,1,1
+State University of Iowa,Non-state / nonprofit organization,1,1,1
+State University of Iowa,Military / defense,1,1,1
+Jiaozuo Institute of Technology,Industry / manufacturing / extraction,1,1,1
+Jiaotong University,Media / publishing / entertainment,1,1,1
+Southeast University,Media / publishing / entertainment,1,1,1
+Southeast University,Healthcare / medical services,1,1,1
+Jiaotong University,Non-state / nonprofit organization,1,1,1
+Southeast University,Finance / banking / insurance,1,1,1
+Jiaotong University,Research institutions,1,1,1
+Smith College,Finance / banking / insurance,1,1,1
+Smith College,Academic / education,1,1,1
+Sino-Russian Industrial University,Government / public administration,1,1,1
+Sino-French University,Business / commerce,1,1,1
+Simmons College,Government / public administration,1,1,1
+Simmons College,Academic / education,1,1,1
+Shanghai University,Unknown / not stated,1,1,0
+Iowa State College,Military / defense,1,1,1
+Jinan University,Finance / banking / insurance,1,1,1
+Jinan University,Non-state / nonprofit organization,1,1,1
+Shanghai University,Healthcare / medical services,1,1,1
+Jinan University,Transport / utilities / communications,1,1,1
+Shanghai University,Business / commerce,1,1,1
+Jinling University,Finance / banking / insurance,1,1,1
+Jinling University,Industry / manufacturing / extraction,1,1,1
+Johns Hopkins University,Government / public administration,1,1,1
+Shanghai Medical College,Healthcare / medical services,1,1,1
+Shandong University,Military / defense,1,1,1
+Seton Hill College,Finance / banking / insurance,1,1,1
+San Francisco State College,Healthcare / medical services,1,1,1
+Jiaotong University,Intergovernmental / international organization,1,1,1
+Southern College,Academic / education,1,1,1
+Haverford College,Finance / banking / insurance,1,1,1
+St. John's University,Research institutions,1,1,1
+Haverford College,Government / public administration,1,1,1
+Heald's College,Finance / banking / insurance,1,1,1
+Heald’s Engineering College,Finance / banking / insurance,1,1,1
+Stanford University,Non-state / nonprofit organization,1,1,1
+Hebei Institute of Technology,Academic / education,1,1,1
+Hebei Provincial Institute of Technology,Government / public administration,1,1,1
+Hebei University,Government / public administration,1,1,1
+Stanford University,Finance / banking / insurance,1,1,1
+Hongkong University,Government / public administration,1,1,1
+St. Paul's Girls' School,Finance / banking / insurance,1,1,1
+St. Louis College of Pharmacy,Business / commerce,1,1,1
+Illinois Institute of Technology,Academic / education,1,1,1
+Illinois Institute of Technology,Military / defense,1,1,1
+Southern College,Media / publishing / entertainment,1,1,1
+St. John's University,Media / publishing / entertainment,1,1,1
+Indiana University,Academic / education,1,1,1
+Indiana University,Government / public administration,1,1,1
+Indiana University,Professional services,1,1,1
+Institute for Advanced Study,Academic / education,1,1,1
+International University,Academic / education,1,1,1
+St. John's Hospital,Government / public administration,1,1,1
+Spartan College of Aeronautics and Technology,Transport / utilities / communications,1,1,1
+Spartan College of Aeronautics and Technology,Military / defense,1,1,1
+Southwestern University,Government / public administration,1,1,1
+Southwest Associated University,Non-state / nonprofit organization,1,1,1
+Southwest Associated University,Government / public administration,1,1,1
+Aachen Technical University,Academic / education,1,1,1

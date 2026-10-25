@@ -1,0 +1,1614 @@
+﻿NameID,Birth_province_py_st,Birth_town_py,Birth_town_zh,birth_geocode_status,birth_lat,birth_lon,birth_lookup_ids,birth_lookup_city,birth_coordinate_precision,birth_coordinate_notes,birth_candidate_ids
+N00001,Jiangsu,Chuansha,川沙,matched,31.1999,121.6972,164,Chuansha 川沙,locality reference in lookup,"Historical county; now Pudong, Shanghai",164
+N00002,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00003,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00004,Jiangsu,,,missing_town,,,,,,,
+N00005,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00006,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00007,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00008,Zhejiang,,,missing_town,,,,,,,
+N00009,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00010,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00011,Shaanxi,,,missing_town,,,,,,,
+N00012,Hebei,Wenan,文安,matched,38.873,116.458,145,Wenan 文安,locality reference in lookup,,145
+N00013,Shandong,Penglai,蓬萊,matched,37.8113,120.7591,31,Penglai 蓬萊,locality reference in lookup,,31
+N00014,Zhejiang,,,missing_town,,,,,,,
+N00015,,,,missing_town,,,,,,,
+N00016,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00017,Jilin,Ningan,寧安,matched,44.3406,129.4634,189,Ningan 寧安,locality reference in lookup,,189
+N00018,Hebei,,,missing_town,,,,,,,
+N00019,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00020,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00021,Guangdong,,,missing_town,,,,,,,
+N00022,Liaoning,,,missing_town,,,,,,,
+N00023,,,,missing_town,,,,,,,
+N00024,Shandong,,,missing_town,,,,,,,
+N00025,Jiangsu,,,missing_town,,,,,,,
+N00026,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00027,Zhejiang,Lanxi,蘭溪,matched,29.2083,119.4598,223,Lanxi 蘭溪,locality reference in lookup,,223
+N00028,Jiangsu,,,missing_town,,,,,,,
+N00029,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00030,Hebei,,,missing_town,,,,,,,
+N00031,Hebei,,,missing_town,,,,,,,
+N00032,Hunan,Shaoyang,邵陽,matched,27.2384,111.4676,81,Shaoyang 邵陽,locality reference in lookup,,81
+N00033,Jehol,Chengde,承德,matched,40.9515,117.9634,194,Chengde 承德,locality reference in lookup,Rehe was a historical province; now Hebei,194
+N00034,Liaoning,,,missing_town,,,,,,,
+N00035,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00036,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00037,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00038,Guizhou,,,missing_town,,,,,,,
+N00039,Zhejiang,,,missing_town,,,,,,,
+N00040,Hebei,,,missing_town,,,,,,,
+N00041,Shandong,,,missing_town,,,,,,,
+N00042,Jiangsu,Jiangyin,江陰,matched,31.9208,120.286,28,Jiangyin 江陰,locality reference in lookup,,28
+N00043,Shandong,,,missing_town,,,,,,,
+N00044,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N00045,Shandong,,,missing_town,,,,,,,
+N00046,Zhejiang,,,missing_town,,,,,,,
+N00047,Hebei,,,missing_town,,,,,,,
+N00048,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00049,Sichuan,Neijiang,內江,matched,29.5803,105.058,91,Neijiang 內江,locality reference in lookup,,91
+N00050,Hebei,,,missing_town,,,,,,,
+N00051,Guangdong,Dongguan,東莞,matched,23.0207,113.7519,39,Dongguan 東莞,locality reference in lookup,,39
+N00052,Jiangsu,,,missing_town,,,,,,,
+N00053,Shanxi,,,missing_town,,,,,,,
+N00054,Jiangsu,,,missing_town,,,,,,,
+N00055,Sichuan,Zhongqing,重慶,matched,29.563,106.5516,60,Zhongqing 重慶,locality reference in lookup,Chongqing,60
+N00056,Jiangsu,Yizheng,儀征,matched,32.2721,119.1847,183,Yizheng 儀征,locality reference in lookup,,183
+N00057,Hebei,Gaoyang,高陽,matched,38.7003,115.7788,139,Gaoyang 高陽,locality reference in lookup,,139
+N00058,Henan,,,missing_town,,,,,,,
+N00059,Jiangsu,Xiaoxian,蕭縣,matched,34.1884,116.9472,181,Xiaoxian 蕭縣,locality reference in lookup,Now in Anhui,181
+N00060,Shandong,,,missing_town,,,,,,,
+N00061,Fujian,,,missing_town,,,,,,,
+N00062,Hebei,Boye,博野,matched,38.4581,115.4644,136,Boye 博野,locality reference in lookup,,136
+N00063,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N00064,Guangdong,Sihui,四會,matched,23.3274,112.6973,126,Sihui 四會,locality reference in lookup,,126
+N00065,Shandong,Laiwu,萊蕪,matched,36.2139,117.6762,201,Laiwu 萊蕪,locality reference in lookup,Now part of Jinan,201
+N00066,Hebei,,,missing_town,,,,,,,
+N00067,Guangdong,,,missing_town,,,,,,,
+N00068,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00069,Zhejiang,,,missing_town,,,,,,,
+N00070,Zhejiang,,,missing_town,,,,,,,
+N00071,Zhejiang,,,missing_town,,,,,,,
+N00072,Zhejiang,Fenghua,奉化,matched,29.6551,121.4068,47,Fenghua 奉化,locality reference in lookup,,47
+N00073,Guangxi,,,missing_town,,,,,,,
+N00074,Zhejiang,Jiashan,嘉善,matched,30.8456,120.9236,64,Jiashan 嘉善,locality reference in lookup,,64
+N00075,Anhui,Wuhu,蕪湖,matched,31.3521,118.4327,67,Wuhu 蕪湖,locality reference in lookup,,67
+N00076,Liaoning,,,missing_town,,,,,,,
+N00077,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00078,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00079,Fujian,Fuzhou,福州,matched,26.0745,119.2965,32,Fuzhou 福州,locality reference in lookup,,32
+N00080,Guangdong,Dongguan,東莞,matched,23.0207,113.7519,39,Dongguan 東莞,locality reference in lookup,,39
+N00081,Hubei,Huanggang,黃岡,matched,30.4548,114.8724,155,Huanggang 黃岡,locality reference in lookup,,155
+N00082,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00083,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00084,Zhejiang,,,missing_town,,,,,,,
+N00085,Jiangsu,Liyang,溧陽,matched,31.4218,119.4845,174,Liyang 溧陽,locality reference in lookup,,174
+N00086,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00087,Guangdong,,,missing_town,,,,,,,
+N00088,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00089,Anhui,,,missing_town,,,,,,,
+N00090,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00091,Fujian,,,missing_town,,,,,,,
+N00092,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00093,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00094,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00095,Suiyuan,,,missing_town,,,,,,,
+N00096,Zhejiang,Ningbo,寧波,matched,29.8683,121.544,38,Ningbo 寧波,locality reference in lookup,,38
+N00097,Anhui,,,missing_town,,,,,,,
+N00098,Hunan,Shaoyang,邵陽,matched,27.2384,111.4676,81,Shaoyang 邵陽,locality reference in lookup,,81
+N00099,Fujian,,,missing_town,,,,,,,
+N00100,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00101,Fujian,,,missing_town,,,,,,,
+N00102,Fujian,,,missing_town,,,,,,,
+N00103,Hunan,,,missing_town,,,,,,,
+N00104,Jiangxi,Pingxiang,萍鄉,matched,27.6285,113.854,186,Pingxiang 萍鄉,locality reference in lookup,,186
+N00105,Hebei,Wanxian,完縣,matched,38.9571,115.1095,144,Wanxian 完縣,locality reference in lookup,Now Shunping,144
+N00106,Shaanxi,Yulin,榆林,matched,38.2851,109.7346,198,Yulin 榆林,locality reference in lookup,,198
+N00107,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N00108,Guangdong,Chaoan,潮安,matched,23.4623,116.5978,50,Chaoan 潮安,locality reference in lookup,,50
+N00109,Sichuan,Neijiang,內江,matched,29.5803,105.058,91,Neijiang 內江,locality reference in lookup,,91
+N00110,Hubei,Guangji,廣濟,matched,29.7333,115.7333,79,Guangji 廣濟,locality reference in lookup,Historical county; now Wuxue,79
+N00111,Guangdong,Lianxian,連縣,matched,24.7661,112.3837,124,Lianxian 連縣,locality reference in lookup,Now Lianzhou,124
+N00112,Shanxi,Huairen,懷仁,matched,39.8275,113.1007,205,Huairen 懷仁,locality reference in lookup,,205
+N00113,Jiangsu,Yancheng,鹽城,matched,33.3478,120.1635,57,Yancheng 鹽城,locality reference in lookup,,57
+N00114,Guangdong,,,missing_town,,,,,,,
+N00115,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00116,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00117,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00118,,,,missing_town,,,,,,,
+N00119,,,,missing_town,,,,,,,
+N00120,,,,missing_town,,,,,,,
+N00121,Shandong,,,missing_town,,,,,,,
+N00122,,,,missing_town,,,,,,,
+N00123,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00124,Zhejiang,Jiangshan,江山,matched,28.7375,118.6244,221,Jiangshan 江山,locality reference in lookup,,221
+N00125,Guangdong,,,missing_town,,,,,,,
+N00126,Guangdong,Wuhua,五華,matched,23.9318,115.7753,127,Wuhua 五華,locality reference in lookup,,127
+N00127,Anhui,Jingxian,涇縣,matched,30.6924,118.4196,100,Jingxian 涇縣,locality reference in lookup,,100
+N00128,Guangdong,,,missing_town,,,,,,,
+N00129,Jiangsu,,,missing_town,,,,,,,
+N00130,Jiangsu,,,missing_town,,,,,,,
+N00131,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00132,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00133,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00134,Sichuan,Sichuan,四川,matched,30.5728,104.0668,92,Sichuan 四川,province proxy in lookup,Province-level; coordinates of Chengdu,92
+N00135,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N00136,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00137,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00138,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00139,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00140,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00141,Zhejiang,,,missing_town,,,,,,,
+N00142,Guangdong,,,missing_town,,,,,,,
+N00143,Hebei,,,missing_town,,,,,,,
+N00144,Jiangxi,,,missing_town,,,,,,,
+N00145,Guangdong,,,missing_town,,,,,,,
+N00146,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00147,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00148,Jiangsu,,,missing_town,,,,,,,
+N00149,Anhui,Hexian,和縣,matched,31.7419,118.3531,99,Hexian 和縣,locality reference in lookup,,99
+N00150,Jiangsu,Jiangyin,江陰,matched,31.9208,120.286,28,Jiangyin 江陰,locality reference in lookup,,28
+N00151,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00152,Guangdong,,,missing_town,,,,,,,
+N00153,Anhui,,,missing_town,,,,,,,
+N00154,Hunan,,,missing_town,,,,,,,
+N00155,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00156,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N00157,Zhejiang,,,missing_town,,,,,,,
+N00158,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00159,Yunnan,Yunnan,雲南,matched,25.0389,102.7183,216,Yunnan 雲南,province proxy in lookup,Province-level; coordinates of Kunming,216
+N00160,Guangdong,,,missing_town,,,,,,,
+N00161,Jiangsu,Huaiyin,淮陰,matched,33.5883,119.022,170,Huaiyin 淮陰,locality reference in lookup,Now part of Huai'an,170
+N00162,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00163,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00164,Jiangsu,,,missing_town,,,,,,,
+N00165,Liaoning,Liaozhong,遼中,matched,41.5063,122.7349,192,Liaozhong 遼中,locality reference in lookup,,192
+N00166,Hebei,,,missing_town,,,,,,,
+N00167,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00168,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00169,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00170,Hebei,,,missing_town,,,,,,,
+N00171,Guizhou,,,missing_town,,,,,,,
+N00172,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00173,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00174,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00175,Guangdong,,,missing_town,,,,,,,
+N00176,Guangdong,,,missing_town,,,,,,,
+N00177,Guangdong,,,missing_town,,,,,,,
+N00178,Guangdong,,,missing_town,,,,,,,
+N00179,Guangdong,,,missing_town,,,,,,,
+N00180,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00181,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00182,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00183,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00184,Guangdong,,,missing_town,,,,,,,
+N00185,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00186,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00187,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00188,Jiangsu,,,missing_town,,,,,,,
+N00189,Guangdong,Jieyang,揭陽,matched,23.5498,116.3725,72,Jieyang 揭陽,locality reference in lookup,,72
+N00190,Hubei,,,missing_town,,,,,,,
+N00191,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00192,Guangxi,Guiping,桂平,matched,23.3944,110.0792,129,Guiping 桂平,locality reference in lookup,,129
+N00193,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00194,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00195,Anhui,Shexian,歙縣,matched,29.8674,118.4151,101,Shexian 歙縣,locality reference in lookup,,101
+N00196,Hubei,,,missing_town,,,,,,,
+N00197,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00198,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00199,Anhui,,,missing_town,,,,,,,
+N00200,Guangdong,,,missing_town,,,,,,,
+N00201,Jiangsu,,,missing_town,,,,,,,
+N00202,Jiangsu,,,missing_town,,,,,,,
+N00203,Hebei,,,missing_town,,,,,,,
+N00204,Zhejiang,Jinhua,金華,matched,29.0786,119.6471,222,Jinhua 金華,locality reference in lookup,,222
+N00205,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N00206,Zhejiang,Yuyao,余姚,matched,30.0374,121.1547,95,Yuyao 余姚,locality reference in lookup,,95
+N00207,Guangdong,Shunde,順德,matched,22.8329,113.2453,27,Shunde 順德,locality reference in lookup,,27
+N00208,Zhejiang,Yuyao,余姚,matched,30.0374,121.1547,95,Yuyao 余姚,locality reference in lookup,,95
+N00209,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00210,Sichuan,Zhongqing,重慶,matched,29.563,106.5516,60,Zhongqing 重慶,locality reference in lookup,Chongqing,60
+N00211,Jiangsu,,,missing_town,,,,,,,
+N00212,,,,missing_town,,,,,,,
+N00213,Guangdong,,,missing_town,,,,,,,
+N00214,Guangdong,,,missing_town,,,,,,,
+N00215,,,,missing_town,,,,,,,
+N00216,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00217,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00218,Guangdong,Qingyuan,清遠,matched,23.6823,113.0561,125,Qingyuan 清遠,locality reference in lookup,,125
+N00219,Hubei,,,missing_town,,,,,,,
+N00220,,,,missing_town,,,,,,,
+N00221,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00222,Guangdong,,,missing_town,,,,,,,
+N00223,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00224,Hebei,,,missing_town,,,,,,,
+N00225,Shandong,,,missing_town,,,,,,,
+N00226,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00227,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N00228,Heilongjiang,Harbin,哈爾濱,matched,45.8038,126.5349,149,Harbin 哈爾濱,locality reference in lookup,,149
+N00229,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00230,Guangdong,,,missing_town,,,,,,,
+N00231,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00232,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00233,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00234,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00235,Hebei,Raoyang,饒陽,matched,38.2341,115.7262,143,Raoyang 饒陽,locality reference in lookup,,143
+N00236,Guangdong,Fengshun,豐順,matched,23.7682,116.1828,120,Fengshun 豐順,locality reference in lookup,,120
+N00237,Fujian,Nanan,南安,matched,24.96,118.3862,49,Nanan 南安,locality reference in lookup,,49
+N00238,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00239,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00240,Jiangsu,Cixi,慈溪,matched,30.1699,121.2644,54,Cixi 慈溪,locality reference in lookup,Listed under Jiangsu; likely Zhejiang Cixi,54
+N00241,Guangdong,,,missing_town,,,,,,,
+N00242,Guangdong,,,missing_town,,,,,,,
+N00243,Sichuan,,,missing_town,,,,,,,
+N00244,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00245,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N00246,Guangdong,,,missing_town,,,,,,,
+N00247,Jiangsu,Xinghua,興化,matched,32.9116,119.8526,86,Xinghua 興化,locality reference in lookup,,86
+N00248,Fujian,Fuzhou,福州,matched,26.0745,119.2965,32,Fuzhou 福州,locality reference in lookup,,32
+N00249,Fujian,Nanan,南安,matched,24.96,118.3862,49,Nanan 南安,locality reference in lookup,,49
+N00250,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00251,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00252,Jiangsu,,,missing_town,,,,,,,
+N00253,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N00254,Shandong,,,missing_town,,,,,,,
+N00255,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00256,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00257,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00258,Jiangsu,,,missing_town,,,,,,,
+N00259,Guangdong,,,missing_town,,,,,,,
+N00260,Guangdong,,,missing_town,,,,,,,
+N00261,Guangdong,,,missing_town,,,,,,,
+N00262,Guangdong,,,missing_town,,,,,,,
+N00263,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00264,Hunan,Xiangtan,湘潭,matched,27.833,112.9443,44,Xiangtan 湘潭,locality reference in lookup,,44
+N00265,Jiangsu,,,missing_town,,,,,,,
+N00266,Fujian,Tongan,同安,matched,24.7231,118.149,71,Tongan 同安,locality reference in lookup,Now part of Xiamen,71
+N00267,Guangdong,,,missing_town,,,,,,,
+N00268,Guangdong,,,missing_town,,,,,,,
+N00269,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00270,Hebei,Yutian,玉田,matched,39.8998,117.7393,147,Yutian 玉田,locality reference in lookup,,147
+N00271,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00272,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00273,Guangdong,,,missing_town,,,,,,,
+N00274,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00275,Jiangsu,,,missing_town,,,,,,,
+N00276,Jiangsu,,,missing_town,,,,,,,
+N00277,,,,missing_town,,,,,,,
+N00278,Guangdong,,,missing_town,,,,,,,
+N00279,Guangdong,,,missing_town,,,,,,,
+N00280,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00281,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00282,Guangdong,,,missing_town,,,,,,,
+N00283,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00284,Guangdong,,,missing_town,,,,,,,
+N00285,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00286,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N00287,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N00288,Guangdong,Xingning,興寧,matched,24.1355,115.731,73,Xingning 興寧,locality reference in lookup,,73
+N00289,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00290,Sichuan,,,missing_town,,,,,,,
+N00291,Hebei,,,missing_town,,,,,,,
+N00292,Guangdong,,,missing_town,,,,,,,
+N00293,Zhejiang,,,missing_town,,,,,,,
+N00294,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N00295,Jiangsu,,,missing_town,,,,,,,
+N00296,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N00297,Guangdong,,,missing_town,,,,,,,
+N00298,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00299,Guangdong,,,missing_town,,,,,,,
+N00300,Guangdong,,,missing_town,,,,,,,
+N00301,Guangdong,,,missing_town,,,,,,,
+N00302,Guangdong,,,missing_town,,,,,,,
+N00303,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00304,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00305,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00306,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00307,Guangdong,,,missing_town,,,,,,,
+N00308,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00309,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N00310,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N00311,Guangdong,,,missing_town,,,,,,,
+N00312,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N00313,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00314,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00315,Jiangsu,,,missing_town,,,,,,,
+N00316,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00317,Guangdong,,,missing_town,,,,,,,
+N00318,Guangdong,,,missing_town,,,,,,,
+N00319,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00320,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00321,Henan,Kaifeng,開封,matched,34.7971,114.3074,51,Kaifeng 開封,locality reference in lookup,,51
+N00322,Hebei,Dingxian,定縣,matched,38.5163,114.9901,137,Dingxian 定縣,locality reference in lookup,Now Dingzhou,137
+N00323,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00324,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00325,Jiangsu,Taixian,泰縣,matched,32.473,119.9196,85,Taixian 泰縣,locality reference in lookup,Historical county; now Taizhou area,85
+N00326,Jiangsu,Xinghua,興化,matched,32.9116,119.8526,86,Xinghua 興化,locality reference in lookup,,86
+N00327,Guangdong,,,missing_town,,,,,,,
+N00328,Hebei,,,missing_town,,,,,,,
+N00329,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00330,Hebei,,,missing_town,,,,,,,
+N00331,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00332,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00333,Jiangsu,Cixi,慈溪,matched,30.1699,121.2644,54,Cixi 慈溪,locality reference in lookup,Listed under Jiangsu; likely Zhejiang Cixi,54
+N00334,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00335,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00336,Zhejiang,,,missing_town,,,,,,,
+N00337,Hebei,,,missing_town,,,,,,,
+N00338,Jiangsu,Chongming,崇明,matched,31.6269,121.3973,84,Chongming 崇明,locality reference in lookup,Island; now part of Shanghai,84
+N00339,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00340,Jiangsu,,,missing_town,,,,,,,
+N00341,Jiangsu,,,missing_town,,,,,,,
+N00342,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00343,Zhejiang,Shangyu,上虞,matched,30.0337,120.869,94,Shangyu 上虞,locality reference in lookup,,94
+N00344,Jiangsu,,,missing_town,,,,,,,
+N00345,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N00346,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N00347,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00348,Guangdong,,,missing_town,,,,,,,
+N00349,Jiangsu,Zhenjiang,鎮江,matched,32.2119,119.455,46,Zhenjiang 鎮江,locality reference in lookup,,46
+N00350,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00351,,,,missing_town,,,,,,,
+N00352,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00353,Hebei,,,missing_town,,,,,,,
+N00354,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N00355,Jiangsu,Yixing,宜興,matched,31.3405,119.8233,35,Yixing 宜興,locality reference in lookup,,35
+N00356,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00357,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00358,Anhui,Xiuning,休寧,matched,29.7871,118.1869,105,Xiuning 休寧,locality reference in lookup,,105
+N00359,Guangdong,,,missing_town,,,,,,,
+N00360,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00361,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00362,Fujian,Longxi,龍溪,matched,24.5133,117.7265,33,Longxi 龍溪,locality reference in lookup,Historical county; now Zhangzhou area,33
+N00363,Anhui,,,missing_town,,,,,,,
+N00364,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00365,Guangdong,,,missing_town,,,,,,,
+N00366,Guangdong,,,missing_town,,,,,,,
+N00367,Guangdong,,,missing_town,,,,,,,
+N00368,Guangdong,Enping,恩平,matched,22.1833,112.3,40,Enping 恩平,locality reference in lookup,,40
+N00369,Hebei,Zunhua,遵化,matched,40.1895,117.9656,76,Zunhua 遵化,locality reference in lookup,,76
+N00370,Jiangsu,Jiangyin,江陰,matched,31.9208,120.286,28,Jiangyin 江陰,locality reference in lookup,,28
+N00371,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00372,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00373,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00374,Jiangsu,Taicang,太倉,matched,31.4578,121.1007,34,Taicang 太倉,locality reference in lookup,,34
+N00375,Jiangsu,,,missing_town,,,,,,,
+N00376,Jiangsu,,,missing_town,,,,,,,
+N00377,,,,missing_town,,,,,,,
+N00378,Anhui,Wuyuan,婺源,matched,29.2483,117.8613,68,Wuyuan 婺源,locality reference in lookup,Now in Jiangxi,68
+N00379,Guangdong,Chaoan,潮安,matched,23.4623,116.5978,50,Chaoan 潮安,locality reference in lookup,,50
+N00380,Anhui,Wuyuan,婺源,matched,29.2483,117.8613,68,Wuyuan 婺源,locality reference in lookup,Now in Jiangxi,68
+N00381,Guangdong,Hainan,海南,matched,20.044,110.1999,121,Hainan 海南,locality reference in lookup,Hainan Island; coordinates of Haikou,121
+N00382,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00383,Liaoning,,,missing_town,,,,,,,
+N00384,Liaoning,,,missing_town,,,,,,,
+N00385,Jiangsu,Jiangyin,江陰,matched,31.9208,120.286,28,Jiangyin 江陰,locality reference in lookup,,28
+N00386,Jiangsu,,,missing_town,,,,,,,
+N00387,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00388,Guangdong,,,missing_town,,,,,,,
+N00389,Guangdong,,,missing_town,,,,,,,
+N00390,Hebei,,,missing_town,,,,,,,
+N00391,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00392,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00393,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00394,Sichuan,Emei,峨嵋,matched,29.6012,103.552,209,Emei 峨嵋,locality reference in lookup,,209
+N00395,Jiangsu,,,missing_town,,,,,,,
+N00396,Jiangsu,Guanyun,灌雲,matched,34.2844,119.2384,167,Guanyun 灌雲,locality reference in lookup,,167
+N00397,,,,missing_town,,,,,,,
+N00398,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00399,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00400,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00401,Guangdong,,,missing_town,,,,,,,
+N00402,Guangdong,,,missing_town,,,,,,,
+N00403,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00404,Hubei,,,missing_town,,,,,,,
+N00405,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00406,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00407,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00408,Fujian,,,missing_town,,,,,,,
+N00409,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00410,Guangdong,,,missing_town,,,,,,,
+N00411,Guangdong,,,missing_town,,,,,,,
+N00412,Guangdong,,,missing_town,,,,,,,
+N00413,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00414,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00415,Guangdong,,,missing_town,,,,,,,
+N00416,Guangdong,,,missing_town,,,,,,,
+N00417,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00418,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00419,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00420,Jiangxi,,,missing_town,,,,,,,
+N00421,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00422,Hebei,,,missing_town,,,,,,,
+N00423,Fujian,,,missing_town,,,,,,,
+N00424,Fujian,,,missing_town,,,,,,,
+N00425,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N00426,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N00427,Jiangsu,,,missing_town,,,,,,,
+N00428,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00429,,,,missing_town,,,,,,,
+N00430,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00431,Fujian,Pucheng,蒲城,matched,27.9167,118.5333,112,Pucheng 蒲城,locality reference in lookup,"Pucheng county, Fujian",112
+N00432,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00433,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00434,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00435,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00436,Guangdong,,,missing_town,,,,,,,
+N00437,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00438,Jiangxi,Xiushui,修水,matched,29.0254,114.5469,187,Xiushui 修水,locality reference in lookup,,187
+N00439,Jiangsu,Shangyu,上虞,matched,30.0337,120.869,177,Shangyu 上虞,locality reference in lookup,Likely Zhejiang Shangyu; listed under Jiangsu,177
+N00440,Anhui,Zhide,至德,matched,30.6421,117.2863,106,Zhide 至德,locality reference in lookup,Historical county; now Dongzhi,106
+N00441,Guangdong,,,missing_town,,,,,,,
+N00442,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00443,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00444,Guangdong,,,missing_town,,,,,,,
+N00445,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00446,Jiangsu,,,missing_town,,,,,,,
+N00447,Guangdong,Chaoyang,潮陽,matched,23.2619,116.6007,26,Chaoyang 潮陽,locality reference in lookup,,26
+N00448,Shandong,Chanxian,單縣,matched,34.793,116.087,58,Chanxian 單縣,locality reference in lookup,,58
+N00449,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00450,Guangdong,,,missing_town,,,,,,,
+N00451,Guizhou,Anshun,安順,matched,26.2456,105.932,133,Anshun 安順,locality reference in lookup,,133
+N00452,Zhejiang,,,missing_town,,,,,,,
+N00453,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00454,Fujian,Pingtan,平潭,matched,25.499,119.7897,111,Pingtan 平潭,locality reference in lookup,,111
+N00455,Hubei,Mianyang,沔陽,matched,30.35,113.45,80,Mianyang 沔陽,locality reference in lookup,Historical county; now Xiantao,80
+N00456,Guangdong,,,missing_town,,,,,,,
+N00457,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00458,Zhejiang,Wuyi,武義,matched,28.8931,119.816,229,Wuyi 武義,locality reference in lookup,,229
+N00459,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00460,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00461,Guangdong,,,missing_town,,,,,,,
+N00462,Hunan,,,missing_town,,,,,,,
+N00463,Guangdong,,,missing_town,,,,,,,
+N00464,Zhejiang,,,missing_town,,,,,,,
+N00465,Guangdong,,,missing_town,,,,,,,
+N00466,Shandong,Chanxian,單縣,matched,34.793,116.087,58,Chanxian 單縣,locality reference in lookup,,58
+N00467,Zhejiang,Zhapu,乍浦,matched,30.5508,121.1019,233,Zhapu 乍浦,locality reference in lookup,Historical port town; now part of Pinghu,233
+N00468,Shandong,Yantai,煙台,matched,37.4638,121.4479,202,Yantai 煙台,locality reference in lookup,,202
+N00469,Hubei,,,missing_town,,,,,,,
+N00470,Henan,,,missing_town,,,,,,,
+N00471,Jiangsu,,,missing_town,,,,,,,
+N00472,Shandong,,,missing_town,,,,,,,
+N00473,Guangdong,,,missing_town,,,,,,,
+N00474,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00475,Sichuan,Chengdu,成都,matched,30.5728,104.0668,59,Chengdu 成都,locality reference in lookup,,59
+N00476,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00477,Jiangsu,,,missing_town,,,,,,,
+N00478,Liaoning,,,missing_town,,,,,,,
+N00479,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N00480,Fujian,,,missing_town,,,,,,,
+N00481,Zhejiang,,,missing_town,,,,,,,
+N00482,Fujian,,,missing_town,,,,,,,
+N00483,Fujian,Longxi,龍溪,matched,24.5133,117.7265,33,Longxi 龍溪,locality reference in lookup,Historical county; now Zhangzhou area,33
+N00484,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00485,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00486,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00487,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00488,Fujian,Longxi,龍溪,matched,24.5133,117.7265,33,Longxi 龍溪,locality reference in lookup,Historical county; now Zhangzhou area,33
+N00489,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00490,Fujian,Longxi,龍溪,matched,24.5133,117.7265,33,Longxi 龍溪,locality reference in lookup,Historical county; now Zhangzhou area,33
+N00491,Guangdong,Shantou,汕頭,matched,23.3535,116.682,42,Shantou 汕頭,locality reference in lookup,,42
+N00492,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N00493,Fujian,,,missing_town,,,,,,,
+N00494,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00495,Sichuan,Nanchong,南充,matched,30.799,106.0827,212,Nanchong 南充,locality reference in lookup,,212
+N00496,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00497,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00498,Guangdong,,,missing_town,,,,,,,
+N00499,,,,missing_town,,,,,,,
+N00500,Fujian,,,missing_town,,,,,,,
+N00501,Fujian,,,missing_town,,,,,,,
+N00502,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N00503,,,,missing_town,,,,,,,
+N00504,Guangdong,,,missing_town,,,,,,,
+N00505,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00506,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00507,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00508,Fujian,Changyue,長樂,matched,25.9633,119.5226,69,Changyue 長樂,locality reference in lookup,Changle,69
+N00509,Jiangsu,,,missing_town,,,,,,,
+N00510,Hunan,,,missing_town,,,,,,,
+N00511,Zhejiang,Pinghu,平湖,matched,30.6978,121.0183,48,Pinghu 平湖,locality reference in lookup,,48
+N00512,Zhejiang,Pinghu,平湖,matched,30.6978,121.0183,48,Pinghu 平湖,locality reference in lookup,,48
+N00513,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00514,Fujian,,,missing_town,,,,,,,
+N00515,Hebei,,,missing_town,,,,,,,
+N00516,Zhejiang,,,missing_town,,,,,,,
+N00517,Hebei,,,missing_town,,,,,,,
+N00518,Fujian,,,missing_town,,,,,,,
+N00519,Hebei,Yongqing,永清,matched,39.3205,116.5007,75,Yongqing 永清,locality reference in lookup,,75
+N00520,Hunan,Taoyuan,桃源,matched,28.9017,111.488,163,Taoyuan 桃源,locality reference in lookup,,163
+N00521,Liaoning,,,missing_town,,,,,,,
+N00522,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00523,Zhejiang,Fenghua,奉化,matched,29.6551,121.4068,47,Fenghua 奉化,locality reference in lookup,,47
+N00524,Guangdong,,,missing_town,,,,,,,
+N00525,Jiangsu,Yixing,宜興,matched,31.3405,119.8233,35,Yixing 宜興,locality reference in lookup,,35
+N00526,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00527,Guangdong,Enping,恩平,matched,22.1833,112.3,40,Enping 恩平,locality reference in lookup,,40
+N00528,Guangxi,Xilin,西林,matched,24.4897,105.0882,132,Xilin 西林,locality reference in lookup,,132
+N00529,Hunan,Linxiang,臨湘,matched,29.4773,113.4508,161,Linxiang 臨湘,locality reference in lookup,,161
+N00530,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00531,Zhejiang,Fuyang,富陽,matched,30.0487,119.9521,218,Fuyang 富陽,locality reference in lookup,,218
+N00532,Sichuan,Chengdu,成都,matched,30.5728,104.0668,59,Chengdu 成都,locality reference in lookup,,59
+N00533,Sichuan,Zhongqing,重慶,matched,29.563,106.5516,60,Zhongqing 重慶,locality reference in lookup,Chongqing,60
+N00534,Henan,Shangyin,湯陰,matched,35.9241,114.3595,77,Shangyin 湯陰,locality reference in lookup,Tangyin,77
+N00535,Henan,Shangyin,湯陰,matched,35.9241,114.3595,77,Shangyin 湯陰,locality reference in lookup,Tangyin,77
+N00536,Zhejiang,Haining,海寧,matched,30.5131,120.6811,63,Haining 海寧,locality reference in lookup,,63
+N00537,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00538,Anhui,Shouxian,壽縣,matched,32.5758,116.7846,66,Shouxian 壽縣,locality reference in lookup,,66
+N00539,Hebei,,,missing_town,,,,,,,
+N00540,Hubei,Mianyang,沔陽,matched,30.35,113.45,80,Mianyang 沔陽,locality reference in lookup,Historical county; now Xiantao,80
+N00541,Yunnan,Shiping,石屏,matched,23.7073,102.4944,93,Shiping 石屏,locality reference in lookup,,93
+N00542,Yunnan,Shiping,石屏,matched,23.7073,102.4944,93,Shiping 石屏,locality reference in lookup,,93
+N00543,Zhejiang,Qingtian,青田,matched,28.1399,120.2899,225,Qingtian 青田,locality reference in lookup,,225
+N00544,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00545,Guangdong,,,missing_town,,,,,,,
+N00546,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00547,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00548,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00549,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00550,Anhui,,,missing_town,,,,,,,
+N00551,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00552,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00553,Jiangsu,Dantu,丹徒,matched,32.1317,119.4227,55,Dantu 丹徒,locality reference in lookup,Historical county; now Zhenjiang area,55
+N00554,Jiangsu,Cixi,慈溪,matched,30.1699,121.2644,54,Cixi 慈溪,locality reference in lookup,Listed under Jiangsu; likely Zhejiang Cixi,54
+N00555,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00556,Sichuan,Chengdu,成都,matched,30.5728,104.0668,59,Chengdu 成都,locality reference in lookup,,59
+N00557,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00558,Jiangsu,Suqian,宿遷,matched,33.9613,118.2748,178,Suqian 宿遷,locality reference in lookup,,178
+N00559,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00560,Zhejiang,Shangyu,上虞,matched,30.0337,120.869,94,Shangyu 上虞,locality reference in lookup,,94
+N00561,Jiangsu,Jiangdu,江都,matched,32.4344,119.5694,56,Jiangdu 江都,locality reference in lookup,Now part of Yangzhou,56
+N00562,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00563,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N00564,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00565,Hebei,,,missing_town,,,,,,,
+N00566,Jiangsu,,,missing_town,,,,,,,
+N00567,Jiangsu,Hangxian,杭縣,matched,30.2741,120.1551,168,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,168
+N00568,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00569,Shandong,,,missing_town,,,,,,,
+N00570,Hunan,,,missing_town,,,,,,,
+N00571,Jiangsu,Kunshan,昆山,matched,31.3842,120.9581,173,Kunshan 昆山,locality reference in lookup,,173
+N00572,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00573,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00574,,,,missing_town,,,,,,,
+N00575,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00576,Zhejiang,,,missing_town,,,,,,,
+N00577,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00578,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N00579,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00580,Zhejiang,,,missing_town,,,,,,,
+N00581,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00582,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00583,Jiangsu,,,missing_town,,,,,,,
+N00584,Jiangsu,Dantu,丹徒,matched,32.1317,119.4227,55,Dantu 丹徒,locality reference in lookup,Historical county; now Zhenjiang area,55
+N00585,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00586,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00587,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00588,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00589,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00590,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00591,Shaanxi,Huaxian,華縣,matched,34.5122,109.7714,196,Huaxian 華縣,locality reference in lookup,Now Huazhou,196
+N00592,Guangdong,Chaoyang,潮陽,matched,23.2619,116.6007,26,Chaoyang 潮陽,locality reference in lookup,,26
+N00593,Fujian,,,missing_town,,,,,,,
+N00594,Fujian,,,missing_town,,,,,,,
+N00595,Fujian,,,missing_town,,,,,,,
+N00596,Fujian,Jinjiang,晉江,matched,24.7817,118.5522,109,Jinjiang 晉江,locality reference in lookup,,109
+N00597,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00598,Shanxi,Ningwu,寧武,matched,38.9992,112.3053,90,Ningwu 寧武,locality reference in lookup,,90
+N00599,Shanxi,Ningwu,寧武,matched,38.9992,112.3053,90,Ningwu 寧武,locality reference in lookup,,90
+N00600,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00601,Jiangxi,,,missing_town,,,,,,,
+N00602,Anhui,Chaoxian,巢縣,matched,31.5993,117.8607,98,Chaoxian 巢縣,locality reference in lookup,Historical county; now Chaohu,98
+N00603,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00604,,,,missing_town,,,,,,,
+N00605,Hebei,,,missing_town,,,,,,,
+N00606,Anhui,,,missing_town,,,,,,,
+N00607,Zhejiang,Cixi,慈溪,matched,30.1699,121.2644,62,Cixi 慈溪,locality reference in lookup,,62
+N00608,Guangdong,,,missing_town,,,,,,,
+N00609,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00610,Hebei,Tongxian,通縣,matched,39.9023,116.6586,74,Tongxian 通縣,locality reference in lookup,"Now Tongzhou, Beijing",74
+N00611,Guangdong,,,missing_town,,,,,,,
+N00612,Zhejiang,Linhai,臨海,matched,28.8581,121.1444,224,Linhai 臨海,locality reference in lookup,,224
+N00613,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00614,Jiangsu,Taixian,泰縣,matched,32.473,119.9196,85,Taixian 泰縣,locality reference in lookup,Historical county; now Taizhou area,85
+N00615,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00616,Guangdong,,,missing_town,,,,,,,
+N00617,Henan,,,missing_town,,,,,,,
+N00618,Henan,,,missing_town,,,,,,,
+N00619,Henan,,,missing_town,,,,,,,
+N00620,Jiangsu,,,missing_town,,,,,,,
+N00621,Jiangsu,,,missing_town,,,,,,,
+N00622,Hebei,Tongxian,通縣,matched,39.9023,116.6586,74,Tongxian 通縣,locality reference in lookup,"Now Tongzhou, Beijing",74
+N00623,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00624,Jiangsu,,,missing_town,,,,,,,
+N00625,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00626,Shandong,,,missing_town,,,,,,,
+N00627,Shanxi,,,missing_town,,,,,,,
+N00628,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00629,Sichuan,,,missing_town,,,,,,,
+N00630,Hebei,Zunhua,遵化,matched,40.1895,117.9656,76,Zunhua 遵化,locality reference in lookup,,76
+N00631,Guangdong,,,missing_town,,,,,,,
+N00632,Guangdong,,,missing_town,,,,,,,
+N00633,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00634,,,,missing_town,,,,,,,
+N00635,Guangdong,,,missing_town,,,,,,,
+N00636,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00637,Guangdong,,,missing_town,,,,,,,
+N00638,Jiangsu,,,missing_town,,,,,,,
+N00639,Guangdong,,,missing_town,,,,,,,
+N00640,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00641,Hebei,,,missing_town,,,,,,,
+N00642,Guangdong,,,missing_town,,,,,,,
+N00643,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00644,Guangdong,,,missing_town,,,,,,,
+N00645,Jiangxi,Jiujiang,九江,matched,29.7052,115.9928,36,Jiujiang 九江,locality reference in lookup,,36
+N00646,Jiangsu,Songjiang,松江,matched,31.0323,121.2278,29,Songjiang 松江,locality reference in lookup,Now part of Shanghai,29
+N00647,Jiangsu,Zhenjiang,鎮江,matched,32.2119,119.455,46,Zhenjiang 鎮江,locality reference in lookup,,46
+N00648,Guangdong,Enping,恩平,matched,22.1833,112.3,40,Enping 恩平,locality reference in lookup,,40
+N00649,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00650,,,,missing_town,,,,,,,
+N00651,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00652,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00653,Hebei,,,missing_town,,,,,,,
+N00654,Guangdong,,,missing_town,,,,,,,
+N00655,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00656,Anhui,,,missing_town,,,,,,,
+N00657,Shandong,Penglai,蓬萊,matched,37.8113,120.7591,31,Penglai 蓬萊,locality reference in lookup,,31
+N00658,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N00659,Guangdong,,,missing_town,,,,,,,
+N00660,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00661,Zhejiang,,,missing_town,,,,,,,
+N00662,Hebei,,,missing_town,,,,,,,
+N00663,Shandong,,,missing_town,,,,,,,
+N00664,Anhui,Shouxian,壽縣,matched,32.5758,116.7846,66,Shouxian 壽縣,locality reference in lookup,,66
+N00665,Liaoning,,,missing_town,,,,,,,
+N00666,Jiangsu,Gaoyou,高郵,matched,32.7893,119.4459,166,Gaoyou 高郵,locality reference in lookup,,166
+N00667,,,,missing_town,,,,,,,
+N00668,Shandong,Penglai,蓬萊,matched,37.8113,120.7591,31,Penglai 蓬萊,locality reference in lookup,,31
+N00669,Jiangsu,Nanjing,南京,matched,32.0603,118.7969,45,Nanjing 南京,locality reference in lookup,,45
+N00670,Zhejiang,,,missing_town,,,,,,,
+N00671,Guangdong,Shantou,汕頭,matched,23.3535,116.682,42,Shantou 汕頭,locality reference in lookup,,42
+N00672,Henan,Xiangcheng,項城,matched,33.46,114.875,78,Xiangcheng 項城,locality reference in lookup,,78
+N00673,Jiangsu,,,missing_town,,,,,,,
+N00674,Jiangsu,Songjiang,松江,matched,31.0323,121.2278,29,Songjiang 松江,locality reference in lookup,Now part of Shanghai,29
+N00675,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N00676,Jiangsu,Songjiang,松江,matched,31.0323,121.2278,29,Songjiang 松江,locality reference in lookup,Now part of Shanghai,29
+N00677,Hubei,Wuchang,武昌,matched,30.5539,114.3162,43,Wuchang 武昌,locality reference in lookup,Now part of Wuhan,43
+N00678,Guangdong,,,missing_town,,,,,,,
+N00679,Guangdong,,,missing_town,,,,,,,
+N00680,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N00681,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N00682,Anhui,Hefei,合肥,matched,31.8206,117.2272,65,Hefei 合肥,locality reference in lookup,,65
+N00683,Jiangxi,Nanchang,南昌,matched,28.682,115.8579,30,Nanchang 南昌,locality reference in lookup,,30
+N00684,Hunan,,,missing_town,,,,,,,
+N00685,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00686,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00687,,,,missing_town,,,,,,,
+N00688,Jiangsu,Danyang,丹陽,matched,31.9893,119.5861,165,Danyang 丹陽,locality reference in lookup,,165
+N00689,Jiangsu,Yuyao,余姚,matched,30.0374,121.1547,184,Yuyao 余姚,locality reference in lookup,Likely Zhejiang Yuyao; listed under Jiangsu,184
+N00690,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00691,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00692,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N00693,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00694,Guangdong,Chaoan,潮安,matched,23.4623,116.5978,50,Chaoan 潮安,locality reference in lookup,,50
+N00695,Guangdong,,,missing_town,,,,,,,
+N00696,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00697,Fujian,Zhangzhou,漳州,matched,24.5133,117.6478,115,Zhangzhou 漳州,locality reference in lookup,,115
+N00698,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N00699,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00700,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00701,Guangdong,,,missing_town,,,,,,,
+N00702,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00703,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00704,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00705,Sichuan,Anxian,安縣,matched,31.5347,104.5666,208,Anxian 安縣,locality reference in lookup,Now An'zhou,208
+N00706,Jiangsu,Huaian,淮安,matched,33.56,119.0215,169,Huaian 淮安,locality reference in lookup,,169
+N00707,Henan,Zhengxian,鄭縣,matched,34.7466,113.6253,152,Zhengxian 鄭縣,locality reference in lookup,Historical county; now Zhengzhou,152
+N00708,Hubei,Wuchang,武昌,matched,30.5539,114.3162,43,Wuchang 武昌,locality reference in lookup,Now part of Wuhan,43
+N00709,Guangdong,Sanshui,三水,matched,23.1565,112.8876,41,Sanshui 三水,locality reference in lookup,,41
+N00710,Guangdong,Sanshui,三水,matched,23.1565,112.8876,41,Sanshui 三水,locality reference in lookup,,41
+N00711,Guangdong,,,missing_town,,,,,,,
+N00712,Guangdong,,,missing_town,,,,,,,
+N00713,Guangdong,Deqing,德慶,matched,23.1436,111.786,119,Deqing 德慶,locality reference in lookup,,119
+N00714,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00715,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00716,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00717,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00718,Guangdong,,,missing_town,,,,,,,
+N00719,Guangdong,,,missing_town,,,,,,,
+N00720,Guangdong,,,missing_town,,,,,,,
+N00721,,,,missing_town,,,,,,,
+N00722,Guangdong,,,missing_town,,,,,,,
+N00723,Guangdong,,,missing_town,,,,,,,
+N00724,Guangdong,,,missing_town,,,,,,,
+N00725,Guangdong,,,missing_town,,,,,,,
+N00726,Guangdong,,,missing_town,,,,,,,
+N00727,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00728,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00729,Guangdong,,,missing_town,,,,,,,
+N00730,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00731,Anhui,,,missing_town,,,,,,,
+N00732,Fujian,Dean,德安,matched,26.3683,117.462,107,Dean 德安,locality reference in lookup,德安 in Fujian context; likely De'an area,107
+N00733,Shandong,Taian,泰安,matched,36.2045,117.087,89,Taian 泰安,locality reference in lookup,,89
+N00734,Hubei,Wuchang,武昌,matched,30.5539,114.3162,43,Wuchang 武昌,locality reference in lookup,Now part of Wuhan,43
+N00735,Shandong,Jinan,濟南,matched,36.6512,117.1201,88,Jinan 濟南,locality reference in lookup,,88
+N00736,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00737,Guangdong,,,missing_town,,,,,,,
+N00738,Hebei,,,missing_town,,,,,,,
+N00739,Jiangxi,Jiujiang,九江,matched,29.7052,115.9928,36,Jiujiang 九江,locality reference in lookup,,36
+N00740,Henan,,,missing_town,,,,,,,
+N00741,Hubei,,,missing_town,,,,,,,
+N00742,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00743,Guangdong,,,missing_town,,,,,,,
+N00744,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N00745,Yunnan,,,missing_town,,,,,,,
+N00746,Anhui,Tongcheng,桐城,matched,31.0552,116.9766,103,Tongcheng 桐城,locality reference in lookup,,103
+N00747,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00748,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N00749,Zhejiang,,,missing_town,,,,,,,
+N00750,,,,missing_town,,,,,,,
+N00751,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N00752,Hubei,Huangan,黃安,matched,31.3504,114.6787,154,Huangan 黃安,locality reference in lookup,Historical county; now Hong'an,154
+N00753,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00754,Guangdong,,,missing_town,,,,,,,
+N00755,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N00756,Zhejiang,,,missing_town,,,,,,,
+N00757,Sichuan,,,missing_town,,,,,,,
+N00758,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N00759,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00760,Jiangsu,,,missing_town,,,,,,,
+N00761,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00762,Guangdong,Hepu,合浦,matched,21.6667,109.2,122,Hepu 合浦,locality reference in lookup,Now in Guangxi,122
+N00763,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N00764,Jiangsu,,,missing_town,,,,,,,
+N00765,Guangdong,,,missing_town,,,,,,,
+N00766,Liaoning,,,missing_town,,,,,,,
+N00767,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00768,Hebei,,,missing_town,,,,,,,
+N00769,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00770,Guizhou,,,missing_town,,,,,,,
+N00771,Hebei,,,missing_town,,,,,,,
+N00772,Jiangsu,Jurong,句容,matched,31.9454,119.1685,172,Jurong 句容,locality reference in lookup,,172
+N00773,Zhejiang,,,missing_town,,,,,,,
+N00774,Yunnan,Kunming,昆明,matched,25.0389,102.7183,61,Kunming 昆明,locality reference in lookup,,61
+N00775,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00776,Anhui,Hefei,合肥,matched,31.8206,117.2272,65,Hefei 合肥,locality reference in lookup,,65
+N00777,Jiangxi,,,missing_town,,,,,,,
+N00778,,,,missing_town,,,,,,,
+N00779,Hubei,,,missing_town,,,,,,,
+N00780,Hebei,,,missing_town,,,,,,,
+N00781,Guangxi,Guixian,貴縣,matched,22.9978,109.5975,130,Guixian 貴縣,locality reference in lookup,Historical county; now Guigang,130
+N00782,,,,missing_town,,,,,,,
+N00783,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00784,Zhejiang,,,missing_town,,,,,,,
+N00785,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00786,Sichuan,Huayang,華陽,matched,30.5394,104.0658,210,Huayang 華陽,locality reference in lookup,Historical county; now Chengdu suburbs,210
+N00787,Zhejiang,Haiyan,海鹽,matched,30.5264,120.9467,219,Haiyan 海鹽,locality reference in lookup,,219
+N00788,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00789,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00790,,,,missing_town,,,,,,,
+N00791,Jiangsu,Nanjing,南京,matched,32.0603,118.7969,45,Nanjing 南京,locality reference in lookup,,45
+N00792,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N00793,Hebei,,,missing_town,,,,,,,
+N00794,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00795,Jiangsu,,,missing_town,,,,,,,
+N00796,Jiangsu,,,missing_town,,,,,,,
+N00797,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00798,,,,missing_town,,,,,,,
+N00799,Guangdong,,,missing_town,,,,,,,
+N00800,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00801,Hebei,,,missing_town,,,,,,,
+N00802,Henan,Luoyang,洛陽,matched,34.6197,112.4539,52,Luoyang 洛陽,locality reference in lookup,,52
+N00803,Fujian,Changyue,長樂,matched,25.9633,119.5226,69,Changyue 長樂,locality reference in lookup,Changle,69
+N00804,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N00805,Henan,,,missing_town,,,,,,,
+N00806,Hubei,,,missing_town,,,,,,,
+N00807,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00808,Hebei,Anci,安次,matched,39.5018,116.6962,134,Anci 安次,locality reference in lookup,Historical county; now Langfang area,134
+N00809,Jiangsu,,,missing_town,,,,,,,
+N00810,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N00811,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00812,Guangdong,,,missing_town,,,,,,,
+N00813,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00814,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N00815,Guangdong,Shantou,汕頭,matched,23.3535,116.682,42,Shantou 汕頭,locality reference in lookup,,42
+N00816,Guangdong,,,missing_town,,,,,,,
+N00817,Hubei,,,missing_town,,,,,,,
+N00818,Fujian,,,missing_town,,,,,,,
+N00819,,,,missing_town,,,,,,,
+N00820,Hubei,,,missing_town,,,,,,,
+N00821,Hubei,,,missing_town,,,,,,,
+N00822,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00823,Guangdong,,,missing_town,,,,,,,
+N00824,Zhejiang,Wenzhou,溫州,matched,28.0153,120.672,227,Wenzhou 溫州,locality reference in lookup,,227
+N00825,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00826,Zhejiang,Zhenhai,鎮海,matched,29.9489,121.7147,96,Zhenhai 鎮海,locality reference in lookup,Now part of Ningbo,96
+N00827,Guangdong,,,missing_town,,,,,,,
+N00828,,,,missing_town,,,,,,,
+N00829,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N00830,Guangdong,,,missing_town,,,,,,,
+N00831,Hunan,,,missing_town,,,,,,,
+N00832,Zhejiang,,,missing_town,,,,,,,
+N00833,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N00834,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00835,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00836,Jiangsu,Taiding,泰定,matched,32.473,119.9196,180,Taiding 泰定,locality reference in lookup,Likely Taizhou/Taixian area,180
+N00837,Fujian,,,missing_town,,,,,,,
+N00838,Guangdong,,,missing_town,,,,,,,
+N00839,Guangdong,,,missing_town,,,,,,,
+N00840,Fujian,,,missing_town,,,,,,,
+N00841,Guangdong,,,missing_town,,,,,,,
+N00842,Guangdong,,,missing_town,,,,,,,
+N00843,,,,missing_town,,,,,,,
+N00844,Guangdong,,,missing_town,,,,,,,
+N00845,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00846,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00847,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00848,Guangdong,,,missing_town,,,,,,,
+N00849,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00850,,,,missing_town,,,,,,,
+N00851,Guangdong,,,missing_town,,,,,,,
+N00852,Guangdong,,,missing_town,,,,,,,
+N00853,,,,missing_town,,,,,,,
+N00854,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N00855,Guangdong,,,missing_town,,,,,,,
+N00856,Guangdong,,,missing_town,,,,,,,
+N00857,Guangdong,,,missing_town,,,,,,,
+N00858,Anhui,Wangjiang,望江,matched,30.1246,116.6879,104,Wangjiang 望江,locality reference in lookup,,104
+N00859,Jiangxi,,,missing_town,,,,,,,
+N00860,,,,missing_town,,,,,,,
+N00861,Guangdong,,,missing_town,,,,,,,
+N00862,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N00863,Jiangsu,,,missing_town,,,,,,,
+N00864,Guangdong,,,missing_town,,,,,,,
+N00865,Guangdong,,,missing_town,,,,,,,
+N00866,Guangdong,,,missing_town,,,,,,,
+N00867,Guangdong,,,missing_town,,,,,,,
+N00868,Guangdong,,,missing_town,,,,,,,
+N00869,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00870,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N00871,Guangdong,,,missing_town,,,,,,,
+N00872,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00873,Guangdong,,,missing_town,,,,,,,
+N00874,,,,missing_town,,,,,,,
+N00875,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00876,Guangdong,,,missing_town,,,,,,,
+N00877,Fujian,,,missing_town,,,,,,,
+N00878,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N00879,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00880,,,,missing_town,,,,,,,
+N00881,Guangdong,Dongguan,東莞,matched,23.0207,113.7519,39,Dongguan 東莞,locality reference in lookup,,39
+N00882,Guangdong,,,missing_town,,,,,,,
+N00883,Zhejiang,Zhuji,諸暨,matched,29.7133,120.2347,97,Zhuji 諸暨,locality reference in lookup,,97
+N00884,Guangdong,,,missing_town,,,,,,,
+N00885,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00886,Zhejiang,,,missing_town,,,,,,,
+N00887,Guangdong,,,missing_town,,,,,,,
+N00888,Guangdong,,,missing_town,,,,,,,
+N00889,Zhejiang,Jiaxing,嘉興,matched,30.7522,120.7553,37,Jiaxing 嘉興,locality reference in lookup,,37
+N00890,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N00891,Guangdong,,,missing_town,,,,,,,
+N00892,,,,missing_town,,,,,,,
+N00893,Guangdong,,,missing_town,,,,,,,
+N00894,Guangdong,Enping,恩平,matched,22.1833,112.3,40,Enping 恩平,locality reference in lookup,,40
+N00895,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00896,Guangdong,,,missing_town,,,,,,,
+N00897,Guangdong,,,missing_town,,,,,,,
+N00898,Zhejiang,Zhenhai,鎮海,matched,29.9489,121.7147,96,Zhenhai 鎮海,locality reference in lookup,Now part of Ningbo,96
+N00899,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N00900,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00901,Guangdong,,,missing_town,,,,,,,
+N00902,Guangdong,,,missing_town,,,,,,,
+N00903,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00904,Guangdong,Shantou,汕頭,matched,23.3535,116.682,42,Shantou 汕頭,locality reference in lookup,,42
+N00905,Fujian,,,missing_town,,,,,,,
+N00906,Jiangsu,Songjiang,松江,matched,31.0323,121.2278,29,Songjiang 松江,locality reference in lookup,Now part of Shanghai,29
+N00907,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00908,Guangdong,,,missing_town,,,,,,,
+N00909,Guangdong,,,missing_town,,,,,,,
+N00910,Jiangsu,,,missing_town,,,,,,,
+N00911,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00912,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00913,Hunan,Changhuai,常懷,matched,29.05,111.5,156,Changhuai 常懷,locality reference in lookup,Uncertain; possibly Changde area,156
+N00914,Guangdong,,,missing_town,,,,,,,
+N00915,Guangdong,,,missing_town,,,,,,,
+N00916,Guangdong,,,missing_town,,,,,,,
+N00917,Fujian,,,missing_town,,,,,,,
+N00918,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00919,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00920,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00921,Fujian,Nanan,南安,matched,24.96,118.3862,49,Nanan 南安,locality reference in lookup,,49
+N00922,Guangdong,,,missing_town,,,,,,,
+N00923,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00924,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00925,Guangdong,,,missing_town,,,,,,,
+N00926,Guangdong,,,missing_town,,,,,,,
+N00927,Fujian,,,missing_town,,,,,,,
+N00928,Jiangxi,Yushan,玉山,matched,28.6832,118.2461,188,Yushan 玉山,locality reference in lookup,,188
+N00929,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00930,Anhui,,,missing_town,,,,,,,
+N00931,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00932,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00933,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00934,Fujian,Fuzhou,福州,matched,26.0745,119.2965,32,Fuzhou 福州,locality reference in lookup,,32
+N00935,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00936,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00937,Guangdong,,,missing_town,,,,,,,
+N00938,Guangdong,,,missing_town,,,,,,,
+N00939,Guangdong,,,missing_town,,,,,,,
+N00940,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00941,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N00942,Guangdong,,,missing_town,,,,,,,
+N00943,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00944,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00945,Guangxi,,,missing_town,,,,,,,
+N00946,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00947,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00948,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N00949,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00950,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N00951,Guangdong,,,missing_town,,,,,,,
+N00952,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00953,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N00954,Fujian,,,missing_town,,,,,,,
+N00955,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00956,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00957,Guangdong,,,missing_town,,,,,,,
+N00958,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N00959,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N00960,Guangdong,,,missing_town,,,,,,,
+N00961,Guangdong,,,missing_town,,,,,,,
+N00962,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N00963,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00964,Jiangsu,Taicang,太倉,matched,31.4578,121.1007,34,Taicang 太倉,locality reference in lookup,,34
+N00965,Jiangsu,Yixing,宜興,matched,31.3405,119.8233,35,Yixing 宜興,locality reference in lookup,,35
+N00966,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N00967,Guangdong,,,missing_town,,,,,,,
+N00968,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00969,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N00970,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00971,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00972,Zhejiang,Tiantai,天台,matched,29.1398,121.0286,226,Tiantai 天台,locality reference in lookup,,226
+N00973,Fujian,Fuzhou,福州,matched,26.0745,119.2965,32,Fuzhou 福州,locality reference in lookup,,32
+N00974,Shandong,Jinan,濟南,matched,36.6512,117.1201,88,Jinan 濟南,locality reference in lookup,,88
+N00975,Jiangsu,Songjiang,松江,matched,31.0323,121.2278,29,Songjiang 松江,locality reference in lookup,Now part of Shanghai,29
+N00976,Guangdong,,,missing_town,,,,,,,
+N00977,Hunan,Huarong,華容,matched,29.53,112.56,159,Huarong 華容,locality reference in lookup,,159
+N00978,Shandong,,,missing_town,,,,,,,
+N00979,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00980,Guangdong,,,missing_town,,,,,,,
+N00981,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N00982,Guangdong,,,missing_town,,,,,,,
+N00983,Fujian,,,missing_town,,,,,,,
+N00984,Yunnan,,,missing_town,,,,,,,
+N00985,Shandong,Penglai,蓬萊,matched,37.8113,120.7591,31,Penglai 蓬萊,locality reference in lookup,,31
+N00986,Shandong,Penglai,蓬萊,matched,37.8113,120.7591,31,Penglai 蓬萊,locality reference in lookup,,31
+N00987,Henan,Xiangcheng,項城,matched,33.46,114.875,78,Xiangcheng 項城,locality reference in lookup,,78
+N00988,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N00989,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N00990,Henan,Kaifeng,開封,matched,34.7971,114.3074,51,Kaifeng 開封,locality reference in lookup,,51
+N00991,,,,missing_town,,,,,,,
+N00992,Hunan,Ningxiang,寧鄉,matched,28.2726,112.5516,162,Ningxiang 寧鄉,locality reference in lookup,,162
+N00993,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N00994,Hunan,Xiangtan,湘潭,matched,27.833,112.9443,44,Xiangtan 湘潭,locality reference in lookup,,44
+N00995,,,,missing_town,,,,,,,
+N00996,Fujian,,,missing_town,,,,,,,
+N00997,Hubei,Wuchang,武昌,matched,30.5539,114.3162,43,Wuchang 武昌,locality reference in lookup,Now part of Wuhan,43
+N00998,Fujian,Fujian,福建,matched,26.0745,119.2965,70,Fujian 福建,province proxy in lookup,Province-level entry; coordinates of Fuzhou,70
+N00999,Zhejiang,,,missing_town,,,,,,,
+N01000,Hebei,,,missing_town,,,,,,,
+N01001,Hebei,Yanshan,鹽山,matched,38.0576,117.2296,146,Yanshan 鹽山,locality reference in lookup,,146
+N01002,Jilin,,,missing_town,,,,,,,
+N01003,Jilin,,,missing_town,,,,,,,
+N01004,,,,missing_town,,,,,,,
+N01005,Jiangsu,Dantu,丹徒,matched,32.1317,119.4227,55,Dantu 丹徒,locality reference in lookup,Historical county; now Zhenjiang area,55
+N01006,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01007,Shandong,,,missing_town,,,,,,,
+N01008,Jiangsu,Suzhou,蘇州,matched,31.299,120.5853,179,Suzhou 蘇州,locality reference in lookup,,179
+N01009,,,,missing_town,,,,,,,
+N01010,Jiangsu,,,missing_town,,,,,,,
+N01011,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N01012,Anhui,Wuhu,蕪湖,matched,31.3521,118.4327,67,Wuhu 蕪湖,locality reference in lookup,,67
+N01013,Anhui,,,missing_town,,,,,,,
+N01014,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01015,Zhejiang,Cixi,慈溪,matched,30.1699,121.2644,62,Cixi 慈溪,locality reference in lookup,,62
+N01016,Guangdong,,,missing_town,,,,,,,
+N01017,Guangdong,,,missing_town,,,,,,,
+N01018,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01019,Guangdong,,,missing_town,,,,,,,
+N01020,Guangdong,,,missing_town,,,,,,,
+N01021,Guangdong,,,missing_town,,,,,,,
+N01022,Guangdong,,,missing_town,,,,,,,
+N01023,Guangdong,,,missing_town,,,,,,,
+N01024,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01025,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01026,Guangdong,,,missing_town,,,,,,,
+N01027,Guangdong,,,missing_town,,,,,,,
+N01028,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01029,Guangdong,,,missing_town,,,,,,,
+N01030,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01031,Jiangsu,,,missing_town,,,,,,,
+N01032,,,,missing_town,,,,,,,
+N01033,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01034,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01035,,,,missing_town,,,,,,,
+N01036,Jiangsu,Yibin,宜賓,matched,28.7545,104.6428,182,Yibin 宜賓,locality reference in lookup,Note: Yibin is in Sichuan; likely a data anomaly,182
+N01037,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01038,Jiangsu,Songjiang,松江,matched,31.0323,121.2278,29,Songjiang 松江,locality reference in lookup,Now part of Shanghai,29
+N01039,Zhejiang,,,missing_town,,,,,,,
+N01040,,,,missing_town,,,,,,,
+N01041,Guangdong,,,missing_town,,,,,,,
+N01042,Henan,,,missing_town,,,,,,,
+N01043,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01044,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01045,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N01046,Jiangsu,,,missing_town,,,,,,,
+N01047,Fujian,Tongan,同安,matched,24.7231,118.149,71,Tongan 同安,locality reference in lookup,Now part of Xiamen,71
+N01048,,,,missing_town,,,,,,,
+N01049,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01050,Jiangsu,,,missing_town,,,,,,,
+N01051,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01052,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01053,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01054,Hebei,Jinxian,晉縣,matched,37.9702,115.1254,140,Jinxian 晉縣,locality reference in lookup,"Now Jinzhou, Hebei",140
+N01055,Jiangxi,Guixi,貴溪,matched,28.2964,117.2271,87,Guixi 貴溪,locality reference in lookup,,87
+N01056,Jiangxi,Nanchang,南昌,matched,28.682,115.8579,30,Nanchang 南昌,locality reference in lookup,,30
+N01057,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01058,Jiangxi,Guixi,貴溪,matched,28.2964,117.2271,87,Guixi 貴溪,locality reference in lookup,,87
+N01059,Liaoning,Haicheng,海城,matched,40.8824,122.7349,190,Haicheng 海城,locality reference in lookup,,190
+N01060,Guangdong,,,missing_town,,,,,,,
+N01061,Guangdong,,,missing_town,,,,,,,
+N01062,Guangdong,,,missing_town,,,,,,,
+N01063,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01064,Guangdong,,,missing_town,,,,,,,
+N01065,Hebei,,,missing_town,,,,,,,
+N01066,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01067,Hebei,Zhixin,支新,matched,38.35,115.5,148,Zhixin 支新,locality reference in lookup,Uncertain historical location; approx. central Hebei,148
+N01068,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N01069,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N01070,Sichuan,,,missing_town,,,,,,,
+N01071,Hubei,,,missing_town,,,,,,,
+N01072,Guangdong,,,missing_town,,,,,,,
+N01073,Guangdong,,,missing_town,,,,,,,
+N01074,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01075,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01076,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01077,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01078,Jiangsu,,,missing_town,,,,,,,
+N01079,Jiangsu,,,missing_town,,,,,,,
+N01080,Fujian,,,missing_town,,,,,,,
+N01081,,,,missing_town,,,,,,,
+N01082,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N01083,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01084,Guangdong,,,missing_town,,,,,,,
+N01085,Guangdong,,,missing_town,,,,,,,
+N01086,Shanxi,Qixian,祁縣,matched,37.3579,112.3327,206,Qixian 祁縣,locality reference in lookup,,206
+N01087,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N01088,Fujian,,,missing_town,,,,,,,
+N01089,Fujian,,,missing_town,,,,,,,
+N01090,Liaoning,Shenyang,沈陽,matched,41.8057,123.4315,193,Shenyang 沈陽,locality reference in lookup,,193
+N01091,Fujian,,,missing_town,,,,,,,
+N01092,Shaanxi,Hancheng,漢城,matched,35.4766,110.4384,195,Hancheng 漢城,locality reference in lookup,,195
+N01093,Guangxi,,,missing_town,,,,,,,
+N01094,Jiangxi,,,missing_town,,,,,,,
+N01095,Hubei,,,missing_town,,,,,,,
+N01096,Hebei,Funing,撫寧,matched,39.8882,119.245,138,Funing 撫寧,locality reference in lookup,,138
+N01097,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01098,Yunnan,Kunming,昆明,matched,25.0389,102.7183,61,Kunming 昆明,locality reference in lookup,,61
+N01099,Guangdong,Huan,湖安,matched,23.7,116.0,123,Huan 湖安,locality reference in lookup,Uncertain; approx. eastern Guangdong,123
+N01100,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01101,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01102,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01103,Chahaer,,,missing_town,,,,,,,
+N01104,Guangdong,,,missing_town,,,,,,,
+N01105,Fujian,,,missing_town,,,,,,,
+N01106,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01107,Jiangsu,,,missing_town,,,,,,,
+N01108,Shandong,Chanxian,單縣,matched,34.793,116.087,58,Chanxian 單縣,locality reference in lookup,,58
+N01109,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01110,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01111,Hunan,Hunan,湖南,matched,28.2282,112.9388,160,Hunan 湖南,province proxy in lookup,Province-level; coordinates of Changsha,160
+N01112,Zhejiang,,,missing_town,,,,,,,
+N01113,Hebei,,,missing_town,,,,,,,
+N01114,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01115,Guangdong,Shunde,順德,matched,22.8329,113.2453,27,Shunde 順德,locality reference in lookup,,27
+N01116,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N01117,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01118,Fujian,,,missing_town,,,,,,,
+N01119,Heilongjiang,,,missing_town,,,,,,,
+N01120,Jiangsu,Zhenjiang,鎮江,matched,32.2119,119.455,46,Zhenjiang 鎮江,locality reference in lookup,,46
+N01121,Guangdong,Dapu,大浦,matched,24.3499,116.6948,118,Dapu 大浦,locality reference in lookup,Likely same as Dabu 大埔,118
+N01122,Guangdong,,,missing_town,,,,,,,
+N01123,Guangdong,Sanshui,三水,matched,23.1565,112.8876,41,Sanshui 三水,locality reference in lookup,,41
+N01124,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01125,Guangdong,,,missing_town,,,,,,,
+N01126,Shanxi,Fencheng,汾城,matched,35.86,111.52,204,Fencheng 汾城,locality reference in lookup,Historical county; now Xiangfen area,204
+N01127,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01128,Shanxi,Changzi,長子,matched,36.1222,112.8777,203,Changzi 長子,locality reference in lookup,,203
+N01129,Shandong,Jiaoxian,膠縣,matched,36.2647,120.0337,200,Jiaoxian 膠縣,locality reference in lookup,Now Jiaozhou,200
+N01130,Hebei,Qingyuan,清苑,matched,38.7012,115.487,142,Qingyuan 清苑,locality reference in lookup,Now part of Baoding,142
+N01131,Jiangsu,Baoshan,寶山,matched,31.4046,121.4892,83,Baoshan 寶山,locality reference in lookup,Now part of Shanghai,83
+N01132,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01133,Jiangsu,,,missing_town,,,,,,,
+N01134,Hubei,,,missing_town,,,,,,,
+N01135,Yunnan,Tengchong,騰沖,matched,25.0255,98.4956,215,Tengchong 騰沖,locality reference in lookup,,215
+N01136,Jiangsu,Taicang,太倉,matched,31.4578,121.1007,34,Taicang 太倉,locality reference in lookup,,34
+N01137,Zhejiang,Ningbo,寧波,matched,29.8683,121.544,38,Ningbo 寧波,locality reference in lookup,,38
+N01138,Liaoning,,,missing_town,,,,,,,
+N01139,Zhejiang,Ningbo,寧波,matched,29.8683,121.544,38,Ningbo 寧波,locality reference in lookup,,38
+N01140,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N01141,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01142,Shandong,,,missing_town,,,,,,,
+N01143,Guangdong,,,missing_town,,,,,,,
+N01144,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01145,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N01146,Guangdong,,,missing_town,,,,,,,
+N01147,Guangdong,,,missing_town,,,,,,,
+N01148,Guangdong,Sanshui,三水,matched,23.1565,112.8876,41,Sanshui 三水,locality reference in lookup,,41
+N01149,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N01150,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01151,Guangdong,,,missing_town,,,,,,,
+N01152,Zhejiang,Wuxi,無錫,matched,31.4906,120.3119,228,Wuxi 無錫,locality reference in lookup,Likely Jiangsu Wuxi; listed under Zhejiang,228
+N01153,Jiangsu,Yancheng,鹽城,matched,33.3478,120.1635,57,Yancheng 鹽城,locality reference in lookup,,57
+N01154,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01155,Zhejiang,Cixi,慈溪,matched,30.1699,121.2644,62,Cixi 慈溪,locality reference in lookup,,62
+N01156,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01157,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01158,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01159,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01160,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01161,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01162,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01163,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01164,Guangdong,,,missing_town,,,,,,,
+N01165,Guangdong,,,missing_town,,,,,,,
+N01166,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01167,Zhejiang,Xiaoshan,蕭山,matched,30.1588,120.2645,231,Xiaoshan 蕭山,locality reference in lookup,Now part of Hangzhou,231
+N01168,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N01169,Jiangsu,Jiangdu,江都,matched,32.4344,119.5694,56,Jiangdu 江都,locality reference in lookup,Now part of Yangzhou,56
+N01170,Jiangsu,Yancheng,鹽城,matched,33.3478,120.1635,57,Yancheng 鹽城,locality reference in lookup,,57
+N01171,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01172,Shandong,Penglai,蓬萊,matched,37.8113,120.7591,31,Penglai 蓬萊,locality reference in lookup,,31
+N01173,Zhejiang,Pinghu,平湖,matched,30.6978,121.0183,48,Pinghu 平湖,locality reference in lookup,,48
+N01174,Guangdong,,,missing_town,,,,,,,
+N01175,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N01176,Jiangsu,,,missing_town,,,,,,,
+N01177,Jiangsu,,,missing_town,,,,,,,
+N01178,Guangdong,Dabu,大埔,matched,24.3499,116.6948,117,Dabu 大埔,locality reference in lookup,,117
+N01179,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N01180,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01181,Jiangsu,Chongming,崇明,matched,31.6269,121.3973,84,Chongming 崇明,locality reference in lookup,Island; now part of Shanghai,84
+N01182,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01183,Jiangsu,Nanjing,南京,matched,32.0603,118.7969,45,Nanjing 南京,locality reference in lookup,,45
+N01184,Jiangsu,,,missing_town,,,,,,,
+N01185,Guangdong,,,missing_town,,,,,,,
+N01186,Jiangxi,Gaoan,高安,matched,28.4151,115.3747,185,Gaoan 高安,locality reference in lookup,,185
+N01187,Zhejiang,Jiaxing,嘉興,matched,30.7522,120.7553,37,Jiaxing 嘉興,locality reference in lookup,,37
+N01188,Guangdong,,,missing_town,,,,,,,
+N01189,Guangdong,Heshan,鶴山,matched,22.765,112.9597,21,Heshan 鶴山,locality reference in lookup,,21
+N01190,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01191,Guangdong,,,missing_town,,,,,,,
+N01192,Hebei,,,missing_town,,,,,,,
+N01193,Hebei,,,missing_town,,,,,,,
+N01194,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01195,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01196,Guangdong,,,missing_town,,,,,,,
+N01197,Henan,Kaifeng,開封,matched,34.7971,114.3074,51,Kaifeng 開封,locality reference in lookup,,51
+N01198,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N01199,Zhejiang,,,missing_town,,,,,,,
+N01200,,,,missing_town,,,,,,,
+N01201,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01202,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01203,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01204,Jiangsu,,,missing_town,,,,,,,
+N01205,Shandong,Taian,泰安,matched,36.2045,117.087,89,Taian 泰安,locality reference in lookup,,89
+N01206,Guangxi,Jingxi,靖西,matched,23.1342,106.4177,131,Jingxi 靖西,locality reference in lookup,,131
+N01207,Guangdong,,,missing_town,,,,,,,
+N01208,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01209,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01210,Guangdong,,,missing_town,,,,,,,
+N01211,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01212,,,,missing_town,,,,,,,
+N01213,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01214,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01215,,,,missing_town,,,,,,,
+N01216,Jiangsu,Baoshan,寶山,matched,31.4046,121.4892,83,Baoshan 寶山,locality reference in lookup,Now part of Shanghai,83
+N01217,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01218,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01219,Henan,Luoyang,洛陽,matched,34.6197,112.4539,52,Luoyang 洛陽,locality reference in lookup,,52
+N01220,Shanxi,Wenxi,聞喜,matched,35.3753,111.2246,207,Wenxi 聞喜,locality reference in lookup,,207
+N01221,Zhejiang,Jiaxing,嘉興,matched,30.7522,120.7553,37,Jiaxing 嘉興,locality reference in lookup,,37
+N01222,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01223,Guangdong,,,missing_town,,,,,,,
+N01224,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01225,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01226,Guangdong,,,missing_town,,,,,,,
+N01227,Hunan,Xiangtan,湘潭,matched,27.833,112.9443,44,Xiangtan 湘潭,locality reference in lookup,,44
+N01228,Jiangsu,,,missing_town,,,,,,,
+N01229,Zhejiang,Zhuji,諸暨,matched,29.7133,120.2347,97,Zhuji 諸暨,locality reference in lookup,,97
+N01230,Jiangxi,Nanchang,南昌,matched,28.682,115.8579,30,Nanchang 南昌,locality reference in lookup,,30
+N01231,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N01232,Sichuan,Wanxian,萬縣,matched,30.8077,108.376,214,Wanxian 萬縣,locality reference in lookup,Historical county; now Wanzhou,214
+N01233,Hebei,,,missing_town,,,,,,,
+N01234,Hebei,,,missing_town,,,,,,,
+N01235,Hubei,Guangji,廣濟,matched,29.7333,115.7333,79,Guangji 廣濟,locality reference in lookup,Historical county; now Wuxue,79
+N01236,Jiangsu,,,missing_town,,,,,,,
+N01237,Guangdong,,,missing_town,,,,,,,
+N01238,Jiangsu,,,missing_town,,,,,,,
+N01239,Guangdong,,,missing_town,,,,,,,
+N01240,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01241,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01242,Hebei,Baxian,霸縣,matched,39.1162,116.3935,135,Baxian 霸縣,locality reference in lookup,Now Ba Zhou,135
+N01243,Guangdong,,,missing_town,,,,,,,
+N01244,Fujian,,,missing_town,,,,,,,
+N01245,Guangdong,,,missing_town,,,,,,,
+N01246,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N01247,Hubei,,,missing_town,,,,,,,
+N01248,Guangdong,Chaoyang,潮陽,matched,23.2619,116.6007,26,Chaoyang 潮陽,locality reference in lookup,,26
+N01249,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01250,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01251,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01252,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N01253,Jiangsu,Rugao,如皋,matched,32.3749,120.5742,176,Rugao 如皋,locality reference in lookup,,176
+N01254,Hebei,,,missing_town,,,,,,,
+N01255,Jiangsu,Qingpu,青浦,matched,31.1512,121.1241,175,Qingpu 青浦,locality reference in lookup,Now part of Shanghai,175
+N01256,Guangdong,,,missing_town,,,,,,,
+N01257,Shandong,,,missing_town,,,,,,,
+N01258,Zhejiang,,,missing_town,,,,,,,
+N01259,Fujian,,,missing_town,,,,,,,
+N01260,Liaoning,,,missing_town,,,,,,,
+N01261,Jiangsu,,,missing_town,,,,,,,
+N01262,Hebei,,,missing_town,,,,,,,
+N01263,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01264,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01265,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01266,Guangdong,,,missing_town,,,,,,,
+N01267,Hebei,,,missing_town,,,,,,,
+N01268,Guangdong,,,missing_town,,,,,,,
+N01269,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01270,Shandong,Heze,菏澤,matched,35.2333,115.4667,199,Heze 菏澤,locality reference in lookup,,199
+N01271,Guangdong,,,missing_town,,,,,,,
+N01272,Shandong,,,missing_town,,,,,,,
+N01273,Hebei,,,missing_town,,,,,,,
+N01274,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01275,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N01276,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01277,Anhui,Shucheng,舒城,matched,31.4621,116.9486,102,Shucheng 舒城,locality reference in lookup,,102
+N01278,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01279,Henan,,,missing_town,,,,,,,
+N01280,Guangdong,,,missing_town,,,,,,,
+N01281,Guangdong,,,missing_town,,,,,,,
+N01282,Zhejiang,Yongjia,永嘉,matched,28.1528,120.6936,232,Yongjia 永嘉,locality reference in lookup,,232
+N01283,Jiangsu,,,missing_town,,,,,,,
+N01284,Zhejiang,,,missing_town,,,,,,,
+N01285,Guangdong,Shunde,順德,matched,22.8329,113.2453,27,Shunde 順德,locality reference in lookup,,27
+N01286,Zhejiang,Jiaxing,嘉興,matched,30.7522,120.7553,37,Jiaxing 嘉興,locality reference in lookup,,37
+N01287,Guangdong,Shunde,順德,matched,22.8329,113.2453,27,Shunde 順德,locality reference in lookup,,27
+N01288,Henan,,,missing_town,,,,,,,
+N01289,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01290,,,,missing_town,,,,,,,
+N01291,Guangdong,Chaoyang,潮陽,matched,23.2619,116.6007,26,Chaoyang 潮陽,locality reference in lookup,,26
+N01292,Hebei,,,missing_town,,,,,,,
+N01293,Sichuan,,,missing_town,,,,,,,
+N01294,,,,missing_town,,,,,,,
+N01295,Hebei,,,missing_town,,,,,,,
+N01296,Jiangsu,Taicang,太倉,matched,31.4578,121.1007,34,Taicang 太倉,locality reference in lookup,,34
+N01297,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N01298,Hebei,,,missing_town,,,,,,,
+N01299,Guangdong,,,missing_town,,,,,,,
+N01300,,,,missing_town,,,,,,,
+N01301,Fujian,,,missing_town,,,,,,,
+N01302,Fujian,,,missing_town,,,,,,,
+N01303,Anhui,,,missing_town,,,,,,,
+N01304,Fujian,,,missing_town,,,,,,,
+N01305,Hebei,,,missing_town,,,,,,,
+N01306,Fujian,Xianyou,仙遊,matched,25.3625,118.6922,113,Xianyou 仙遊,locality reference in lookup,,113
+N01307,Fujian,Zhangpu,漳浦,matched,24.1167,117.6167,114,Zhangpu 漳浦,locality reference in lookup,,114
+N01308,Guangdong,,,missing_town,,,,,,,
+N01309,Guangdong,,,missing_town,,,,,,,
+N01310,Guangdong,,,missing_town,,,,,,,
+N01311,Jiangsu,Yixing,宜興,matched,31.3405,119.8233,35,Yixing 宜興,locality reference in lookup,,35
+N01312,Guangdong,,,missing_town,,,,,,,
+N01313,Guangdong,,,missing_town,,,,,,,
+N01314,Hunan,Xiangtan,湘潭,matched,27.833,112.9443,44,Xiangtan 湘潭,locality reference in lookup,,44
+N01315,Guangdong,,,missing_town,,,,,,,
+N01316,Guangdong,,,missing_town,,,,,,,
+N01317,Hubei,,,missing_town,,,,,,,
+N01318,Guangdong,,,missing_town,,,,,,,
+N01319,Guangdong,,,missing_town,,,,,,,
+N01320,Zhejiang,Yinxian,鄞縣,matched,29.8683,121.544,16,Yinxian 鄞縣,locality reference in lookup,Historical county; now Ningbo,16
+N01321,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01322,Guangdong,Jieyang,揭陽,matched,23.5498,116.3725,72,Jieyang 揭陽,locality reference in lookup,,72
+N01323,Guangdong,,,missing_town,,,,,,,
+N01324,Fujian,Minhou,閩侯,matched,26.15,119.1333,12,Minhou 閩侯,locality reference in lookup,Historical county; now Fuzhou suburbs,12
+N01325,Guangdong,,,missing_town,,,,,,,
+N01326,Guangdong,,,missing_town,,,,,,,
+N01327,Guangdong,Chaoyang,潮陽,matched,23.2619,116.6007,26,Chaoyang 潮陽,locality reference in lookup,,26
+N01328,Hebei,,,missing_town,,,,,,,
+N01329,,,,missing_town,,,,,,,
+N01330,Jiangsu,,,missing_town,,,,,,,
+N01331,Jiangxi,Jiujiang,九江,matched,29.7052,115.9928,36,Jiujiang 九江,locality reference in lookup,,36
+N01332,Jiangxi,Jiujiang,九江,matched,29.7052,115.9928,36,Jiujiang 九江,locality reference in lookup,,36
+N01333,Guangdong,,,missing_town,,,,,,,
+N01334,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01335,Guangdong,,,missing_town,,,,,,,
+N01336,Zhejiang,Dinghai,定海,matched,30.0241,122.1064,217,Dinghai 定海,locality reference in lookup,Now part of Zhoushan,217
+N01337,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01338,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01339,,,,missing_town,,,,,,,
+N01340,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01341,Hunan,,,missing_town,,,,,,,
+N01342,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01343,,,,missing_town,,,,,,,
+N01344,Guangdong,,,missing_town,,,,,,,
+N01345,Guangdong,Xingning,興寧,matched,24.1355,115.731,73,Xingning 興寧,locality reference in lookup,,73
+N01346,Liaoning,Jinxi,錦西,matched,40.7469,120.9882,191,Jinxi 錦西,locality reference in lookup,Now Huludao,191
+N01347,Fujian,Jingjiang,靖江,matched,32.0176,120.2774,108,Jingjiang 靖江,locality reference in lookup,Note: Jingjiang is in Jiangsu; possible Fujian variant,108
+N01348,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01349,Jiangsu,Nantong,南通,matched,31.9816,120.8944,25,Nantong 南通,locality reference in lookup,,25
+N01350,Sichuan,Lianxi,蓮溪,matched,30.45,105.05,211,Lianxi 蓮溪,locality reference in lookup,Uncertain; approx. central Sichuan,211
+N01351,Zhejiang,Hangzhou,杭州,matched,30.2741,120.1551,220,Hangzhou 杭州,locality reference in lookup,,220
+N01352,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01353,Hebei,,,missing_town,,,,,,,
+N01354,Jiangsu,Jiangdu,江都,matched,32.4344,119.5694,56,Jiangdu 江都,locality reference in lookup,Now part of Yangzhou,56
+N01355,Hebei,,,missing_town,,,,,,,
+N01356,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01357,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01358,Zhejiang,Haining,海寧,matched,30.5131,120.6811,63,Haining 海寧,locality reference in lookup,,63
+N01359,,,,missing_town,,,,,,,
+N01360,Zhejiang,Xiangshan,象山,matched,29.4766,121.8693,230,Xiangshan 象山,locality reference in lookup,,230
+N01361,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01362,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01363,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01364,,,,missing_town,,,,,,,
+N01365,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01366,Jiangxi,,,missing_town,,,,,,,
+N01367,Guangdong,,,missing_town,,,,,,,
+N01368,Hebei,,,missing_town,,,,,,,
+N01369,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01370,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01371,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01372,Guangdong,,,missing_town,,,,,,,
+N01373,Jiangxi,Nanchang,南昌,matched,28.682,115.8579,30,Nanchang 南昌,locality reference in lookup,,30
+N01374,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N01375,Guangdong,,,missing_town,,,,,,,
+N01376,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01377,Zhejiang,Ningbo,寧波,matched,29.8683,121.544,38,Ningbo 寧波,locality reference in lookup,,38
+N01378,Guangdong,,,missing_town,,,,,,,
+N01379,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01380,Hebei,,,missing_town,,,,,,,
+N01381,Yunnan,,,missing_town,,,,,,,
+N01382,Guangdong,,,missing_town,,,,,,,
+N01383,Guangdong,,,missing_town,,,,,,,
+N01384,Guangdong,,,missing_town,,,,,,,
+N01385,Guangdong,,,missing_town,,,,,,,
+N01386,Fujian,,,missing_town,,,,,,,
+N01387,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01388,Fujian,Shamen,廈門,matched,24.4798,118.0894,23,Shamen 廈門,locality reference in lookup,Xiamen,23
+N01389,Guangdong,,,missing_town,,,,,,,
+N01390,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01391,Shandong,,,missing_town,,,,,,,
+N01392,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N01393,Zhejiang,Zhejiang,浙江,matched,30.2741,120.1551,234,Zhejiang 浙江,province proxy in lookup,Province-level; coordinates of Hangzhou,234
+N01394,Zhejiang,Jiashan,嘉善,matched,30.8456,120.9236,64,Jiashan 嘉善,locality reference in lookup,,64
+N01395,Zhejiang,Jiashan,嘉善,matched,30.8456,120.9236,64,Jiashan 嘉善,locality reference in lookup,,64
+N01396,Zhejiang,Pinghu,平湖,matched,30.6978,121.0183,48,Pinghu 平湖,locality reference in lookup,,48
+N01397,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N01398,Zhejiang,Hangxian,杭縣,matched,30.2741,120.1551,14,Hangxian 杭縣,locality reference in lookup,Historical county; now Hangzhou area,14
+N01399,Jiangsu,Jintan,金壇,matched,31.7437,119.5975,171,Jintan 金壇,locality reference in lookup,,171
+N01400,Zhejiang,Wuxing,吳興,matched,30.8703,120.0933,15,Wuxing 吳興,locality reference in lookup,Historical county; now Huzhou,15
+N01401,Zhejiang,Jiaxing,嘉興,matched,30.7522,120.7553,37,Jiaxing 嘉興,locality reference in lookup,,37
+N01402,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01403,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01404,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01405,Heilongjiang,,,missing_town,,,,,,,
+N01406,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01407,Hubei,,,missing_town,,,,,,,
+N01408,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N01409,Hubei,,,missing_town,,,,,,,
+N01410,Fujian,Fuzhou,福州,matched,26.0745,119.2965,32,Fuzhou 福州,locality reference in lookup,,32
+N01411,Fujian,Fujian,福建,matched,26.0745,119.2965,70,Fujian 福建,province proxy in lookup,Province-level entry; coordinates of Fuzhou,70
+N01412,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N01413,Guangdong,,,missing_town,,,,,,,
+N01414,Jiangxi,,,missing_town,,,,,,,
+N01415,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01416,Guangdong,,,missing_town,,,,,,,
+N01417,Shandong,,,missing_town,,,,,,,
+N01418,Shandong,,,missing_town,,,,,,,
+N01419,Hunan,Xiangxiang,湘鄉,matched,27.7346,112.5316,82,Xiangxiang 湘鄉,locality reference in lookup,,82
+N01420,Sichuan,Sichuan,四川,matched,30.5728,104.0668,92,Sichuan 四川,province proxy in lookup,Province-level; coordinates of Chengdu,92
+N01421,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01422,Shandong,,,missing_town,,,,,,,
+N01423,Liaoning,,,missing_town,,,,,,,
+N01424,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01425,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01426,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01427,,,,missing_town,,,,,,,
+N01428,Fujian,Longxi,龍溪,matched,24.5133,117.7265,33,Longxi 龍溪,locality reference in lookup,Historical county; now Zhangzhou area,33
+N01429,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01430,Zhejiang,,,missing_town,,,,,,,
+N01431,Guangdong,,,missing_town,,,,,,,
+N01432,Guangdong,Dongguan,東莞,matched,23.0207,113.7519,39,Dongguan 東莞,locality reference in lookup,,39
+N01433,Guangdong,,,missing_town,,,,,,,
+N01434,Guangdong,Meixian,梅縣,matched,24.2996,116.1228,18,Meixian 梅縣,locality reference in lookup,,18
+N01435,Hebei,Yongqing,永清,matched,39.3205,116.5007,75,Yongqing 永清,locality reference in lookup,,75
+N01436,Guangdong,,,missing_town,,,,,,,
+N01437,Guangdong,,,missing_town,,,,,,,
+N01438,Guangdong,,,missing_town,,,,,,,
+N01439,Jiangsu,Wuxian,吳縣,matched,31.3191,120.6291,8,Wuxian 吳縣,locality reference in lookup,Historical county; now Suzhou area,8
+N01440,Guangdong,,,missing_town,,,,,,,
+N01441,Jiangsu,Changshou,常熟,matched,31.6542,120.7523,19,Changshou 常熟,locality reference in lookup,,19
+N01442,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01443,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N01444,Guangxi,Guilin,桂林,matched,25.2736,110.29,128,Guilin 桂林,locality reference in lookup,,128
+N01445,Zhejiang,Shaoxing,紹興,matched,30.0025,120.58,20,Shaoxing 紹興,locality reference in lookup,,20
+N01446,Jiangsu,Wujin,武進,matched,31.7781,119.9643,10,Wujin 武進,locality reference in lookup,Historical county; now Changzhou area,10
+N01447,Henan,Luoyang,洛陽,matched,34.6197,112.4539,52,Luoyang 洛陽,locality reference in lookup,,52
+N01448,Guangdong,,,missing_town,,,,,,,
+N01449,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01450,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01451,,,,missing_town,,,,,,,
+N01452,Guangdong,,,missing_town,,,,,,,
+N01453,Guangdong,,,missing_town,,,,,,,
+N01454,Guangdong,Chaoyang,潮陽,matched,23.2619,116.6007,26,Chaoyang 潮陽,locality reference in lookup,,26
+N01455,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01456,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01457,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N01458,Guangdong,,,missing_town,,,,,,,
+N01459,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01460,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01461,Guangdong,,,missing_town,,,,,,,
+N01462,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01463,Guangdong,,,missing_town,,,,,,,
+N01464,Jiangsu,Yixing,宜興,matched,31.3405,119.8233,35,Yixing 宜興,locality reference in lookup,,35
+N01465,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01466,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01467,Zhejiang,,,missing_town,,,,,,,
+N01468,Fujian,,,missing_town,,,,,,,
+N01469,Hebei,,,missing_town,,,,,,,
+N01470,Hebei,,,missing_town,,,,,,,
+N01471,Henan,,,missing_town,,,,,,,
+N01472,Henan,,,missing_town,,,,,,,
+N01473,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01474,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N01475,Jiangxi,Nanchang,南昌,matched,28.682,115.8579,30,Nanchang 南昌,locality reference in lookup,,30
+N01476,Jiangxi,Nanchang,南昌,matched,28.682,115.8579,30,Nanchang 南昌,locality reference in lookup,,30
+N01477,Jiangsu,Taicang,太倉,matched,31.4578,121.1007,34,Taicang 太倉,locality reference in lookup,,34
+N01478,Yunnan,Kunming,昆明,matched,25.0389,102.7183,61,Kunming 昆明,locality reference in lookup,,61
+N01479,Jiangsu,Jiangyin,江陰,matched,31.9208,120.286,28,Jiangyin 江陰,locality reference in lookup,,28
+N01480,Zhejiang,Fenghua,奉化,matched,29.6551,121.4068,47,Fenghua 奉化,locality reference in lookup,,47
+N01481,Zhejiang,Fenghua,奉化,matched,29.6551,121.4068,47,Fenghua 奉化,locality reference in lookup,,47
+N01482,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01483,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01484,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01485,Guangdong,,,missing_town,,,,,,,
+N01486,Guangdong,,,missing_town,,,,,,,
+N01487,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01488,,,,missing_town,,,,,,,
+N01489,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01490,Shandong,,,missing_town,,,,,,,
+N01491,Henan,Mengjin,孟津,matched,34.8229,112.4382,151,Mengjin 孟津,locality reference in lookup,,151
+N01492,Jiangsu,,,missing_town,,,,,,,
+N01493,Zhejiang,Haining,海寧,matched,30.5131,120.6811,63,Haining 海寧,locality reference in lookup,,63
+N01494,Guangdong,,,missing_town,,,,,,,
+N01495,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01496,Guangdong,,,missing_town,,,,,,,
+N01497,Guangdong,,,missing_town,,,,,,,
+N01498,Guangdong,,,missing_town,,,,,,,
+N01499,Guangdong,,,missing_town,,,,,,,
+N01500,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01501,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01502,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01503,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01504,Guangdong,,,missing_town,,,,,,,
+N01505,Hebei,Beijing,北京,matched,39.9042,116.4074,11,Beijing 北京,locality reference in lookup,,11
+N01506,Guangdong,,,missing_town,,,,,,,
+N01507,Guangdong,Shunde,順德,matched,22.8329,113.2453,27,Shunde 順德,locality reference in lookup,,27
+N01508,Jiangsu,,,missing_town,,,,,,,
+N01509,Guangdong,Taishan,台山,matched,22.2516,112.7786,1,Taishan 台山,locality reference in lookup,,1
+N01510,Guangdong,Kaiping,開平,matched,22.3762,112.6991,7,Kaiping 開平,locality reference in lookup,,7
+N01511,Hunan,,,missing_town,,,,,,,
+N01512,Hunan,Hengyang,衡陽,matched,26.893,112.5716,53,Hengyang 衡陽,locality reference in lookup,,53
+N01513,Guangdong,,,missing_town,,,,,,,
+N01514,Hunan,Hengyang,衡陽,matched,26.893,112.5716,53,Hengyang 衡陽,locality reference in lookup,,53
+N01515,Jiangsu,Zhenjiang,鎮江,matched,32.2119,119.455,46,Zhenjiang 鎮江,locality reference in lookup,,46
+N01516,Hunan,Hengyang,衡陽,matched,26.893,112.5716,53,Hengyang 衡陽,locality reference in lookup,,53
+N01517,Hunan,Changsha,長沙,matched,28.2282,112.9388,13,Changsha 長沙,locality reference in lookup,,13
+N01518,Hunan,Xiangxiang,湘鄉,matched,27.7346,112.5316,82,Xiangxiang 湘鄉,locality reference in lookup,,82
+N01519,Jiangxi,Jiujiang,九江,matched,29.7052,115.9928,36,Jiujiang 九江,locality reference in lookup,,36
+N01520,Guangdong,Shunde,順德,matched,22.8329,113.2453,27,Shunde 順德,locality reference in lookup,,27
+N01521,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01522,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N01523,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N01524,Hebei,,,missing_town,,,,,,,
+N01525,Guangdong,,,missing_town,,,,,,,
+N01526,Sichuan,,,missing_town,,,,,,,
+N01527,Fujian,Nanping,南平,matched,26.6453,118.178,110,Nanping 南平,locality reference in lookup,,110
+N01528,Hubei,,,missing_town,,,,,,,
+N01529,Sichuan,Tongliang,銅梁,matched,29.8393,106.0549,213,Tongliang 銅梁,locality reference in lookup,,213
+N01530,Guangxi,,,missing_town,,,,,,,
+N01531,Liaoning,,,missing_town,,,,,,,
+N01532,Guangdong,Nanhai,南海,matched,23.0277,113.1429,9,Nanhai 南海,locality reference in lookup,,9
+N01533,Henan,Jixian,汲縣,matched,35.4039,114.0659,150,Jixian 汲縣,locality reference in lookup,Historical county; now Weihui,150
+N01534,Hubei,,,missing_town,,,,,,,
+N01535,Hubei,Hanchuan,漢川,matched,30.6546,113.8388,153,Hanchuan 漢川,locality reference in lookup,,153
+N01536,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01537,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01538,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01539,Shaanxi,Xi'an,西安,matched,34.3416,108.9398,197,Xi'an 西安,locality reference in lookup,,197
+N01540,Jiangsu,Wuxi,無錫,matched,31.4906,120.3119,5,Wuxi 無錫,locality reference in lookup,,5
+N01541,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N01542,Guangdong,Zhongshan,中山,matched,22.5176,113.3926,3,Zhongshan 中山,locality reference in lookup,,3
+N01543,Jiangsu,,,missing_town,,,,,,,
+N01544,Jiangsu,Shanghai,上海,matched,31.2304,121.4737,2,Shanghai 上海,locality reference in lookup,,2
+N01545,Jiangsu,Jiading,嘉定,matched,31.375,121.2652,24,Jiading 嘉定,locality reference in lookup,Now part of Shanghai,24
+N01546,Hebei,,,missing_town,,,,,,,
+N01547,Jiangsu,Jiangyin,江陰,matched,31.9208,120.286,28,Jiangyin 江陰,locality reference in lookup,,28
+N01548,Zhejiang,Ningbo,寧波,matched,29.8683,121.544,38,Ningbo 寧波,locality reference in lookup,,38
+N01549,,,,missing_town,,,,,,,
+N01550,Shandong,,,missing_town,,,,,,,
+N01551,,,,missing_town,,,,,,,
+N01552,Guangdong,Fanou,番禺,matched,23.0,113.3833,17,Fanou 番禺,locality reference in lookup,Historical county; now Guangzhou area,17
+N01553,Hubei,,,missing_town,,,,,,,
+N01554,Hunan,Hengshan,衡山,matched,27.2302,112.8681,158,Hengshan 衡山,locality reference in lookup,,158
+N01555,Jiangsu,,,missing_town,,,,,,,
+N01556,,,,missing_town,,,,,,,
+N01557,Jiangsu,Nanjing,南京,matched,32.0603,118.7969,45,Nanjing 南京,locality reference in lookup,,45
+N01558,Guangdong,,,missing_town,,,,,,,
+N01559,,,,missing_town,,,,,,,
+N01560,Zhejiang,Shengxian,嵊縣,matched,29.5997,120.8275,22,Shengxian 嵊縣,locality reference in lookup,Historical county; now Shengzhou,22
+N01561,Hunan,Changning,常寧,matched,26.4167,112.3833,157,Changning 常寧,locality reference in lookup,,157
+N01562,Hebei,Luanxian,灤縣,matched,39.7399,118.7029,141,Luanxian 灤縣,locality reference in lookup,Now Luanzhou,141
+N01563,,,,missing_town,,,,,,,
+N01564,,,,missing_town,,,,,,,
+N01565,,,,missing_town,,,,,,,
+N01566,Guangdong,,,missing_town,,,,,,,
+N01567,,,,missing_town,,,,,,,
+N01568,,,,missing_town,,,,,,,
+N01569,Guangdong,,,missing_town,,,,,,,
+N01570,,,,missing_town,,,,,,,
+N01571,,,,missing_town,,,,,,,
+N01572,,,,missing_town,,,,,,,
+N01573,Zhejiang,,,missing_town,,,,,,,
+N01574,,,,missing_town,,,,,,,
+N01575,Henan,,,missing_town,,,,,,,
+N01576,Guangdong,Baoan,寶安,matched,22.5552,113.8838,116,Baoan 寶安,locality reference in lookup,Now Shenzhen area,116
+N01577,,,,missing_town,,,,,,,
+N01578,Guangdong,,,missing_town,,,,,,,
+N01579,Sichuan,,,missing_town,,,,,,,
+N01580,,,,missing_town,,,,,,,
+N01581,Fujian,,,missing_town,,,,,,,
+N01582,,,,missing_town,,,,,,,
+N01583,Liaoning,,,missing_town,,,,,,,
+N01584,Guangdong,,,missing_town,,,,,,,
+N01585,Hubei,,,missing_town,,,,,,,
+N01586,Guangdong,Xinhui,新會,matched,22.458,113.034,4,Xinhui 新會,locality reference in lookup,,4
+N01587,Hebei,,,missing_town,,,,,,,
+N01588,,,,missing_town,,,,,,,
+N01589,Hubei,,,missing_town,,,,,,,
+N01590,Guangdong,,,missing_town,,,,,,,
+N01591,Sichuan,,,missing_town,,,,,,,
+N01592,Fujian,,,missing_town,,,,,,,
+N01593,,,,missing_town,,,,,,,
+N01594,Shanxi,,,missing_town,,,,,,,
+N01595,,,,missing_town,,,,,,,
+N01596,,,,missing_town,,,,,,,
+N01597,Fujian,,,missing_town,,,,,,,
+N01598,,,,missing_town,,,,,,,
+N01599,Fujian,,,missing_town,,,,,,,
+N01600,,,,missing_town,,,,,,,
+N01601,Guangdong,,,missing_town,,,,,,,
+N01602,,,,missing_town,,,,,,,
+N01603,,,,missing_town,,,,,,,
+N01604,,,,missing_town,,,,,,,
+N01605,Jiangsu,,,missing_town,,,,,,,
+N01606,Jiangxi,,,missing_town,,,,,,,
+N01607,,,,missing_town,,,,,,,
+N01608,Fujian,,,missing_town,,,,,,,
+N01609,Guangdong,,,missing_town,,,,,,,
+N01610,Guangdong,,,missing_town,,,,,,,
+N01611,Guangdong,,,missing_town,,,,,,,
+N01612,Hebei,Tianjin,天津,matched,39.3434,117.3616,6,Tianjin 天津,locality reference in lookup,,6
+N01613,Jiangsu,,,missing_town,,,,,,,

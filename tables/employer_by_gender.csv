@@ -1,0 +1,805 @@
+﻿gender,employer,appointments,students,employers
+M,National Resources Commission,51,47,1
+M,Tsinghua University,47,43,1
+M,Universal Trading Corporation,39,39,1
+M,Department of Military Training,34,32,1
+M,Bank of China,32,30,1
+M,Aeronautical Commission,31,24,1
+M,Chinese Ministry of Military Administration,21,14,1
+M,Chinese Ministry of Communications,21,16,1
+M,China Defense Supplies Corporation,18,17,1
+M,Yenching University,16,12,1
+M,General Electric Company,15,12,1
+M,University of Michigan,14,14,1
+M,National Central University,14,14,1
+M,United States Embassy,14,13,1
+M,Harvard University,13,12,1
+M,Giffels & Vallet Incorporated,13,13,1
+M,Academia Sinica,12,12,1
+M,Jiaotong University,12,11,1
+M,Lingnan University,12,10,1
+M,National Southwestern Associated University,11,11,1
+M,University of Chicago,11,9,1
+M,Peking University,10,10,1
+M,Fifth Army,10,9,1
+M,Zhejiang University,10,10,1
+M,Wah Chang Trading Corporation,10,10,1
+M,Sun Yat-sen University,9,9,1
+M,Curtiss-Wright Aircraft Corporation,9,9,1
+M,Massachusetts Institute of Technology,9,8,1
+M,Kaiser Shipbuilding Corporation,9,9,1
+M,University of Minnesota,9,9,1
+M,Army Mechanized School,8,8,1
+M,University of California,8,8,1
+M,Chinese Ministry of Economic Affairs,8,7,1
+M,Unknown,8,8,0
+F,Bank of China,8,8,1
+M,Fukien Christian University,8,6,1
+M,Chinese Ministry of Foreign Affairs,7,7,1
+F,Yale University,7,7,1
+M,University of Nanking (Ginling University),7,7,1
+M,China Institute in America,7,7,1
+M,Chinese Consulate General in New York,7,7,1
+M,Chinese Ministry of Industry,6,6,1
+M,American Airlines Incorporated,6,6,1
+M,Chinese News Service,6,6,1
+M,Peking Union Medical College (PUMC),6,6,1
+M,Military Affairs Commission,6,5,1
+M,Radio Corporation of America (RCA),6,6,1
+M,United States Department of War,5,5,1
+M,Cheeloo University (Shandong University),5,5,1
+M,Chinese Consulate in New Orleans,5,3,1
+M,Nankai University,5,5,1
+M,United States Army,5,5,1
+M,Lee Engineering Company,5,5,1
+M,Chinese Consulate General in Honolulu,5,4,1
+M,University of Shanghai,5,4,1
+M,Chinese Consulate in Seattle,5,5,1
+M,Wuhan University,5,4,1
+M,Central News Agency,4,4,1
+M,Beijing Normal University,4,4,1
+M,California Institute of Technology,4,3,1
+M,Central Agricultural Experiment Station,4,4,1
+F,Lingnan University,4,4,1
+M,University of Southern California,4,3,1
+F,China Institute in America,4,4,1
+M,United States Department of Interior,4,4,1
+M,United States Military Mission,4,4,1
+M,Executive Yuan,4,4,1
+M,"National Reconditioning Company, Incorporated",4,4,1
+M,Sichuan University,4,4,1
+M,Yunnan–Burma Railway,4,3,1
+F,Peking Union Medical College (PUMC),4,3,1
+M,Library of Congress,4,4,1
+M,Amoy University (Xiamen University),4,4,1
+M,Yunnan University,4,2,1
+M,United States Steel Export Company,4,4,1
+F,Yenching University,4,4,1
+M,Soochow University,4,4,1
+M,Guomindang,4,3,1
+M,Socony-Vacuum Oil Company Incorporated,4,4,1
+M,Allis-Chalmers Manufacturing Company,4,4,1
+M,Iowa State College,3,3,1
+M,Oregon State College,3,3,1
+M,Bank of Canton,3,3,1
+M,United States Office of War Information,3,3,1
+M,Baldwin Locomotive Works,3,3,1
+M,United States Navy,3,3,1
+M,Republic Aviation Corporation,3,3,1
+M,American Bureau for Medical Aid to China,3,2,1
+M,Beijing National Library,3,2,1
+M,Columbia University,3,3,1
+M,Minqi Daily,3,3,1
+M,Oregon Shipbuilding Corporation,3,3,1
+M,Chinese Embassy in the United States,3,3,1
+M,New York Central System,3,3,1
+M,Chinese Consulate in Portland,3,3,1
+M,Chinese Consulate in Houston,3,2,1
+M,Harvard-Yenching Institute,3,3,1
+M,Chinese Consulate General in Chicago,3,3,1
+M,Guangzhou Pui Ching Middle School,3,3,1
+M,China Tea Company,3,3,1
+M,China Automobile Manufacturing Company,3,3,1
+M,National Construction Commission,3,3,1
+M,Guangdong Provincial Government,3,3,1
+M,Chrysler Corporation,3,3,1
+M,Committee on Wartime Planning for Chinese Students in the United States,3,3,1
+M,Capital Power Plant,3,2,1
+M,Rust Engineering Company,3,3,1
+M,Merck & Company,3,3,1
+F,"Harmon Foundation, William E.",3,2,1
+M,West China Union University,3,3,1
+M,Federal Telephone & Radio Corporation,3,3,1
+F,University of Michigan,3,3,1
+F,University of Chicago,3,3,1
+M,Legislative Yuan,3,3,1
+F,Standard Oil Development Company,3,3,1
+F,United States Embassy,3,3,1
+M,Jones & Lamson Machine Company,3,3,1
+M,Puget Sound Navy Yard,3,2,1
+F,Soochow University,3,3,1
+F,Young Women's Christian Association (YWCA),3,2,1
+M,Publicker Commercial Alcohol Company,3,3,1
+F,Hwa Nan Academy,2,1,1
+M,Office of the United States Army Attaché,2,2,1
+M,University of Illinois,2,2,1
+M,Stone & Webster Engineering Corporation,2,2,1
+M,Stinson Aircraft Corporation,2,2,1
+M,China Aircraft Corporation,2,2,1
+M,Chase National Bank,2,2,1
+M,Ford Motor Company,2,2,1
+M,Howard Hughes Aircraft Company,2,2,1
+M,Shanghai Power Company,2,2,1
+M,Vought-Sikorsky Aircraft Company,2,2,1
+M,Fu Jen Catholic University,2,2,1
+M,Syracuse University,2,2,1
+M,Guangdong Guomin University,2,1,1
+M,Citizens' Foreign Relations Association,2,2,1
+M,Central Aircraft Manufacturing Factory,2,2,1
+M,"Kellogg Company, M.W.",2,2,1
+M,Jing River Commission,2,2,1
+M,Commercial Press,2,1,1
+M,Office of Strategic Service,2,2,1
+M,Lummus Company,2,2,1
+M,China Development Finance Corporation,2,2,1
+M,Zhonghua News Agency,2,2,1
+M,Guomin Daily,2,2,1
+F,Oregon State College,2,2,1
+M,Chinese Ministry of Finance,2,2,1
+M,People's Political Council,2,2,1
+M,Chinese Delegation for World Cultural Cooperation,2,2,1
+M,Willamette Iron & Steel Works,2,2,1
+F,Harvard University,2,2,1
+M,Guilin Field Headquarters,2,2,1
+M,Chinese Consulate in Luanda,2,2,1
+M,Chinese Consulate in Los Angeles,2,2,1
+M,League of Nations,2,2,1
+M,Pomona College,2,2,1
+M,Stanford University,2,2,1
+M,Chinese Consulate General in San Francisco,2,2,1
+M,Chinese Consulate General in Havana,2,2,1
+M,Free World (Monthly),2,2,1
+M,China Social Education Association,2,1,1
+M,China Rural Reconstruction Talent Training Institute,2,1,1
+M,Washington Pump & Machinery Company,2,2,1
+M,China National Aviation Corporation (CNAC),2,2,1
+M,Far East Religious Association,2,1,1
+M,Northeastern (Dongbei) University,2,2,1
+M,China Merchants Steam Navigation Company,2,2,1
+F,United China Relief,2,2,1
+M,Third Fleet,2,1,1
+M,Young Men’s Christian Association (YMCA),2,2,1
+F,United States Office of War Information,2,2,1
+M,University of Pittsburgh,2,2,1
+M,Douglas Aircraft Company,2,2,1
+F,Western Electric Company,2,2,1
+M,Bao’an District Court,2,1,1
+M,University of Pennsylvania,2,2,1
+M,Duke University,2,2,1
+M,Department of Machinery Division,2,1,1
+M,United States Department of Agriculture,2,2,1
+M,Michigan Agricultural Experiment Station,2,1,1
+F,University of California,2,2,1
+F,Bank of Canton,2,2,1
+M,University of Notre Dame,2,2,1
+M,Canton–Hankow Railway,2,2,1
+M,James Stewart Corporation,2,2,1
+M,American Gas & Electric Service Corporation,2,2,1
+M,Jiangsu Provincial College of Education,2,1,1
+M,Atlantic Union College,2,1,1
+F,Cornell University,2,2,1
+F,Jersey City Medical Center,2,1,1
+M,British Embassy,2,2,1
+M,Yale University,2,2,1
+M,Tianjin Institute of Commerce and Industry,2,2,1
+M,Tianshenggang Power Plant,2,1,1
+M,Tientsin–Pukow Railway,2,2,1
+M,Illinois Institute of Technology,2,2,1
+F,United States Department of Interior,2,2,1
+M,University of Wisconsin,2,1,1
+M,Gong County Arsenal,2,2,1
+M,Cone Automatic Machine Company,2,2,1
+M,Twelfth Infantry Division,2,1,1
+M,University of Hawaii,2,2,1
+M,Sanbei Company,2,1,1
+M,Glenn L. Martin Company,2,2,1
+M,Economic Commission,2,2,1
+M,Bell Telephone Laboratory,2,2,1
+M,Peiping–Mukden Railway,2,2,1
+M,Peiyang University,1,1,1
+M,Pacification Commissioner of Mangshi,1,1,1
+M,New York State Agricultural Experiment Station,1,1,1
+M,Zhenjiang Dazhao Electric Light & Power Company,1,1,1
+M,Peiping Academy,1,1,1
+M,Pan-American Airways System,1,1,1
+M,Peiping–Suiyuan Railway,1,1,1
+M,People's Daily (New York),1,1,1
+M,Pacific News Agency,1,1,1
+M,Peiping Specialized School of Finance and Commerce,1,1,1
+M,New York Stock Exchange,1,1,1
+M,Northeastern University,1,1,1
+M,Pennsylvania Railroad,1,1,1
+M,Office of Scientific Research & Development,1,1,1
+M,Ohio Wesleyan University Library,1,1,1
+M,Office of the United States Commercial Counsellor,1,1,1
+M,Opium Suppression Commissioner,1,1,1
+M,Ordnance Specialized School,1,1,1
+M,Office of the Deputy Chief of the General Staff,1,1,1
+M,New York Public Library,1,1,1
+M,Zhonghua Middle School (San Francisco),1,1,1
+M,Peizhi Middle School,1,1,1
+M,Office of Emergency Man,1,1,1
+M,Zhengtai Railway Engineering Office,1,1,1
+M,Northwestern University,1,1,1
+M,Northern Yunnan Mining Bureau,1,1,1
+M,Northern Pacific Railroad Company,1,1,1
+M,Ottawa Consultate,1,1,1
+M,Overseas Chinese Affairs Commission,1,1,1
+M,Overseas Chinese School,1,1,1
+M,North China River Conservancy Commission,1,1,1
+M,Zhongfu Coal Mining Company,1,1,1
+M,Office of the United States Naval Attaché,1,1,1
+M,Wuhan Daily,1,1,1
+M,New York Commercial News,1,1,1
+M,Matlock & Campell Mechanical,1,1,1
+M,Mayers' Aircraft Corporation,1,1,1
+M,Zhongxiao Bank,1,1,1
+M,McQuay Norris Manufacturing Company,1,1,1
+M,Merrimack Manufacturing Company,1,1,1
+M,Methodist Church,1,1,1
+M,Mexico Refractories Company,1,1,1
+M,Micamold Radio Corporation,1,1,1
+M,Michigan State College,1,1,1
+M,Zhongshan Middle School,1,1,1
+M,Military Operations Department,1,1,1
+M,Mills College,1,1,1
+M,Mingda Company,1,1,1
+M,Minguo University (Beijing),1,1,1
+M,Ministry of Posts and Communications,1,1,1
+M,Minnesota Agricultural Experiment Station,1,1,1
+M,May Chemical Company,1,1,1
+M,Materials Testing Division,1,1,1
+M,New York City Chemical Corporation,1,1,1
+M,Massachusetts General Hospital,1,1,1
+M,Liuhegou Ironworks,1,1,1
+M,Ziliujing Power Plant,1,1,1
+M,"Longhua Cement Works, Shanghai",1,1,1
+M,"Lorec Architect, D.D.",1,1,1
+M,Los Angeles County General Hospital,1,1,1
+M,"Louis Allis Company, The",1,1,1
+M,Louisiana Sugar Factory,1,1,1
+M,Luke Field,1,1,1
+M,Luotian County Finance Bureau,1,1,1
+M,Machine & Tool Design Company,1,1,1
+M,Madison College,1,1,1
+M,Mahony-Troast Construction Company,1,1,1
+M,"Marmon-Herrington Company, Incorporated",1,1,1
+M,Zhoushan Secondary School,1,1,1
+M,Mary's Hospital,1,1,1
+M,Minsheng Industrial Company,1,1,1
+M,Mississippi River Commission,1,1,1
+M,Mississippi Valley Structural Company,1,1,1
+M,Models & Patents Corporation,1,1,1
+M,National Diplomacy Association,1,1,1
+M,National Diplomacy Monthly,1,1,1
+M,National General Mobilization Council,1,1,1
+M,National Geophysical Company,1,1,1
+M,National Guangdong College of Law,1,1,1
+M,National Paint & Varnish Company,1,1,1
+M,National Refractories Company,1,1,1
+M,Zhonghua School (Seattle),1,1,1
+M,National Rice and Wheat Improvement Institute,1,1,1
+M,National Southeastern University,1,1,1
+M,Zhonghua School (Chicago),1,1,1
+M,National Tariff Commission,1,1,1
+M,New England Aircraft School,1,1,1
+M,New Republic Chinese Daily,1,1,1
+M,New York Central Railroad Company,1,1,1
+M,National Defense Planning Commission,1,1,1
+M,National Daily Special Edition,1,1,1
+M,National Conservatory of Music,1,1,1
+M,Nanjing Higher Police Officers Academy,1,1,1
+M,Moore Dry Dock Company,1,1,1
+M,Mount Morris Tuberculosis Hospital,1,1,1
+M,Municipal Government,1,1,1
+M,Murray Iron Works Company,1,1,1
+M,Mutai Engineering Office,1,1,1
+M,Nanjing General Headquarters,1,1,1
+M,Nankai Institute of Economics,1,1,1
+M,National City Bank of New York,1,1,1
+M,Zhonghua School [Provincial],1,1,1
+M,Nankai University Journal,1,1,1
+M,Nankou Locomotive Works,1,1,1
+M,"Nanning District Court, Guangxi",1,1,1
+M,National Bank of Detroit,1,1,1
+M,National Bureau of Economic Research,1,1,1
+M,Philadelphia Public Schools,1,1,1
+M,Shanghai Ta Kung Pao,1,1,1
+M,Philco Corporation,1,1,1
+M,Yuantailin Transport Company,1,1,1
+M,United Arts Dental Laboratory,1,1,1
+M,United China Relief,1,1,1
+M,United Nations,1,1,1
+M,United Nations Relief and Rehabilitation Administration,1,1,1
+M,United States Agriculture Western Regional Laboratory,1,1,1
+M,United States Bureau Of Mines,1,1,1
+M,United States Bureau of Census,1,1,1
+M,Young China Morning News,1,1,1
+M,United States Department of State,1,1,1
+M,York Aircraft Corporation,1,1,1
+M,United States Educational Mission,1,1,1
+M,Yongtai Company,1,1,1
+M,United States Naval Liaison Staff Office,1,1,1
+M,United States Nitrate Plant 02,1,1,1
+M,United States Plywood Corporation,1,1,1
+M,Union Audit Bureau,1,1,1
+M,Tsinghua Mechanized Training School,1,1,1
+M,"Yufeng Cotton-Spinning Mill, Henan",1,1,1
+M,Trico Products Corporation,1,1,1
+M,Studebaker Corporation,1,1,1
+M,Sundstrand Machine Tool Company,1,1,1
+M,Swiss Legation,1,1,1
+M,Swiss-American Gear Corporation,1,1,1
+M,Sylvanin Electric Product Incorporated,1,1,1
+M,Tacomy Engineering Company,1,1,1
+M,"Taishan County Secondary School, Guangdong",1,1,1
+M,"Taohua Datong Company, Amoy",1,1,1
+M,Tax Police Corps,1,1,1
+M,Tennessee Valley Authority,1,1,1
+M,Texas Company,1,1,1
+M,The City College of New York,1,1,1
+M,Three Principles of the People Youth Corps,1,1,1
+M,Thunderbird Field,1,1,1
+M,Tianjin French-Chinese College,1,1,1
+M,United States Treasury Department,1,1,1
+M,Yongli Chemical Industry Co.,1,1,1
+M,United States Waterways Experiment Station,1,1,1
+M,Universal Camera Corporation,1,1,1
+M,Vidal Research Corporation,1,1,1
+M,Virginia Hospital Medical College,1,1,1
+M,"Vultee Aircraft, Incorporated",1,1,1
+M,Wally Timm Company,1,1,1
+M,"Warren Company, S.D.",1,1,1
+M,Wayland Academy (Hangzhou Huilan Middle School),1,1,1
+M,Weihaiwei Administrative Office,1,1,1
+M,Wenshang County Government,1,1,1
+M,Western Yunnan Railway,1,1,1
+M,Westinghouse Electric Manufacturing Company,1,1,1
+M,Whampoa Military Academy,1,1,1
+M,"White Engineering Corporation, J.G.",1,1,1
+M,Wilputte Coke Oven Company,1,1,1
+M,World Book Company,1,1,1
+M,Wu County Hospital,1,1,1
+M,Victor Chemical Works,1,1,1
+M,Vanderbilt University,1,1,1
+M,Utah Copper Company,1,1,1
+M,"Xinyi Pharmaceutical Works, Shanghai",1,1,1
+M,Universal Radio,1,1,1
+M,Yien Yieh Commercial Bank,1,1,1
+M,University of Arkansas,1,1,1
+M,Yellow River Commission,1,1,1
+M,University of Colorado,1,1,1
+M,Xi’an Field Headquarters,1,1,1
+M,Xinjiang Provincial Capital,1,1,1
+M,Wuhu County Education Bureau,1,1,1
+M,Xiang-Gui Railway Assistant Engineering Office,1,1,1
+M,Xiamen Municipal Government,1,1,1
+M,University of Oregon,1,1,1
+M,Wuzhou Municipal Education Bureau,1,1,1
+M,University of South California,1,1,1
+M,University of Washington,1,1,1
+M,Stran Steel Corporation,1,1,1
+M,Sterling Engineering & Manufacturing Company,1,1,1
+M,Pillsbury's Flour Mills Company,1,1,1
+M,Riskin & Feer Architect,1,1,1
+M,Royal Netherlands Navy,1,1,1
+M,Rural Financial Society,1,1,1
+M,Zhejiang Bureau of Entomology,1,1,1
+M,Rural Reconstruction Association,1,1,1
+M,Rural Reconstruction Talent Training Institute,1,1,1
+M,San Francisco Baptist Secondary School,1,1,1
+M,Sanderson & Porter,1,1,1
+M,Seattle School of Economics,1,1,1
+M,Shaanxi Department of Education,1,1,1
+M,Shaanxi Provincial First Vocational School,1,1,1
+M,Shandong First Provincial Middle School,1,1,1
+M,Shanghai Huahua Middle School,1,1,1
+M,Shanghai Medical College,1,1,1
+M,Shanghai Municipal Council,1,1,1
+M,Wu County Opium Rehabilitation Centre,1,1,1
+M,Rola Company,1,1,1
+M,Richmond Gard #2,1,1,1
+M,Yuhua Enterprise Finance Company,1,1,1
+M,Republic Steel Mill,1,1,1
+M,Zhejiang-Jiangxi Railway Administration,1,1,1
+M,Political Critic,1,1,1
+M,Pontiac Motor Corporation,1,1,1
+M,Power Fuel Plant,1,1,1
+M,Princeton Institute for Advanced Study,1,1,1
+M,Providence College,1,1,1
+M,Pullman Car Manufacturing Company,1,1,1
+M,Purdue University,1,1,1
+M,Qiuzhi Middle School,1,1,1
+M,Qixin Foreign Trading Company,1,1,1
+M,"R.L.A. Laboratories, Incorporated",1,1,1
+M,Zhejiang Provincial Senior High School,1,1,1
+M,Rangqin University (SoengKen University of Canton),1,1,1
+M,Zhejiang Provincial Hangzhou Normal School,1,1,1
+M,Reece Button-Hole Company,1,1,1
+M,Shanghai Wuben Girls' High School,1,1,1
+M,Shantou Post Office,1,1,1
+M,Shunde Sugar Refinery,1,1,1
+M,Sichuan Nanchong Provincial Middle School,1,1,1
+M,Southern Pacific Railway Company,1,1,1
+M,Yunnan First Provincial Middle School,1,1,1
+M,Southern University,1,1,1
+M,Yungli Chemical Industries Limited,1,1,1
+M,Southwestern Highway,1,1,1
+M,Sparks-Withington Company,1,1,1
+M,Sperry Gyroscope Research Laboratory,1,1,1
+M,St. John’s University,1,1,1
+M,St. Louis Ordnance Plant,1,1,1
+M,St. Luke Hospital,1,1,1
+M,Standard Oil Company of New York,1,1,1
+M,"Yumei Secondary School, Taishan",1,1,1
+M,State of California Division of Highway,1,1,1
+M,State of Connecticut,1,1,1
+M,Steel Company of Canada,1,1,1
+M,Southern Gansu Petroleum Bureau,1,1,1
+M,Songjiang Guangzheng Middle School,1,1,1
+M,Liongsin Press,1,1,1
+M,Sino-American Cultural Association,1,1,1
+M,Sichuan Oil Works,1,1,1
+M,Sichuan Provincial Geological Survey,1,1,1
+M,Sichuan Provincial Government Planning Commission,1,1,1
+M,Sichuan Sanjiang County Middle School,1,1,1
+M,Sichuan Secondary School Teachers' Summer Training Class,1,1,1
+M,"Sin Hua Trust, Savings & Commercial Bank",1,1,1
+M,Sino-American Daily,1,1,1
+M,Social Welfare Service Department,1,1,1
+M,Yunnan-Guangxi Railway,1,1,1
+M,Yunnan Provincial Economic Commission,1,1,1
+M,Sino-American News Agency,1,1,1
+M,Yunnan Investigation & Design Commission,1,1,1
+M,Sino-French Foundation Commission,1,1,1
+M,Social Welfare (Yishibao),1,1,1
+F,Aiguang Secondary School,1,1,1
+M,Hubei Provincial Direct Tax Bureau,1,1,1
+M,Liberty Tool & Cage Incoporation,1,1,1
+M,Bianhe Road Rolling Stock Division,1,1,1
+M,Bacon Laboratory,1,1,1
+M,"Bauschlein Company, W.L.",1,1,1
+M,"Bechtel Company, W.A.",1,1,1
+M,Beijing Coal Depot,1,1,1
+M,Beiping Datong Middle School,1,1,1
+M,Beiping Middle School,1,1,1
+M,Bendix Aviation Corporation,1,1,1
+M,Bethlehem Steel Company,1,1,1
+M,Boeing Aircraft Company,1,1,1
+M,25th International Labour Conference,1,1,1
+M,Boston Children's Hospital,1,1,1
+M,Boston City Hospital,1,1,1
+M,Bristol Aircraft Corporation,1,1,1
+M,Brown University,1,1,1
+M,Bruce Engineering Company,1,1,1
+M,Bryant Chucking Grinder Company,1,1,1
+M,"Bugbird & Company, H.C.",1,1,1
+M,Burlington County Hospital,1,1,1
+M,Babcock & Wilcox Company,1,1,1
+M,Aviation Mechanics School,1,1,1
+M,Aviation Mechanics Monthly,1,1,1
+M,Atlas Powder Company,1,1,1
+M,Address Investigation Bureau,1,1,1
+M,Aerojet Engineering Corporation,1,1,1
+M,Air Force Mechanics School,1,1,1
+M,Aircraft Screw Brod Company,1,1,1
+M,Aircraft Structural Development,1,1,1
+M,Allied Engineers Incorporated,1,1,1
+M,Ambassador Wei Daoming,1,1,1
+M,American Accounting Systems,1,1,1
+M,American Resinous Chemical Corporation,1,1,1
+M,American Sheet Metal Company,1,1,1
+M,American Volunteer Group (Flying Tigers),1,1,1
+M,Ampco Metal Incorporated,1,1,1
+M,Anaconda Copper Mining Company,1,1,1
+M,"Antone Brothers Company, Incorporated",1,1,1
+M,Archer-Danials-Midland Vegetable Oil Company,1,1,1
+M,Armored Corps Factory,1,1,1
+M,Arthur Anderson & Company,1,1,1
+M,California Spray Chemical Company,1,1,1
+M,"Carbolog Company, Incorporated",1,1,1
+M,Carbon & Carbide Chemical Company,1,1,1
+M,China Food Products Company,1,1,1
+M,China Institute of Psychological Physiology,1,1,1
+M,China Joint Transportation Company,1,1,1
+M,China Monthly,1,1,1
+M,China Motor Corporation,1,1,1
+M,China Oriental Trading & Engineering Company,1,1,1
+M,China Review Weekly,1,1,1
+M,China Transport Company,1,1,1
+M,Chinese Consulate General in Iowa,1,1,1
+M,Chinese Consulate General in Seoul,1,1,1
+M,Chinese Consulate in Boston,1,1,1
+M,Chinese Consulate in London,1,1,1
+M,Chinese Consulate in Managua,1,1,1
+M,Chinese Embassy in Cuba,1,1,1
+M,Chinese Legation at Panama,1,1,1
+M,Chinese Legation in Germany,1,1,1
+M,Chinese Ministry of Agriculture and Forestry,1,1,1
+M,Chinese Ministry of Education,1,1,1
+M,China Industrial Company,1,1,1
+M,China Film Studio,1,1,1
+M,Carco Products Incorporated,1,1,1
+M,China Film Enterprise Company,1,1,1
+M,Carnegie Corporation,1,1,1
+M,Carnegie-Illinois Steel,1,1,1
+M,Central Bank of China,1,1,1
+M,Central Broadcasting Administration,1,1,1
+M,Central Cotton Improvement Institute,1,1,1
+M,Central Electrical Equipment Works,1,1,1
+M,Central Industrial Research Institute,1,1,1
+M,Central Military Academy,1,1,1
+M,Central Motors Corporation,1,1,1
+M,Central Political Department,1,1,1
+M,Central Political School,1,1,1
+M,Central Radio Works,1,1,1
+M,Central Trust of China,1,1,1
+M,Century Industrial Company,1,1,1
+M,Chekiang Industrial Bank,1,1,1
+M,Chengting–Taiyuan Railways,1,1,1
+M,China Association for Promotion of Commerce & Industry,1,1,1
+M,Acorn Wire & Cable Company,1,1,1
+M,20th Century-Fox Studios,1,1,1
+M,Lederle Laboratories Incorporated,1,1,1
+F,Iowa State College,1,1,1
+F,Hangzhou Girls' Middle School,1,1,1
+F,Health Demonstration Center,1,1,1
+F,Henry Street Visiting Nurse Service,1,1,1
+F,Home Insurance Company,1,1,1
+F,Hsiangya (Hunan-Yale) Medical College,1,1,1
+F,Huaying Girls’ Secondary School,1,1,1
+F,Institute For Juvenile Research,1,1,1
+F,International Red Cross,1,1,1
+F,Irving Trust Company New York,1,1,1
+M,12th Naval District,1,1,1
+F,Jiangxi Provincial Women’s Guidance Office,1,1,1
+F,Kaiser Shipbuilding Corporation,1,1,1
+F,Kwang Hua University,1,1,1
+F,Library of Congress,1,1,1
+F,Massachusetts Institute of Technology,1,1,1
+F,McTyeire School for Girls,1,1,1
+F,Merck & Company,1,1,1
+F,Nankai University,1,1,1
+F,Guomindang,1,1,1
+F,Guangzhou Pui Ching Middle School,1,1,1
+F,Guangzhou Hanguang Middle School,1,1,1
+F,Grace Hospital,1,1,1
+F,Amoy University (Xiamen University),1,1,1
+F,Anhui First Girls’ Secondary School,1,1,1
+F,Beijing National Library,1,1,1
+F,Beijing-Shanghai Railway,1,1,1
+F,Beiyang Women’s Hospital,1,1,1
+F,Chinese Embassy in Italy,1,1,1
+F,Chinese Ministry of Education,1,1,1
+F,Chongqing Girls' Normal High School,1,1,1
+F,Church Committee for China Relief,1,1,1
+F,Columbia University,1,1,1
+F,Dinghai Girls’ Secondary School,1,1,1
+F,Doctor's Hospital (Manhattan),1,1,1
+F,Food & Drug Laboratory of Costa Rica,1,1,1
+F,Fuzhou Provincial Secondary School of Home Economics,1,1,1
+F,General Electric Company,1,1,1
+F,Ginling University,1,1,1
+F,Gongliang School,1,1,1
+F,National Gypsim Company,1,1,1
+F,New York Infirmary Hospital,1,1,1
+F,New York Memorial Hospital,1,1,1
+F,Shanghai Municipal Council Girls' Middle School,1,1,1
+F,Smith College,1,1,1
+F,Specialized School of Taxation,1,1,1
+F,St. Francis Hospital,1,1,1
+F,St. Paul's College,1,1,1
+F,Sun Yat-sen University,1,1,1
+F,United States Air Corporation,1,1,1
+F,United States Department of Labor,1,1,1
+F,United States Department of War,1,1,1
+F,University of Nanking (Ginling University),1,1,1
+F,University of Southern California,1,1,1
+F,Unknown,1,1,0
+F,Utopia University (Datong University),1,1,1
+F,Wells Fargo Bank & Union Trust Company,1,1,1
+F,Westinghouse Electric Manufacturing Company,1,1,1
+F,Wuhan University,1,1,1
+F,"Yingguang Secondary School, Canton",1,1,1
+F,Zhonghua Girls' Middle School,1,1,1
+F,Shanghai-Hangzhou-Ningbo Railway,1,1,1
+F,Shanghai Girls' Middle School,1,1,1
+F,New York State Department of Health,1,1,1
+F,Sacred Heart Hospital,1,1,1
+F,Northeast Air Lines,1,1,1
+F,Office of Censorship,1,1,1
+F,Ohio Division of Social Administration,1,1,1
+F,Ohio State University,1,1,1
+F,Overseas Chinese School,1,1,1
+F,Park College,1,1,1
+F,Peiping Municipal Psychiatric Hospital,1,1,1
+F,Peking University,1,1,1
+F,"Perdon Wright Law Office, J.",1,1,1
+F,Primary School,1,1,1
+F,Princeton University,1,1,1
+F,Professional Pharmacy,1,1,1
+F,Qingdao Railway,1,1,1
+F,Qiuzhi Middle School,1,1,1
+F,Reed & Carnrick Company,1,1,1
+F,Riverside Nursery School,1,1,1
+F,Rockefeller Foundation,1,1,1
+M,Chinese Ministry of Propaganda,1,1,1
+M,Chinese Ministry of Social Affairs,1,1,1
+M,Chinese National Government,1,1,1
+M,Huanghai Chemical Industry Research Institute,1,1,1
+M,Holabird & Root Company,1,1,1
+M,Holley Carburetor Company,1,1,1
+M,Hong Kong Commercial Daily,1,1,1
+M,Hong Kong Pui Ching Middle School,1,1,1
+M,Houdalle-Hershey Corporation,1,1,1
+M,Houde Engineering Company,1,1,1
+M,Huacheng Electric Motor Manufacturing Works,1,1,1
+M,Huai'an Middle School,1,1,1
+M,Huanqiu Paper Mill,1,1,1
+M,Chinese school in San Mateo,1,1,1
+M,Huasheng Electrical Appliance Manufacturing Works,1,1,1
+M,Huawen Secondary School,1,1,1
+M,Huazhong University,1,1,1
+F,Amherst College,1,1,1
+M,Hudson Coal Company,1,1,1
+M,Hunan University,1,1,1
+M,Hunan-Guangxi Railway,1,1,1
+M,"Hutton & Company, E.F.",1,1,1
+M,Historical Annal,1,1,1
+M,High Standard Manufacturing Company,1,1,1
+M,Higgins Industries Incoporated,1,1,1
+M,Heyuan Procasa Company,1,1,1
+M,Guangzhou Municipal Telephone Administration,1,1,1
+M,Guangzhou University,1,1,1
+M,Guaranty Trust Company,1,1,1
+M,Guizhou Aviation Office,1,1,1
+M,Guizhou Reconstruction Office,1,1,1
+M,Haikang County Education Bureau,1,1,1
+M,Hankow Commodity Inspection Bureau,1,1,1
+M,Harrison Gas Works,1,1,1
+M,Hebei Provincial Agricultural College,1,1,1
+M,Hebei Provincial Fisheries Specialized School,1,1,1
+M,Hebei Provincial No. 17 Middle School,1,1,1
+M,Hebei University,1,1,1
+M,Heilongjiang Gold Mine Prospecting Team,1,1,1
+M,Henan Provincial Department of Reconstruction,1,1,1
+M,Hengtong Chemical Company,1,1,1
+M,Hermann Biggs Memorial Hospital,1,1,1
+M,Hermans & Simon Architecture,1,1,1
+M,Hwa Nan Academy,1,1,1
+M,"Imco Company, The",1,1,1
+M,Industry Incorporated,1,1,1
+M,Jiangxi Provincial Travelling Educational Film Unit,1,1,1
+M,Jiujiang Coal Administration Office,1,1,1
+M,John B. Fischer Architect,1,1,1
+M,John Hopkins University,1,1,1
+M,"Joseph E. Seagran & Sons, Incorporated",1,1,1
+M,K.C.F. Food Products Laboratory,1,1,1
+M,Kailan Mining Administration,1,1,1
+M,Kansas City Power & Light Company,1,1,1
+M,Kiaochow–Tsinan Railway Administration,1,1,1
+M,Kodak Research Laboratory,1,1,1
+M,Kofa American Drug Company,1,1,1
+M,Koppers Company,1,1,1
+M,"Kump Company, E.S.",1,1,1
+M,Kunming Broadcasting Station,1,1,1
+M,Kunming Central Electrical Equipment Factory,1,1,1
+M,Kunming Direct Tax Bureau,1,1,1
+M,Kunming Huayi Trading Company,1,1,1
+M,Lanzhou Power Plant,1,1,1
+M,Jinjiang Daily,1,1,1
+M,Jiangxi Provincial Popular Education Center,1,1,1
+M,Inland Steel Company,1,1,1
+M,Jiangxi Highway Bureau,1,1,1
+M,Institute for National Survey Research,1,1,1
+M,Institute for the Ideological Education of Overseas Chinese,1,1,1
+M,Institute of Pacific Relations,1,1,1
+M,International Business Machine Corporation,1,1,1
+M,International Standard Electric Company,1,1,1
+M,Irvington Varnish Insolator Company,1,1,1
+M,Jacques Wolf & Company,1,1,1
+M,Jianghan Bureau,1,1,1
+M,Jiangnan Cement Company,1,1,1
+M,Jiangsu Bureau of Entomology,1,1,1
+M,Jiangsu Department of Reconstruction,1,1,1
+M,Jiangsu Huaihe River Diversion Project Office,1,1,1
+M,Jiangsu Provincial Changzhou Middle School,1,1,1
+M,Jiangsu Provincial Farmers Bank,1,1,1
+M,Jiangsu Provincial Popular Education College,1,1,1
+M,Jiangsu Wuxian Red Cross Society,1,1,1
+M,Jianguo Secondary School,1,1,1
+M,Guangzhou Municipal First Middle School,1,1,1
+M,Guangzhou Municipal Bureau of Engineering,1,1,1
+M,Guangzhou Electricity Administration Office,1,1,1
+M,Construction Company,1,1,1
+M,Cook County Hospital,1,1,1
+M,Cornell University,1,1,1
+M,Crucible Steel Corporation,1,1,1
+M,Dachang Industrial Company,1,1,1
+M,Dadukou Iron and Steel Works,1,1,1
+M,Dartmouth College,1,1,1
+M,David H. Horn Architect,1,1,1
+M,Deal Electric Company,1,1,1
+M,Defense Project,1,1,1
+M,Delisser Machine & Tool Company,1,1,1
+M,Denver Chemical Manufacturing Company,1,1,1
+M,Detroit Edison Company,1,1,1
+M,Dongbin Railway Administration,1,1,1
+M,Dorr Company,1,1,1
+M,Drury & McNamee Shoecraft,1,1,1
+M,Dry Food Incorporated,1,1,1
+M,"Ebasco Services, Incorporated",1,1,1
+M,Consulate General in Shanghai [country unspecified],1,1,1
+M,Consolidated Aircraft Corporation,1,1,1
+M,Emil S. Fischer,1,1,1
+M,Conrad O. Hersan Company,1,1,1
+M,Chinese-American Weekly,1,1,1
+M,Chizhi University,1,1,1
+M,Chongqing Direct Tax Bureau,1,1,1
+M,Chongqing Dredging and Maintenance Office,1,1,1
+M,Chongqing Minkang Industrial Company,1,1,1
+M,Chongqing Municipal Government,1,1,1
+M,Chongqing New Society Daily,1,1,1
+M,Chongqing Physical Education Promotion Association,1,1,1
+M,Chongqing Postal Remittance and Savings Bank,1,1,1
+M,Chongqing Sheshu Newspaper,1,1,1
+M,Chongqing University,1,1,1
+M,Christ Church's Orchestra,1,1,1
+M,Chung Cheng University,1,1,1
+M,Commander-Larabee Milling Company,1,1,1
+M,Commercial Counsellor for North America,1,1,1
+M,Common Council for American Unity,1,1,1
+M,Conference on the Reduction of Armaments,1,1,1
+M,Ely Kahn & Robert Jacobs Architects,1,1,1
+M,Ethyl Gasoline Corporation,1,1,1
+M,Guangzhou District Court,1,1,1
+M,Garry & Shaffey Company,1,1,1
+M,General Cable Corporation,1,1,1
+M,General Transport Headquarters,1,1,1
+M,Geological Survey,1,1,1
+M,George Washington University,1,1,1
+M,Georgetown University,1,1,1
+M,Ginling University,1,1,1
+M,Gliding Society,1,1,1
+M,Grand Central Airport,1,1,1
+M,Great China University (Daxia University),1,1,1
+M,Grunman Aircraft Engineering Corporation,1,1,1
+M,Guangdong Department of Reconstruction,1,1,1
+M,Guangxi Agricultural investigator to Honolulu,1,1,1
+M,Guangxi Electric Power Plant,1,1,1
+M,Guangxi Provincial Grain Planning Commission,1,1,1
+M,Guangxi Student Army,1,1,1
+M,Guangxi University,1,1,1
+M,Guangzhou Daily,1,1,1
+M,General Bureau of Highway Transport,1,1,1
+M,Garod Radio Corporation,1,1,1
+M,"Euston Architect, A.F.",1,1,1
+M,Gansu Petroleum Bureau,1,1,1
+M,Farmers Bank of China,1,1,1
+M,Federal Broadcasting Intelligence Service,1,1,1
+M,Federal Communication Commission,1,1,1
+M,Federal Reserve Bank,1,1,1
+M,Ferro Enamel Corporation,1,1,1
+M,"Finkel & Finkel, C.P.A.",1,1,1
+M,Firestone Tire & Rubber Corporation,1,1,1
+M,Foster Wheeler Corporation,1,1,1
+M,Francis Engineering Company,1,1,1
+M,Franco-Chinese University,1,1,1
+M,Frank Wyckoop Company,1,1,1
+M,Fred J. Ryan Company,1,1,1
+M,Fuhua Trading Company,1,1,1
+M,Fujian Provincial Department of Reconstruction,1,1,1
+M,Fujian Provincial Senior Industrial Vocational School,1,1,1
+M,Fujian-Zhejiang Highway Transport Office,1,1,1
+M,Fu’an Company,1,1,1
+M,lowa Agricultural Experiment Station,1,1,1

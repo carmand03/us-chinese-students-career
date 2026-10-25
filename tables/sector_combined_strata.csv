@@ -1,0 +1,323 @@
+﻿status,gender,birth_decade,study_start_decade,sector,appointments,students,employers
+Past,M,Unknown,1930s,Academic / education,88,73,51
+Past,M,1910s,1930s,Academic / education,81,58,42
+Current,M,Unknown,1930s,Government / public administration,47,46,18
+Current,M,Unknown,1940s,Industry / manufacturing / extraction,38,38,29
+Past,M,1910s,1930s,Government / public administration,34,29,23
+Past,M,1910s,1930s,Military / defense,33,23,13
+Current,M,Unknown,1930s,Industry / manufacturing / extraction,33,33,29
+Past,M,Unknown,1930s,Government / public administration,32,27,24
+Current,M,1910s,1930s,Academic / education,32,27,17
+Past,F,Unknown,1930s,Academic / education,32,25,25
+Past,M,Unknown,1920s,Academic / education,29,17,20
+Past,M,1900s,1920s,Academic / education,29,18,21
+Current,M,1910s,1930s,Military / defense,27,24,8
+Past,M,1910s,1930s,Industry / manufacturing / extraction,25,22,22
+Current,M,1910s,1930s,Government / public administration,22,22,8
+Current,M,Unknown,1930s,Academic / education,21,21,16
+Past,M,1900s,1920s,Government / public administration,21,14,15
+Past,M,1910s,1940s,Academic / education,20,16,16
+Past,M,1900s,1930s,Academic / education,20,14,16
+Current,M,Unknown,1930s,Finance / banking / insurance,19,19,4
+Current,M,Unknown,Unknown,Government / public administration,19,19,13
+Past,M,Unknown,1920s,Government / public administration,18,14,17
+Current,M,Unknown,1930s,Military / defense,18,18,14
+Current,M,1910s,1930s,Industry / manufacturing / extraction,16,16,13
+Current,M,1910s,Unknown,Military / defense,16,15,4
+Past,M,1910s,1930s,Research institutions,16,14,6
+Past,M,Unknown,1930s,Industry / manufacturing / extraction,16,15,16
+Current,M,Unknown,1920s,Government / public administration,15,14,8
+Past,M,Unknown,1940s,Industry / manufacturing / extraction,15,15,14
+Past,M,1910s,1930s,Transport / utilities / communications,15,12,15
+Past,M,Unknown,1940s,Academic / education,15,12,11
+Past,M,Unknown,1930s,Military / defense,13,12,10
+Current,M,1900s,1920s,Academic / education,12,10,10
+Current,M,1910s,1940s,Industry / manufacturing / extraction,12,12,11
+Current,M,1900s,1920s,Government / public administration,11,11,10
+Past,M,1900s,1920s,Transport / utilities / communications,11,6,7
+Past,M,Unknown,1930s,Business / commerce,11,11,11
+Past,M,1900s,1930s,Government / public administration,11,5,9
+Current,M,Unknown,1930s,Business / commerce,11,11,9
+Current,M,1900s,1930s,Government / public administration,10,9,6
+Current,M,1910s,1930s,Business / commerce,10,10,9
+Past,M,1910s,1930s,Business / commerce,10,8,8
+Past,M,Unknown,1930s,Media / publishing / entertainment,9,8,9
+Past,M,1910s,1940s,Industry / manufacturing / extraction,9,7,8
+Past,M,Unknown,1930s,Professional services,9,8,9
+Past,M,Unknown,1930s,Finance / banking / insurance,9,9,6
+Past,M,1910s,1920s,Government / public administration,9,5,9
+Past,M,1910s,1940s,Government / public administration,9,8,9
+Past,M,1910s,1940s,Professional services,8,7,7
+Current,M,Unknown,1940s,Business / commerce,8,8,7
+Past,M,Unknown,1940s,Professional services,8,7,7
+Current,F,Unknown,1940s,Academic / education,8,8,3
+Current,M,Unknown,1940s,Military / defense,8,8,7
+Current,M,Unknown,1940s,Academic / education,7,7,7
+Current,M,1910s,1940s,Academic / education,7,6,6
+Past,F,Unknown,1920s,Academic / education,7,5,6
+Past,F,1910s,1930s,Academic / education,7,6,7
+Current,M,1900s,1930s,Academic / education,7,6,6
+Past,M,Unknown,1920s,Military / defense,7,4,5
+Past,M,1890s,1910s,Academic / education,7,3,7
+Past,M,Unknown,Unknown,Academic / education,7,6,6
+Current,F,Unknown,1930s,Industry / manufacturing / extraction,7,7,5
+Past,M,1910s,1940s,Media / publishing / entertainment,6,5,6
+Past,M,Unknown,Unknown,Government / public administration,6,4,6
+Current,M,Unknown,Unknown,Media / publishing / entertainment,6,6,5
+Past,M,1910s,1930s,Media / publishing / entertainment,6,6,6
+Current,M,Unknown,Unknown,Military / defense,6,6,2
+Past,M,Unknown,1930s,Research institutions,6,6,6
+Current,M,1910s,1940s,Government / public administration,6,4,5
+Past,M,1920s,1940s,Industry / manufacturing / extraction,6,5,5
+Current,M,Unknown,1930s,Media / publishing / entertainment,6,6,6
+Past,M,Unknown,1930s,Transport / utilities / communications,5,5,3
+Current,M,1920s,1940s,Academic / education,5,5,5
+Current,M,1910s,1930s,Professional services,5,5,3
+Current,F,Unknown,1930s,Academic / education,5,5,5
+Past,M,1900s,Unknown,Military / defense,5,1,1
+Current,M,Unknown,1920s,Military / defense,5,4,3
+Current,M,Unknown,1920s,Finance / banking / insurance,5,5,1
+Past,M,1910s,Unknown,Military / defense,5,4,5
+Current,F,Unknown,1940s,Finance / banking / insurance,5,5,3
+Current,M,1920s,1940s,Industry / manufacturing / extraction,5,5,5
+Current,M,Unknown,Unknown,Academic / education,5,4,3
+Past,M,Unknown,1920s,Finance / banking / insurance,5,5,5
+Past,M,1920s,1930s,Government / public administration,5,4,5
+Current,M,Unknown,1930s,Non-state / nonprofit organization,5,5,4
+Past,M,1910s,1940s,Military / defense,5,3,5
+Current,M,1900s,1920s,Industry / manufacturing / extraction,5,5,5
+Past,M,1920s,1940s,Academic / education,5,5,5
+Past,M,1900s,1930s,Industry / manufacturing / extraction,5,3,5
+Current,M,Unknown,1940s,Government / public administration,5,5,4
+Current,M,Unknown,1940s,Finance / banking / insurance,4,4,2
+Past,F,Unknown,1930s,Finance / banking / insurance,4,2,3
+Past,M,1900s,1920s,Business / commerce,4,3,4
+Past,F,Unknown,1930s,Healthcare / medical services,4,3,4
+Current,M,Unknown,1930s,Professional services,4,4,4
+Current,M,Unknown,1940s,Healthcare / medical services,4,4,4
+Past,M,1900s,1920s,Non-state / nonprofit organization,4,4,4
+Past,M,1900s,1920s,Military / defense,4,4,4
+Current,M,Unknown,1940s,Transport / utilities / communications,4,4,4
+Current,M,Unknown,1920s,Non-state / nonprofit organization,4,3,4
+Current,M,1910s,1930s,Research institutions,4,4,3
+Current,F,Unknown,1930s,Government / public administration,4,4,2
+Current,M,1910s,1940s,Military / defense,4,4,4
+Current,F,Unknown,1940s,Non-state / nonprofit organization,4,4,2
+Past,M,Unknown,1940s,Military / defense,4,4,3
+Past,M,Unknown,1930s,Non-state / nonprofit organization,4,4,3
+Current,F,Unknown,1930s,Non-state / nonprofit organization,4,3,3
+Past,M,1910s,1940s,Transport / utilities / communications,4,4,4
+Past,M,Unknown,1940s,Government / public administration,4,4,4
+Past,M,1910s,Unknown,Government / public administration,4,2,4
+Current,M,Unknown,1930s,Transport / utilities / communications,3,3,3
+Past,M,Unknown,1940s,Business / commerce,3,3,3
+Past,M,1890s,1920s,Academic / education,3,2,2
+Past,M,1900s,Unknown,Academic / education,3,2,3
+Current,M,Unknown,1930s,Healthcare / medical services,3,3,3
+Current,F,Unknown,1930s,Healthcare / medical services,3,3,3
+Past,M,1920s,1940s,Business / commerce,3,3,3
+Past,M,1900s,1920s,Research institutions,3,2,2
+Past,M,1920s,Unknown,Military / defense,3,3,2
+Current,M,1890s,1910s,Government / public administration,3,1,3
+Past,M,1910s,1930s,Professional services,3,3,3
+Past,M,1910s,1930s,Non-state / nonprofit organization,3,3,3
+Current,M,1920s,1930s,Professional services,3,3,2
+Past,F,Unknown,1930s,Transport / utilities / communications,3,2,3
+Current,M,1920s,Unknown,Military / defense,3,3,1
+Past,M,1900s,1930s,Military / defense,3,2,3
+Current,M,Unknown,1920s,Academic / education,3,3,2
+Past,F,Unknown,1930s,Non-state / nonprofit organization,3,3,2
+Current,M,1910s,1930s,Non-state / nonprofit organization,3,2,2
+Current,M,1920s,1930s,Government / public administration,3,3,2
+Past,M,1900s,1920s,Media / publishing / entertainment,3,1,2
+Current,M,Unknown,1920s,Industry / manufacturing / extraction,3,3,3
+Current,M,1910s,1940s,Political / party organization,3,2,2
+Past,F,Unknown,Unknown,Academic / education,3,2,3
+Past,F,Unknown,1940s,Finance / banking / insurance,2,2,1
+Past,F,Unknown,1940s,Government / public administration,2,2,2
+Past,M,Unknown,Unknown,Military / defense,2,2,2
+Past,M,Unknown,Unknown,Transport / utilities / communications,2,2,2
+Past,M,Unknown,1920s,Transport / utilities / communications,2,2,2
+Past,M,1900s,1920s,Healthcare / medical services,2,1,2
+Past,M,1870s,1900s,Government / public administration,2,1,2
+Past,M,Unknown,1920s,Non-state / nonprofit organization,2,2,2
+Past,M,1920s,1930s,Professional services,2,2,2
+Past,M,Unknown,1910s,Transport / utilities / communications,2,1,2
+Past,M,Unknown,1910s,Academic / education,2,1,2
+Past,M,1900s,1940s,Government / public administration,2,1,1
+Past,M,1900s,1930s,Non-state / nonprofit organization,2,2,2
+Past,M,1900s,1930s,Libraries / cultural institutions,2,1,1
+Past,M,1900s,Unknown,Government / public administration,2,2,2
+Past,M,1900s,Unknown,Transport / utilities / communications,2,1,2
+Past,M,1900s,1930s,Finance / banking / insurance,2,2,2
+Past,M,1910s,1920s,Media / publishing / entertainment,2,1,2
+Past,F,Unknown,1910s,Academic / education,2,1,2
+Past,M,1910s,1930s,Libraries / cultural institutions,2,2,1
+Past,M,1910s,1930s,Unknown / not stated,2,2,0
+Past,M,1910s,1940s,Business / commerce,2,2,2
+Past,M,1910s,1940s,Non-state / nonprofit organization,2,2,2
+Past,M,1910s,1940s,Research institutions,2,1,2
+Past,M,1920s,1930s,Industry / manufacturing / extraction,2,2,2
+Past,M,1900s,1940s,Religious / faith organization,2,1,1
+Past,M,1920s,1930s,Transport / utilities / communications,2,1,2
+Past,M,1920s,1940s,Professional services,2,2,2
+Current,F,1910s,1930s,Academic / education,2,2,2
+Unknown,M,Unknown,1930s,Unknown / not stated,2,2,0
+Current,M,Unknown,Unknown,Professional services,2,2,2
+Current,M,Unknown,1930s,Research institutions,2,2,2
+Current,M,1910s,1920s,Government / public administration,2,2,2
+Current,M,1910s,1940s,Media / publishing / entertainment,2,1,2
+Current,M,Unknown,1920s,Healthcare / medical services,2,2,2
+Current,M,1910s,1940s,Business / commerce,2,2,2
+Current,M,1910s,1930s,Finance / banking / insurance,2,2,2
+Current,M,Unknown,Unknown,Non-state / nonprofit organization,2,2,2
+Current,M,Unknown,Unknown,Intergovernmental / international organization,2,2,2
+Current,M,1890s,1910s,Academic / education,2,2,2
+Current,M,Unknown,Unknown,Industry / manufacturing / extraction,2,2,2
+Current,M,Unknown,Unknown,Finance / banking / insurance,2,2,1
+Current,F,Unknown,1920s,Government / public administration,2,2,2
+Current,M,1910s,1930s,Media / publishing / entertainment,2,2,2
+Current,F,1920s,1940s,Academic / education,2,2,2
+Current,M,Unknown,1940s,Professional services,2,2,2
+Current,M,1900s,Unknown,Military / defense,2,2,2
+Current,M,1910s,1930s,Transport / utilities / communications,2,2,2
+Current,M,1910s,1940s,Professional services,2,2,2
+Past,F,1910s,Unknown,Healthcare / medical services,2,1,2
+Past,F,1900s,1920s,Academic / education,2,1,1
+Past,F,1900s,1930s,Academic / education,2,2,2
+Current,M,1900s,1930s,Business / commerce,2,2,2
+Past,F,1910s,1930s,Government / public administration,2,2,2
+Current,M,1900s,1920s,Military / defense,2,2,2
+Current,M,1900s,Unknown,Government / public administration,2,2,2
+Current,M,1900s,1930s,Military / defense,2,2,2
+Current,M,1900s,1930s,Media / publishing / entertainment,2,2,2
+Current,M,Unknown,1910s,Academic / education,2,2,2
+Current,M,1880s,1900s,Military / defense,1,1,1
+Current,M,1880s,1890s,Government / public administration,1,1,1
+Current,M,1890s,1910s,Industry / manufacturing / extraction,1,1,1
+Past,M,Unknown,1920s,Business / commerce,1,1,1
+Past,M,Unknown,1920s,Industry / manufacturing / extraction,1,1,1
+Current,M,1880s,Unknown,Business / commerce,1,1,1
+Past,F,1920s,1930s,Academic / education,1,1,1
+Current,M,1890s,1920s,Academic / education,1,1,1
+Current,M,1890s,1910s,Research institutions,1,1,1
+Past,M,Unknown,1910s,Military / defense,1,1,1
+Past,M,Unknown,1910s,Government / public administration,1,1,1
+Current,F,Unknown,Unknown,Government / public administration,1,1,1
+Current,M,1890s,1920s,Religious / faith organization,1,1,1
+Past,M,1920s,Unknown,Industry / manufacturing / extraction,1,1,1
+Past,M,1920s,1940s,Transport / utilities / communications,1,1,1
+Current,M,1890s,1920s,Transport / utilities / communications,1,1,1
+Past,M,1920s,1940s,Non-state / nonprofit organization,1,1,1
+Past,M,1920s,1940s,Military / defense,1,1,1
+Current,M,1890s,Unknown,Government / public administration,1,1,1
+Past,M,1920s,1940s,Finance / banking / insurance,1,1,1
+Current,M,1900s,1920s,Business / commerce,1,1,1
+Current,M,1900s,1920s,Media / publishing / entertainment,1,1,1
+Current,M,1870s,1900s,Government / public administration,1,1,1
+Current,F,Unknown,1940s,Government / public administration,1,1,1
+Current,F,Unknown,Unknown,Finance / banking / insurance,1,1,1
+Current,F,1910s,1930s,Research institutions,1,1,1
+Past,M,Unknown,1940s,Unknown / not stated,1,1,0
+Current,F,1910s,1940s,Industry / manufacturing / extraction,1,1,1
+Past,M,Unknown,Unknown,Finance / banking / insurance,1,1,1
+Current,F,1910s,1940s,Government / public administration,1,1,1
+Past,M,Unknown,Unknown,Intergovernmental / international organization,1,1,1
+Past,M,Unknown,Unknown,Media / publishing / entertainment,1,1,1
+Current,F,1910s,1940s,Academic / education,1,1,1
+Unknown,M,1890s,1910s,Government / public administration,1,1,1
+Current,F,Unknown,Unknown,Academic / education,1,1,1
+Unknown,M,1910s,1930s,Government / public administration,1,1,1
+Unknown,M,1910s,1930s,Industry / manufacturing / extraction,1,1,1
+Unknown,M,1920s,Unknown,Military / defense,1,1,1
+Unknown,M,Unknown,1930s,Academic / education,1,1,1
+Unknown,M,Unknown,1930s,Finance / banking / insurance,1,1,1
+Unknown,M,Unknown,1930s,Military / defense,1,1,1
+Unknown,M,Unknown,1930s,Transport / utilities / communications,1,1,1
+Current,F,1910s,1940s,Non-state / nonprofit organization,1,1,1
+Past,M,Unknown,1940s,Non-state / nonprofit organization,1,1,1
+Current,F,1910s,Unknown,Healthcare / medical services,1,1,1
+Past,M,Unknown,1940s,Media / publishing / entertainment,1,1,1
+Current,F,Unknown,1940s,Professional services,1,1,1
+Past,M,Unknown,1930s,Healthcare / medical services,1,1,1
+Current,F,Unknown,1940s,Industry / manufacturing / extraction,1,1,1
+Current,F,Unknown,1940s,Healthcare / medical services,1,1,1
+Current,M,1900s,1920s,Professional services,1,1,1
+Current,F,Unknown,1930s,Finance / banking / insurance,1,1,1
+Past,M,Unknown,1930s,Political / party organization,1,1,1
+Current,F,Unknown,1930s,Business / commerce,1,1,1
+Current,F,Unknown,1920s,Non-state / nonprofit organization,1,1,1
+Current,F,Unknown,1920s,Academic / education,1,1,1
+Current,F,1920s,1940s,Non-state / nonprofit organization,1,1,1
+Past,M,Unknown,1940s,Finance / banking / insurance,1,1,1
+Past,M,Unknown,1940s,Healthcare / medical services,1,1,1
+Current,F,1920s,1930s,Academic / education,1,1,1
+Past,M,Unknown,1940s,Libraries / cultural institutions,1,1,1
+Past,M,1920s,1930s,Research institutions,1,1,1
+Current,M,1900s,Unknown,Business / commerce,1,1,1
+Past,M,1920s,1930s,Military / defense,1,1,1
+Past,M,1880s,1900s,Finance / banking / insurance,1,1,1
+Current,M,Unknown,1920s,Media / publishing / entertainment,1,1,1
+Current,M,Unknown,1920s,Professional services,1,1,1
+Current,M,Unknown,1940s,Media / publishing / entertainment,1,1,1
+Current,M,Unknown,1940s,Research institutions,1,1,1
+Current,M,Unknown,1940s,Unknown / not stated,1,1,0
+Past,M,1900s,1920s,Libraries / cultural institutions,1,1,1
+Past,M,1900s,1920s,Intergovernmental / international organization,1,1,1
+Past,M,1900s,1920s,Industry / manufacturing / extraction,1,1,1
+Current,M,Unknown,Unknown,Business / commerce,1,1,1
+Past,M,1890s,Unknown,Transport / utilities / communications,1,1,1
+Past,M,1890s,Unknown,Government / public administration,1,1,1
+Past,M,1890s,1910s,Intergovernmental / international organization,1,1,1
+Current,M,Unknown,Unknown,Political / party organization,1,1,1
+Past,M,1880s,1900s,Government / public administration,1,1,1
+Past,M,1880s,1890s,Government / public administration,1,1,1
+Current,M,1900s,1920s,Research institutions,1,1,1
+Past,M,1880s,1890s,Academic / education,1,1,1
+Past,F,Unknown,Unknown,Political / party organization,1,1,1
+Past,F,Unknown,Unknown,Non-state / nonprofit organization,1,1,1
+Past,F,Unknown,Unknown,Healthcare / medical services,1,1,1
+Past,F,1900s,1930s,Transport / utilities / communications,1,1,1
+Past,F,1910s,1930s,Libraries / cultural institutions,1,1,1
+Past,F,Unknown,1930s,Military / defense,1,1,1
+Past,F,1910s,1930s,Unknown / not stated,1,1,0
+Past,F,Unknown,1930s,Government / public administration,1,1,1
+Past,F,1910s,1940s,Academic / education,1,1,1
+Past,F,Unknown,1930s,Business / commerce,1,1,1
+Current,F,1910s,1930s,Libraries / cultural institutions,1,1,1
+Past,F,Unknown,1920s,Government / public administration,1,1,1
+Past,F,1910s,1940s,Research institutions,1,1,1
+Current,M,Unknown,1920s,Business / commerce,1,1,1
+Current,M,Unknown,1910s,Media / publishing / entertainment,1,1,1
+Past,M,1900s,1930s,Media / publishing / entertainment,1,1,1
+Current,M,Unknown,1910s,Government / public administration,1,1,1
+Past,M,1920s,1930s,Finance / banking / insurance,1,1,1
+Current,M,1900s,1930s,Industry / manufacturing / extraction,1,1,1
+Past,M,1910s,Unknown,Industry / manufacturing / extraction,1,1,1
+Current,M,1900s,1930s,Libraries / cultural institutions,1,1,1
+Current,M,1900s,1930s,Research institutions,1,1,1
+Current,M,1900s,1940s,Business / commerce,1,1,1
+Current,M,1900s,Unknown,Academic / education,1,1,1
+Current,M,1900s,Unknown,Industry / manufacturing / extraction,1,1,1
+Current,M,1910s,1920s,Media / publishing / entertainment,1,1,1
+Current,M,1910s,1920s,Military / defense,1,1,1
+Current,M,1910s,1920s,Professional services,1,1,1
+Past,M,1910s,1930s,Political / party organization,1,1,1
+Current,M,1910s,1930s,Healthcare / medical services,1,1,1
+Current,M,1910s,1930s,Intergovernmental / international organization,1,1,1
+Current,M,1910s,1930s,Religious / faith organization,1,1,1
+Current,M,1910s,1930s,Unknown / not stated,1,1,0
+Past,M,1910s,1930s,Finance / banking / insurance,1,1,1
+Past,M,1910s,1920s,Unknown / not stated,1,1,0
+Past,M,1910s,1920s,Transport / utilities / communications,1,1,1
+Past,M,1910s,1920s,Military / defense,1,1,1
+Current,M,1910s,Unknown,Business / commerce,1,1,1
+Past,M,1910s,1920s,Academic / education,1,1,1
+Current,M,1920s,1930s,Business / commerce,1,1,1
+Current,M,1920s,1940s,Business / commerce,1,1,1
+Past,M,1900s,Unknown,Libraries / cultural institutions,1,1,1
+Current,M,1920s,1940s,Professional services,1,1,1
+Current,M,1920s,1940s,Transport / utilities / communications,1,1,1
+Current,M,1920s,Unknown,Government / public administration,1,1,1
+Current,M,Unknown,1910s,Business / commerce,1,1,1
+Past,F,1910s,1940s,Healthcare / medical services,1,1,1

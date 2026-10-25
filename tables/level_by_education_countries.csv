@@ -1,0 +1,52 @@
+﻿education_countries,level,appointments,students,employers
+United States,mid-level,573,434,352
+China,mid-level,540,381,311
+China,senior,285,175,195
+United States,senior,277,174,199
+United States,junior,249,218,125
+China,junior,224,194,108
+United States,Unknown,163,151,111
+China,Unknown,97,90,64
+China,student,51,49,21
+United States,executive,49,41,44
+China,executive,30,28,28
+United States,student,27,24,21
+United Kingdom,senior,23,9,16
+United Kingdom,mid-level,23,16,23
+Germany,senior,12,3,8
+United Kingdom,junior,11,10,9
+Canada,junior,11,11,6
+Unknown,mid-level,9,6,8
+France,senior,8,5,8
+France,mid-level,7,6,7
+Japan,senior,5,3,5
+United Kingdom,executive,5,4,4
+Unknown,senior,5,5,5
+Unknown,executive,5,5,4
+Germany,mid-level,5,4,5
+Hong Kong,Unknown,5,5,5
+Hong Kong,mid-level,4,3,4
+Philippines,mid-level,4,3,4
+Canada,senior,4,3,3
+Canada,mid-level,4,4,4
+Hong Kong,junior,3,3,3
+Italy,senior,3,2,3
+Germany,executive,3,2,3
+United Kingdom,Unknown,3,3,3
+Germany,student,2,1,2
+Italy,student,2,1,2
+Philippines,Unknown,2,2,2
+South Africa,Unknown,2,1,2
+France,executive,2,2,2
+Unknown,Unknown,1,1,1
+Belgium,Unknown,1,1,1
+United Kingdom,student,1,1,1
+Japan,mid-level,1,1,1
+Italy,mid-level,1,1,1
+Italy,executive,1,1,1
+Belgium,mid-level,1,1,1
+India,Unknown,1,1,1
+Hong Kong,senior,1,1,1
+Germany,Unknown,1,1,1
+Costa Rica,junior,1,1,1
+Italy,Unknown,1,1,1

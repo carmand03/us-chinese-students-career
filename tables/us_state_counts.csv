@@ -1,0 +1,36 @@
+﻿province,appointments,students,employers,matched_boundary
+Unknown,285,251,183,False
+New York,207,186,61,True
+California,50,44,29,True
+District of Columbia,42,39,9,True
+Massachusetts,41,36,15,True
+Michigan,39,36,9,True
+Illinois,31,28,14,True
+Pennsylvania,18,17,11,True
+New Jersey,17,16,11,True
+Oregon,14,14,5,True
+Minnesota,13,12,5,True
+Washington,12,11,6,True
+Connecticut,11,11,3,True
+Wisconsin,9,7,5,True
+Indiana,8,7,7,True
+Hawaii,8,7,3,True
+Louisiana,7,5,3,True
+Ohio,6,5,6,True
+Iowa,6,6,3,True
+Texas,3,2,1,True
+Missouri,3,3,3,True
+Tennessee,2,2,2,True
+Rhode Island,2,2,2,True
+Arizona,2,2,2,True
+North Carolina,2,2,1,True
+Mississippi,2,2,2,True
+New Hampshire,1,1,1,True
+Montana,1,1,1,True
+Arkansas,1,1,1,True
+Maryland,1,1,1,True
+Maine,1,1,1,True
+Hubei,1,1,1,False
+Vermont,1,1,1,True
+Virginia,1,1,1,True
+Colorado,1,1,1,True

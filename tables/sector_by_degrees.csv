@@ -1,0 +1,170 @@
+﻿degrees,sector,appointments,students,employers
+Unknown,Government / public administration,178,125,79
+Unknown,Academic / education,168,125,76
+Unknown,Military / defense,141,85,32
+M.A.,Academic / education,94,57,66
+Ph.D.,Academic / education,87,47,51
+M.S.,Academic / education,81,63,45
+B.S.,Industry / manufacturing / extraction,69,57,48
+Unknown,Industry / manufacturing / extraction,56,48,46
+M.S.,Industry / manufacturing / extraction,51,42,40
+Master,Academic / education,44,20,24
+B.S.,Academic / education,41,30,32
+M.S.,Government / public administration,38,35,20
+M.A.,Government / public administration,35,29,30
+Unknown,Transport / utilities / communications,32,24,24
+B.S.,Business / commerce,28,26,23
+Ph.D.,Industry / manufacturing / extraction,28,21,26
+Ph.D.,Government / public administration,27,18,21
+M.S.,Professional services,25,23,13
+B.A.,Government / public administration,25,16,20
+Unknown,Business / commerce,24,21,19
+B.A.,Academic / education,24,16,17
+Unknown,Non-state / nonprofit organization,20,17,14
+B.S.,Military / defense,20,17,9
+B.S.,Government / public administration,20,16,10
+M.A.,Media / publishing / entertainment,20,15,15
+M.S.,Business / commerce,20,19,15
+M.B.A.,Finance / banking / insurance,19,14,10
+Unknown,Research institutions,17,16,8
+Unknown,Finance / banking / insurance,17,17,5
+Unknown,Media / publishing / entertainment,17,14,16
+M.A.,Finance / banking / insurance,15,14,5
+M.S.,Military / defense,14,14,9
+M.S.,Research institutions,13,10,11
+B.S.,Transport / utilities / communications,12,10,9
+Unknown,Healthcare / medical services,12,9,11
+B.S.,Professional services,12,11,11
+B.A.,Finance / banking / insurance,12,11,3
+M.A.,Non-state / nonprofit organization,11,10,7
+Unknown,Professional services,11,8,9
+M.S.,Transport / utilities / communications,10,10,8
+M.D.,Healthcare / medical services,9,8,9
+B.A.,Industry / manufacturing / extraction,9,9,8
+B.A.,Non-state / nonprofit organization,8,8,7
+M.B.A.,Government / public administration,8,6,8
+B.S.,Finance / banking / insurance,8,6,6
+LL.D.,Academic / education,7,4,7
+B.S.,Media / publishing / entertainment,7,4,7
+Ph.D.,Non-state / nonprofit organization,7,6,5
+M.B.A.,Industry / manufacturing / extraction,7,6,6
+Unknown,Libraries / cultural institutions,7,4,3
+Ph.D.,Media / publishing / entertainment,7,7,5
+M.A.,Industry / manufacturing / extraction,6,6,6
+B.A.,Professional services,6,5,6
+LL.D.,Government / public administration,6,4,6
+Sc.D.,Academic / education,6,4,6
+Ph.D.,Business / commerce,6,6,5
+J.D.,Government / public administration,6,3,3
+Ph.D.,Research institutions,6,4,5
+Unknown,Unknown / not stated,5,5,0
+LL.M.,Government / public administration,5,4,4
+M.P.H.,Academic / education,4,2,2
+D.Sc.,Academic / education,4,2,3
+M.A.,Transport / utilities / communications,4,3,4
+M.A.,Research institutions,4,3,4
+M.A.,Military / defense,4,4,3
+Ph.D.,Military / defense,4,4,4
+B.A.,Media / publishing / entertainment,4,4,3
+B.A.,Military / defense,4,4,4
+Unknown,Religious / faith organization,3,2,2
+Ph.D.,Professional services,3,3,3
+XX,Industry / manufacturing / extraction,3,2,2
+Ph.D.,Finance / banking / insurance,3,3,3
+Ph.D.,Transport / utilities / communications,3,3,3
+M.D.,Academic / education,3,2,3
+B.A.,Business / commerce,3,3,3
+M.B.A.,Professional services,3,3,3
+M.B.A.,Media / publishing / entertainment,3,1,2
+M.S.,Healthcare / medical services,3,3,3
+Master,Military / defense,3,2,3
+M.C.E.,Government / public administration,3,1,3
+M.A.,Business / commerce,3,3,3
+B.A.,Research institutions,3,3,3
+B.S.,Research institutions,3,2,2
+LL.M.,Academic / education,3,2,3
+B.E.,Transport / utilities / communications,3,1,2
+B.S.,Healthcare / medical services,3,2,3
+B.S.,Non-state / nonprofit organization,3,3,2
+M.B.A.,Academic / education,3,2,3
+D.Sc.,Government / public administration,3,2,3
+C.P.H.,Academic / education,2,1,2
+S.T.L.,Media / publishing / entertainment,2,1,2
+M.S.,Unknown / not stated,2,2,0
+Master,Research institutions,2,2,2
+M.S.,Non-state / nonprofit organization,2,2,2
+LL.D.,Non-state / nonprofit organization,2,2,2
+LL.B.,Academic / education,2,1,2
+Ph.D.,Intergovernmental / international organization,2,2,2
+B.S.,Political / party organization,2,1,1
+M.S.,Finance / banking / insurance,2,2,2
+D.P.H.,Academic / education,2,1,1
+M.A.,Healthcare / medical services,2,2,2
+Sc.D.,Military / defense,2,1,2
+M.B.A.,Business / commerce,2,2,2
+Ph.D.,Libraries / cultural institutions,2,2,1
+B.F.A.,Professional services,2,1,2
+M.A.,Political / party organization,2,2,2
+XX,Academic / education,2,2,2
+B.E.,Industry / manufacturing / extraction,2,1,2
+M.Ed,Academic / education,2,1,2
+Unknown,Political / party organization,2,2,1
+M.A.,Intergovernmental / international organization,2,2,2
+M.P.H.,Healthcare / medical services,2,1,2
+M.A.,Unknown / not stated,2,2,0
+D.I.C.,Academic / education,1,1,1
+Ph.M.,Academic / education,1,1,1
+B.A.,Healthcare / medical services,1,1,1
+Ph.D.,Political / party organization,1,1,1
+XX,Government / public administration,1,1,1
+D.D.S.,Academic / education,1,1,1
+XX,Business / commerce,1,1,1
+B.S.C.,Industry / manufacturing / extraction,1,1,1
+B.L.S.,Academic / education,1,1,1
+B.A.,Political / party organization,1,1,1
+S.T.L.,Non-state / nonprofit organization,1,1,1
+Unknown,Intergovernmental / international organization,1,1,1
+B.S.C.,Government / public administration,1,1,1
+Sc.D.,Government / public administration,1,1,1
+Sc.D.,Industry / manufacturing / extraction,1,1,1
+B.C.S.,Government / public administration,1,1,1
+B.S.A.,Research institutions,1,1,1
+B.J.,Academic / education,1,1,1
+B.J.,Media / publishing / entertainment,1,1,1
+B.A.,Transport / utilities / communications,1,1,1
+Master,Non-state / nonprofit organization,1,1,1
+D.P.H.,Military / defense,1,1,1
+M.D.,Intergovernmental / international organization,1,1,1
+M.P.H.,Industry / manufacturing / extraction,1,1,1
+M.P.H.,Government / public administration,1,1,1
+M.M.,Religious / faith organization,1,1,1
+M.E.,Industry / manufacturing / extraction,1,1,1
+M.E.,Government / public administration,1,1,1
+M.D.,Non-state / nonprofit organization,1,1,1
+M.D.,Industry / manufacturing / extraction,1,1,1
+M.P.H.,Non-state / nonprofit organization,1,1,1
+M.A.,Libraries / cultural institutions,1,1,1
+M.D.,Government / public administration,1,1,1
+M.C.E.,Transport / utilities / communications,1,1,1
+M.C.E.,Military / defense,1,1,1
+M.A.,Professional services,1,1,1
+M.B.A.,Transport / utilities / communications,1,1,1
+M.P.H.,Intergovernmental / international organization,1,1,1
+M.R.P.,Intergovernmental / international organization,1,1,1
+J.D.,Intergovernmental / international organization,1,1,1
+LL.B.,Media / publishing / entertainment,1,1,1
+J.D.,Professional services,1,1,1
+LL.B.,Government / public administration,1,1,1
+LL.B.,Industry / manufacturing / extraction,1,1,1
+Master,Libraries / cultural institutions,1,1,1
+Master,Healthcare / medical services,1,1,1
+Master,Government / public administration,1,1,1
+LL.B.,Non-state / nonprofit organization,1,1,1
+M.R.P.,Media / publishing / entertainment,1,1,1
+LL.D.,Finance / banking / insurance,1,1,1
+LL.D.,Media / publishing / entertainment,1,1,1
+M.S.,Political / party organization,1,1,1
+M.S.,Media / publishing / entertainment,1,1,1
+LL.M.,Media / publishing / entertainment,1,1,1
+LL.M.,Non-state / nonprofit organization,1,1,1
+XX,Non-state / nonprofit organization,1,1,1

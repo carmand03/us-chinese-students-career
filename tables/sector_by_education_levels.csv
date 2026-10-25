@@ -1,0 +1,70 @@
+﻿education_levels,sector,appointments,students,employers
+Unknown,Academic / education,195,140,83
+Master,Academic / education,186,127,96
+Unknown,Government / public administration,179,126,79
+Unknown,Military / defense,142,86,33
+Doctor,Academic / education,106,59,57
+Master,Government / public administration,90,76,55
+Bachelor,Industry / manufacturing / extraction,82,69,54
+Master,Industry / manufacturing / extraction,66,56,51
+Bachelor,Academic / education,65,47,43
+Unknown,Industry / manufacturing / extraction,59,50,47
+Bachelor,Government / public administration,46,33,27
+Doctor,Government / public administration,43,28,29
+Master,Finance / banking / insurance,36,30,15
+Unknown,Transport / utilities / communications,32,24,24
+Bachelor,Business / commerce,31,29,25
+Doctor,Industry / manufacturing / extraction,30,23,28
+Master,Professional services,29,27,17
+Unknown,Business / commerce,25,22,19
+Master,Media / publishing / entertainment,25,18,18
+Master,Business / commerce,25,24,19
+Bachelor,Military / defense,24,21,12
+Unknown,Non-state / nonprofit organization,21,18,15
+Master,Military / defense,19,19,12
+Bachelor,Finance / banking / insurance,19,16,8
+Bachelor,Professional services,19,16,18
+Unknown,Research institutions,18,17,9
+Master,Research institutions,17,13,14
+Unknown,Finance / banking / insurance,17,17,5
+Unknown,Media / publishing / entertainment,17,14,16
+Bachelor,Transport / utilities / communications,16,12,11
+Master,Transport / utilities / communications,16,15,13
+Master,Non-state / nonprofit organization,15,14,9
+Unknown,Healthcare / medical services,12,9,11
+Bachelor,Media / publishing / entertainment,11,8,9
+Unknown,Professional services,11,8,9
+Bachelor,Non-state / nonprofit organization,10,10,7
+Doctor,Non-state / nonprofit organization,10,9,8
+Doctor,Healthcare / medical services,9,8,9
+Unknown,Libraries / cultural institutions,8,5,3
+Doctor,Media / publishing / entertainment,7,7,4
+Bachelor,Research institutions,7,6,6
+Master,Healthcare / medical services,7,6,7
+Doctor,Business / commerce,6,6,5
+Doctor,Research institutions,6,4,5
+Doctor,Military / defense,6,5,6
+Unknown,Unknown / not stated,5,5,0
+Bachelor,Healthcare / medical services,4,3,4
+Master,Unknown / not stated,4,4,0
+Doctor,Professional services,4,4,4
+Doctor,Finance / banking / insurance,4,4,4
+Master,Political / party organization,3,3,3
+Doctor,Intergovernmental / international organization,3,3,3
+Master,Intergovernmental / international organization,3,3,3
+Bachelor,Political / party organization,3,2,1
+Unknown,Religious / faith organization,3,2,2
+Doctor,Transport / utilities / communications,3,3,3
+Diploma,Academic / education,3,2,2
+Certificate,Academic / education,2,1,2
+Unknown,Political / party organization,2,2,1
+Doctor,Libraries / cultural institutions,2,2,1
+Licentiate,Media / publishing / entertainment,2,1,2
+Unknown,Intergovernmental / international organization,1,1,1
+Diploma,Military / defense,1,1,1
+Master,Libraries / cultural institutions,1,1,1
+Doctor,Political / party organization,1,1,1
+Doctorate,Intergovernmental / international organization,1,1,1
+Doctorate,Media / publishing / entertainment,1,1,1
+Master,Religious / faith organization,1,1,1
+Licentiate,Non-state / nonprofit organization,1,1,1

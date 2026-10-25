@@ -1,0 +1,634 @@
+﻿record_id,NameID,country,province,city
+R0085,N00096,China,Anhui,Unknown
+R0506,N00903,China,Fujian,Unknown
+R0507,N01224,China,Fujian,Unknown
+R0517,N01180,China,Gansu,Unknown
+R1227,N01180,China,Gansu,Unknown
+R0108,N00111,China,Guangdong,Unknown
+R0109,N00486,China,Guangdong,Unknown
+R0110,N01083,China,Guangdong,Unknown
+R0111,N01456,China,Guangdong,Unknown
+R0112,N00844,China,Guangdong,Unknown
+R0868,N01082,China,Guangdong,Unknown
+R0893,N00193,China,Guangdong,Unknown
+R0564,N01144,China,Guangdong,Unknown
+R0745,N01361,China,Guangdong,Unknown
+R0746,N01361,China,Guangdong,Unknown
+R0565,N00180,China,Guangdong,Unknown
+R0566,N00205,China,Guangdong,Unknown
+R0567,N00872,China,Guangdong,Unknown
+R0457,N00931,China,Guangdong,Unknown
+R0961,N01389,China,Guangdong,Unknown
+R0569,N01093,China,Guangxi,Unknown
+R0570,N00752,China,Guangxi,Unknown
+R0571,N01444,China,Guangxi,Unknown
+R0572,N01530,China,Guangxi,Unknown
+R0588,N01146,China,Guizhou,Unknown
+R0589,N01146,China,Guizhou,Unknown
+R0617,N01054,China,Hebei,Unknown
+R0618,N00860,China,Hebei,Unknown
+R0619,N00105,China,Hebei,Unknown
+R0621,N01138,China,Heilongjiang,Unknown
+R0622,N00987,China,Henan,Unknown
+R1639,N00965,China,Henan,Unknown
+R0648,N00993,China,Hubei,Unknown
+R0652,N00658,China,Hunan,Unknown
+R0683,N01036,China,Jiangsu,Unknown
+R0684,N00094,China,Jiangsu,Unknown
+R0685,N00451,China,Jiangsu,Unknown
+R0687,N01221,China,Jiangsu,Unknown
+R0688,N01221,China,Jiangsu,Unknown
+R0690,N00755,China,Jiangsu,Unknown
+R0693,N00144,China,Jiangxi,Unknown
+R0694,N01186,China,Jiangxi,Unknown
+R0695,N01186,China,Jiangxi,Unknown
+R0696,N00761,China,Jiangxi,Unknown
+R1182,N00106,China,Shaanxi,Unknown
+R1183,N00106,China,Shaanxi,Unknown
+R1184,N00105,China,Shandong,Unknown
+R1200,N01138,China,Sichuan,Unknown
+R1201,N01288,China,Sichuan,Unknown
+R1202,N00966,China,Sichuan,Unknown
+R1204,N00247,China,Sichuan,Unknown
+R1646,N00159,China,Yunnan,Unknown
+R1060,N00676,China,Yunnan,Unknown
+R1573,N00306,China,Yunnan,Unknown
+R1643,N00159,China,Yunnan,Unknown
+R1644,N00196,China,Yunnan,Unknown
+R1645,N00455,China,Yunnan,Unknown
+R1651,N00693,China,Yunnan,Unknown
+R1653,N01402,China,Yunnan,Unknown
+R1655,N00863,China,Yunnan,Unknown
+R1654,N01402,China,Yunnan,Unknown
+R1652,N00144,China,Yunnan,Unknown
+R0223,N00787,China,Zhejiang,Unknown
+R0869,N00467,China,Zhejiang,Unknown
+R0918,N01036,China,Zhejiang,Unknown
+R1657,N01336,China,Zhejiang,Unknown
+R0019,N01180,China,Unknown,Unknown
+R0021,N01011,China,Unknown,Unknown
+R0034,N01131,China,Unknown,Unknown
+R0031,N00614,China,Unknown,Unknown
+R0022,N01589,China,Unknown,Unknown
+R0026,N01014,China,Unknown,Unknown
+R0027,N01128,China,Unknown,Unknown
+R0028,N01075,China,Unknown,Unknown
+R0030,N00762,China,Unknown,Unknown
+R0037,N01038,China,Unknown,Unknown
+R0044,N00607,China,Unknown,Unknown
+R0045,N01493,China,Unknown,Unknown
+R0032,N01038,China,Unknown,Unknown
+R0046,N01405,China,Unknown,Unknown
+R0047,N00438,China,Unknown,Unknown
+R0048,N00462,China,Unknown,Unknown
+R0049,N01219,China,Unknown,Unknown
+R0029,N00103,China,Unknown,Unknown
+R0035,N00559,China,Unknown,Unknown
+R0036,N00614,China,Unknown,Unknown
+R0043,N00438,China,Unknown,Unknown
+R0023,N01117,China,Unknown,Unknown
+R0050,N01592,China,Unknown,Unknown
+R0053,N01409,China,Unknown,Unknown
+R0088,N01346,China,Unknown,Unknown
+R0093,N01407,China,Unknown,Unknown
+R0089,N00211,China,Unknown,Unknown
+R0090,N00347,China,Unknown,Unknown
+R0091,N00913,China,Unknown,Unknown
+R0092,N01093,China,Unknown,Unknown
+R0094,N00322,China,Unknown,Unknown
+R0095,N00590,China,Unknown,Unknown
+R0096,N00090,China,Unknown,Unknown
+R0101,N01409,China,Unknown,Unknown
+R0102,N00016,China,Unknown,Unknown
+R0148,N00804,China,Unknown,Unknown
+R0114,N00424,China,Unknown,Unknown
+R0150,N00682,China,Unknown,Unknown
+R0171,N01531,China,Unknown,Unknown
+R0197,N00792,China,Unknown,Unknown
+R0198,N00968,China,Unknown,Unknown
+R0199,N01351,China,Unknown,Unknown
+R0200,N00666,China,Unknown,Unknown
+R0203,N01229,China,Unknown,Unknown
+R0204,N00964,China,Unknown,Unknown
+R0206,N00666,China,Unknown,Unknown
+R0207,N00580,China,Unknown,Unknown
+R0208,N01493,China,Unknown,Unknown
+R0005,N01444,China,Unknown,Unknown
+R0214,N01270,China,Unknown,Unknown
+R0215,N01356,China,Unknown,Unknown
+R0216,N00331,China,Unknown,Unknown
+R0217,N01082,China,Unknown,Unknown
+R0229,N01229,China,Unknown,Unknown
+R0232,N01479,China,Unknown,Unknown
+R0231,N00646,China,Unknown,Unknown
+R0269,N00467,China,Unknown,Unknown
+R0270,N01588,China,Unknown,Unknown
+R0272,N00154,China,Unknown,Unknown
+R0273,N00964,China,Unknown,Unknown
+R0275,N01145,China,Unknown,Unknown
+R0277,N01221,China,Unknown,Unknown
+R0278,N01221,China,Unknown,Unknown
+R0279,N01221,China,Unknown,Unknown
+R0280,N01221,China,Unknown,Unknown
+R0281,N01356,China,Unknown,Unknown
+R0282,N01229,China,Unknown,Unknown
+R0283,N01575,China,Unknown,Unknown
+R0838,N01555,China,Unknown,Unknown
+R0839,N01336,China,Unknown,Unknown
+R0840,N00716,China,Unknown,Unknown
+R0848,N00529,China,Unknown,Unknown
+R0849,N01283,China,Unknown,Unknown
+R0851,N01044,China,Unknown,Unknown
+R0855,N00559,China,Unknown,Unknown
+R0842,N00863,China,Unknown,Unknown
+R0843,N00369,China,Unknown,Unknown
+R0844,N01379,China,Unknown,Unknown
+R0845,N01263,China,Unknown,Unknown
+R0846,N01379,China,Unknown,Unknown
+R0847,N01044,China,Unknown,Unknown
+R0852,N00248,China,Unknown,Unknown
+R0853,N01224,China,Unknown,Unknown
+R0854,N01044,China,Unknown,Unknown
+R0850,N01044,China,Unknown,Unknown
+R0856,N00706,China,Unknown,Unknown
+R0841,N01531,China,Unknown,Unknown
+R0905,N00495,China,Unknown,Unknown
+R0906,N00706,China,Unknown,Unknown
+R0857,N00086,China,Unknown,Unknown
+R0864,N01563,China,Unknown,Unknown
+R0862,N00270,China,Unknown,Unknown
+R0865,N00602,China,Unknown,Unknown
+R0860,N01229,China,Unknown,Unknown
+R0861,N00578,China,Unknown,Unknown
+R0863,N00578,China,Unknown,Unknown
+R0859,N01356,China,Unknown,Unknown
+R0858,N00080,China,Unknown,Unknown
+R0866,N01579,China,Unknown,Unknown
+R0867,N00096,China,Unknown,Unknown
+R0875,N01401,China,Unknown,Unknown
+R0873,N01028,China,Unknown,Unknown
+R0874,N00994,China,Unknown,Unknown
+R0870,N00686,China,Unknown,Unknown
+R0871,N01566,China,Unknown,Unknown
+R0872,N01574,China,Unknown,Unknown
+R0876,N00071,China,Unknown,Unknown
+R0881,N01227,China,Unknown,Unknown
+R0877,N00994,China,Unknown,Unknown
+R0878,N01074,China,Unknown,Unknown
+R0879,N01369,China,Unknown,Unknown
+R0882,N01182,China,Unknown,Unknown
+R0880,N00301,China,Unknown,Unknown
+R0895,N01491,China,Unknown,Unknown
+R0885,N01093,China,Unknown,Unknown
+R0891,N00636,China,Unknown,Unknown
+R0892,N01406,China,Unknown,Unknown
+R0897,N00322,China,Unknown,Unknown
+R0900,N00646,China,Unknown,Unknown
+R0901,N01479,China,Unknown,Unknown
+R0902,N00772,China,Unknown,Unknown
+R0903,N01235,China,Unknown,Unknown
+R0886,N01491,China,Unknown,Unknown
+R0887,N00193,China,Unknown,Unknown
+R0888,N00193,China,Unknown,Unknown
+R0889,N01077,China,Unknown,Unknown
+R0890,N00193,China,Unknown,Unknown
+R0894,N00193,China,Unknown,Unknown
+R0896,N01077,China,Unknown,Unknown
+R0883,N00059,China,Unknown,Unknown
+R0898,N00100,China,Unknown,Unknown
+R0899,N00155,China,Unknown,Unknown
+R0884,N00059,China,Unknown,Unknown
+R0904,N00686,China,Unknown,Unknown
+R0907,N00807,China,Unknown,Unknown
+R0960,N00455,China,Unknown,Unknown
+R0378,N00686,China,Unknown,Unknown
+R0398,N01473,China,Unknown,Unknown
+R0406,N01514,China,Unknown,Unknown
+R0407,N01514,China,Unknown,Unknown
+R0440,N00913,China,Unknown,Unknown
+R0439,N00824,China,Unknown,Unknown
+R0441,N00438,China,Unknown,Unknown
+R0409,N01093,China,Unknown,Unknown
+R0410,N01093,China,Unknown,Unknown
+R0408,N00945,China,Unknown,Unknown
+R0411,N00144,China,Unknown,Unknown
+R0412,N00165,China,Unknown,Unknown
+R0413,N00224,China,Unknown,Unknown
+R0414,N00322,China,Unknown,Unknown
+R0415,N00478,China,Unknown,Unknown
+R0416,N00543,China,Unknown,Unknown
+R0417,N00568,China,Unknown,Unknown
+R0418,N00590,China,Unknown,Unknown
+R0419,N00609,China,Unknown,Unknown
+R0420,N00675,China,Unknown,Unknown
+R0421,N01093,China,Unknown,Unknown
+R0422,N01108,China,Unknown,Unknown
+R0423,N01346,China,Unknown,Unknown
+R0424,N01479,China,Unknown,Unknown
+R0425,N01514,China,Unknown,Unknown
+R0426,N01516,China,Unknown,Unknown
+R0427,N01212,China,Unknown,Unknown
+R0428,N00996,China,Unknown,Unknown
+R0437,N00100,China,Unknown,Unknown
+R0438,N00458,China,Unknown,Unknown
+R0445,N01144,China,Unknown,Unknown
+R0456,N01529,China,Unknown,Unknown
+R0455,N00994,China,Unknown,Unknown
+R0466,N01057,China,Unknown,Unknown
+R0468,N01613,China,Unknown,Unknown
+R0465,N00739,China,Unknown,Unknown
+R0467,N01570,China,Unknown,Unknown
+R0479,N01346,China,Unknown,Unknown
+R0480,N01516,China,Unknown,Unknown
+R0482,N01108,China,Unknown,Unknown
+R0485,N01514,China,Unknown,Unknown
+R0486,N00609,China,Unknown,Unknown
+R0487,N00537,China,Unknown,Unknown
+R0488,N01516,China,Unknown,Unknown
+R0481,N00144,China,Unknown,Unknown
+R0484,N00154,China,Unknown,Unknown
+R0483,N00568,China,Unknown,Unknown
+R0503,N00495,China,Unknown,Unknown
+R0520,N00495,China,Unknown,Unknown
+R0538,N01224,China,Unknown,Unknown
+R0539,N01232,China,Unknown,Unknown
+R0213,N00038,China,Unknown,Unknown
+R0205,N00220,China,Unknown,Unknown
+R0642,N01311,China,Unknown,Unknown
+R0647,N00997,China,Unknown,Unknown
+R0664,N01529,China,Unknown,Unknown
+R0682,N00858,China,Unknown,Unknown
+R0709,N01092,China,Unknown,Unknown
+R0710,N01288,China,Unknown,Unknown
+R0758,N01276,China,Unknown,Unknown
+R0756,N00476,China,Unknown,Unknown
+R0757,N00686,China,Unknown,Unknown
+R0783,N00166,China,Unknown,Unknown
+R0810,N00108,China,Unknown,Unknown
+R0822,N01581,China,Unknown,Unknown
+R0830,N00451,China,Unknown,Unknown
+R0831,N00180,China,Unknown,Unknown
+R0833,N01526,China,Unknown,Unknown
+R0828,N01444,China,Unknown,Unknown
+R0829,N01444,China,Unknown,Unknown
+R0832,N01317,China,Unknown,Unknown
+R1133,N00698,China,Unknown,Unknown
+R0920,N00447,China,Unknown,Unknown
+R0922,N00363,China,Unknown,Unknown
+R0938,N00791,China,Unknown,Unknown
+R0458,N01187,China,Unknown,Unknown
+R0459,N01286,China,Unknown,Unknown
+R0953,N00578,China,Unknown,Unknown
+R0955,N00748,China,Unknown,Unknown
+R0958,N01613,China,Unknown,Unknown
+R1020,N00792,China,Unknown,Unknown
+R1033,N00252,China,Unknown,Unknown
+R1054,N01092,China,Unknown,Unknown
+R1067,N00945,China,Unknown,Unknown
+R1076,N00108,China,Unknown,Unknown
+R1086,N00879,China,Unknown,Unknown
+R1123,N00748,China,Unknown,Unknown
+R1124,N00476,China,Unknown,Unknown
+R1134,N01180,China,Unknown,Unknown
+R1135,N00874,China,Unknown,Unknown
+R1149,N00935,China,Unknown,Unknown
+R1150,N01373,China,Unknown,Unknown
+R1172,N01129,China,Unknown,Unknown
+R1173,N00610,China,Unknown,Unknown
+R1174,N01591,China,Unknown,Unknown
+R1209,N01074,China,Unknown,Unknown
+R1213,N01248,China,Unknown,Unknown
+R1628,N01322,China,Unknown,Unknown
+R1230,N01531,China,Unknown,Unknown
+R1274,N01612,China,Unknown,Unknown
+R1278,N01099,China,Unknown,Unknown
+R1279,N01099,China,Unknown,Unknown
+R1280,N01455,China,Unknown,Unknown
+R1338,N01317,China,Unknown,Unknown
+R1339,N01317,China,Unknown,Unknown
+R1137,N01379,China,Unknown,Unknown
+R1581,N01031,China,Unknown,Unknown
+R1595,N00693,China,Unknown,Unknown
+R1606,N00649,China,Unknown,Unknown
+R1629,N00574,China,Unknown,Unknown
+R1636,N00921,China,Unknown,Unknown
+R1637,N00768,China,Unknown,Unknown
+R1640,N00816,China,Unknown,Unknown
+R1642,N00959,China,Unknown,Unknown
+R1671,N00676,China,Unknown,Unknown
+R1672,N01523,China,Unknown,Unknown
+R0001,N01507,China,Unknown,Unknown
+R1682,N00448,China,Unknown,Unknown
+R1687,N00113,China,Unknown,Unknown
+R1688,N00514,China,Unknown,Unknown
+R1689,N00516,China,Unknown,Unknown
+R0002,N00982,United States,Unknown,Unknown
+R0018,N00328,United States,Unknown,Unknown
+R0054,N01459,United States,Unknown,Unknown
+R0055,N00785,United States,Unknown,Unknown
+R0056,N00753,United States,Unknown,Unknown
+R0061,N01280,United States,Unknown,Unknown
+R0062,N00256,United States,Unknown,Unknown
+R0070,N00159,United States,Unknown,Unknown
+R0071,N01560,United States,Unknown,Unknown
+R0069,N01560,United States,Unknown,Unknown
+R0072,N00987,United States,Unknown,Unknown
+R0073,N00176,United States,Unknown,Unknown
+R0075,N00307,United States,Unknown,Unknown
+R0076,N01219,United States,Unknown,Unknown
+R0083,N01023,United States,Unknown,Unknown
+R0086,N01196,United States,Unknown,Unknown
+R0103,N00885,United States,Unknown,Unknown
+R0156,N00429,United States,Unknown,Unknown
+R0174,N00910,United States,Unknown,Unknown
+R0178,N01052,United States,Unknown,Unknown
+R0180,N00250,United States,Unknown,Unknown
+R0192,N00380,United States,Unknown,Unknown
+R0194,N01088,United States,Unknown,Unknown
+R0209,N00531,United States,Unknown,Unknown
+R0212,N01280,United States,Unknown,Unknown
+R0271,N01322,United States,Unknown,Unknown
+R0355,N00138,United States,Unknown,Unknown
+R0357,N00583,United States,Unknown,Unknown
+R0358,N01466,United States,Unknown,Unknown
+R0356,N00773,United States,Unknown,Unknown
+R0360,N00173,United States,Unknown,Unknown
+R0331,N00065,United States,Unknown,Unknown
+R0368,N01538,United States,Unknown,Unknown
+R0373,N01155,United States,Unknown,Unknown
+R0374,N01389,United States,Unknown,Unknown
+R0372,N00519,United States,Unknown,Unknown
+R0375,N00596,United States,Unknown,Unknown
+R0377,N00537,United States,Unknown,Unknown
+R0376,N01334,United States,Unknown,Unknown
+R0379,N01194,United States,Unknown,Unknown
+R0380,N00762,United States,Unknown,Unknown
+R0381,N00696,United States,Unknown,Unknown
+R0388,N00184,United States,Unknown,Unknown
+R0390,N00259,United States,Unknown,Unknown
+R0393,N00035,United States,Unknown,Unknown
+R0395,N00136,United States,Unknown,Unknown
+R0402,N01459,United States,Unknown,Unknown
+R0404,N01338,United States,Unknown,Unknown
+R0405,N01112,United States,Unknown,Unknown
+R0429,N00014,United States,Unknown,Unknown
+R0430,N00017,United States,Unknown,Unknown
+R0431,N00059,United States,Unknown,Unknown
+R0432,N00062,United States,Unknown,Unknown
+R0433,N00089,United States,Unknown,Unknown
+R0434,N00090,United States,Unknown,Unknown
+R0435,N00097,United States,Unknown,Unknown
+R0436,N00984,United States,Unknown,Unknown
+R0446,N01465,United States,Unknown,Unknown
+R0447,N00417,United States,Unknown,Unknown
+R0449,N01249,United States,Unknown,Unknown
+R0450,N00526,United States,Unknown,Unknown
+R0461,N00993,United States,Unknown,Unknown
+R0464,N01188,United States,Unknown,Unknown
+R0472,N00261,United States,Unknown,Unknown
+R0473,N00102,United States,Unknown,Unknown
+R0475,N00529,United States,Unknown,Unknown
+R0476,N01087,United States,Unknown,Unknown
+R0477,N01143,United States,Unknown,Unknown
+R0491,N01243,United States,Unknown,Unknown
+R0495,N00753,United States,Unknown,Unknown
+R0497,N01316,United States,Unknown,Unknown
+R0498,N01194,United States,Unknown,Unknown
+R0504,N01369,United States,Unknown,Unknown
+R0518,N01304,United States,Unknown,Unknown
+R0519,N01327,United States,Unknown,Unknown
+R0521,N00189,United States,Unknown,Unknown
+R0554,N00785,United States,Unknown,Unknown
+R0555,N01176,United States,Unknown,Unknown
+R0560,N01071,United States,Unknown,Unknown
+R0563,N00288,United States,Unknown,Unknown
+R0742,N00879,United States,Unknown,Unknown
+R0743,N00879,United States,Unknown,Unknown
+R0594,N01039,United States,Unknown,Unknown
+R0595,N01039,United States,Unknown,Unknown
+R0596,N01400,United States,Unknown,Unknown
+R0597,N00246,United States,Unknown,Unknown
+R0626,N01175,United States,Unknown,Unknown
+R0627,N00872,United States,Unknown,Unknown
+R0630,N01341,United States,Unknown,Unknown
+R0632,N01334,United States,Unknown,Unknown
+R0633,N01233,United States,Unknown,Unknown
+R0637,N01272,United States,Unknown,Unknown
+R0649,N00072,United States,Unknown,Unknown
+R0659,N01484,United States,Unknown,Unknown
+R0660,N00094,United States,Unknown,Unknown
+R0667,N00740,United States,Unknown,Unknown
+R0669,N01044,United States,Unknown,Unknown
+R0675,N01298,United States,Unknown,Unknown
+R0676,N00250,United States,Unknown,Unknown
+R0677,N01440,United States,Unknown,Unknown
+R0678,N01465,United States,Unknown,Unknown
+R0712,N00645,United States,Unknown,Unknown
+R0715,N00520,United States,Unknown,Unknown
+R0716,N00936,United States,Unknown,Unknown
+R0714,N01431,United States,Unknown,Unknown
+R0717,N00707,United States,Unknown,Unknown
+R0718,N01510,United States,Unknown,Unknown
+R0721,N00661,United States,Unknown,Unknown
+R0722,N01064,United States,Unknown,Unknown
+R0723,N01195,United States,Unknown,Unknown
+R0724,N00925,United States,Unknown,Unknown
+R0725,N00307,United States,Unknown,Unknown
+R0726,N00938,United States,Unknown,Unknown
+R0727,N00217,United States,Unknown,Unknown
+R0728,N00410,United States,Unknown,Unknown
+R0729,N00232,United States,Unknown,Unknown
+R0735,N00906,United States,Unknown,Unknown
+R0737,N00076,United States,Unknown,Unknown
+R0750,N01106,United States,Unknown,Unknown
+R0751,N00537,United States,Unknown,Unknown
+R0752,N00562,United States,Unknown,Unknown
+R0753,N00288,United States,Unknown,Unknown
+R0754,N00024,United States,Unknown,Unknown
+R0755,N00961,United States,Unknown,Unknown
+R0759,N00864,United States,Unknown,Unknown
+R0785,N01188,United States,Unknown,Unknown
+R0787,N01128,United States,Unknown,Unknown
+R0791,N00971,United States,Unknown,Unknown
+R0792,N01227,United States,Unknown,Unknown
+R0794,N00735,United States,Unknown,Unknown
+R0798,N01134,United States,Unknown,Unknown
+R0811,N00953,United States,Unknown,Unknown
+R0812,N00172,United States,Unknown,Unknown
+R0813,N00452,United States,Unknown,Unknown
+R0814,N01382,United States,Unknown,Unknown
+R0821,N00711,United States,Unknown,Unknown
+R0823,N00490,United States,Unknown,Unknown
+R0834,N01099,United States,Unknown,Unknown
+R0913,N00649,United States,Unknown,Unknown
+R0915,N01459,United States,Unknown,Unknown
+R0921,N00835,United States,Unknown,Unknown
+R0936,N00944,United States,Unknown,Unknown
+R0956,N01442,United States,Unknown,Unknown
+R0959,N00754,United States,Unknown,Unknown
+R0962,N00804,United States,Unknown,Unknown
+R0963,N00627,United States,Unknown,Unknown
+R0964,N00631,United States,Unknown,Unknown
+R0965,N00630,United States,Unknown,Unknown
+R0966,N00187,United States,Unknown,Unknown
+R0967,N01421,United States,Unknown,Unknown
+R0968,N00490,United States,Unknown,Unknown
+R0982,N00028,United States,Unknown,Unknown
+R1003,N00029,United States,Unknown,Unknown
+R0978,N00098,United States,Unknown,Unknown
+R1018,N00674,United States,Unknown,Unknown
+R1034,N00695,United States,Unknown,Unknown
+R1048,N00457,United States,Unknown,Unknown
+R1062,N01124,United States,Unknown,Unknown
+R1063,N00943,United States,Unknown,Unknown
+R1064,N00759,United States,Unknown,Unknown
+R1065,N00932,United States,Unknown,Unknown
+R1066,N01502,United States,Unknown,Unknown
+R1068,N00883,United States,Unknown,Unknown
+R1069,N01056,United States,Unknown,Unknown
+R1070,N01238,United States,Unknown,Unknown
+R1071,N00671,United States,Unknown,Unknown
+R1085,N00472,United States,Unknown,Unknown
+R1125,N01078,United States,Unknown,Unknown
+R1129,N00862,United States,Unknown,Unknown
+R1140,N00460,United States,Unknown,Unknown
+R1141,N00296,United States,Unknown,Unknown
+R1142,N01076,United States,Unknown,Unknown
+R1152,N00730,United States,Unknown,Unknown
+R1153,N00972,United States,Unknown,Unknown
+R1157,N00244,United States,Unknown,Unknown
+R1158,N01533,United States,Unknown,Unknown
+R1160,N00880,United States,Unknown,Unknown
+R1161,N00973,United States,Unknown,Unknown
+R1166,N00691,United States,Unknown,Unknown
+R1167,N00798,United States,Unknown,Unknown
+R1168,N01373,United States,Unknown,Unknown
+R1170,N00967,United States,Unknown,Unknown
+R1171,N01179,United States,Unknown,Unknown
+R1180,N01052,United States,Unknown,Unknown
+R1231,N00555,United States,Unknown,Unknown
+R1233,N01148,United States,Unknown,Unknown
+R1234,N00043,United States,Unknown,Unknown
+R1236,N01427,United States,Unknown,Unknown
+R1241,N01193,United States,Unknown,Unknown
+R1242,N01136,United States,Unknown,Unknown
+R1248,N00094,United States,Unknown,Unknown
+R1249,N01466,United States,Unknown,Unknown
+R1250,N00418,United States,Unknown,Unknown
+R1251,N00198,United States,Unknown,Unknown
+R1252,N00695,United States,Unknown,Unknown
+R1267,N00731,United States,Unknown,Unknown
+R1268,N01015,United States,Unknown,Unknown
+R1271,N00994,United States,Unknown,Unknown
+R1289,N00834,United States,Unknown,Unknown
+R1340,N00256,United States,Unknown,Unknown
+R1341,N01404,United States,Unknown,Unknown
+R1342,N00743,United States,Unknown,Unknown
+R1343,N00644,United States,Unknown,Unknown
+R1344,N01601,United States,Unknown,Unknown
+R1345,N00983,United States,Unknown,Unknown
+R1348,N01339,United States,Unknown,Unknown
+R1351,N00769,United States,Unknown,Unknown
+R1353,N01097,United States,Unknown,Unknown
+R1349,N00426,United States,Unknown,Unknown
+R1350,N01051,United States,Unknown,Unknown
+R1352,N01295,United States,Unknown,Unknown
+R1354,N00352,United States,Unknown,Unknown
+R1355,N00657,United States,Unknown,Unknown
+R1356,N01054,United States,Unknown,Unknown
+R1357,N01118,United States,Unknown,Unknown
+R1358,N00604,United States,Unknown,Unknown
+R1359,N00390,United States,Unknown,Unknown
+R1360,N00038,United States,Unknown,Unknown
+R1361,N00160,United States,Unknown,Unknown
+R1362,N00409,United States,Unknown,Unknown
+R1363,N00157,United States,Unknown,Unknown
+R1364,N00177,United States,Unknown,Unknown
+R1365,N00519,United States,Unknown,Unknown
+R1367,N01371,United States,Unknown,Unknown
+R1368,N00114,United States,Unknown,Unknown
+R1366,N00696,United States,Unknown,Unknown
+R1369,N01316,United States,Unknown,Unknown
+R1370,N01318,United States,Unknown,Unknown
+R1371,N01068,United States,Unknown,Unknown
+R1372,N01094,United States,Unknown,Unknown
+R1373,N00070,United States,Unknown,Unknown
+R1377,N00507,United States,Unknown,Unknown
+R1378,N00063,United States,Unknown,Unknown
+R1379,N01137,United States,Unknown,Unknown
+R1381,N00386,United States,Unknown,Unknown
+R1387,N00999,United States,Unknown,Unknown
+R1388,N01480,United States,Unknown,Unknown
+R1374,N00031,United States,Unknown,Unknown
+R1375,N01079,United States,Unknown,Unknown
+R1376,N01483,United States,Unknown,Unknown
+R1383,N01057,United States,Unknown,Unknown
+R1385,N01276,United States,Unknown,Unknown
+R1389,N01447,United States,Unknown,Unknown
+R1382,N00764,United States,Unknown,Unknown
+R1380,N01276,United States,Unknown,Unknown
+R1384,N01549,United States,Unknown,Unknown
+R1386,N01100,United States,Unknown,Unknown
+R1391,N01594,United States,Unknown,Unknown
+R1392,N01056,United States,Unknown,Unknown
+R1393,N01347,United States,Unknown,Unknown
+R1390,N01317,United States,Unknown,Unknown
+R1394,N00204,United States,Unknown,Unknown
+R1395,N00775,United States,Unknown,Unknown
+R1396,N01417,United States,Unknown,Unknown
+R1397,N00851,United States,Unknown,Unknown
+R1398,N00025,United States,Unknown,Unknown
+R1402,N01131,United States,Unknown,Unknown
+R1399,N00771,United States,Unknown,Unknown
+R1400,N01242,United States,Unknown,Unknown
+R1401,N01524,United States,Unknown,Unknown
+R1403,N00785,United States,Unknown,Unknown
+R1404,N01140,United States,Unknown,Unknown
+R1405,N01421,United States,Unknown,Unknown
+R1406,N00715,United States,Unknown,Unknown
+R1407,N01298,United States,Unknown,Unknown
+R1408,N00447,United States,Unknown,Unknown
+R1410,N01338,United States,Unknown,Unknown
+R1411,N01362,United States,Unknown,Unknown
+R1459,N01172,United States,Unknown,Unknown
+R1536,N00449,United States,Unknown,Unknown
+R1544,N01321,United States,Unknown,Unknown
+R1545,N00910,United States,Unknown,Unknown
+R1546,N00561,United States,Unknown,Unknown
+R1547,N00008,United States,Unknown,Unknown
+R1548,N00053,United States,Unknown,Unknown
+R1559,N00320,United States,Unknown,Unknown
+R1571,N00265,United States,Unknown,Unknown
+R1572,N00917,United States,Unknown,Unknown
+R1577,N00006,United States,Unknown,Unknown
+R1580,N01052,United States,Unknown,Unknown
+R1631,N01391,United States,Unknown,Unknown
+R1673,N01389,United States,Unknown,Unknown
+R1683,N01025,United States,Unknown,Unknown
+R1690,N01149,United States,Unknown,Unknown
+R0175,N01131,China,Unknown,Unknown
+R0176,N01276,China,Unknown,Unknown
+R0228,N00561,China,Unknown,Unknown
+R0227,N01058,China,Unknown,Unknown
+R0253,N01229,China,Unknown,Unknown
+R0255,N00245,China,Unknown,Unknown
+R0267,N00684,China,Unknown,Unknown
+R0268,N00342,China,Unknown,Unknown
+R0369,N00252,United States,Unknown,Unknown
+R0470,N00022,China,Unknown,Unknown
+R0469,N00022,China,Unknown,Unknown
+R0559,N01195,China,Unknown,Unknown
+R0645,N00212,China,Unknown,Unknown
+R0646,N01293,China,Unknown,Unknown
+R0692,N00271,China,Unknown,Unknown
+R0912,N00994,China,Unknown,Unknown
+R0957,N01442,China,Unknown,Unknown
+R1151,N00858,China,Unknown,Unknown
+R1210,N01229,China,Sichuan,Chongqing
+R1211,N00261,China,Jiangsu,Shanghai
+R1212,N00519,China,Jiangsu,Shanghai
+R1229,N00686,China,Jiangsu,Shanghai
+R1232,N01084,China,Unknown,Unknown
+R1266,N00999,China,Unknown,Unknown
+R1638,N00261,China,Unknown,Unknown
+R1685,N00815,Unknown,Unknown,Unknown

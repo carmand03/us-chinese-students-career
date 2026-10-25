@@ -1,0 +1,219 @@
+﻿Birth_province_py_st,group,appointments,students,employers
+Jiangsu,Engineer / technical professional,97,61,57
+Guangdong,Engineer / technical professional,94,73,73
+Guangdong,Educator,74,58,52
+Jiangsu,Educator,68,57,34
+Guangdong,Unknown / not stated,68,67,54
+Guangdong,Administrative / clerical / support staff,58,54,32
+Zhejiang,Engineer / technical professional,46,32,32
+Jiangsu,Unknown / not stated,38,36,28
+Zhejiang,Administrative / clerical / support staff,37,28,27
+Fujian,Educator,35,29,20
+Hebei,Educator,32,25,23
+Jiangsu,Manager / organizational leader,31,21,25
+Zhejiang,Educator,28,23,21
+Jiangsu,Government official / administrative professional,28,21,16
+Jiangsu,Researcher / scientist,27,25,22
+Hebei,Engineer / technical professional,27,19,24
+Jiangsu,Administrative / clerical / support staff,24,22,18
+Guangdong,Researcher / scientist,24,19,24
+Guangdong,Journalist / editor / publishing professional,22,16,19
+Guangdong,Education administrator,21,18,19
+Hebei,Administrative / clerical / support staff,19,14,14
+Guangdong,Manager / organizational leader,18,16,18
+Zhejiang,Researcher / scientist,17,16,13
+Hebei,Unknown / not stated,17,13,14
+Hubei,Educator,17,13,16
+Zhejiang,Unknown / not stated,16,16,13
+Unknown,Educator,15,12,14
+Jiangsu,Unspecified professional / affiliation,15,14,13
+Zhejiang,Government official / administrative professional,14,11,11
+Fujian,Engineer / technical professional,14,8,14
+Guangdong,Diplomat / consular official,14,10,9
+Hunan,Educator,13,10,8
+Zhejiang,Manager / organizational leader,13,8,12
+Jiangsu,Education administrator,13,10,12
+Guangdong,Government official / administrative professional,12,11,11
+Zhejiang,Education administrator,12,8,11
+Hunan,Engineer / technical professional,11,8,9
+Fujian,Administrative / clerical / support staff,11,9,8
+Shandong,Researcher / scientist,11,9,11
+Sichuan,Educator,11,8,9
+Henan,Engineer / technical professional,11,6,10
+Fujian,Unknown / not stated,11,10,8
+Jiangsu,Diplomat / consular official,10,7,8
+Guangdong,Unspecified professional / affiliation,10,9,10
+Hunan,Manager / organizational leader,9,7,8
+Liaoning,Engineer / technical professional,9,7,8
+Hebei,Manager / organizational leader,9,7,9
+Shandong,Educator,9,5,7
+Guangdong,Finance / accounting professional,8,6,7
+Jiangxi,Educator,8,6,7
+Fujian,Researcher / scientist,8,7,8
+Hunan,Administrative / clerical / support staff,8,7,8
+Hubei,Administrative / clerical / support staff,8,8,7
+Hebei,Researcher / scientist,8,8,8
+Jiangsu,Military officer / personnel,8,7,3
+Fujian,Education administrator,8,4,4
+Unknown,Unknown / not stated,7,6,6
+Guangdong,Skilled trades / production / support worker,7,6,7
+Anhui,Educator,7,4,6
+Hebei,Government official / administrative professional,6,5,5
+Zhejiang,Finance / accounting professional,6,4,6
+Hunan,Government official / administrative professional,6,4,6
+Zhejiang,Military officer / personnel,6,6,2
+Shandong,Engineer / technical professional,6,4,5
+Guangxi,Military officer / personnel,6,3,4
+Hunan,Education administrator,5,4,5
+Hebei,Military officer / personnel,5,5,3
+Shandong,Unknown / not stated,5,5,5
+Hebei,Journalist / editor / publishing professional,5,4,5
+Unknown,Administrative / clerical / support staff,5,4,5
+Guangdong,Translator / interpreter,5,5,4
+Jiangsu,Journalist / editor / publishing professional,5,5,4
+Zhejiang,Diplomat / consular official,5,3,3
+Anhui,Researcher / scientist,5,3,5
+Anhui,Engineer / technical professional,5,4,4
+Hunan,Researcher / scientist,4,3,3
+Hunan,Unknown / not stated,4,2,4
+Hubei,Researcher / scientist,4,4,3
+Jiangxi,Administrative / clerical / support staff,4,3,4
+Shandong,Manager / organizational leader,4,4,4
+Zhejiang,Unspecified professional / affiliation,4,2,4
+Hebei,Medical / Nursing professional,4,2,3
+Unknown,Engineer / technical professional,4,3,4
+Fujian,Journalist / editor / publishing professional,4,4,4
+Henan,Unknown / not stated,4,4,4
+Guangdong,Military officer / personnel,4,2,3
+Guangdong,Medical / Nursing professional,4,4,4
+Unknown,Diplomat / consular official,4,4,4
+Shanxi,Engineer / technical professional,4,3,4
+Zhejiang,Maritime professional,3,1,2
+Fujian,Finance / accounting professional,3,2,3
+Jiangsu,Skilled trades / production / support worker,3,3,3
+Anhui,Unknown / not stated,3,2,3
+Hunan,Journalist / editor / publishing professional,3,2,3
+Jiangxi,Researcher / scientist,3,3,3
+Jiangxi,Medical / Nursing professional,3,2,3
+Jiangsu,Finance / accounting professional,3,3,3
+Guangxi,Educator,3,3,3
+Liaoning,Administrative / clerical / support staff,3,2,3
+Unknown,Manager / organizational leader,3,3,3
+Unknown,Education administrator,3,2,2
+Liaoning,Manager / organizational leader,3,3,3
+Guangdong,Legal professional,3,3,3
+Jiangxi,Journalist / editor / publishing professional,3,2,3
+Sichuan,Government official / administrative professional,3,3,3
+Sichuan,Administrative / clerical / support staff,3,2,3
+Liaoning,Military officer / personnel,3,3,1
+Sichuan,Education administrator,3,3,3
+Hubei,Government official / administrative professional,3,3,3
+Henan,Educator,3,3,3
+Sichuan,Engineer / technical professional,3,2,3
+Shandong,Administrative / clerical / support staff,3,3,3
+Hebei,Education administrator,3,3,3
+Hubei,Military officer / personnel,3,1,2
+Zhejiang,Administrative / specialist professional,2,2,2
+Jiangxi,Military officer / personnel,2,2,2
+Sichuan,Diplomat / consular official,2,1,2
+Zhejiang,Medical / Nursing professional,2,1,2
+Shandong,Library / archives professional,2,1,2
+Jiangxi,Unknown / not stated,2,2,2
+Sichuan,Unknown / not stated,2,2,2
+Shaanxi,Engineer / technical professional,2,1,2
+Unknown,Unspecified professional / affiliation,2,2,2
+Shaanxi,Education administrator,2,1,2
+Unknown,Researcher / scientist,2,2,2
+Unknown,Military officer / personnel,2,2,2
+Sichuan,Journalist / editor / publishing professional,2,1,2
+Liaoning,Administrative / specialist professional,2,2,2
+Liaoning,Educator,2,1,2
+Unknown,Government official / administrative professional,2,2,2
+Sichuan,Manager / organizational leader,2,1,2
+Jiangxi,Manager / organizational leader,2,1,2
+Shanxi,Educator,2,2,2
+Anhui,Administrative / clerical / support staff,2,2,2
+Jiangxi,Government official / administrative professional,2,2,2
+Hubei,Medical / Nursing professional,2,2,2
+Hubei,Education administrator,2,2,2
+Hubei,Diplomat / consular official,2,2,2
+Henan,Researcher / scientist,2,1,2
+Henan,Diplomat / consular official,2,2,2
+Hebei,Translator / interpreter,2,2,2
+Hebei,Diplomat / consular official,2,2,2
+Hebei,Administrative / specialist professional,2,2,2
+Guizhou,Administrative / clerical / support staff,2,2,2
+Guangxi,Manager / organizational leader,2,1,1
+Guangxi,Engineer / technical professional,2,1,2
+Guangdong,Maritime professional,2,2,1
+Fujian,Unspecified professional / affiliation,2,2,2
+Fujian,Government official / administrative professional,2,2,2
+Anhui,Military officer / personnel,2,2,1
+Anhui,Manager / organizational leader,2,1,1
+Hubei,Engineer / technical professional,2,2,2
+Hunan,Unspecified professional / affiliation,2,1,2
+Hunan,Military officer / personnel,2,2,1
+Jiangxi,Engineer / technical professional,2,1,2
+Jiangsu,Medical / Nursing professional,2,1,2
+Jiangsu,Administrative / specialist professional,2,2,2
+Guangxi,Government official / administrative professional,1,1,1
+Yunnan,Educator,1,1,1
+Yunnan,Administrative / clerical / support staff,1,1,1
+Guangdong,Social work professional,1,1,1
+Guangxi,Administrative / clerical / support staff,1,1,1
+Liaoning,Education administrator,1,1,1
+Unknown,Medical / Nursing professional,1,1,1
+Yunnan,Military officer / personnel,1,1,1
+Guangxi,Researcher / scientist,1,1,1
+Anhui,Education administrator,1,1,1
+Guizhou,Journalist / editor / publishing professional,1,1,1
+Guizhou,Manager / organizational leader,1,1,1
+Yunnan,Government official / administrative professional,1,1,1
+Yunnan,Researcher / scientist,1,1,1
+Unknown,Administrative / specialist professional,1,1,1
+Jiangsu,Arts / cultural professional,1,1,1
+Guangdong,Library / archives professional,1,1,1
+Guangdong,Administrative / specialist professional,1,1,1
+Jilin,Military officer / personnel,1,1,1
+Fujian,Social work professional,1,1,1
+Fujian,Religious professional / leader,1,1,1
+Fujian,Military officer / personnel,1,1,1
+Fujian,Manager / organizational leader,1,1,1
+Jilin,Administrative / clerical / support staff,1,1,1
+Anhui,Unspecified professional / affiliation,1,1,1
+Anhui,Medical / Nursing professional,1,1,1
+Anhui,Government official / administrative professional,1,1,1
+Guizhou,Translator / interpreter,1,1,1
+Hubei,Unknown / not stated,1,1,1
+Shaanxi,Unknown / not stated,1,1,1
+Sichuan,Unspecified professional / affiliation,1,1,1
+Shaanxi,Educator,1,1,1
+Shandong,Diplomat / consular official,1,1,1
+Shandong,Education administrator,1,1,1
+Hubei,Manager / organizational leader,1,1,1
+Hubei,Journalist / editor / publishing professional,1,1,1
+Shandong,Government official / administrative professional,1,1,1
+Shandong,Journalist / editor / publishing professional,1,1,1
+Hubei,Finance / accounting professional,1,1,1
+Hubei,Unspecified professional / affiliation,1,1,1
+Shandong,Military officer / personnel,1,1,1
+Shaanxi,Administrative / clerical / support staff,1,1,1
+Liaoning,Unspecified professional / affiliation,1,1,1
+Shandong,Unspecified professional / affiliation,1,1,1
+Shanxi,Administrative / clerical / support staff,1,1,1
+Henan,Unspecified professional / affiliation,1,1,1
+Henan,Translator / interpreter,1,1,1
+Shanxi,Journalist / editor / publishing professional,1,1,1
+Shanxi,Researcher / scientist,1,1,1
+Liaoning,Unknown / not stated,1,1,1
+Sichuan,Administrative / specialist professional,1,1,1
+Henan,Manager / organizational leader,1,1,1
+Jiangxi,Finance / accounting professional,1,1,1
+Henan,Government official / administrative professional,1,1,1
+Liaoning,Religious professional / leader,1,1,1
+Henan,Administrative / clerical / support staff,1,1,1
+Heilongjiang,Journalist / editor / publishing professional,1,1,1
+Hunan,Diplomat / consular official,1,1,1
+Sichuan,Researcher / scientist,1,1,1
+Hunan,Medical / Nursing professional,1,1,1
+Henan,Journalist / editor / publishing professional,1,1,1

@@ -1,0 +1,14 @@
+﻿metric,value
+students,1613
+education_records,3151
+appointments,1689
+people_with_appointments,931
+students_without_appointments,682
+birth_year_known,488
+study_year_known,1496
+geocoded_appointments,1056
+past_appointments,969
+current_appointments,710
+unknown_status_appointments,10
+known_employers,760
+gender_conflicts,0

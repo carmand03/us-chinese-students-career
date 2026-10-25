@@ -1,0 +1,42 @@
+﻿status,sector,appointments,students,employers
+Past,Academic / education,368,273,145
+Past,Government / public administration,169,130,99
+Current,Government / public administration,159,152,47
+Current,Industry / manufacturing / extraction,126,126,77
+Current,Academic / education,126,116,52
+Current,Military / defense,95,90,23
+Past,Military / defense,89,67,35
+Past,Industry / manufacturing / extraction,82,73,67
+Past,Transport / utilities / communications,52,40,39
+Current,Business / commerce,44,44,26
+Current,Finance / banking / insurance,39,39,8
+Past,Business / commerce,35,32,30
+Past,Professional services,32,29,26
+Past,Research institutions,29,25,16
+Past,Media / publishing / entertainment,29,24,26
+Past,Finance / banking / insurance,28,26,17
+Current,Non-state / nonprofit organization,25,22,14
+Past,Non-state / nonprofit organization,23,23,16
+Current,Professional services,23,23,14
+Current,Media / publishing / entertainment,23,22,16
+Current,Healthcare / medical services,15,15,15
+Past,Healthcare / medical services,12,9,12
+Current,Transport / utilities / communications,11,11,8
+Current,Research institutions,11,11,8
+Past,Libraries / cultural institutions,8,7,3
+Past,Unknown / not stated,5,5,0
+Current,Political / party organization,4,3,2
+Past,Political / party organization,3,3,2
+Past,Intergovernmental / international organization,3,3,3
+Current,Intergovernmental / international organization,3,3,3
+Past,Religious / faith organization,2,1,1
+Current,Unknown / not stated,2,2,0
+Current,Religious / faith organization,2,2,2
+Current,Libraries / cultural institutions,2,2,1
+Unknown,Government / public administration,2,2,1
+Unknown,Military / defense,2,2,2
+Unknown,Unknown / not stated,2,2,0
+Unknown,Academic / education,1,1,1
+Unknown,Finance / banking / insurance,1,1,1
+Unknown,Industry / manufacturing / extraction,1,1,1
+Unknown,Transport / utilities / communications,1,1,1

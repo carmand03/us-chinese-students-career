@@ -1,0 +1,17 @@
+﻿status,level,appointments,students,employers
+Past,mid-level,405,328,284
+Current,mid-level,306,299,152
+Past,senior,259,175,183
+Past,junior,215,187,102
+Current,Unknown,137,137,91
+Current,senior,128,110,83
+Current,junior,72,72,51
+Current,student,45,45,17
+Past,Unknown,38,34,33
+Past,executive,38,35,35
+Current,executive,22,21,20
+Past,student,14,14,12
+Unknown,Unknown,5,5,3
+Unknown,mid-level,3,3,3
+Unknown,junior,1,1,1
+Unknown,senior,1,1,1

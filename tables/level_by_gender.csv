@@ -1,0 +1,13 @@
+﻿gender,level,appointments,students,employers
+M,mid-level,638,463,378
+M,senior,368,220,227
+M,junior,255,222,125
+M,Unknown,161,152,101
+F,mid-level,76,61,54
+M,student,57,54,24
+M,executive,53,46,48
+F,junior,33,29,25
+F,senior,20,16,19
+F,Unknown,19,16,17
+F,executive,7,6,5
+F,student,2,1,2

@@ -1,0 +1,431 @@
+﻿status,position,appointments,students,employers
+Current,Unknown,138,138,92
+Past,Teaching Assistant,96,92,32
+Current,Engineer,62,62,30
+Past,Teacher / Instructor,58,50,43
+Past,Professor,47,38,33
+Past,Director / Head / Chief,45,38,40
+Past,Engineer,45,40,38
+Past,Unknown,38,34,33
+Current,Clerk / Office Administrator,37,37,8
+Current,Trainee,34,34,8
+Past,Lecturer,33,30,22
+Current,Assistant,27,27,20
+Past,Assistant,22,21,19
+Current,Instructor,21,21,13
+Past,Secretary,20,18,20
+Current,Professor,18,17,13
+Past,Clerk / Office Administrator,15,14,6
+Past,Technical Officer / Technician,15,15,11
+Past,Editor,14,13,14
+Past,Technician,14,13,12
+Past,Section Chief,14,11,13
+Current,Director / Head / Chief,13,12,10
+Past,Research Fellow / Researcher,13,13,11
+Current,Research Fellow,13,12,10
+Past,principal / chancellor / Headmaster / School President,11,11,11
+Past,Draftsman,11,9,11
+Past,Assistant Engineer,11,10,10
+Current,Research Associate,11,11,9
+Past,Associate Engineer / Deputy Engineer,10,10,7
+Current,Staff Member,10,10,4
+Current,Chemical Engineer,10,10,8
+Current,Secretary,10,10,8
+Past,Director of Academic Affairs,10,8,10
+Past,Research Assistant,10,10,6
+Past,bureau chief / bureau director,9,8,9
+Past,Factory Manager / Plant Director,8,7,7
+Past,Instructor,8,8,7
+Past,Dean,8,7,8
+Current,Committee Member / Commissioner,7,7,6
+Past,Associate Professor,7,7,5
+Past,Committee Member / Commissioner,7,6,6
+Past,Manager,7,6,7
+Current,Vice Consul,6,6,6
+Past,Vice Consul,6,5,5
+Past,Translator/Editor,6,5,5
+Current,Junior Engineer,6,6,6
+Past,Staff Member / Section Staff,6,6,5
+Current,Researcher,6,6,6
+Past,Junior Technician / Assistant Technical Officer,6,5,4
+Past,Junior Engineer,6,6,4
+Past,Executive Officer / Executive Secretary,6,5,5
+Past,Assistant Research Fellow,6,6,5
+Past,Engineer / Senior Technician,6,6,6
+Current,Consul,6,6,5
+Past,Department Chief,6,4,5
+Past,Chemist,6,5,6
+Past,Administrator / Officer-in-Charge,5,5,5
+Past,Inspector,5,5,5
+Past,Chief Engineer / Senior Technical Officer,5,5,5
+Current,Teacher,5,5,4
+Past,Military Instructor / Drillmaster,5,5,3
+Past,Public Works Staff,5,5,4
+Past,Research Fellow,5,5,5
+Past,Chemical Engineer,5,4,5
+Current,Fellow,5,5,5
+Unknown,Unknown,5,5,3
+Current,Attache / Aide,5,5,3
+Current,Draftsman,5,5,5
+Current,Chemist,5,5,5
+Current,Editor,4,4,4
+Current,Research Fellow / Researcher,4,4,3
+Current,Section Chief,4,4,3
+Current,Stress Analyst,4,4,4
+Current,Structural Engineer,4,4,3
+Current,Student Engineer,4,4,3
+Current,Translator,4,4,2
+Current,specialist / commissioner,4,4,4
+Current,Consular Trainee,4,4,4
+Past,Consular Trainee,4,4,4
+Past,Counselor / Advisor,4,3,4
+Current,Research Assistant,4,4,3
+Current,Chief Engineer / Senior Technical Officer,4,4,3
+Past,Designer,4,4,4
+Current,Advisor / Consultant,4,4,2
+Past,specialist / commissioner,4,4,4
+Current,Assistant Engineer,4,4,3
+Past,Staff Member,4,3,3
+Past,Student Engineer,4,4,2
+Past,"chief / director (of an Institute, Station, or Office)",4,3,4
+Current,Translator/Editor,3,3,1
+Past,provost / Dean of Academic Affairs,3,3,3
+Past,committee member,3,2,3
+Past,chief editor,3,3,3
+Current,Teacher / Instructor,3,3,3
+Current,Teaching Assistant,3,3,3
+Current,Technician,3,3,2
+Current,Counselor / Advisor,3,3,3
+Past,Visiting Engineer,3,1,3
+Past,Research Associate,3,3,2
+Current,chief editor,3,3,3
+Past,Fellow,3,3,3
+Past,Accountant,3,3,3
+Past,Assistant / Junior Assistant,3,3,2
+Current,Consultant,3,3,3
+Past,Translator,3,3,3
+Past,Associate Research Fellow,3,3,2
+Past,Trainee,3,3,3
+Past,Technical Assistant,3,3,3
+Past,Department Director / Bureau Head,3,3,3
+Past,Electrical Engineer,3,3,3
+Current,Design Engineer,3,3,3
+Current,Accountant,3,3,3
+Current,Member,3,3,3
+Current,Employee,3,3,3
+Current,Director,3,3,3
+Current,Head,3,2,2
+Current,Factory Manager / Plant Director,3,3,3
+Current,Lecturer,3,3,3
+Current,General Manager,2,2,2
+Current,editor,2,2,2
+Current,executive committee member,2,2,2
+Past,Skilled Worker / Technician,2,2,2
+Past,Attache / Aide,2,2,2
+Past,Staff Officer (Military),2,2,2
+Past,Station chief,2,1,2
+Current,Geologist,2,2,1
+Past,Resident Physician,2,2,2
+Past,Research Investigator,2,2,2
+Current,Assistant Instructor,2,2,1
+Past,Architectural Designer,2,1,2
+Past,Structural Engineer,2,2,2
+Current,Manager,2,2,2
+Current,Consul General,2,2,2
+Past,Draftsman & Designer,2,1,2
+Current,Dean,2,2,2
+Past,Bank Employee / Staff Member,2,2,2
+Past,Employee,2,1,2
+Past,General Manager,2,2,2
+Past,Graduate Assistant,2,2,2
+Current,Auditor,2,2,2
+Current,Inspector,2,2,2
+Past,Intern,2,2,2
+Past,Judge,2,2,2
+Past,Junior Accountant,2,2,1
+Past,Deputy Department Director / Vice Department Head,2,2,2
+Current,Intern,2,2,2
+Current,Associate Engineer / Deputy Engineer,2,2,1
+Current,Associate Editor,2,2,2
+Past,Consul,2,2,2
+Past,Colonel (Secretary),2,1,2
+Past,Chief Mate / Chief Officer (Maritime),2,1,1
+Past,Physician,2,2,2
+Past,Biology Instructor,2,2,2
+Past,Auditor,2,2,2
+Past,Analyst,2,1,1
+Current,Designer,2,2,2
+Current,Research Physicist,2,2,2
+Current,Political Councilor / Assembly Member,2,2,1
+Current,Department Chief,2,2,2
+Current,Production Engineer,2,2,2
+Current,Research Chemist,2,2,2
+Past,deputy manager / Assistant Manager,2,2,2
+Past,Major General (Director of Operations Division),1,1,1
+Current,Assistant Technical Attaché / Junior Technical Assistant,1,1,1
+Past,Managing Board Member / Executive Associate Director,1,1,1
+Past,Member,1,1,1
+Past,Machinist,1,1,1
+Past,Machine-Operator,1,1,1
+Past,journalist,1,1,1
+Past,Librarian,1,1,1
+Past,Marine Inspector,1,1,1
+Past,Mechanical Engineer,1,1,1
+Past,Mechanical Maintenance Officer / Engineer,1,1,1
+Past,Medical Doctor / Physician,1,1,1
+Current,Architectural Designer,1,1,1
+Past,Metallurgy Specialist,1,1,1
+Past,Metallurgist,1,1,1
+Past,manager-assistant,1,1,1
+Current,Assistant Resident Surgeon,1,1,1
+Past,Musician,1,1,1
+Past,Navigation Officer,1,1,1
+Past,Oil Refining Engineer,1,1,1
+Past,Operator & Service Manager,1,1,1
+Past,Personel Officer,1,1,1
+Past,Physics and Chemistry Instructor,1,1,1
+Past,Planning Engineer,1,1,1
+Past,Plant Engineer,1,1,1
+Past,Plant Pathology Inspector,1,1,1
+Current,Assistant to the Director,1,1,1
+Past,managing editor / Chief editor,1,1,1
+Past,Junior High School Director,1,1,1
+Current,Engineer / Senior Technician,1,1,1
+Current,Bishop,1,1,1
+Past,Executive Secretary,1,1,1
+Current,Biochemist,1,1,1
+Past,Faculty / Academician,1,1,1
+Unknown,Teaching Assistant,1,1,1
+Current,House Officer,1,1,1
+Past,Field Engineer,1,1,1
+Past,Field Representative,1,1,1
+Past,First Secretary,1,1,1
+Past,Full-time Lecturer,1,1,1
+Unknown,Research Chemist,1,1,1
+Past,Head Nurse / Chief Nurse,1,1,1
+Past,Head of Recruitment/Admissions,1,1,1
+Past,High-ranking Editor,1,1,1
+Past,Highway Engineer,1,1,1
+Past,Hydraulic Engineer & Designer,1,1,1
+Unknown,Military Instructor / Drillmaster,1,1,1
+Past,Inspector / Visiting Observer,1,1,1
+Unknown,Engineer,1,1,1
+Current,Honorary Advisor,1,1,1
+Past,Instructor / Advisor / Counselor,1,1,1
+Unknown,Director / Head / Chief,1,1,1
+Past,vice chairman / vice president,1,1,1
+Current,Electrical Technical Specialist,1,1,1
+Past,Junior Agronomist,1,1,1
+Current,Administrative Committee Member,1,1,1
+Past,Junior Draftsman,1,1,1
+Past,Political Instructor,1,1,1
+Past,Postal Clerk,1,1,1
+Current,Engineer's Aid,1,1,1
+Current,Apprentice,1,1,1
+Past,Senior Psychiatric Social Worker,1,1,1
+Past,Senior Technical Specialist / Deputy Factory Manager,1,1,1
+Past,Senior Translator,1,1,1
+Past,Service Engineer,1,1,1
+Past,Testing Engineer,1,1,1
+Past,Tester,1,1,1
+Past,Television Engineer,1,1,1
+Past,Special Correspondent,1,1,1
+Past,Special Lecturer,1,1,1
+Past,Specialist and Section Chief,1,1,1
+Past,Telecommunications Section Chief,1,1,1
+Current,Assistant / Junior Assistant,1,1,1
+Past,Staff Nurse,1,1,1
+Past,Technical Specialist / Senior Technical Specialist,1,1,1
+Current,Assistant Director,1,1,1
+Past,Steam Turbine Engineer,1,1,1
+Past,Stress Engineer & Aerodynamist,1,1,1
+Past,Structural Designer,1,1,1
+Past,Structural Steel Designer,1,1,1
+Past,Structure Engineer,1,1,1
+Current,First Secretary,1,1,1
+Past,Subsection Chief / Unit Head,1,1,1
+Past,Supervisor,1,1,1
+Current,Architect,1,1,1
+Past,Supply Committee Unit Chief,1,1,1
+Current,Director of Publicity,1,1,1
+Past,Surveying Engineer,1,1,1
+Past,Surveyor,1,1,1
+Past,Third Officer (Maritime),1,1,1
+Past,Secretary-General,1,1,1
+Current,Architectural Engineer,1,1,1
+Current,Executive Associate,1,1,1
+Current,Engineering Assistant / Engineer,1,1,1
+Current,Administrator / Officer-in-Charge,1,1,1
+Past,Power Station Engineer,1,1,1
+Past,Preparatory Staff,1,1,1
+Past,President,1,1,1
+Past,acting office chief / acting director,1,1,1
+Current,Assistant Resident Physician,1,1,1
+Past,Professor of Education,1,1,1
+Past,Public Prosecutor,1,1,1
+Past,Public Servant / Civil Servant,1,1,1
+Current,Assistant Professor,1,1,1
+Past,Registered Broker,1,1,1
+Current,Assistant Office Engineer,1,1,1
+Past,Research Biochemist,1,1,1
+Past,Trainee / Intern,1,1,1
+Current,Executive Officer / Executive Secretary,1,1,1
+Past,Research Chemist,1,1,1
+Past,Research Electrochemical Engineer,1,1,1
+Current,Assistant Naval Architect,1,1,1
+Past,English Instructor,1,1,1
+Current,Analyst,1,1,1
+Current,Anesthetist,1,1,1
+Past,Research Mentor,1,1,1
+Past,Research Metallurgical Engineer,1,1,1
+Past,Research Teaching Assistant,1,1,1
+Current,Extension Assistant,1,1,1
+Past,Rotating Internship,1,1,1
+Past,School Inspector / Supervisor,1,1,1
+Past,Executive Officer / Deputy Commander (Warship),1,1,1
+Current,Observer,1,1,1
+Past,Engineering Department,1,1,1
+Past,Aide-de-Camp to the Deputy Chief of General Staff,1,1,1
+Current,Water Supply Engineer,1,1,1
+Current,Corporal,1,1,1
+Current,Correspondent / Reporter,1,1,1
+Current,Transmission Engineer,1,1,1
+Current,Librarian,1,1,1
+Current,Lieutenant,1,1,1
+Current,Lieutenant Colonel (Technical Specialist),1,1,1
+Current,Toolmaker,1,1,1
+Current,Third Secretary,1,1,1
+Current,Machinist,1,1,1
+Current,Technical Assistant,1,1,1
+Current,Teaching Fellow,1,1,1
+Current,Managing Editor,1,1,1
+Current,Supervisor,1,1,1
+Current,Subsection Chief / Unit Head,1,1,1
+Current,board member,1,1,1
+Current,"chief / director (of an Institute, Station, or Office)",1,1,1
+Current,Liaison Staff Officer,1,1,1
+Past,Acting Chief of Structure,1,1,1
+Past,Advisory Officer / Consultant,1,1,1
+Past,Advisor / Consultant,1,1,1
+Current,Control Engineer,1,1,1
+Past,Administrator / Custodian,1,1,1
+Past,Administrative Secretary,1,1,1
+Past,Acting Principal / Acting President (School),1,1,1
+Past,Accounting Clerk,1,1,1
+Current,committee member,1,1,1
+Past,A Class Chief Officer,1,1,1
+Current,standing director / Executive Director / Managing Board Member,1,1,1
+Current,Liaison Officer,1,1,1
+Current,secretary general / Director-General,1,1,1
+Current,principal / chancellor / Headmaster / School President,1,1,1
+Current,committee member / association member / club member,1,1,1
+Current,Marine Electrician,1,1,1
+Current,Medical Entomologist,1,1,1
+Current,Structural Designer,1,1,1
+Current,Purchasing Agent,1,1,1
+Current,Research Director,1,1,1
+Current,Nurse,1,1,1
+Current,Representative to the USA,1,1,1
+Current,Representative Abroad,1,1,1
+Current,Representative / Delegate,1,1,1
+Current,Registered Broker,1,1,1
+Current,Public Servant / Civil Servant,1,1,1
+Current,Minister Plenipotentiary / Envoy,1,1,1
+Current,Designing Head,1,1,1
+Current,Process Designing Engineer,1,1,1
+Current,President,1,1,1
+Current,Power Plant Installation Engineer,1,1,1
+Current,Physician,1,1,1
+Current,Organizer & Director,1,1,1
+Current,Research Engineer,1,1,1
+Current,Military Attaché / Military Officer,1,1,1
+Current,Staff Officer (Military),1,1,1
+Current,"Member (of a Delegation, Troupe, or Corps)",1,1,1
+Current,Specialist to the USA,1,1,1
+Current,Special Economic Expert,1,1,1
+Current,Special Advisor,1,1,1
+Current,Senior Translator,1,1,1
+Current,Senior Surgeon,1,1,1
+Current,Senior Aerodynamist,1,1,1
+Current,Secretary-General / Chief Executive Officer,1,1,1
+Current,Deputy Secretary / Assistant Clerk,1,1,1
+Current,Secretary & Treasurer,1,1,1
+Current,Deputy Factory Manager / Vice Works Director,1,1,1
+Current,Scheduler,1,1,1
+Current,Resident in Gynecology,1,1,1
+Current,Resident Physician,1,1,1
+Current,Resident Otologist,1,1,1
+Past,Aide / Secretary,1,1,1
+Past,Aircraft Process Engineer,1,1,1
+Past,Engineering Consultant,1,1,0
+Past,Analyst / Inspector / Examiner,1,1,1
+Past,Detailer,1,1,1
+Past,Designer & Structural Engineer,1,1,1
+Current,Director of Academic Affairs,1,1,1
+Past,Design Specialist,1,1,1
+Past,Deputy Division Commander,1,1,1
+Past,Department Head,1,1,1
+Current,Chief Resident Physician,1,1,1
+Current,Chief of Preparatory Office / Head Organizer,1,1,1
+Past,Customer Service Section Chief,1,1,1
+Past,Craftsman,1,1,1
+Past,County Magistrate,1,1,1
+Current,Investigator,1,1,1
+Current,Electrical Machine Design Engineer,1,1,1
+Past,Consulting Engineer,1,1,1
+Past,Consulting Chemist,1,1,1
+Current,Chief Engineer,1,1,1
+Past,Director of Editorial Office,1,1,1
+Past,Director of Instruction / Head of Discipline,1,1,1
+Past,Editorial Advisor,1,1,1
+Past,Engineering Assistant / Engineer,1,1,1
+Past,Engineer Deputy,1,1,1
+Current,Case worker,1,1,1
+Current,Chairman of the Board / Executive Director,1,1,1
+Current,Hydraulic Engineer,1,1,1
+Past,Electrical Draftsman,1,1,1
+Past,Editor/Reviewer,1,1,1
+Past,Director of Physical Education,1,1,1
+Current,Chemical Researcher,1,1,1
+Past,Draftsman & Machinist,1,1,1
+Current,Ore-dresser,1,1,1
+Current,Informant,1,1,1
+Past,Distinguished Professor,1,1,1
+Past,Dispatcher / Coordinator,1,1,1
+Past,Consulate Staff,1,1,1
+Current,Junior Accountant,1,1,1
+Past,Construction Engineer,1,1,1
+Past,Assistant Food Chemist,1,1,1
+Current,Junior Chemical Engineer,1,1,1
+Current,Acting Supervisor,1,1,1
+Past,Associate Editor / Deputy Editor,1,1,1
+Past,Assistant Reader,1,1,1
+Past,Assistant Manager,1,1,1
+Past,Assistant Instructor,1,1,1
+Current,Laboratory Assistant,1,1,1
+Past,Bridge Designer,1,1,1
+Past,Assistant Compiler,1,1,1
+Current,Laboratory Technician,1,1,1
+Current,Consulting Engineer,1,1,1
+Past,Archivist,1,1,1
+Past,Architect,1,1,1
+Past,Animal care-taker,1,1,1
+Past,Auditor / Reviewer,1,1,1
+Past,Chemical Analyst,1,1,1
+Past,Committee member and director,1,1,1
+Past,Chief of Staff,1,1,1
+Current,Clerk,1,1,1
+Past,Commandant of Education / Academic Dean,1,1,1
+Past,Colonel (Section Chief),1,1,1
+Past,Colonel (Director of Political Department),1,1,1
+Past,Clerk of Proceedings / Council Secretary,1,1,1
+Current,Clerk / Office Worker,1,1,1
+Past,Chief of Public Works,1,1,1
+Current,Committee Chairman / Director-in-Charge,1,1,1
+Past,Chief Proofreader / Chief Reviewer,1,1,1
+Past,Chief Engineering Officer / Engineering Director,1,1,1
+Current,Clerk / Secretary,1,1,1
+Past,Chief Engineer,1,1,1
+Past,Chief Commander / Corps Commander,1,1,1
+Current,Colonel (Secretary),1,1,1
+Past,Council Member / Advisory Board Member,1,1,1

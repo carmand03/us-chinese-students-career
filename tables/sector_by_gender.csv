@@ -1,0 +1,32 @@
+﻿gender,sector,appointments,students,employers
+M,Academic / education,417,279,144
+M,Government / public administration,315,228,120
+M,Industry / manufacturing / extraction,200,165,135
+M,Military / defense,185,125,46
+F,Academic / education,78,58,52
+M,Business / commerce,77,71,50
+M,Transport / utilities / communications,60,48,40
+M,Finance / banking / insurance,55,51,20
+M,Professional services,54,47,35
+M,Media / publishing / entertainment,52,39,38
+M,Research institutions,38,33,21
+M,Non-state / nonprofit organization,33,30,20
+F,Government / public administration,15,14,11
+F,Non-state / nonprofit organization,15,13,7
+M,Healthcare / medical services,14,12,14
+F,Finance / banking / insurance,13,11,5
+F,Healthcare / medical services,13,10,12
+F,Industry / manufacturing / extraction,9,9,6
+M,Libraries / cultural institutions,8,6,3
+M,Unknown / not stated,8,8,0
+M,Intergovernmental / international organization,6,6,5
+M,Political / party organization,6,5,3
+F,Transport / utilities / communications,4,3,4
+M,Religious / faith organization,4,3,3
+F,Business / commerce,2,2,2
+F,Research institutions,2,2,2
+F,Libraries / cultural institutions,2,1,2
+F,Military / defense,1,1,1
+F,Unknown / not stated,1,1,0
+F,Professional services,1,1,1
+F,Political / party organization,1,1,1

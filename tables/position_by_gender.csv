@@ -1,0 +1,374 @@
+﻿gender,position,appointments,students,employers
+M,Unknown,162,153,102
+M,Engineer,108,91,63
+M,Teaching Assistant,88,84,28
+M,Professor,62,46,41
+M,Director / Head / Chief,53,45,46
+M,Teacher / Instructor,46,39,33
+M,Clerk / Office Administrator,41,39,12
+M,Assistant,38,37,31
+M,Trainee,37,37,10
+M,Lecturer,33,31,24
+M,Secretary,25,23,23
+F,Unknown,19,16,17
+M,Section Chief,18,15,15
+M,Research Fellow / Researcher,17,16,13
+M,Instructor,17,17,15
+M,Technician,16,15,12
+M,Editor,16,15,16
+M,Assistant Engineer,15,14,13
+M,Technical Officer / Technician,15,15,11
+M,Draftsman,15,11,15
+M,Chemical Engineer,15,13,12
+F,Teacher / Instructor,15,13,15
+M,Research Fellow,15,14,11
+M,Committee Member / Commissioner,14,13,8
+M,Research Associate,13,13,10
+M,Research Assistant,13,13,7
+M,Staff Member,13,11,6
+F,Instructor,12,12,6
+M,Vice Consul,12,8,10
+M,Junior Engineer,12,12,10
+M,Associate Engineer / Deputy Engineer,12,12,7
+F,Teaching Assistant,12,12,9
+F,Assistant,11,9,8
+F,Clerk / Office Administrator,11,11,3
+M,Factory Manager / Plant Director,11,10,10
+M,principal / chancellor / Headmaster / School President,10,10,10
+M,Dean,10,9,10
+M,Director of Academic Affairs,10,8,10
+M,Chemist,10,7,10
+M,Chief Engineer / Senior Technical Officer,9,9,7
+M,Translator/Editor,9,8,5
+M,Manager,9,8,9
+M,bureau chief / bureau director,9,8,9
+M,Consul,8,8,7
+M,Student Engineer,8,7,4
+M,Department Chief,8,6,7
+M,specialist / commissioner,8,7,8
+M,Associate Professor,7,7,5
+M,Attache / Aide,7,7,5
+M,Counselor / Advisor,7,6,7
+M,Inspector,7,7,7
+M,Engineer / Senior Technician,7,7,7
+M,Structural Engineer,6,6,4
+M,Administrator / Officer-in-Charge,6,5,6
+M,Staff Member / Section Staff,6,6,5
+M,Military Instructor / Drillmaster,6,6,3
+F,Director / Head / Chief,6,5,6
+M,Junior Technician / Assistant Technical Officer,6,5,4
+M,Designer,6,5,6
+M,chief editor,6,4,6
+M,Fellow,6,6,6
+M,Accountant,6,6,6
+M,Assistant Research Fellow,6,6,5
+M,Consular Trainee,6,5,5
+M,Employee,5,4,5
+M,Public Works Staff,5,5,4
+M,Advisor / Consultant,5,5,3
+F,Secretary,5,4,5
+M,Researcher,4,4,4
+M,Assistant / Junior Assistant,4,4,3
+M,Auditor,4,3,4
+M,General Manager,4,4,4
+M,Stress Analyst,4,4,4
+F,Translator,4,4,3
+F,Executive Officer / Executive Secretary,4,3,2
+M,Teacher,4,4,3
+M,committee member,4,3,4
+M,Member,4,4,4
+M,Research Chemist,4,3,4
+M,"chief / director (of an Institute, Station, or Office)",4,3,4
+M,Intern,4,4,4
+F,Lecturer,3,2,3
+M,Colonel (Secretary),3,2,3
+F,Professor,3,1,3
+M,Associate Research Fellow,3,3,2
+M,Visiting Engineer,3,1,3
+M,Physician,3,3,3
+F,Research Fellow,3,3,3
+M,Design Engineer,3,3,3
+M,Director,3,3,3
+M,Architectural Designer,3,2,3
+M,Executive Officer / Executive Secretary,3,2,3
+M,Analyst,3,2,2
+M,Electrical Engineer,3,3,3
+M,Translator,3,3,3
+M,Staff Officer (Military),3,3,3
+M,Junior Accountant,3,3,2
+M,Department Director / Bureau Head,3,3,3
+M,Consultant,3,3,3
+M,Head,3,2,2
+M,Deputy Department Director / Vice Department Head,2,2,2
+M,President,2,2,2
+M,Production Engineer,2,2,2
+M,Public Servant / Civil Servant,2,2,2
+M,Engineering Assistant / Engineer,2,2,2
+M,Consulting Engineer,2,2,2
+M,Consul General,2,2,2
+M,Political Councilor / Assembly Member,2,2,1
+M,Registered Broker,2,1,2
+M,Resident Physician,2,2,2
+M,Research Investigator,2,2,2
+M,Chief Mate / Chief Officer (Maritime),2,1,1
+M,Chief Engineer,2,2,2
+F,Fellow,2,2,2
+M,Subsection Chief / Unit Head,2,2,2
+M,Technical Assistant,2,2,2
+F,principal / chancellor / Headmaster / School President,2,2,2
+F,Technical Assistant,2,2,2
+M,Judge,2,2,2
+F,Researcher,2,2,2
+M,deputy manager / Assistant Manager,2,2,2
+M,editor,2,2,2
+M,Structural Designer,2,2,2
+F,Editor,2,2,2
+M,executive committee member,2,2,2
+F,Consular Trainee,2,1,2
+M,provost / Dean of Academic Affairs,2,2,2
+M,Machinist,2,2,2
+M,Librarian,2,1,2
+F,Assistant Instructor,2,2,1
+M,Architect,2,2,2
+M,Draftsman & Designer,2,1,2
+M,Station chief,2,1,2
+M,Graduate Assistant,2,2,2
+M,First Secretary,2,2,2
+M,Senior Translator,2,2,2
+M,Associate Editor,2,2,2
+M,Geologist,2,2,1
+M,Bank Employee / Staff Member,2,2,2
+M,Skilled Worker / Technician,2,2,2
+M,Minister Plenipotentiary / Envoy,1,1,1
+M,Postal Clerk,1,1,1
+M,Navigation Officer,1,1,1
+M,Personel Officer,1,1,1
+M,Observer,1,1,1
+M,Managing Board Member / Executive Associate Director,1,1,1
+M,Major General (Director of Operations Division),1,1,1
+M,Organizer & Director,1,1,1
+M,Ore-dresser,1,1,1
+M,Power Plant Installation Engineer,1,1,1
+M,Oil Refining Engineer,1,1,1
+M,Political Instructor,1,1,1
+M,Physics and Chemistry Instructor,1,1,1
+M,Managing Editor,1,1,1
+M,Marine Electrician,1,1,1
+M,Marine Inspector,1,1,1
+M,Musician,1,1,1
+M,Plant Pathology Inspector,1,1,1
+M,Mechanical Engineer,1,1,1
+M,Planning Engineer,1,1,1
+M,Mechanical Maintenance Officer / Engineer,1,1,1
+M,Medical Entomologist,1,1,1
+M,Operator & Service Manager,1,1,1
+M,"Member (of a Delegation, Troupe, or Corps)",1,1,1
+M,Metallurgist,1,1,1
+M,Metallurgy Specialist,1,1,1
+M,Military Attaché / Military Officer,1,1,1
+M,Plant Engineer,1,1,1
+F,Administrator / Custodian,1,1,1
+M,Power Station Engineer,1,1,1
+M,Preparatory Staff,1,1,1
+M,Stress Engineer & Aerodynamist,1,1,1
+M,Structural Steel Designer,1,1,1
+M,Structure Engineer,1,1,1
+M,Supervisor,1,1,1
+M,Supply Committee Unit Chief,1,1,1
+M,Surveying Engineer,1,1,1
+M,Surveyor,1,1,1
+M,Teaching Fellow,1,1,1
+M,Technical Specialist / Senior Technical Specialist,1,1,1
+M,Telecommunications Section Chief,1,1,1
+M,Television Engineer,1,1,1
+M,Tester,1,1,1
+M,Testing Engineer,1,1,1
+M,Third Officer (Maritime),1,1,1
+M,Third Secretary,1,1,1
+M,Toolmaker,1,1,1
+M,Trainee / Intern,1,1,1
+M,Transmission Engineer,1,1,1
+M,Water Supply Engineer,1,1,1
+M,acting office chief / acting director,1,1,1
+M,board member,1,1,1
+M,committee member / association member / club member,1,1,1
+M,journalist,1,1,1
+M,manager-assistant,1,1,1
+M,managing editor / Chief editor,1,1,1
+M,secretary general / Director-General,1,1,1
+M,standing director / Executive Director / Managing Board Member,1,1,1
+M,Steam Turbine Engineer,1,1,1
+M,Specialist to the USA,1,1,1
+M,Specialist and Section Chief,1,1,1
+M,Resident Otologist,1,1,1
+M,Process Designing Engineer,1,1,1
+M,Professor of Education,1,1,1
+M,Public Prosecutor,1,1,1
+M,Purchasing Agent,1,1,1
+M,Representative / Delegate,1,1,1
+M,Representative Abroad,1,1,1
+M,Representative to the USA,1,1,1
+M,Research Electrochemical Engineer,1,1,1
+M,Research Engineer,1,1,1
+M,Research Mentor,1,1,1
+M,Research Metallurgical Engineer,1,1,1
+M,Research Physicist,1,1,1
+M,Scheduler,1,1,1
+M,Special Lecturer,1,1,1
+M,School Inspector / Supervisor,1,1,1
+M,Secretary & Treasurer,1,1,1
+M,Secretary-General,1,1,1
+M,Secretary-General / Chief Executive Officer,1,1,1
+M,Lieutenant Colonel (Technical Specialist),1,1,1
+M,Senior Aerodynamist,1,1,1
+M,Senior Surgeon,1,1,1
+M,Senior Technical Specialist / Deputy Factory Manager,1,1,1
+M,Service Engineer,1,1,1
+M,Special Advisor,1,1,1
+M,Special Correspondent,1,1,1
+M,Special Economic Expert,1,1,1
+M,Machine-Operator,1,1,1
+M,Engineering Department,1,1,1
+M,Lieutenant,1,1,1
+M,Aircraft Process Engineer,1,1,1
+M,Assistant Compiler,1,1,1
+M,Archivist,1,1,1
+M,Architectural Engineer,1,1,1
+M,Apprentice,1,1,1
+M,Animal care-taker,1,1,1
+M,Analyst / Inspector / Examiner,1,1,1
+M,Aide-de-Camp to the Deputy Chief of General Staff,1,1,1
+M,Assistant Food Chemist,1,1,1
+M,Aide / Secretary,1,1,1
+M,Advisory Officer / Consultant,1,1,1
+M,Administrative Secretary,1,1,1
+M,Administrative Committee Member,1,1,1
+M,Acting Supervisor,1,1,1
+M,Acting Principal / Acting President (School),1,1,1
+M,Assistant Director,1,1,1
+M,Assistant Instructor,1,1,1
+M,Accounting Clerk,1,1,1
+M,Assistant to the Director,1,1,1
+M,Bridge Designer,1,1,1
+M,Bishop,1,1,1
+M,Biology Instructor,1,1,1
+M,Biochemist,1,1,1
+M,Auditor / Reviewer,1,1,1
+M,Associate Editor / Deputy Editor,1,1,1
+M,Assistant Technical Attaché / Junior Technical Assistant,1,1,1
+M,Assistant Manager,1,1,1
+M,Assistant Resident Surgeon,1,1,1
+M,Assistant Resident Physician,1,1,1
+M,Assistant Reader,1,1,1
+M,Assistant Professor,1,1,1
+M,Assistant Office Engineer,1,1,1
+M,Assistant Naval Architect,1,1,1
+M,Acting Chief of Structure,1,1,1
+M,A Class Chief Officer,1,1,1
+M,Chief Commander / Corps Commander,1,1,1
+F,Director of Academic Affairs,1,1,1
+F,Laboratory Technician,1,1,1
+F,Laboratory Assistant,1,1,1
+F,Head Nurse / Chief Nurse,1,1,1
+F,Field Representative,1,1,1
+F,English Instructor,1,1,1
+F,Draftsman,1,1,1
+F,Committee member and director,1,1,1
+F,Nurse,1,1,1
+F,Clerk,1,1,1
+F,Chemist,1,1,1
+F,Chemical Researcher,1,1,1
+F,Chemical Analyst,1,1,1
+F,Case worker,1,1,1
+F,Biology Instructor,1,1,1
+F,Medical Doctor / Physician,1,1,1
+F,Research Assistant,1,1,1
+F,provost / Dean of Academic Affairs,1,1,1
+F,Senior Psychiatric Social Worker,1,1,1
+F,"chief / director (of an Institute, Station, or Office)",1,1,1
+F,Technician,1,1,1
+F,Teacher,1,1,1
+F,Supervisor,1,1,1
+F,Staff Nurse,1,1,1
+F,Staff Member,1,1,1
+F,Rotating Internship,1,1,1
+F,Research Associate,1,1,1
+F,Resident in Gynecology,1,1,1
+F,Resident Physician,1,1,1
+F,Research Teaching Assistant,1,1,1
+F,Research Physicist,1,1,1
+F,Research Director,1,1,1
+F,Research Biochemist,1,1,1
+M,Chairman of the Board / Executive Director,1,1,1
+M,Chief Engineering Officer / Engineering Director,1,1,1
+M,Liaison Staff Officer,1,1,1
+M,Engineering Consultant,1,1,0
+M,Faculty / Academician,1,1,1
+M,Extension Assistant,1,1,1
+M,Executive Secretary,1,1,1
+M,Executive Officer / Deputy Commander (Warship),1,1,1
+M,Executive Associate,1,1,1
+F,Anesthetist,1,1,1
+M,Engineer's Aid,1,1,1
+M,Full-time Lecturer,1,1,1
+M,Engineer Deputy,1,1,1
+M,Electrical Technical Specialist,1,1,1
+M,Electrical Machine Design Engineer,1,1,1
+M,Electrical Draftsman,1,1,1
+M,Editorial Advisor,1,1,1
+M,Editor/Reviewer,1,1,1
+M,Field Engineer,1,1,1
+M,Head of Recruitment/Admissions,1,1,1
+M,Distinguished Professor,1,1,1
+M,Instructor / Advisor / Counselor,1,1,1
+M,Liaison Officer,1,1,1
+M,Junior High School Director,1,1,1
+M,Junior Draftsman,1,1,1
+M,Junior Chemical Engineer,1,1,1
+M,Junior Agronomist,1,1,1
+M,Investigator,1,1,1
+M,Inspector / Visiting Observer,1,1,1
+M,High-ranking Editor,1,1,1
+M,Informant,1,1,1
+M,Hydraulic Engineer & Designer,1,1,1
+M,Hydraulic Engineer,1,1,1
+M,House Officer,1,1,1
+M,Honorary Advisor,1,1,1
+M,Highway Engineer,1,1,1
+M,Draftsman & Machinist,1,1,1
+M,Dispatcher / Coordinator,1,1,1
+M,Chief Proofreader / Chief Reviewer,1,1,1
+M,Colonel (Director of Political Department),1,1,1
+M,Consulting Chemist,1,1,1
+M,Consulate Staff,1,1,1
+M,Construction Engineer,1,1,1
+M,Committee Chairman / Director-in-Charge,1,1,1
+M,Commandant of Education / Academic Dean,1,1,1
+M,Colonel (Section Chief),1,1,1
+M,Clerk of Proceedings / Council Secretary,1,1,1
+M,Corporal,1,1,1
+M,Clerk / Secretary,1,1,1
+M,Clerk / Office Worker,1,1,1
+M,Chief of Staff,1,1,1
+M,Chief of Public Works,1,1,1
+M,Chief of Preparatory Office / Head Organizer,1,1,1
+M,Chief Resident Physician,1,1,1
+M,Control Engineer,1,1,1
+M,Correspondent / Reporter,1,1,1
+M,Director of Publicity,1,1,1
+M,Design Specialist,1,1,1
+M,Director of Physical Education,1,1,1
+M,Director of Instruction / Head of Discipline,1,1,1
+M,Director of Editorial Office,1,1,1
+M,Detailer,1,1,1
+M,Designing Head,1,1,1
+M,Designer & Structural Engineer,1,1,1
+M,Deputy Secretary / Assistant Clerk,1,1,1
+M,Council Member / Advisory Board Member,1,1,1
+M,Deputy Factory Manager / Vice Works Director,1,1,1
+M,Deputy Division Commander,1,1,1
+M,Department Head,1,1,1
+M,Customer Service Section Chief,1,1,1
+M,Craftsman,1,1,1
+M,County Magistrate,1,1,1
+M,vice chairman / vice president,1,1,1

@@ -1,0 +1,32 @@
+﻿education_countries,status,appointments,students,employers
+United States,Past,778,489,457
+China,Past,762,460,424
+United States,Current,552,519,285
+China,Current,459,432,210
+United Kingdom,Current,34,24,24
+United Kingdom,Past,31,16,25
+Unknown,Current,17,15,14
+Germany,Past,17,6,13
+Canada,Past,16,12,9
+France,Past,12,6,11
+Hong Kong,Current,11,11,11
+United States,Unknown,8,8,5
+Germany,Current,6,6,5
+China,Unknown,6,6,5
+France,Current,4,3,4
+Italy,Past,4,3,4
+Japan,Past,4,3,4
+Italy,Current,4,4,4
+Philippines,Current,3,3,3
+Philippines,Past,3,3,3
+Canada,Current,3,3,3
+Unknown,Past,3,3,3
+Japan,Current,2,2,2
+Hong Kong,Past,2,2,2
+South Africa,Past,2,1,2
+Belgium,Current,1,1,1
+United Kingdom,Unknown,1,1,1
+Belgium,Past,1,1,1
+France,Unknown,1,1,1
+Costa Rica,Past,1,1,1
+India,Current,1,1,1

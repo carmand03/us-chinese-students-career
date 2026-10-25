@@ -1,0 +1,992 @@
+﻿level,employer,appointments,students,employers
+mid-level,Bank of China,38,37,1
+mid-level,National Resources Commission,33,32,1
+student,Department of Military Training,28,28,1
+junior,Tsinghua University,27,26,1
+Unknown,Universal Trading Corporation,21,21,1
+mid-level,Aeronautical Commission,20,17,1
+mid-level,Universal Trading Corporation,16,16,1
+mid-level,Tsinghua University,12,12,1
+senior,National Resources Commission,11,11,1
+mid-level,Giffels & Vallet Incorporated,11,11,1
+senior,Chinese Ministry of Communications,10,7,1
+Unknown,China Defense Supplies Corporation,9,9,1
+senior,Chinese Ministry of Military Administration,9,4,1
+junior,Chinese Ministry of Military Administration,9,8,1
+junior,China Institute in America,9,9,1
+mid-level,United States Embassy,8,8,1
+mid-level,Chinese Ministry of Communications,8,8,1
+senior,Lingnan University,8,6,1
+mid-level,Harvard University,8,8,1
+senior,Tsinghua University,8,8,1
+junior,University of Minnesota,8,8,1
+junior,Yenching University,8,8,1
+mid-level,Yale University,8,8,1
+mid-level,General Electric Company,7,7,1
+mid-level,Kaiser Shipbuilding Corporation,7,7,1
+mid-level,Curtiss-Wright Aircraft Corporation,7,7,1
+junior,Jiaotong University,6,6,1
+senior,Yenching University,6,5,1
+junior,Peking University,6,6,1
+junior,National Central University,6,6,1
+mid-level,University of Chicago,6,6,1
+junior,Aeronautical Commission,6,6,1
+junior,Academia Sinica,6,6,1
+mid-level,University of Michigan,6,6,1
+senior,National Southwestern Associated University,6,6,1
+junior,University of Michigan,6,6,1
+Unknown,Unknown,5,5,0
+senior,Chinese Ministry of Economic Affairs,5,4,1
+senior,China Defense Supplies Corporation,5,5,1
+senior,Nankai University,5,5,1
+junior,Sun Yat-sen University,5,5,1
+mid-level,Massachusetts Institute of Technology,5,5,1
+mid-level,Yenching University,5,5,1
+junior,University of Chicago,5,4,1
+senior,Chinese Ministry of Foreign Affairs,5,5,1
+mid-level,University of California,5,5,1
+senior,Fifth Army,5,5,1
+mid-level,United States Department of Interior,5,5,1
+junior,Lingnan University,5,5,1
+Unknown,General Electric Company,5,5,1
+junior,Central Agricultural Experiment Station,4,4,1
+junior,University of Nanking (Ginling University),4,4,1
+junior,United States Embassy,4,4,1
+senior,Guomindang,4,3,1
+mid-level,Beijing National Library,4,3,1
+mid-level,Chinese News Service,4,4,1
+junior,National Resources Commission,4,4,1
+senior,Aeronautical Commission,4,4,1
+Unknown,Wah Chang Trading Corporation,4,4,1
+senior,University of Michigan,4,4,1
+senior,Academia Sinica,4,4,1
+mid-level,National Central University,4,4,1
+mid-level,National Southwestern Associated University,4,4,1
+Unknown,United States Department of War,4,4,1
+mid-level,Jiaotong University,4,4,1
+junior,Zhejiang University,4,4,1
+mid-level,United States Army,4,4,1
+mid-level,Bank of Canton,4,4,1
+senior,Wuhan University,4,3,1
+mid-level,Guangzhou Pui Ching Middle School,4,4,1
+senior,Harvard University,4,3,1
+mid-level,Peking Union Medical College (PUMC),4,4,1
+mid-level,Army Mechanized School,4,4,1
+junior,Army Mechanized School,4,4,1
+junior,Peking Union Medical College (PUMC),4,4,1
+senior,Zhejiang University,4,4,1
+mid-level,United States Military Mission,4,4,1
+mid-level,Wah Chang Trading Corporation,4,4,1
+junior,Fukien Christian University,3,3,1
+junior,American Airlines Incorporated,3,3,1
+mid-level,United States Office of War Information,3,3,1
+executive,Young Women's Christian Association (YWCA),3,2,1
+junior,Iowa State College,3,3,1
+executive,Chinese Consulate General in New York,3,3,1
+mid-level,Chinese Ministry of Military Administration,3,3,1
+mid-level,Department of Military Training,3,3,1
+senior,Chinese Ministry of Industry,3,3,1
+mid-level,Sun Yat-sen University,3,3,1
+junior,Harvard University,3,3,1
+mid-level,Soochow University,3,3,1
+junior,University of California,3,3,1
+executive,Fukien Christian University,3,2,1
+senior,Department of Military Training,3,2,1
+junior,Fifth Army,3,3,1
+senior,National Central University,3,3,1
+senior,Sichuan University,3,3,1
+junior,University of Southern California,3,3,1
+junior,Massachusetts Institute of Technology,3,3,1
+senior,Yunnan University,3,1,1
+senior,University of Chicago,3,3,1
+mid-level,China Automobile Manufacturing Company,3,3,1
+senior,United States Embassy,3,3,1
+Unknown,New York Central System,3,3,1
+Unknown,"National Reconditioning Company, Incorporated",3,3,1
+senior,University of Nanking (Ginling University),3,3,1
+mid-level,Lee Engineering Company,3,3,1
+senior,University of Shanghai,3,3,1
+mid-level,Capital Power Plant,3,2,1
+mid-level,Oregon Shipbuilding Corporation,3,3,1
+mid-level,Merck & Company,3,3,1
+student,General Electric Company,3,3,1
+student,Jones & Lamson Machine Company,3,3,1
+mid-level,Lingnan University,3,3,1
+mid-level,Oregon State College,3,3,1
+Unknown,Allis-Chalmers Manufacturing Company,3,3,1
+mid-level,Radio Corporation of America (RCA),3,3,1
+mid-level,Cheeloo University (Shandong University),3,3,1
+mid-level,Peking University,3,3,1
+mid-level,United States Department of War,2,2,1
+senior,California Institute of Technology,2,2,1
+mid-level,Executive Yuan,2,2,1
+mid-level,Amoy University (Xiamen University),2,2,1
+mid-level,Tianshenggang Power Plant,2,1,1
+junior,Chinese Embassy in the United States,2,2,1
+mid-level,Federal Telephone & Radio Corporation,2,2,1
+mid-level,Central News Agency,2,2,1
+senior,Jiaotong University,2,2,1
+junior,China National Aviation Corporation (CNAC),2,2,1
+senior,Jiangsu Provincial College of Education,2,1,1
+mid-level,Chinese Ministry of Economic Affairs,2,2,1
+senior,Yunnan–Burma Railway,2,2,1
+junior,China Defense Supplies Corporation,2,2,1
+mid-level,Fifth Army,2,2,1
+mid-level,Free World (Monthly),2,2,1
+mid-level,Chinese Ministry of Foreign Affairs,2,2,1
+junior,California Institute of Technology,2,2,1
+junior,Puget Sound Navy Yard,2,2,1
+mid-level,Chinese Ministry of Industry,2,2,1
+senior,Commercial Press,2,1,1
+senior,Department of Machinery Division,2,1,1
+mid-level,Unknown,2,2,0
+senior,Far East Religious Association,2,1,1
+senior,Executive Yuan,2,2,1
+junior,Kaiser Shipbuilding Corporation,2,2,1
+mid-level,National Construction Commission,2,2,1
+Unknown,Baldwin Locomotive Works,2,2,1
+mid-level,Chrysler Corporation,2,2,1
+junior,Illinois Institute of Technology,2,2,1
+mid-level,Citizens' Foreign Relations Association,2,2,1
+mid-level,Columbia University,2,2,1
+mid-level,Zhejiang University,2,2,1
+senior,Guangdong Guomin University,2,1,1
+senior,Guangdong Provincial Government,2,2,1
+student,Ford Motor Company,2,2,1
+junior,Gong County Arsenal,2,2,1
+senior,Bank of China,2,2,1
+Unknown,Chinese Ministry of Communications,2,2,1
+student,Chinese Consulate in New Orleans,2,1,1
+mid-level,Central Aircraft Manufacturing Factory,2,2,1
+mid-level,Office of the United States Army Attaché,2,2,1
+Unknown,Curtiss-Wright Aircraft Corporation,2,2,1
+senior,Atlantic Union College,2,1,1
+senior,Harvard-Yenching Institute,2,2,1
+junior,Oregon State College,2,2,1
+mid-level,Douglas Aircraft Company,2,2,1
+mid-level,Military Affairs Commission,2,2,1
+junior,Cornell University,2,2,1
+junior,Committee on Wartime Planning for Chinese Students in the United States,2,2,1
+mid-level,United States Steel Export Company,2,2,1
+mid-level,Michigan Agricultural Experiment Station,2,1,1
+mid-level,Academia Sinica,2,2,1
+mid-level,Rust Engineering Company,2,2,1
+mid-level,Third Fleet,2,1,1
+Unknown,Western Electric Company,2,2,1
+junior,University of Illinois,2,2,1
+senior,Peking Union Medical College (PUMC),2,2,1
+mid-level,"Kellogg Company, M.W.",2,2,1
+senior,Twelfth Infantry Division,2,1,1
+senior,Legislative Yuan,2,2,1
+Unknown,Radio Corporation of America (RCA),2,2,1
+executive,China Tea Company,2,2,1
+mid-level,Chinese Consulate in New Orleans,2,2,1
+senior,Chinese Consulate in Luanda,2,2,1
+junior,Unknown,2,2,0
+senior,Chinese Consulate General in New York,2,2,1
+mid-level,Chinese Consulate General in Honolulu,2,2,1
+mid-level,Chinese Consulate General in Chicago,2,2,1
+mid-level,Qiuzhi Middle School,2,2,1
+Unknown,Washington Pump & Machinery Company,2,2,1
+senior,Sanbei Company,2,1,1
+senior,Tientsin–Pukow Railway,2,2,1
+senior,China Social Education Association,2,1,1
+senior,China Rural Reconstruction Talent Training Institute,2,1,1
+Unknown,Socony-Vacuum Oil Company Incorporated,2,2,1
+mid-level,Republic Aviation Corporation,2,2,1
+Unknown,United States Steel Export Company,2,2,1
+Unknown,United States Office of War Information,2,2,1
+senior,Sun Yat-sen University,2,2,1
+mid-level,China Institute in America,2,2,1
+senior,Soochow University,2,2,1
+Unknown,Office of Strategic Service,2,2,1
+senior,People's Political Council,2,2,1
+mid-level,China Development Finance Corporation,2,2,1
+Unknown,Massachusetts Institute of Technology,2,2,1
+senior,Minqi Daily,2,2,1
+mid-level,American Airlines Incorporated,2,2,1
+Unknown,Lee Engineering Company,2,2,1
+mid-level,Library of Congress,2,2,1
+mid-level,Chinese Delegation for World Cultural Cooperation,2,2,1
+senior,Chinese Ministry of Finance,2,2,1
+mid-level,China Defense Supplies Corporation,2,2,1
+senior,University of Southern California,2,1,1
+mid-level,Stinson Aircraft Corporation,2,2,1
+senior,West China Union University,2,2,1
+mid-level,Glenn L. Martin Company,2,2,1
+mid-level,Publicker Commercial Alcohol Company,2,2,1
+junior,Syracuse University,2,2,1
+senior,Chinese Ministry of Education,2,2,1
+senior,Military Affairs Commission,2,2,1
+Unknown,National Resources Commission,2,2,1
+senior,University of Hawaii,2,2,1
+senior,Chinese Consulate in Seattle,2,2,1
+senior,Cheeloo University (Shandong University),2,2,1
+mid-level,Westinghouse Electric Manufacturing Company,2,2,1
+mid-level,Western Yunnan Railway,1,1,1
+mid-level,Whampoa Military Academy,1,1,1
+mid-level,Zhejiang-Jiangxi Railway Administration,1,1,1
+mid-level,West China Union University,1,1,1
+mid-level,Wayland Academy (Hangzhou Huilan Middle School),1,1,1
+mid-level,Wuhan Daily,1,1,1
+mid-level,Xinjiang Provincial Capital,1,1,1
+mid-level,Zhonghua Girls' Middle School,1,1,1
+mid-level,Wally Timm Company,1,1,1
+mid-level,Yellow River Commission,1,1,1
+mid-level,World Book Company,1,1,1
+mid-level,Vidal Research Corporation,1,1,1
+mid-level,Yungli Chemical Industries Limited,1,1,1
+mid-level,Vought-Sikorsky Aircraft Company,1,1,1
+mid-level,"Yingguang Secondary School, Canton",1,1,1
+mid-level,Zhejiang Provincial Senior High School,1,1,1
+mid-level,"Vultee Aircraft, Incorporated",1,1,1
+mid-level,Yunnan–Burma Railway,1,1,1
+mid-level,Wilputte Coke Oven Company,1,1,1
+mid-level,Willamette Iron & Steel Works,1,1,1
+mid-level,Victor Chemical Works,1,1,1
+mid-level,Yunnan University,1,1,1
+mid-level,Yunnan Provincial Economic Commission,1,1,1
+mid-level,Yunnan First Provincial Middle School,1,1,1
+mid-level,"Yufeng Cotton-Spinning Mill, Henan",1,1,1
+mid-level,Three Principles of the People Youth Corps,1,1,1
+mid-level,University of Wisconsin,1,1,1
+mid-level,Philco Corporation,1,1,1
+mid-level,Pomona College,1,1,1
+mid-level,Primary School,1,1,1
+mid-level,Princeton University,1,1,1
+mid-level,Puget Sound Navy Yard,1,1,1
+mid-level,Qingdao Railway,1,1,1
+mid-level,Qixin Foreign Trading Company,1,1,1
+mid-level,Reece Button-Hole Company,1,1,1
+mid-level,Riskin & Feer Architect,1,1,1
+mid-level,Riverside Nursery School,1,1,1
+mid-level,Rola Company,1,1,1
+mid-level,Rural Reconstruction Association,1,1,1
+mid-level,Sanderson & Porter,1,1,1
+mid-level,Seattle School of Economics,1,1,1
+mid-level,Shaanxi Department of Education,1,1,1
+mid-level,Shandong First Provincial Middle School,1,1,1
+mid-level,Shanghai Girls' Middle School,1,1,1
+mid-level,Shanghai Municipal Council,1,1,1
+mid-level,Shanghai Municipal Council Girls' Middle School,1,1,1
+mid-level,Shanghai Power Company,1,1,1
+mid-level,Shanghai Ta Kung Pao,1,1,1
+mid-level,Shanghai Wuben Girls' High School,1,1,1
+mid-level,Political Critic,1,1,1
+mid-level,Philadelphia Public Schools,1,1,1
+mid-level,Shantou Post Office,1,1,1
+mid-level,People's Daily (New York),1,1,1
+mid-level,New York Central Railroad Company,1,1,1
+mid-level,New York City Chemical Corporation,1,1,1
+mid-level,New York Commercial News,1,1,1
+mid-level,New York Infirmary Hospital,1,1,1
+mid-level,New York Public Library,1,1,1
+mid-level,New York State Agricultural Experiment Station,1,1,1
+mid-level,New York Stock Exchange,1,1,1
+mid-level,North China River Conservancy Commission,1,1,1
+mid-level,Northern Yunnan Mining Bureau,1,1,1
+mid-level,Office of Emergency Man,1,1,1
+mid-level,Office of Scientific Research & Development,1,1,1
+mid-level,Office of the Deputy Chief of the General Staff,1,1,1
+mid-level,Office of the United States Commercial Counsellor,1,1,1
+mid-level,Office of the United States Naval Attaché,1,1,1
+mid-level,Ohio Division of Social Administration,1,1,1
+mid-level,Ohio State University,1,1,1
+mid-level,Overseas Chinese School,1,1,1
+mid-level,Pacification Commissioner of Mangshi,1,1,1
+mid-level,Park College,1,1,1
+mid-level,Peiping–Mukden Railway,1,1,1
+mid-level,Pennsylvania Railroad,1,1,1
+mid-level,Shanghai-Hangzhou-Ningbo Railway,1,1,1
+mid-level,Shunde Sugar Refinery,1,1,1
+mid-level,University of South California,1,1,1
+mid-level,"Taohua Datong Company, Amoy",1,1,1
+mid-level,Texas Company,1,1,1
+mid-level,Zhonghua News Agency,1,1,1
+mid-level,Tianjin Institute of Commerce and Industry,1,1,1
+mid-level,Union Audit Bureau,1,1,1
+mid-level,United China Relief,1,1,1
+mid-level,United States Agriculture Western Regional Laboratory,1,1,1
+mid-level,United States Department of State,1,1,1
+mid-level,United States Educational Mission,1,1,1
+mid-level,United States Navy,1,1,1
+mid-level,United States Plywood Corporation,1,1,1
+mid-level,United States Waterways Experiment Station,1,1,1
+mid-level,Universal Camera Corporation,1,1,1
+mid-level,Universal Radio,1,1,1
+mid-level,University of Colorado,1,1,1
+mid-level,University of Minnesota,1,1,1
+mid-level,University of Nanking (Ginling University),1,1,1
+mid-level,University of Notre Dame,1,1,1
+mid-level,University of Oregon,1,1,1
+mid-level,University of Pennsylvania,1,1,1
+mid-level,University of Pittsburgh,1,1,1
+mid-level,University of Shanghai,1,1,1
+mid-level,Tennessee Valley Authority,1,1,1
+mid-level,"Taishan County Secondary School, Guangdong",1,1,1
+mid-level,Sichuan Nanchong Provincial Middle School,1,1,1
+mid-level,Sylvanin Electric Product Incorporated,1,1,1
+mid-level,Sichuan Provincial Geological Survey,1,1,1
+mid-level,Sichuan Secondary School Teachers' Summer Training Class,1,1,1
+mid-level,Sichuan University,1,1,1
+mid-level,Sino-American Daily,1,1,1
+mid-level,Sino-American News Agency,1,1,1
+mid-level,Smith College,1,1,1
+mid-level,Socony-Vacuum Oil Company Incorporated,1,1,1
+mid-level,Songjiang Guangzheng Middle School,1,1,1
+mid-level,Sperry Gyroscope Research Laboratory,1,1,1
+mid-level,St. Louis Ordnance Plant,1,1,1
+mid-level,St. Paul's College,1,1,1
+mid-level,Standard Oil Company of New York,1,1,1
+mid-level,Standard Oil Development Company,1,1,1
+mid-level,Stanford University,1,1,1
+mid-level,State of California Division of Highway,1,1,1
+mid-level,Steel Company of Canada,1,1,1
+mid-level,Sterling Engineering & Manufacturing Company,1,1,1
+mid-level,Stone & Webster Engineering Corporation,1,1,1
+mid-level,Studebaker Corporation,1,1,1
+mid-level,Sundstrand Machine Tool Company,1,1,1
+mid-level,Swiss Legation,1,1,1
+mid-level,Zhonghua Middle School (San Francisco),1,1,1
+Unknown,20th Century-Fox Studios,1,1,1
+mid-level,Zhonghua School (Chicago),1,1,1
+senior,Sichuan Sanjiang County Middle School,1,1,1
+senior,Purdue University,1,1,1
+senior,Rangqin University (SoengKen University of Canton),1,1,1
+senior,Reed & Carnrick Company,1,1,1
+senior,Republic Aviation Corporation,1,1,1
+senior,Rockefeller Foundation,1,1,1
+senior,Rural Financial Society,1,1,1
+senior,San Francisco Baptist Secondary School,1,1,1
+senior,Shanghai Huahua Middle School,1,1,1
+senior,Shanghai Medical College,1,1,1
+senior,Sichuan Provincial Government Planning Commission,1,1,1
+senior,Sino-French Foundation Commission,1,1,1
+senior,Princeton Institute for Advanced Study,1,1,1
+senior,Social Welfare Service Department,1,1,1
+senior,Southern Gansu Petroleum Bureau,1,1,1
+senior,Southwestern Highway,1,1,1
+senior,Specialized School of Taxation,1,1,1
+senior,St. John’s University,1,1,1
+senior,St. Luke Hospital,1,1,1
+senior,State of Connecticut,1,1,1
+senior,Tacomy Engineering Company,1,1,1
+senior,Tax Police Corps,1,1,1
+senior,The City College of New York,1,1,1
+senior,Providence College,1,1,1
+senior,Power Fuel Plant,1,1,1
+senior,Tsinghua Mechanized Training School,1,1,1
+senior,Northeastern (Dongbei) University,1,1,1
+senior,Minsheng Industrial Company,1,1,1
+senior,Municipal Government,1,1,1
+senior,Nankai Institute of Economics,1,1,1
+senior,"Nanning District Court, Guangxi",1,1,1
+senior,National Conservatory of Music,1,1,1
+senior,National Defense Planning Commission,1,1,1
+senior,National Guangdong College of Law,1,1,1
+senior,National Southeastern University,1,1,1
+senior,National Tariff Commission,1,1,1
+senior,New Republic Chinese Daily,1,1,1
+senior,Northwestern University,1,1,1
+senior,Pomona College,1,1,1
+senior,Opium Suppression Commissioner,1,1,1
+senior,Ordnance Specialized School,1,1,1
+senior,Overseas Chinese Affairs Commission,1,1,1
+senior,Overseas Chinese School,1,1,1
+senior,Pacific News Agency,1,1,1
+senior,Peiping Municipal Psychiatric Hospital,1,1,1
+senior,Peiping Specialized School of Finance and Commerce,1,1,1
+senior,Peiping–Mukden Railway,1,1,1
+senior,Peizhi Middle School,1,1,1
+senior,Peking University,1,1,1
+senior,Tianjin Institute of Commerce and Industry,1,1,1
+senior,United States Bureau Of Mines,1,1,1
+mid-level,Zhongxiao Bank,1,1,1
+student,Cone Automatic Machine Company,1,1,1
+senior,Ziliujing Power Plant,1,1,1
+senior,lowa Agricultural Experiment Station,1,1,1
+student,Bryant Chucking Grinder Company,1,1,1
+student,Burlington County Hospital,1,1,1
+student,Chinese Consulate General in Honolulu,1,1,1
+student,Chinese Consulate General in New York,1,1,1
+student,Chinese Consulate General in San Francisco,1,1,1
+student,Chinese Consulate in Managua,1,1,1
+student,Chinese Consulate in Seattle,1,1,1
+student,Chinese Embassy in Italy,1,1,1
+student,Ethyl Gasoline Corporation,1,1,1
+senior,Zhonghua News Agency,1,1,1
+student,Hermann Biggs Memorial Hospital,1,1,1
+student,National Resources Commission,1,1,1
+student,Shanghai Power Company,1,1,1
+student,Swiss-American Gear Corporation,1,1,1
+student,United States Bureau of Census,1,1,1
+student,United States Department of Agriculture,1,1,1
+student,United States Embassy,1,1,1
+student,United States Treasury Department,1,1,1
+student,University of Michigan,1,1,1
+student,Yien Yieh Commercial Bank,1,1,1
+senior,Zhonghua School [Provincial],1,1,1
+senior,Zhejiang Provincial Hangzhou Normal School,1,1,1
+senior,United States Department of Agriculture,1,1,1
+senior,Xiamen Municipal Government,1,1,1
+senior,United States Navy,1,1,1
+senior,University of Arkansas,1,1,1
+senior,University of California,1,1,1
+senior,University of Pennsylvania,1,1,1
+senior,University of Pittsburgh,1,1,1
+senior,Wah Chang Trading Corporation,1,1,1
+senior,Weihaiwei Administrative Office,1,1,1
+senior,Wu County Opium Rehabilitation Centre,1,1,1
+senior,Wuhu County Education Bureau,1,1,1
+senior,Wuzhou Municipal Education Bureau,1,1,1
+senior,"Xinyi Pharmaceutical Works, Shanghai",1,1,1
+senior,Zhejiang Bureau of Entomology,1,1,1
+senior,Yale University,1,1,1
+senior,Yongli Chemical Industry Co.,1,1,1
+senior,Yongtai Company,1,1,1
+senior,York Aircraft Corporation,1,1,1
+senior,Young China Morning News,1,1,1
+senior,Young Men’s Christian Association (YMCA),1,1,1
+senior,Yuantailin Transport Company,1,1,1
+senior,Yuhua Enterprise Finance Company,1,1,1
+senior,Yunnan Investigation & Design Commission,1,1,1
+senior,Yunnan-Guangxi Railway,1,1,1
+senior,Ministry of Posts and Communications,1,1,1
+senior,Minguo University (Beijing),1,1,1
+senior,Michigan State College,1,1,1
+senior,Chongqing Sheshu Newspaper,1,1,1
+senior,Chinese Consulate General in Honolulu,1,1,1
+senior,Chinese Consulate in Houston,1,1,1
+senior,Chinese Consulate in London,1,1,1
+senior,Chinese Consulate in New Orleans,1,1,1
+senior,Chinese Consulate in Portland,1,1,1
+mid-level,"National Reconditioning Company, Incorporated",1,1,1
+senior,Chinese News Service,1,1,1
+senior,Chinese-American Weekly,1,1,1
+senior,Chizhi University,1,1,1
+senior,Chongqing Direct Tax Bureau,1,1,1
+senior,Chongqing University,1,1,1
+senior,Chinese Consulate General in Chicago,1,1,1
+senior,Christ Church's Orchestra,1,1,1
+senior,Commercial Counsellor for North America,1,1,1
+senior,Conference on the Reduction of Armaments,1,1,1
+senior,Construction Company,1,1,1
+senior,Dachang Industrial Company,1,1,1
+senior,Dartmouth College,1,1,1
+senior,Detroit Edison Company,1,1,1
+senior,Duke University,1,1,1
+senior,Economic Commission,1,1,1
+senior,Federal Broadcasting Intelligence Service,1,1,1
+senior,Chinese Consulate General in Havana,1,1,1
+senior,China Review Weekly,1,1,1
+senior,Materials Testing Division,1,1,1
+senior,Beijing Normal University,1,1,1
+senior,25th International Labour Conference,1,1,1
+senior,Aerojet Engineering Corporation,1,1,1
+senior,American Bureau for Medical Aid to China,1,1,1
+senior,Amherst College,1,1,1
+senior,Amoy University (Xiamen University),1,1,1
+senior,Anhui First Girls’ Secondary School,1,1,1
+senior,Armored Corps Factory,1,1,1
+senior,Aviation Mechanics School,1,1,1
+senior,Bank of Canton,1,1,1
+senior,Bao’an District Court,1,1,1
+senior,Beiyang Women’s Hospital,1,1,1
+senior,China Monthly,1,1,1
+senior,British Embassy,1,1,1
+senior,Canton–Hankow Railway,1,1,1
+senior,Central Bank of China,1,1,1
+senior,Central News Agency,1,1,1
+senior,Central Political School,1,1,1
+senior,Chengting–Taiyuan Railways,1,1,1
+senior,China Film Enterprise Company,1,1,1
+senior,China Film Studio,1,1,1
+senior,China Joint Transportation Company,1,1,1
+senior,China Merchants Steam Navigation Company,1,1,1
+senior,Fuhua Trading Company,1,1,1
+senior,Fujian Provincial Department of Reconstruction,1,1,1
+senior,Fujian-Zhejiang Highway Transport Office,1,1,1
+senior,Kailan Mining Administration,1,1,1
+senior,Iowa State College,1,1,1
+senior,Jianghan Bureau,1,1,1
+senior,Jiangsu Bureau of Entomology,1,1,1
+senior,Jiangsu Huaihe River Diversion Project Office,1,1,1
+senior,Jiangsu Provincial Changzhou Middle School,1,1,1
+senior,Jiangsu Provincial Farmers Bank,1,1,1
+senior,Jiangsu Provincial Popular Education College,1,1,1
+senior,Jiangxi Highway Bureau,1,1,1
+senior,Jiangxi Provincial Women’s Guidance Office,1,1,1
+senior,Jiujiang Coal Administration Office,1,1,1
+senior,Kiaochow–Tsinan Railway Administration,1,1,1
+senior,Fukien Christian University,1,1,1
+senior,Kunming Central Electrical Equipment Factory,1,1,1
+senior,Kunming Direct Tax Bureau,1,1,1
+senior,Kunming Huayi Trading Company,1,1,1
+senior,Kwang Hua University,1,1,1
+senior,Lanzhou Power Plant,1,1,1
+senior,League of Nations,1,1,1
+senior,Library of Congress,1,1,1
+senior,Luotian County Finance Bureau,1,1,1
+senior,Machine & Tool Design Company,1,1,1
+senior,Madison College,1,1,1
+senior,International Red Cross,1,1,1
+senior,Institute for the Ideological Education of Overseas Chinese,1,1,1
+senior,Hwa Nan Academy,1,1,1
+senior,Hunan University,1,1,1
+senior,General Transport Headquarters,1,1,1
+senior,Georgetown University,1,1,1
+senior,Grace Hospital,1,1,1
+senior,Great China University (Daxia University),1,1,1
+senior,Guangdong Department of Reconstruction,1,1,1
+senior,Guangxi Student Army,1,1,1
+senior,Guangxi University,1,1,1
+senior,Guangzhou District Court,1,1,1
+senior,Guangzhou Electricity Administration Office,1,1,1
+senior,Guangzhou Municipal First Middle School,1,1,1
+senior,Guangzhou University,1,1,1
+senior,Guilin Field Headquarters,1,1,1
+senior,Guomin Daily,1,1,1
+senior,Haikang County Education Bureau,1,1,1
+senior,Hankow Commodity Inspection Bureau,1,1,1
+senior,"Harmon Foundation, William E.",1,1,1
+senior,Hong Kong Pui Ching Middle School,1,1,1
+senior,Huacheng Electric Motor Manufacturing Works,1,1,1
+senior,Huanghai Chemical Industry Research Institute,1,1,1
+senior,Huanqiu Paper Mill,1,1,1
+senior,Hubei Provincial Direct Tax Bureau,1,1,1
+mid-level,National Refractories Company,1,1,1
+mid-level,James Stewart Corporation,1,1,1
+mid-level,National Paint & Varnish Company,1,1,1
+junior,Beijing Normal University,1,1,1
+executive,Wu County Hospital,1,1,1
+executive,Wuhan University,1,1,1
+executive,Yenching University,1,1,1
+executive,Young Men’s Christian Association (YMCA),1,1,1
+executive,"Yumei Secondary School, Taishan",1,1,1
+executive,Zhonghua School (Seattle),1,1,1
+executive,Zhongshan Middle School,1,1,1
+executive,Zhoushan Secondary School,1,1,1
+junior,Allis-Chalmers Manufacturing Company,1,1,1
+junior,American Accounting Systems,1,1,1
+junior,Amoy University (Xiamen University),1,1,1
+junior,Boeing Aircraft Company,1,1,1
+executive,Chinese Consulate in Seattle,1,1,1
+junior,Boston City Hospital,1,1,1
+junior,British Embassy,1,1,1
+junior,Brown University,1,1,1
+junior,Carco Products Incorporated,1,1,1
+junior,Central Broadcasting Administration,1,1,1
+junior,Central Industrial Research Institute,1,1,1
+junior,Central Motors Corporation,1,1,1
+junior,Central Radio Works,1,1,1
+junior,China Institute of Psychological Physiology,1,1,1
+junior,Chinese Consulate General in New York,1,1,1
+junior,Chinese Consulate General in Seoul,1,1,1
+executive,Wenshang County Government,1,1,1
+executive,Wah Chang Trading Corporation,1,1,1
+executive,University of Shanghai,1,1,1
+executive,Universal Trading Corporation,1,1,1
+executive,Chongqing Physical Education Promotion Association,1,1,1
+executive,Committee on Wartime Planning for Chinese Students in the United States,1,1,1
+executive,Dinghai Girls’ Secondary School,1,1,1
+executive,Guomindang,1,1,1
+executive,Huaying Girls’ Secondary School,1,1,1
+executive,Hwa Nan Academy,1,1,1
+executive,Jiangsu Wuxian Red Cross Society,1,1,1
+executive,Jianguo Secondary School,1,1,1
+executive,Jiangxi Provincial Popular Education Center,1,1,1
+executive,Jiangxi Provincial Travelling Educational Film Unit,1,1,1
+executive,Military Affairs Commission,1,1,1
+executive,National Central University,1,1,1
+executive,Ottawa Consultate,1,1,1
+executive,Peiping–Suiyuan Railway,1,1,1
+executive,Rural Reconstruction Talent Training Institute,1,1,1
+executive,Shaanxi Provincial First Vocational School,1,1,1
+executive,"Sin Hua Trust, Savings & Commercial Bank",1,1,1
+executive,Sino-American Cultural Association,1,1,1
+executive,Social Welfare (Yishibao),1,1,1
+executive,Soochow University,1,1,1
+executive,Southern University,1,1,1
+executive,United China Relief,1,1,1
+executive,United States Embassy,1,1,1
+junior,Chinese Consulate in Houston,1,1,1
+junior,Chinese Legation in Germany,1,1,1
+junior,Chinese Ministry of Communications,1,1,1
+junior,Henan Provincial Department of Reconstruction,1,1,1
+junior,Hunan-Guangxi Railway,1,1,1
+junior,Jersey City Medical Center,1,1,1
+junior,Jing River Commission,1,1,1
+junior,Kansas City Power & Light Company,1,1,1
+junior,Kunming Broadcasting Station,1,1,1
+junior,Library of Congress,1,1,1
+junior,Louisiana Sugar Factory,1,1,1
+junior,May Chemical Company,1,1,1
+junior,Military Affairs Commission,1,1,1
+junior,Minnesota Agricultural Experiment Station,1,1,1
+junior,National Construction Commission,1,1,1
+junior,National Rice and Wheat Improvement Institute,1,1,1
+junior,National Southwestern Associated University,1,1,1
+junior,New England Aircraft School,1,1,1
+junior,New York State Department of Health,1,1,1
+junior,Northeastern University,1,1,1
+junior,Ohio Wesleyan University Library,1,1,1
+junior,Pan-American Airways System,1,1,1
+junior,Peiping Academy,1,1,1
+junior,Peiyang University,1,1,1
+junior,Pillsbury's Flour Mills Company,1,1,1
+junior,Professional Pharmacy,1,1,1
+junior,"R.L.A. Laboratories, Incorporated",1,1,1
+junior,Heyuan Procasa Company,1,1,1
+junior,Heilongjiang Gold Mine Prospecting Team,1,1,1
+junior,Chinese Ministry of Economic Affairs,1,1,1
+junior,Hebei University,1,1,1
+junior,Chinese Ministry of Industry,1,1,1
+junior,Chrysler Corporation,1,1,1
+junior,Chung Cheng University,1,1,1
+junior,Columbia University,1,1,1
+junior,Deal Electric Company,1,1,1
+junior,Denver Chemical Manufacturing Company,1,1,1
+junior,Dongbin Railway Administration,1,1,1
+junior,Duke University,1,1,1
+junior,Food & Drug Laboratory of Costa Rica,1,1,1
+junior,Francis Engineering Company,1,1,1
+junior,Franco-Chinese University,1,1,1
+junior,Fu Jen Catholic University,1,1,1
+junior,General Electric Company,1,1,1
+junior,Geological Survey,1,1,1
+junior,Giffels & Vallet Incorporated,1,1,1
+junior,Ginling University,1,1,1
+junior,Gliding Society,1,1,1
+junior,Guangdong Provincial Government,1,1,1
+junior,Guangzhou Municipal Bureau of Engineering,1,1,1
+junior,Guizhou Aviation Office,1,1,1
+junior,"Harmon Foundation, William E.",1,1,1
+junior,Harvard-Yenching Institute,1,1,1
+junior,Hebei Provincial Agricultural College,1,1,1
+executive,Chinese school in San Mateo,1,1,1
+executive,Chinese Consulate in Portland,1,1,1
+mid-level,National General Mobilization Council,1,1,1
+Unknown,International Business Machine Corporation,1,1,1
+Unknown,Ginling University,1,1,1
+Unknown,Grand Central Airport,1,1,1
+Unknown,Guangzhou Hanguang Middle School,1,1,1
+Unknown,Guaranty Trust Company,1,1,1
+Unknown,Harrison Gas Works,1,1,1
+Unknown,Higgins Industries Incoporated,1,1,1
+Unknown,Home Insurance Company,1,1,1
+Unknown,Houdalle-Hershey Corporation,1,1,1
+Unknown,Houde Engineering Company,1,1,1
+Unknown,Howard Hughes Aircraft Company,1,1,1
+Unknown,Hudson Coal Company,1,1,1
+Unknown,Irving Trust Company New York,1,1,1
+executive,Chinese Consulate in Los Angeles,1,1,1
+Unknown,Jacques Wolf & Company,1,1,1
+Unknown,James Stewart Corporation,1,1,1
+Unknown,"Joseph E. Seagran & Sons, Incorporated",1,1,1
+Unknown,Kaiser Shipbuilding Corporation,1,1,1
+Unknown,Kodak Research Laboratory,1,1,1
+Unknown,Kofa American Drug Company,1,1,1
+Unknown,Lederle Laboratories Incorporated,1,1,1
+Unknown,Liberty Tool & Cage Incoporation,1,1,1
+Unknown,Library of Congress,1,1,1
+Unknown,Luke Field,1,1,1
+Unknown,Lummus Company,1,1,1
+Unknown,Giffels & Vallet Incorporated,1,1,1
+Unknown,Firestone Tire & Rubber Corporation,1,1,1
+Unknown,Federal Telephone & Radio Corporation,1,1,1
+Unknown,Federal Reserve Bank,1,1,1
+Unknown,American Airlines Incorporated,1,1,1
+Unknown,American Gas & Electric Service Corporation,1,1,1
+Unknown,American Resinous Chemical Corporation,1,1,1
+Unknown,American Sheet Metal Company,1,1,1
+Unknown,Anaconda Copper Mining Company,1,1,1
+Unknown,Beijing Normal University,1,1,1
+Unknown,Bell Telephone Laboratory,1,1,1
+Unknown,"Bugbird & Company, H.C.",1,1,1
+Unknown,"Carbolog Company, Incorporated",1,1,1
+Unknown,Carnegie-Illinois Steel,1,1,1
+Unknown,Central News Agency,1,1,1
+Unknown,Central Trust of China,1,1,1
+Unknown,Chase National Bank,1,1,1
+Unknown,Chekiang Industrial Bank,1,1,1
+Unknown,China Aircraft Corporation,1,1,1
+Unknown,China Tea Company,1,1,1
+Unknown,Chinese Consulate General in Iowa,1,1,1
+Unknown,Chinese News Service,1,1,1
+Unknown,Church Committee for China Relief,1,1,1
+Unknown,Columbia University,1,1,1
+Unknown,Cone Automatic Machine Company,1,1,1
+Unknown,Crucible Steel Corporation,1,1,1
+Unknown,Federal Communication Commission,1,1,1
+Unknown,"Marmon-Herrington Company, Incorporated",1,1,1
+Unknown,McQuay Norris Manufacturing Company,1,1,1
+Unknown,Merck & Company,1,1,1
+Unknown,Trico Products Corporation,1,1,1
+Unknown,United China Relief,1,1,1
+Unknown,United Nations,1,1,1
+Unknown,United Nations Relief and Rehabilitation Administration,1,1,1
+Unknown,United States Air Corporation,1,1,1
+Unknown,United States Department of Interior,1,1,1
+Unknown,United States Department of Labor,1,1,1
+Unknown,University of California,1,1,1
+Unknown,Utah Copper Company,1,1,1
+Unknown,Vought-Sikorsky Aircraft Company,1,1,1
+Unknown,"Warren Company, S.D.",1,1,1
+Unknown,Wells Fargo Bank & Union Trust Company,1,1,1
+Unknown,Xiang-Gui Railway Assistant Engineering Office,1,1,1
+Unknown,Zhengtai Railway Engineering Office,1,1,1
+executive,American Bureau for Medical Aid to China,1,1,1
+executive,Amoy University (Xiamen University),1,1,1
+executive,Bao’an District Court,1,1,1
+executive,Beiping Datong Middle School,1,1,1
+executive,Century Industrial Company,1,1,1
+executive,Chase National Bank,1,1,1
+executive,China Association for Promotion of Commerce & Industry,1,1,1
+executive,Chinese Consulate General in Havana,1,1,1
+executive,Chinese Consulate General in Honolulu,1,1,1
+executive,Chinese Consulate in Boston,1,1,1
+Unknown,United Arts Dental Laboratory,1,1,1
+Unknown,Tianjin French-Chinese College,1,1,1
+Unknown,Mutai Engineering Office,1,1,1
+Unknown,Thunderbird Field,1,1,1
+Unknown,National Bank of Detroit,1,1,1
+Unknown,National Bureau of Economic Research,1,1,1
+Unknown,National City Bank of New York,1,1,1
+Unknown,National Geophysical Company,1,1,1
+Unknown,National Gypsim Company,1,1,1
+Unknown,New York Memorial Hospital,1,1,1
+Unknown,Northeast Air Lines,1,1,1
+Unknown,Northeastern (Dongbei) University,1,1,1
+Unknown,Northern Pacific Railroad Company,1,1,1
+Unknown,Office of Censorship,1,1,1
+Unknown,Peking University,1,1,1
+Unknown,"Perdon Wright Law Office, J.",1,1,1
+Unknown,Pontiac Motor Corporation,1,1,1
+Unknown,Publicker Commercial Alcohol Company,1,1,1
+Unknown,Pullman Car Manufacturing Company,1,1,1
+Unknown,Republic Steel Mill,1,1,1
+Unknown,Rust Engineering Company,1,1,1
+Unknown,Southern Pacific Railway Company,1,1,1
+Unknown,Sparks-Withington Company,1,1,1
+Unknown,St. Francis Hospital,1,1,1
+Unknown,Standard Oil Development Company,1,1,1
+Unknown,Stone & Webster Engineering Corporation,1,1,1
+Unknown,Stran Steel Corporation,1,1,1
+junior,Radio Corporation of America (RCA),1,1,1
+junior,Richmond Gard #2,1,1,1
+junior,Royal Netherlands Navy,1,1,1
+mid-level,Holabird & Root Company,1,1,1
+mid-level,Guomin Daily,1,1,1
+mid-level,Hangzhou Girls' Middle School,1,1,1
+mid-level,"Harmon Foundation, William E.",1,1,1
+mid-level,Health Demonstration Center,1,1,1
+mid-level,Hebei Provincial Fisheries Specialized School,1,1,1
+mid-level,Hebei Provincial No. 17 Middle School,1,1,1
+mid-level,Hengtong Chemical Company,1,1,1
+mid-level,Henry Street Visiting Nurse Service,1,1,1
+mid-level,Hermans & Simon Architecture,1,1,1
+mid-level,High Standard Manufacturing Company,1,1,1
+mid-level,Historical Annal,1,1,1
+mid-level,Holley Carburetor Company,1,1,1
+junior,Sacred Heart Hospital,1,1,1
+mid-level,Hong Kong Commercial Daily,1,1,1
+mid-level,Howard Hughes Aircraft Company,1,1,1
+mid-level,Hsiangya (Hunan-Yale) Medical College,1,1,1
+mid-level,Huai'an Middle School,1,1,1
+mid-level,Huasheng Electrical Appliance Manufacturing Works,1,1,1
+mid-level,Huawen Secondary School,1,1,1
+mid-level,Huazhong University,1,1,1
+mid-level,"Hutton & Company, E.F.",1,1,1
+mid-level,Hwa Nan Academy,1,1,1
+mid-level,"Imco Company, The",1,1,1
+mid-level,Industry Incorporated,1,1,1
+mid-level,Guizhou Reconstruction Office,1,1,1
+mid-level,Guilin Field Headquarters,1,1,1
+mid-level,Guangzhou Municipal Telephone Administration,1,1,1
+mid-level,Guangzhou Daily,1,1,1
+mid-level,"Euston Architect, A.F.",1,1,1
+mid-level,Farmers Bank of China,1,1,1
+mid-level,Ferro Enamel Corporation,1,1,1
+mid-level,"Finkel & Finkel, C.P.A.",1,1,1
+mid-level,Foster Wheeler Corporation,1,1,1
+mid-level,Frank Wyckoop Company,1,1,1
+mid-level,Fred J. Ryan Company,1,1,1
+mid-level,Fu Jen Catholic University,1,1,1
+mid-level,Fujian Provincial Senior Industrial Vocational School,1,1,1
+mid-level,Fukien Christian University,1,1,1
+mid-level,Fuzhou Provincial Secondary School of Home Economics,1,1,1
+mid-level,Fu’an Company,1,1,1
+mid-level,Gansu Petroleum Bureau,1,1,1
+mid-level,Garod Radio Corporation,1,1,1
+mid-level,Garry & Shaffey Company,1,1,1
+mid-level,General Bureau of Highway Transport,1,1,1
+mid-level,General Cable Corporation,1,1,1
+mid-level,George Washington University,1,1,1
+mid-level,Gongliang School,1,1,1
+mid-level,Grunman Aircraft Engineering Corporation,1,1,1
+mid-level,Guangxi Agricultural investigator to Honolulu,1,1,1
+mid-level,Guangxi Electric Power Plant,1,1,1
+mid-level,Guangxi Provincial Grain Planning Commission,1,1,1
+mid-level,Inland Steel Company,1,1,1
+mid-level,Institute For Juvenile Research,1,1,1
+mid-level,Institute for National Survey Research,1,1,1
+mid-level,Matlock & Campell Mechanical,1,1,1
+mid-level,McTyeire School for Girls,1,1,1
+mid-level,Merrimack Manufacturing Company,1,1,1
+mid-level,Methodist Church,1,1,1
+mid-level,Mexico Refractories Company,1,1,1
+mid-level,Micamold Radio Corporation,1,1,1
+mid-level,Military Operations Department,1,1,1
+mid-level,Mills College,1,1,1
+mid-level,Mingda Company,1,1,1
+mid-level,Minqi Daily,1,1,1
+mid-level,Mississippi River Commission,1,1,1
+mid-level,Mississippi Valley Structural Company,1,1,1
+mid-level,Models & Patents Corporation,1,1,1
+mid-level,Moore Dry Dock Company,1,1,1
+mid-level,Mount Morris Tuberculosis Hospital,1,1,1
+mid-level,Murray Iron Works Company,1,1,1
+mid-level,Nanjing General Headquarters,1,1,1
+mid-level,Nanjing Higher Police Officers Academy,1,1,1
+mid-level,Nankai University,1,1,1
+mid-level,Nankai University Journal,1,1,1
+mid-level,Nankou Locomotive Works,1,1,1
+mid-level,National Daily Special Edition,1,1,1
+mid-level,National Diplomacy Association,1,1,1
+mid-level,National Diplomacy Monthly,1,1,1
+mid-level,Mayers' Aircraft Corporation,1,1,1
+mid-level,Massachusetts General Hospital,1,1,1
+mid-level,Institute of Pacific Relations,1,1,1
+mid-level,Mary's Hospital,1,1,1
+mid-level,International Standard Electric Company,1,1,1
+mid-level,Irvington Varnish Insolator Company,1,1,1
+Unknown,Aeronautical Commission,1,1,1
+mid-level,Jersey City Medical Center,1,1,1
+mid-level,Jiangnan Cement Company,1,1,1
+mid-level,Jiangsu Department of Reconstruction,1,1,1
+mid-level,Jing River Commission,1,1,1
+mid-level,Jinjiang Daily,1,1,1
+mid-level,John B. Fischer Architect,1,1,1
+mid-level,John Hopkins University,1,1,1
+mid-level,K.C.F. Food Products Laboratory,1,1,1
+mid-level,Koppers Company,1,1,1
+mid-level,"Kump Company, E.S.",1,1,1
+mid-level,League of Nations,1,1,1
+mid-level,Legislative Yuan,1,1,1
+mid-level,Liongsin Press,1,1,1
+mid-level,Liuhegou Ironworks,1,1,1
+mid-level,"Longhua Cement Works, Shanghai",1,1,1
+mid-level,"Lorec Architect, D.D.",1,1,1
+mid-level,Los Angeles County General Hospital,1,1,1
+mid-level,"Louis Allis Company, The",1,1,1
+mid-level,Lummus Company,1,1,1
+mid-level,Mahony-Troast Construction Company,1,1,1
+mid-level,Emil S. Fischer,1,1,1
+mid-level,Ely Kahn & Robert Jacobs Architects,1,1,1
+mid-level,Economic Commission,1,1,1
+mid-level,Aiguang Secondary School,1,1,1
+mid-level,Aircraft Screw Brod Company,1,1,1
+mid-level,Aircraft Structural Development,1,1,1
+mid-level,Allied Engineers Incorporated,1,1,1
+mid-level,Ambassador Wei Daoming,1,1,1
+mid-level,American Bureau for Medical Aid to China,1,1,1
+mid-level,American Gas & Electric Service Corporation,1,1,1
+mid-level,American Volunteer Group (Flying Tigers),1,1,1
+mid-level,Ampco Metal Incorporated,1,1,1
+mid-level,"Antone Brothers Company, Incorporated",1,1,1
+mid-level,Archer-Danials-Midland Vegetable Oil Company,1,1,1
+mid-level,Arthur Anderson & Company,1,1,1
+mid-level,Atlas Powder Company,1,1,1
+mid-level,Aviation Mechanics Monthly,1,1,1
+mid-level,Babcock & Wilcox Company,1,1,1
+mid-level,Bacon Laboratory,1,1,1
+mid-level,Baldwin Locomotive Works,1,1,1
+mid-level,"Bauschlein Company, W.L.",1,1,1
+mid-level,"Bechtel Company, W.A.",1,1,1
+mid-level,Beijing Coal Depot,1,1,1
+mid-level,Beijing Normal University,1,1,1
+mid-level,Beijing-Shanghai Railway,1,1,1
+mid-level,Beiping Middle School,1,1,1
+mid-level,Bell Telephone Laboratory,1,1,1
+mid-level,Air Force Mechanics School,1,1,1
+mid-level,Address Investigation Bureau,1,1,1
+mid-level,Bethlehem Steel Company,1,1,1
+mid-level,Acorn Wire & Cable Company,1,1,1
+junior,Sichuan Oil Works,1,1,1
+junior,Socony-Vacuum Oil Company Incorporated,1,1,1
+junior,Soochow University,1,1,1
+junior,Standard Oil Development Company,1,1,1
+junior,Stanford University,1,1,1
+junior,United States Army,1,1,1
+junior,United States Naval Liaison Staff Office,1,1,1
+junior,United States Navy,1,1,1
+junior,United States Nitrate Plant 02,1,1,1
+junior,Universal Trading Corporation,1,1,1
+junior,University of Notre Dame,1,1,1
+junior,University of Washington,1,1,1
+junior,University of Wisconsin,1,1,1
+junior,Utopia University (Datong University),1,1,1
+junior,Vanderbilt University,1,1,1
+junior,Virginia Hospital Medical College,1,1,1
+junior,"White Engineering Corporation, J.G.",1,1,1
+junior,Willamette Iron & Steel Works,1,1,1
+junior,Wuhan University,1,1,1
+junior,Xi’an Field Headquarters,1,1,1
+junior,Zhenjiang Dazhao Electric Light & Power Company,1,1,1
+junior,Zhongfu Coal Mining Company,1,1,1
+mid-level,12th Naval District,1,1,1
+mid-level,Bendix Aviation Corporation,1,1,1
+mid-level,Bianhe Road Rolling Stock Division,1,1,1
+mid-level,"Ebasco Services, Incorporated",1,1,1
+mid-level,Chinese Ministry of Agriculture and Forestry,1,1,1
+mid-level,Chinese Ministry of Social Affairs,1,1,1
+mid-level,Chinese National Government,1,1,1
+mid-level,Chongqing Dredging and Maintenance Office,1,1,1
+mid-level,Chongqing Girls' Normal High School,1,1,1
+mid-level,Chongqing Minkang Industrial Company,1,1,1
+mid-level,Chongqing Municipal Government,1,1,1
+mid-level,Chongqing New Society Daily,1,1,1
+mid-level,Chongqing Postal Remittance and Savings Bank,1,1,1
+mid-level,Commander-Larabee Milling Company,1,1,1
+mid-level,Common Council for American Unity,1,1,1
+mid-level,Conrad O. Hersan Company,1,1,1
+mid-level,Consolidated Aircraft Corporation,1,1,1
+mid-level,Consulate General in Shanghai [country unspecified],1,1,1
+mid-level,Cook County Hospital,1,1,1
+mid-level,Cornell University,1,1,1
+mid-level,Dadukou Iron and Steel Works,1,1,1
+mid-level,David H. Horn Architect,1,1,1
+mid-level,Defense Project,1,1,1
+mid-level,Delisser Machine & Tool Company,1,1,1
+mid-level,Doctor's Hospital (Manhattan),1,1,1
+mid-level,Dorr Company,1,1,1
+mid-level,Drury & McNamee Shoecraft,1,1,1
+mid-level,Dry Food Incorporated,1,1,1
+mid-level,Chinese Ministry of Propaganda,1,1,1
+mid-level,Chinese Legation at Panama,1,1,1
+mid-level,Boston Children's Hospital,1,1,1
+mid-level,Chinese Embassy in the United States,1,1,1
+mid-level,Bristol Aircraft Corporation,1,1,1
+mid-level,Bruce Engineering Company,1,1,1
+mid-level,California Spray Chemical Company,1,1,1
+mid-level,Canton–Hankow Railway,1,1,1
+mid-level,Carbon & Carbide Chemical Company,1,1,1
+mid-level,Carnegie Corporation,1,1,1
+mid-level,Central Cotton Improvement Institute,1,1,1
+mid-level,Central Electrical Equipment Works,1,1,1
+mid-level,Central Military Academy,1,1,1
+mid-level,Central Political Department,1,1,1
+mid-level,China Aircraft Corporation,1,1,1
+mid-level,China Food Products Company,1,1,1
+mid-level,China Industrial Company,1,1,1
+mid-level,China Merchants Steam Navigation Company,1,1,1
+mid-level,China Motor Corporation,1,1,1
+mid-level,China Oriental Trading & Engineering Company,1,1,1
+mid-level,China Transport Company,1,1,1
+mid-level,Chinese Consulate General in San Francisco,1,1,1
+mid-level,Chinese Consulate in Houston,1,1,1
+mid-level,Chinese Consulate in Los Angeles,1,1,1
+mid-level,Chinese Consulate in Portland,1,1,1
+mid-level,Chinese Consulate in Seattle,1,1,1
+mid-level,Chinese Embassy in Cuba,1,1,1
+student,Yunnan–Burma Railway,1,1,1

@@ -1,0 +1,253 @@
+﻿disciplines,level,appointments,students,employers
+Unknown,mid-level,83,55,62
+Electrical Engineering,mid-level,60,42,40
+Civil Engineering,mid-level,60,39,46
+Mechanical Engineering,mid-level,54,38,42
+Chemical Engineering,mid-level,47,34,38
+Aeronautical Engineering,mid-level,42,30,27
+Unknown,senior,41,25,39
+Economics,mid-level,41,32,32
+Political Science,mid-level,40,27,31
+Economics,senior,33,21,33
+Electrical Engineering,senior,32,18,21
+Political Science,senior,29,18,25
+Education,mid-level,26,17,24
+Chemistry,junior,26,21,21
+Chemical Engineering,junior,25,19,22
+Education,senior,25,12,20
+Mechanical Engineering,junior,24,23,19
+Physiology,mid-level,22,16,18
+Chemistry,mid-level,21,16,19
+Sociology,mid-level,21,16,17
+Mechanical Engineering,senior,20,12,13
+Electrical Engineering,junior,20,17,18
+Unknown,student,20,20,3
+Mechanical Engineering,Unknown,18,18,16
+Sociology,senior,18,10,18
+Aeronautical Engineering,junior,18,17,13
+Architecture,mid-level,17,13,16
+Law,senior,17,9,16
+Civil Engineering,Unknown,17,15,14
+Physiology,junior,17,14,11
+Metallurgy,mid-level,17,12,13
+Economics,Unknown,17,16,14
+Electrical Engineering,Unknown,16,16,11
+Unknown,junior,16,16,14
+Civil Engineering,junior,15,13,14
+Physiology,senior,15,9,14
+Accounting,mid-level,13,11,11
+Chemical Engineering,Unknown,13,12,11
+Unknown,Unknown,12,12,7
+Mechanical Engineering,student,12,11,6
+Law,mid-level,11,9,11
+Medicine,mid-level,11,10,11
+Unknown,executive,11,10,9
+Business,mid-level,11,10,8
+Education,executive,10,9,10
+Chemical Engineering,senior,10,8,10
+Metallurgy,junior,10,8,8
+Business,Unknown,10,10,9
+Literature,senior,9,4,9
+Chemistry,senior,9,7,8
+Aeronautical Engineering,senior,9,7,8
+History,mid-level,8,6,8
+History,senior,8,5,7
+Biochemistry,mid-level,8,6,8
+Philosophy,senior,8,3,7
+Accounting,senior,8,4,7
+Political Science,Unknown,8,8,7
+Aeronautical Engineering,Unknown,7,7,7
+Metallurgy,senior,7,4,5
+Medicine,senior,7,4,6
+Economics,junior,7,7,6
+Transportation,mid-level,7,4,7
+Chemistry,Unknown,7,7,6
+Banking & Finance,mid-level,7,6,5
+Business,senior,7,4,7
+Political Science,executive,7,7,7
+Law,executive,7,6,7
+Geology,mid-level,6,5,6
+Engineering,senior,6,1,2
+Education,junior,6,6,6
+English,mid-level,6,6,6
+Entomology,junior,6,5,4
+Accounting,Unknown,6,3,6
+Economics,executive,6,3,6
+Civil Engineering,senior,6,6,6
+Transportation,senior,6,3,4
+Banking & Finance,Unknown,6,4,6
+Botany,junior,5,4,5
+Mining Engineering,Unknown,5,5,4
+Mathematics,senior,5,3,5
+Literature,mid-level,5,3,5
+Automotive Engineering,junior,5,3,4
+Accounting,junior,5,4,4
+Industrial Management,mid-level,5,3,5
+Geography,mid-level,5,4,5
+Plant Pathology,junior,5,4,4
+Plant Pathology,mid-level,5,4,5
+Mining Engineering,mid-level,5,4,3
+Psychology,mid-level,5,5,5
+Electrical Engineering,student,5,5,2
+Agricultural Economics,senior,4,3,4
+Mathematics,junior,4,4,4
+Mining Engineering,senior,4,2,4
+Psychology,junior,4,4,4
+Nutrition,mid-level,4,4,4
+Pharmacy,Unknown,4,3,4
+Architecture,Unknown,4,4,3
+Medicine,junior,4,4,3
+Railroad Administration,senior,4,1,4
+Soil Science,junior,4,2,4
+Biochemistry,junior,4,4,3
+History,junior,4,3,4
+Radio Engineering,mid-level,4,3,4
+English,junior,4,4,4
+Social Science,mid-level,4,2,4
+Sociology,junior,4,4,4
+Botany,senior,4,2,3
+Political Science,junior,4,4,4
+Botany,mid-level,4,2,4
+Biochemistry,senior,3,3,3
+Geology,junior,3,3,3
+Sociology,executive,3,3,3
+Dentistry,mid-level,3,2,3
+Education,Unknown,3,3,2
+Literature,junior,3,3,3
+Nursing,mid-level,3,3,3
+Metallurgy,Unknown,3,2,3
+Nutrition,junior,3,3,3
+Automotive Engineering,student,3,2,3
+Law,Unknown,3,3,3
+Language,senior,3,3,3
+Language,mid-level,3,2,3
+Anthropology,senior,3,1,1
+Philosophy,mid-level,3,3,3
+Agriculture,mid-level,3,3,3
+Physical Education,senior,3,3,3
+Political Science,student,3,3,3
+Agricultural Economics,junior,3,3,3
+Home Economics,mid-level,3,2,3
+Banking & Finance,senior,3,2,3
+Medicine,Unknown,3,3,3
+History,Unknown,3,3,3
+Zoology,junior,2,2,2
+Meteorology,Unknown,2,1,2
+Metallurgy,student,2,2,2
+Soil Science,mid-level,2,2,2
+Mining Engineering,junior,2,1,2
+Sociology,student,2,2,2
+Public Administration,mid-level,2,2,2
+Public Health,mid-level,2,1,2
+Social Welfare,Unknown,2,2,2
+Social Welfare,mid-level,2,2,2
+Sociology,Unknown,2,2,1
+Plant Pathology,senior,2,1,2
+Psychology,executive,2,1,1
+Music,mid-level,2,2,2
+Pharmacy,mid-level,2,2,2
+Pharmacy,junior,2,1,2
+Surgery,senior,2,1,2
+Theology,mid-level,2,2,2
+Nursing,senior,2,2,2
+Theology,senior,2,1,1
+Psychology,Unknown,2,2,2
+Library Science,mid-level,2,1,2
+Medicine,student,2,2,2
+Journalism,mid-level,2,2,2
+Forestry,junior,2,1,2
+Entomology,senior,2,1,2
+Entomology,mid-level,2,2,2
+Engineering,Unknown,2,2,2
+Economics,student,2,2,2
+Drama,mid-level,2,2,2
+Medicine,executive,2,1,2
+Civil Engineering,student,2,2,2
+City Planning,Unknown,2,1,2
+Business,junior,2,2,2
+Business,executive,2,2,2
+Biology,mid-level,2,2,2
+Biology,junior,2,1,2
+Bacteriology,junior,2,2,2
+Automotive Engineering,mid-level,2,2,2
+Architecture,senior,2,2,2
+Architecture,junior,2,2,2
+Agriculture,junior,2,1,2
+Agricultural Economics,Unknown,2,1,2
+Geography,junior,2,2,1
+Zoology,senior,2,1,2
+Law,junior,2,2,2
+Language,student,2,1,2
+Language,junior,2,2,2
+Law,student,2,1,1
+Theology,junior,1,1,1
+Surgery,mid-level,1,1,1
+Surgery,junior,1,1,1
+Soil Science,senior,1,1,1
+Bacteriology,senior,1,1,1
+Banking & Finance,executive,1,1,1
+Soil Science,Unknown,1,1,1
+Music,senior,1,1,1
+Literature,executive,1,1,1
+Literature,Unknown,1,1,1
+Nutrition,Unknown,1,1,1
+Business,student,1,1,1
+Chemical Engineering,executive,1,1,1
+Social Welfare,senior,1,1,1
+Chemical Engineering,student,1,1,1
+Bacteriology,mid-level,1,1,1
+Philosophy,executive,1,1,1
+Marine Enginerring,junior,1,1,1
+Chemistry,student,1,1,1
+Zoology,mid-level,1,1,1
+Mechanical Engineering,executive,1,1,1
+Veterinary Medicine,senior,1,1,1
+Veterinary Medicine,junior,1,1,1
+Agricultural Economics,mid-level,1,1,1
+Mathematics,mid-level,1,1,1
+Agrononmy,junior,1,1,1
+Animal Husbandry,senior,1,1,1
+Anthropology,mid-level,1,1,1
+Mathematics,executive,1,1,1
+Mathematics,Unknown,1,1,1
+Marine Enginerring,mid-level,1,1,1
+Transportation,junior,1,1,1
+Transportation,Unknown,1,1,1
+Automotive Engineering,senior,1,1,1
+Chemistry,executive,1,1,1
+Railroad Administration,executive,1,1,1
+Child Welfare,junior,1,1,1
+Physical Education,mid-level,1,1,1
+Fine Arts,senior,1,1,1
+Geography,senior,1,1,1
+Horticulture,junior,1,1,1
+Industrial Management,senior,1,1,1
+Physiology,executive,1,1,1
+Journalism,Unknown,1,1,1
+Physical Education,junior,1,1,1
+Parasitology,mid-level,1,1,1
+Physical Education,executive,1,1,1
+Physical Education,Unknown,1,1,1
+Photography,mid-level,1,1,1
+Photography,Unknown,1,1,1
+Philosophy,Unknown,1,1,1
+Journalism,senior,1,1,1
+Fine Arts,junior,1,1,1
+English,senior,1,1,1
+Railroad Administration,mid-level,1,1,1
+Library Science,junior,1,1,1
+Philosophy,junior,1,1,1
+Child Welfare,mid-level,1,1,1
+Public Health,senior,1,1,1
+Nutrition,executive,1,1,1
+Public Health,Unknown,1,1,1
+Public Administration,senior,1,1,1
+Public Administration,junior,1,1,1
+Engineering,mid-level,1,1,1
+Public Administration,Unknown,1,1,1
+Psychology,senior,1,1,1
+Climateology,senior,1,1,1
+Obstetrics,junior,1,1,1
+Obstetrics,senior,1,1,1
+Parasitology,junior,1,1,1
+Drama,Unknown,1,1,1

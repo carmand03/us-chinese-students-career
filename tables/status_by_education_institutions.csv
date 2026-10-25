@@ -1,0 +1,495 @@
+﻿education_institutions,status,appointments,students,employers
+Jiaotong University,Past,111,59,77
+Yenching University,Past,106,69,71
+Tsinghua University,Past,99,61,57
+University of Michigan,Past,91,63,69
+Columbia University,Past,79,49,64
+Massachusetts Institute of Technology,Past,79,48,50
+Jiaotong University,Current,77,72,35
+University of Michigan,Current,64,62,40
+Harvard University,Past,64,41,44
+Yenching University,Current,61,58,44
+Columbia University,Current,54,47,44
+New York University,Current,48,44,32
+University of Minnesota,Past,47,28,36
+University of Chicago,Past,44,22,37
+Massachusetts Institute of Technology,Current,44,44,27
+University of Illinois,Past,43,21,36
+Tsinghua University,Current,40,36,31
+New York University,Past,37,23,35
+Central University,Past,36,22,27
+Harvard University,Current,35,31,24
+University of California,Current,35,34,29
+St. John's University,Current,35,34,31
+University of California,Past,35,26,30
+Jinling University,Past,33,19,25
+Purdue University,Past,33,22,30
+Lingnan University,Past,32,22,23
+Beijing University,Past,31,21,25
+University of Chicago,Current,31,30,26
+Purdue University,Current,29,29,21
+Shanghai University,Past,28,18,24
+St. John's University,Past,27,21,26
+University of Pennsylvania,Past,26,20,24
+State University of Iowa,Past,24,12,22
+Cornell University,Past,23,15,22
+Southeast University,Past,22,11,19
+University of Southern California,Past,22,15,17
+Central University,Current,20,19,14
+Zhongshan University,Current,20,17,17
+California Institute of Technology,Past,19,13,14
+University of Illinois,Current,19,18,13
+Shanghai University,Current,19,18,16
+Lingnan University,Current,19,18,19
+Cornell University,Current,18,17,17
+Stanford University,Past,18,11,15
+Unknown,Current,17,15,14
+Zhongshan University,Past,17,13,15
+University of London,Current,17,12,11
+Nankai University,Past,17,11,15
+University of Washington,Current,16,14,15
+Stanford University,Current,15,12,15
+Central Army Military Academy,Current,15,15,5
+Fudan University,Past,15,8,15
+University of Southern California,Current,14,13,13
+Zhejiang University,Past,14,7,12
+University of Toronto,Past,12,9,6
+University of Wisconsin,Past,12,8,12
+University of Pennsylvania,Current,12,12,11
+California Institute of Technology,Current,12,11,12
+Fudan University,Current,11,10,10
+Ginling College,Past,11,7,11
+Jinan University,Past,11,5,10
+Xiamen University,Past,11,4,9
+Yale University,Past,11,7,11
+Southeast University,Current,11,10,11
+Oregon State College,Past,11,9,8
+Beiyang University,Past,11,6,11
+Zhijiang University,Past,11,8,10
+Beijing University,Current,11,11,10
+Zhejiang University,Current,10,9,7
+University of Minnesota,Current,10,10,10
+Fujian Union University,Past,10,8,5
+Penn State College,Past,10,4,9
+Normal University,Past,10,6,9
+Jinling University,Current,10,10,10
+University of Hong Kong,Current,10,10,10
+University of Washington,Past,10,7,9
+Edinburgh University,Past,9,3,8
+Peking Union Medical College,Past,9,7,4
+Johns Hopkins University,Past,9,5,9
+State University of Iowa,Current,9,8,9
+Nankai University,Current,9,8,9
+Northeast University,Past,8,3,7
+University of London,Past,8,6,8
+Iowa State College,Past,8,6,8
+Ohio State University,Past,8,4,8
+Cambridge University,Past,8,4,7
+Oberlin College,Current,7,7,7
+Northwestern University,Past,7,3,7
+Fujian Union University,Current,7,6,6
+Michigan State College,Past,7,3,6
+Qilu University,Current,7,6,7
+Fu-jen University,Current,7,7,5
+Tri-State College,Past,7,4,7
+University of Houston,Current,7,1,5
+Oregon State College,Current,7,7,7
+Normal University,Current,7,7,6
+University of Missouri,Current,7,7,5
+University of Wisconsin,Current,7,7,7
+University of Missouri,Past,7,3,7
+Beiyang University,Current,7,6,4
+Central Political School,Current,6,6,5
+Edinburgh University,Current,6,3,6
+Princeton University,Past,6,4,6
+Central Army Military Academy,Past,6,3,5
+Syracuse University,Past,6,4,5
+Zhijiang University,Current,6,6,6
+Guangxi University,Past,6,2,5
+Cambridge University,Current,6,5,5
+University of Oklahoma,Past,5,2,5
+Technical University Berlin,Past,5,1,1
+Rensselaer Polytechnic Institute,Past,5,2,4
+China University,Past,5,2,5
+University of Pittsburgh,Current,5,5,4
+University of Paris,Past,5,3,5
+University of Notre Dame,Past,5,3,4
+Glasgow University,Past,5,1,5
+University of Pittsburgh,Past,5,3,4
+Tri-State College,Current,5,5,3
+Qilu University,Past,5,3,5
+Rostock University,Past,5,1,5
+George Washington University,Current,5,4,4
+Hebei Institute of Technology,Past,5,2,5
+Illinois Institute of Technology,Past,5,3,5
+Datong University,Past,5,3,5
+Ohio State University,Current,5,5,4
+Wusong Merchant Shipping School,Past,5,3,4
+Fu-jen University,Past,5,4,5
+Jinan University,Current,5,4,5
+Fordham University,Past,5,3,5
+Princeton University,Current,5,5,5
+Iowa State College,Current,5,5,4
+Wuhan University,Past,5,3,5
+Brown University,Past,4,3,3
+Mount Holyoke College,Past,4,2,3
+Oxford University,Past,4,2,4
+Jiaozuo Institute of Technology,Past,4,1,4
+Shandong University,Past,4,2,4
+Syracuse University,Current,4,4,4
+Oxford University,Current,4,3,2
+University of San Francisco,Past,4,1,4
+Central Political School,Past,4,3,4
+Yale University,Current,4,4,4
+Mills College,Past,4,3,4
+Loyola University,Past,4,2,3
+Nanking Higher Normal School,Past,4,1,4
+Oberlin College,Past,4,3,4
+George Washington University,Past,4,2,4
+University of Paris,Current,4,3,4
+Northeastern University,Past,4,3,4
+University of Colorado,Current,4,4,4
+Daxia University,Past,4,1,4
+Penn State College,Current,4,4,4
+Duke University,Current,4,4,4
+Mercer University,Past,4,1,4
+University of Hawaii,Current,4,4,4
+Northeastern University,Current,4,4,4
+Fordham University,Current,4,4,3
+Datong University,Current,4,4,4
+Haverford College,Past,4,2,4
+West China University,Past,4,3,4
+Clark University,Past,4,1,4
+University of Maryland,Past,4,3,4
+Peking Union Medical College,Current,4,4,4
+Peiping College of Finance and Commerce,Past,4,1,4
+China College University Department,Past,4,2,4
+Ohio Wesleyan University,Past,4,3,3
+Guanghua University,Past,4,3,3
+Guanghua University,Current,4,4,4
+New School For Social Research,Past,4,2,4
+University of Notre Dame,Current,4,4,4
+University of Cincinnati,Current,4,3,4
+Washington University,Current,3,3,3
+Pomona College,Past,3,2,3
+Louisiana State University,Past,3,2,3
+McGill University,Past,3,2,3
+Unknown,Past,3,3,3
+Mary Hardin-Baylor College,Past,3,1,3
+Pomona College,Current,3,3,3
+Maryville College,Past,3,1,3
+Polytechnic Institute of Brooklyn,Past,3,2,3
+Shanghai Sanyu University,Past,3,1,2
+Boston University,Current,3,3,3
+Chengdu Sino-French University,Past,3,1,3
+Kansas State College,Past,3,2,3
+Johns Hopkins University,Current,3,3,3
+Northeast University,Current,3,2,3
+Daxia University,Current,3,3,3
+Duke University,Past,3,2,2
+University of Hawaii,Past,3,3,3
+Ecole des Hautes Etudes Industrielles et Commerciales,Past,3,1,3
+Emmanuel Missionary College,Past,3,1,2
+University of Colorado,Past,3,3,3
+Colorado School of Mines,Past,3,3,3
+College of St. Elisabeth,Current,3,3,2
+George Peabody College,Past,3,2,3
+Aachen Technical University,Past,3,1,3
+City College of New York,Past,3,1,3
+Glasgow University,Current,3,1,3
+American National University,Past,3,2,2
+Army Mechanization School,Current,3,3,1
+Catholic University of America,Current,3,3,3
+Tianjin Industrial and Commercial College,Past,3,2,2
+Carnegie Institute of Technology,Past,3,2,3
+Xiamen University,Current,3,2,3
+Tangshan Chiao Tung University,Past,3,1,3
+Hebei University,Past,3,1,3
+University of Texas,Past,3,1,3
+Antioch College,Past,3,1,3
+St. Louis College of Pharmacy,Past,3,1,3
+Army University,Past,3,1,2
+Park College,Current,2,2,2
+Witwatersrand College,Past,2,1,2
+Zhejiang Provincial Technical College,Past,2,1,2
+Peking Metropolitan University,Past,2,1,2
+Northwestern University,Current,2,2,2
+Wheaton College,Past,2,2,2
+University of Kansas,Past,2,1,2
+Polytechnic Institute of Brooklyn,Current,2,2,2
+Wheaton College,Current,2,2,2
+University of Hong Kong,Past,2,2,2
+University of Dubuque,Current,2,2,2
+University of Denver,Past,2,1,2
+University of Berlin,Current,2,2,2
+University de Nancy,Past,2,1,2
+Tulane University,Past,2,1,2
+Tianjin Industrial and Commercial College,Current,2,2,2
+Technical College of Hanover,Past,2,1,2
+Taliesin Fellowship,Past,2,1,2
+University of Richmond,Past,2,1,2
+Springfield College,Past,2,1,2
+Spartan College of Aeronautics and Technology,Past,2,1,2
+Southwest Associated University,Past,2,1,2
+Southern College,Current,2,1,2
+University of Houston,Past,2,1,2
+Simmons College,Past,2,1,2
+University of the Philippines,Current,2,2,2
+University of the Philippines,Past,2,2,2
+Shanghai Sanyu University,Current,2,1,1
+Rice Institute,Current,2,2,2
+Rensselaer Polytechnic Institute,Current,2,2,2
+Radcliffe College,Current,2,2,2
+Purdue University,Unknown,2,2,2
+West China Union University,Past,2,1,2
+Propaganda Fide,Past,2,1,2
+West China University,Current,2,2,2
+Princeton Seminary,Past,2,1,2
+University of Texas,Current,2,2,2
+École Libre des Sciences Politiques,Past,2,1,1
+Nihon University,Past,2,1,2
+China University,Current,2,2,2
+Atlantic Union College,Past,2,1,2
+Massachusetts Institute of Technology,Unknown,2,2,2
+Baldwin Wallace College,Past,2,1,2
+Madison College,Past,2,1,2
+Birmingham University,Past,2,1,2
+Brown University,Current,2,2,2
+Bryn Mawr College,Current,2,1,1
+Canisus College,Past,2,1,2
+Carleton College,Current,2,2,2
+Carnegie Institute of Technology,Current,2,2,2
+Indiana University,Past,2,2,2
+Indiana Technical College,Current,2,2,1
+Hwa Nan College,Current,2,2,2
+Asbury College,Past,2,2,2
+City College of New York,Current,2,2,2
+Clark University,Current,2,2,2
+Colorado School of Mines,Current,2,2,2
+Curtiss-Wright Technical Institute,Current,2,2,2
+Hebei Institute of Technology,Current,2,2,2
+Curtiss-Wright Technical Institute,Past,2,2,2
+Haverford College,Current,2,2,2
+Duquesne University,Past,2,1,2
+Emmanuel Missionary College,Current,2,1,1
+Gonzaga University,Past,2,1,1
+Ginling College,Current,2,2,2
+Georgetown University,Past,2,2,2
+Michigan State College,Current,2,1,1
+Linfield College,Current,2,2,2
+Georgetown University,Current,2,2,2
+Mount Mary College,Current,2,2,2
+Army Mechanization School,Past,2,2,1
+Nanking Higher Normal School,Current,2,1,2
+American National University,Current,2,2,2
+Moody Bible Institute,Past,2,1,1
+Art Institute of Chicago,Current,2,2,2
+Arkansas State College,Current,2,1,2
+Art Institute of Chicago,Past,2,2,2
+Niagara University,Past,2,1,2
+Naval school,Past,2,1,1
+Missouri School of Mines & Metals,Current,2,2,2
+Colorado College,Past,1,1,1
+University of Lyon,Unknown,1,1,1
+University of Maryland,Current,1,1,1
+American Conservatory of Music,Current,1,1,1
+Columbia University,Unknown,1,1,0
+China College University Department,Current,1,1,1
+University of Michigan,Unknown,1,1,1
+Colorado College,Current,1,1,1
+Arkansas State College,Past,1,1,1
+Arizona State Teachers' College,Current,1,1,1
+Clarence White School of Photography,Past,1,1,1
+Claremont College,Past,1,1,1
+University of Paris,Unknown,1,1,1
+University of Oklahoma,Current,1,1,1
+Chrysler Institute of Engineering,Current,1,1,1
+Chongqing University,Past,1,1,1
+University of London,Unknown,1,1,1
+University of Kentucky,Past,1,1,1
+Zhizhi College,Current,1,1,1
+Duquesne University,Current,1,1,1
+Field Artillery School,Current,1,1,1
+Zhongshan University,Unknown,1,1,1
+University of Costa Rica,Past,1,1,1
+Air Force Technical College,Past,1,1,1
+University of Detroit,Current,1,1,1
+University of Detroit,Past,1,1,1
+Embry–Riddle Aeronautical University (ERAU),Past,1,1,1
+University of Dubuque,Past,1,1,1
+Alfred University,Past,1,1,1
+Drew University,Past,1,1,1
+Dartmouth College,Past,1,1,1
+Drew University,Current,1,1,1
+Drake University,Past,1,1,1
+Dickinson College,Past,1,1,1
+Zhonghua University,Current,1,1,1
+Detroit Institute of Technology,Past,1,1,1
+Denison University,Current,1,1,1
+University of Iowa,Current,1,1,1
+De La Salle College,Current,1,1,1
+Zhejiang Provincial Technical College,Current,1,1,1
+"Children Hospital, Massachusetts",Past,1,1,1
+Wuhan University,Current,1,1,1
+University of Perugia,Current,1,1,1
+University of Perugia,Past,1,1,1
+Bennett College,Current,1,1,1
+Washington & Jefferson College,Current,1,1,1
+Washington Missionary College,Current,1,1,1
+Washington State College,Current,1,1,1
+Beijing University,Unknown,1,1,1
+Army University,Current,1,1,1
+Washington University,Past,1,1,1
+Wayne University,Current,1,1,1
+Wellesley College,Past,1,1,1
+Wentworth Institute,Current,1,1,1
+Wentworth Institute,Past,1,1,1
+West China Union University,Current,1,1,1
+Baylor University,Current,1,1,1
+Barnard College,Current,1,1,1
+Western Reserve University,Past,1,1,1
+Baldwin Wallace College,Current,1,1,1
+Aurora University,Past,1,1,1
+Williams Hospital,Past,1,1,1
+Wusong Merchant Shipping School,Current,1,1,1
+Women's Christian Medical College,Current,1,1,1
+Worcester Polytechnic Institute,Current,1,1,1
+Birmingham University,Current,1,1,1
+Army Signal Corps School,Past,1,1,1
+Boston University,Past,1,1,1
+Catholic University of America,Past,1,1,1
+Wuchang University,Current,1,1,1
+Chicago Aeronautical University,Past,1,1,1
+Chengdu Sino-French University,Current,1,1,1
+University of Richmond,Current,1,1,1
+Chemical Institute of Lyon,Unknown,1,1,1
+University of Rochester,Past,1,1,1
+University of San Francisco,Current,1,1,1
+Catholic University of America,Unknown,1,1,1
+University of Santo Tomas,Past,1,1,1
+Case School of Applied Science,Past,1,1,1
+Army Signal Corps School,Current,1,1,1
+University of Tennessee,Current,1,1,1
+Case School of Applied Science,Current,1,1,1
+Carroll College,Current,1,1,1
+University of Toronto,Current,1,1,1
+George Peabody College,Current,1,1,1
+Yenching University,Unknown,1,1,1
+University of Turin,Current,1,1,1
+University of Turin,Past,1,1,1
+Armstrong Junior College,Past,1,1,1
+Yungli Chemical Industries Limited,Current,1,1,1
+University of Berlin,Past,1,1,1
+University of Cincinnati,Past,1,1,1
+Louisiana State University,Current,1,1,1
+Propaganda Fide,Current,1,1,1
+Massachusetts College of Pharmacy,Past,1,1,1
+Pughy College,Current,1,1,1
+Massachusetts College of Pharmacy,Current,1,1,1
+Mary Hardin-Baylor College,Current,1,1,1
+Marquette University,Unknown,1,1,1
+Marquette University,Current,1,1,1
+Mapúa Institute of Technology,Past,1,1,1
+Mapúa Institute of Technology,Current,1,1,1
+Radcliffe College,Past,1,1,1
+Radio Corporation of America Institute,Current,1,1,1
+Manhattan College,Current,1,1,1
+Madison College,Current,1,1,1
+Rochester Institute of Technology,Past,1,1,1
+Rostock University,Current,1,1,1
+Loyola University,Current,1,1,1
+Royal Military College,Current,1,1,1
+Royal Military College,Past,1,1,1
+Royal Polytechnic University of Milan,Current,1,1,1
+Rutgers University,Current,1,1,1
+Rutgers University,Past,1,1,1
+San Francisco State College,Current,1,1,1
+Seton Hill College,Past,1,1,1
+Shandong University,Current,1,1,1
+Lowell Textile Institute,Past,1,1,1
+Master Institute of United Arts,Current,1,1,1
+Medical College of Virginia,Current,1,1,1
+Mercer University,Current,1,1,1
+Mount Holyoke College,Current,1,1,1
+New School For Social Research,Current,1,1,1
+Naval school,Current,1,1,1
+National College of Music,Past,1,1,1
+National College of Music,Current,1,1,1
+Oberlin College,Unknown,1,1,0
+Nankai School,Past,1,1,1
+Nankai School,Current,1,1,1
+Multnomah University,Current,1,1,1
+Mount Union College,Past,1,1,1
+Mount Union College,Current,1,1,1
+Pacific School of Religion,Current,1,1,1
+Park College,Past,1,1,1
+Michigan State College,Unknown,1,1,0
+Parks Air College,Current,1,1,1
+Peabody Conservatory of Music,Current,1,1,1
+Peiping College of Finance and Commerce,Current,1,1,1
+Peiping Minguo University,Past,1,1,1
+Peking Metropolitan University,Current,1,1,1
+Montana State College,Past,1,1,1
+Montana School of Mines,Current,1,1,1
+Missouri School of Mines & Metals,Past,1,1,1
+Millsaps College,Current,1,1,1
+Peter Bent Brigham Hospital,Past,1,1,1
+Middlesex University,Current,1,1,1
+Shanghai Medical College,Past,1,1,1
+Lehigh University,Current,1,1,1
+Georgia School of Technology,Current,1,1,1
+LaSalle College,Past,1,1,1
+Tangshan Chiao Tung University,Current,1,1,1
+Hebei University,Current,1,1,1
+Taxation College,Past,1,1,1
+Hebei Provincial Institute of Technology,Current,1,1,1
+Technical University Berlin,Current,1,1,1
+Texas Technical College,Past,1,1,1
+Heald’s Engineering College,Unknown,1,1,1
+Heald's College,Current,1,1,1
+Tientsin Institute of Commerce,Current,1,1,1
+Tientsin Institute of Commerce,Past,1,1,1
+Tokyo Imperial University,Current,1,1,1
+Tokyo Imperial University,Past,1,1,1
+Tokyo University of Commerce,Past,1,1,1
+Harbin Polytechnic Institute,Past,1,1,1
+Guangzhou University,Current,1,1,1
+Guangxi University,Current,1,1,1
+Tulane University,Current,1,1,1
+Guangdong College of Law,Past,1,1,1
+University de Liege,Current,1,1,1
+Guangdong College of Law,Current,1,1,1
+Goucher College,Past,1,1,1
+Nihon University,Current,1,1,1
+University of Bonn,Current,1,1,1
+University of Bonn,Past,1,1,1
+University of British Columbia,Current,1,1,1
+Henan University,Current,1,1,1
+Henan University,Past,1,1,1
+Hongkong University,Current,1,1,1
+Institute for Advanced Study,Past,1,1,1
+Shanghai Xinhua University of Art,Current,1,1,1
+Shanghai Xinhua University of Art,Past,1,1,1
+Jiaozuo Institute of Technology,Current,1,1,1
+Sino-French University,Current,1,1,1
+Sino-French University,Past,1,1,1
+Sino-French University,Unknown,1,1,1
+Sino-Russian Industrial University,Current,1,1,1
+Smith College,Current,1,1,1
+Smith College,Past,1,1,1
+Jiaotong University,Unknown,1,1,1
+International University,Past,1,1,1
+Southwestern University,Current,1,1,1
+Sweet Briar College,Current,1,1,1
+Indiana University,Current,1,1,1
+St. John's Hospital,Current,1,1,1
+Illinois Institute of Technology,Current,1,1,1
+Hwa Nan College,Past,1,1,1
+St. John's University,Unknown,1,1,1
+St. Paul's Girls' School,Current,1,1,1
+Hunan University,Past,1,1,1
+Hunan University,Current,1,1,1
+Huazhong University,Past,1,1,1
+Huazhong University,Current,1,1,1
+Stevens Institute of Technology,Current,1,1,1
+Aachen Technical University,Current,1,1,1

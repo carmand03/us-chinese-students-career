@@ -1,0 +1,79 @@
+﻿level,sector,appointments,students,employers
+mid-level,Academic / education,167,143,89
+junior,Academic / education,148,136,49
+senior,Academic / education,146,101,82
+mid-level,Government / public administration,139,122,62
+mid-level,Industry / manufacturing / extraction,117,104,87
+senior,Government / public administration,100,76,60
+mid-level,Military / defense,65,53,28
+Unknown,Industry / manufacturing / extraction,52,52,40
+mid-level,Finance / banking / insurance,49,46,8
+senior,Military / defense,42,28,18
+mid-level,Business / commerce,40,38,30
+mid-level,Professional services,39,33,26
+Unknown,Government / public administration,36,35,10
+junior,Military / defense,35,33,14
+student,Military / defense,28,28,1
+mid-level,Media / publishing / entertainment,28,24,23
+junior,Government / public administration,27,25,20
+mid-level,Transport / utilities / communications,25,21,21
+executive,Academic / education,23,22,21
+junior,Industry / manufacturing / extraction,22,21,21
+Unknown,Business / commerce,20,19,14
+junior,Research institutions,17,15,9
+senior,Media / publishing / entertainment,17,12,15
+senior,Transport / utilities / communications,16,13,14
+executive,Government / public administration,15,14,13
+Unknown,Military / defense,15,15,6
+junior,Non-state / nonprofit organization,13,13,4
+student,Government / public administration,13,11,12
+mid-level,Non-state / nonprofit organization,12,12,10
+Unknown,Transport / utilities / communications,12,12,10
+senior,Research institutions,12,12,8
+executive,Non-state / nonprofit organization,11,9,9
+mid-level,Healthcare / medical services,11,10,11
+senior,Non-state / nonprofit organization,10,9,9
+mid-level,Research institutions,10,9,8
+Unknown,Academic / education,10,8,9
+Unknown,Finance / banking / insurance,10,9,10
+student,Industry / manufacturing / extraction,9,8,4
+senior,Industry / manufacturing / extraction,9,8,9
+junior,Transport / utilities / communications,9,9,6
+senior,Business / commerce,9,7,8
+Unknown,Professional services,8,7,7
+mid-level,Libraries / cultural institutions,7,4,3
+senior,Finance / banking / insurance,6,6,5
+junior,Healthcare / medical services,5,4,5
+senior,Healthcare / medical services,5,5,5
+senior,Political / party organization,5,4,2
+Unknown,Unknown / not stated,5,5,0
+executive,Business / commerce,4,4,3
+junior,Professional services,4,4,4
+senior,Professional services,4,4,4
+senior,Religious / faith organization,3,2,2
+senior,Intergovernmental / international organization,3,3,3
+Unknown,Media / publishing / entertainment,3,3,3
+student,Business / commerce,3,3,3
+Unknown,Healthcare / medical services,3,3,3
+junior,Business / commerce,3,3,3
+Unknown,Non-state / nonprofit organization,2,2,2
+Unknown,Intergovernmental / international organization,2,2,2
+student,Healthcare / medical services,2,2,2
+junior,Unknown / not stated,2,2,0
+student,Transport / utilities / communications,2,2,2
+mid-level,Unknown / not stated,2,2,0
+executive,Finance / banking / insurance,2,2,2
+executive,Media / publishing / entertainment,2,2,2
+junior,Media / publishing / entertainment,2,2,2
+senior,Libraries / cultural institutions,1,1,1
+mid-level,Religious / faith organization,1,1,1
+executive,Healthcare / medical services,1,1,1
+mid-level,Political / party organization,1,1,1
+Unknown,Libraries / cultural institutions,1,1,1
+student,Academic / education,1,1,1
+executive,Military / defense,1,1,1
+student,Finance / banking / insurance,1,1,1
+executive,Political / party organization,1,1,1
+mid-level,Intergovernmental / international organization,1,1,1
+junior,Libraries / cultural institutions,1,1,1
+Unknown,Research institutions,1,1,1

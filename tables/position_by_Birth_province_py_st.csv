@@ -1,0 +1,763 @@
+﻿Birth_province_py_st,position,appointments,students,employers
+Guangdong,Unknown,69,68,55
+Jiangsu,Unknown,38,36,28
+Jiangsu,Engineer,36,28,23
+Jiangsu,Teaching Assistant,26,26,11
+Guangdong,Clerk / Office Administrator,24,24,3
+Guangdong,Engineer,22,21,20
+Guangdong,Professor,22,14,21
+Guangdong,Teaching Assistant,18,17,9
+Hebei,Unknown,17,13,14
+Jiangsu,Director / Head / Chief,17,13,15
+Fujian,Teaching Assistant,17,17,9
+Zhejiang,Unknown,16,16,13
+Guangdong,Teacher / Instructor,15,13,13
+Jiangsu,Professor,15,11,12
+Guangdong,Director / Head / Chief,14,12,13
+Guangdong,Draftsman,13,10,13
+Zhejiang,Engineer,13,11,9
+Hebei,Engineer,13,11,10
+Fujian,Unknown,11,10,8
+Zhejiang,Director / Head / Chief,10,8,10
+Zhejiang,Clerk / Office Administrator,10,8,4
+Hebei,Teaching Assistant,10,8,8
+Zhejiang,Assistant,9,9,9
+Guangdong,Secretary,9,9,8
+Hebei,Assistant,9,8,9
+Guangdong,Assistant,9,9,7
+Hebei,Lecturer,8,7,8
+Guangdong,Instructor,8,8,7
+Guangdong,Junior Engineer,8,8,6
+Jiangsu,Trainee,8,8,3
+Jiangsu,Technician,8,8,6
+Jiangsu,Section Chief,8,5,6
+Unknown,Unknown,7,6,6
+Fujian,Engineer,7,5,7
+Zhejiang,Teacher / Instructor,7,6,6
+Jiangsu,Teacher / Instructor,7,6,6
+Jiangsu,Lecturer,7,7,7
+Fujian,Assistant,7,5,5
+Zhejiang,Professor,7,5,7
+Jiangsu,Instructor,7,7,6
+Jiangsu,Clerk / Office Administrator,6,6,5
+Jiangsu,Assistant Engineer,6,5,5
+Jiangsu,Factory Manager / Plant Director,6,5,5
+Guangdong,Editor,6,6,6
+Guangdong,principal / chancellor / Headmaster / School President,6,6,6
+Jiangsu,Research Fellow / Researcher,6,6,6
+Zhejiang,Secretary,6,4,5
+Hubei,Teacher / Instructor,5,4,5
+Zhejiang,Trainee,5,5,1
+Hebei,Teacher / Instructor,5,4,4
+Hunan,Engineer,5,4,5
+Guangdong,Director of Academic Affairs,5,4,5
+Guangdong,chief editor,5,3,5
+Shandong,Unknown,5,5,5
+Guangdong,Chemical Engineer,5,5,5
+Jiangsu,Assistant,5,5,5
+Liaoning,Engineer,5,5,4
+Guangdong,Chemist,5,3,5
+Hubei,Professor,5,3,5
+Fujian,Lecturer,5,4,5
+Jiangsu,Committee Member / Commissioner,5,4,3
+Jiangsu,Consular Trainee,5,4,5
+Jiangsu,Research Assistant,5,5,3
+Zhejiang,Associate Engineer / Deputy Engineer,5,5,4
+Zhejiang,Research Fellow,5,5,5
+Jiangsu,Staff Member,5,5,2
+Guangdong,Lecturer,5,5,5
+Jiangsu,Student Engineer,5,5,3
+Shandong,Teacher / Instructor,4,3,4
+Jiangsu,Research Fellow,4,4,4
+Guangdong,Structural Engineer,4,4,3
+Jiangsu,Secretary,4,4,4
+Hebei,Instructor,4,4,2
+Sichuan,Teaching Assistant,4,4,3
+Zhejiang,Technician,4,3,4
+Zhejiang,Technical Officer / Technician,4,4,3
+Henan,Unknown,4,4,4
+Guangdong,bureau chief / bureau director,4,4,4
+Hunan,Secretary,4,3,4
+Unknown,Director / Head / Chief,4,3,3
+Zhejiang,Teaching Assistant,4,4,4
+Zhejiang,Administrator / Officer-in-Charge,4,3,4
+Hunan,Unknown,4,2,4
+Fujian,Professor,4,3,4
+Hebei,Clerk / Office Administrator,4,4,1
+Guangdong,Translator,4,4,3
+Unknown,Teaching Assistant,4,4,4
+Unknown,Teacher / Instructor,4,3,4
+Zhejiang,Assistant Engineer,3,3,3
+Guangdong,Research Fellow,3,3,3
+Guangdong,Designer,3,2,3
+Unknown,Professor,3,3,3
+Zhejiang,Assistant / Junior Assistant,3,3,3
+Guangdong,Vice Consul,3,2,3
+Jiangsu,Research Chemist,3,2,3
+Sichuan,Lecturer,3,2,3
+Hunan,Teaching Assistant,3,3,2
+Hunan,Teacher / Instructor,3,3,3
+Guangdong,Fellow,3,3,3
+Jiangsu,Research Associate,3,3,3
+Guangdong,Trainee,3,3,3
+Sichuan,Teacher / Instructor,3,3,3
+Hunan,Professor,3,2,3
+Guangdong,Manager,3,3,3
+Hunan,Technical Officer / Technician,3,3,3
+Guangdong,Attache / Aide,3,3,3
+Jiangsu,Manager,3,2,3
+Hebei,Professor,3,3,3
+Zhejiang,Instructor,3,3,3
+Jiangxi,Department Chief,3,1,3
+Hebei,Director / Head / Chief,3,3,3
+Zhejiang,Auditor,3,2,3
+Zhejiang,Research Assistant,3,3,3
+Fujian,Director / Head / Chief,3,3,3
+Zhejiang,Research Associate,3,3,3
+Fujian,Chemical Engineer,3,1,3
+Zhejiang,Section Chief,3,3,3
+Jiangxi,Teaching Assistant,3,3,3
+Fujian,Trainee,3,3,3
+Liaoning,Trainee,3,3,1
+Jiangxi,Translator/Editor,3,2,3
+Anhui,Unknown,3,2,3
+Anhui,Trainee,3,3,2
+Hebei,Staff Member,3,1,2
+Jiangsu,Department Chief,3,3,3
+Jiangsu,Editor,3,3,2
+Zhejiang,committee member,3,2,3
+Hebei,Trainee,3,3,1
+Fujian,Teacher / Instructor,3,2,3
+Henan,Teaching Assistant,3,3,3
+Hubei,Assistant,3,3,3
+Jiangsu,Associate Engineer / Deputy Engineer,3,3,2
+Jiangsu,Vice Consul,3,2,3
+Jiangsu,Visiting Engineer,3,1,3
+Guangdong,Assistant Engineer,3,3,3
+Jiangsu,Junior Technician / Assistant Technical Officer,3,2,2
+Guangdong,Architectural Designer,3,2,3
+Shandong,Teaching Assistant,3,2,3
+Guangdong,Consul,3,3,3
+Zhejiang,Chemical Engineer,3,3,2
+Guangxi,Colonel (Secretary),3,2,3
+Guangdong,Research Assistant,3,3,3
+Hubei,Lecturer,2,2,2
+Sichuan,Vice Consul,2,1,2
+Hebei,Station chief,2,1,2
+Hebei,specialist / commissioner,2,2,2
+Sichuan,specialist / commissioner,2,1,2
+Jiangxi,Unknown,2,2,2
+Sichuan,Unknown,2,2,2
+Hubei,Instructor,2,2,2
+Guangdong,Research Fellow / Researcher,2,2,2
+Jiangsu,Technical Assistant,2,2,2
+Shandong,Technician,2,2,2
+Henan,Associate Engineer / Deputy Engineer,2,2,2
+Guangdong,Section Chief,2,2,2
+Guangdong,Staff Member,2,2,2
+Jiangsu,Skilled Worker / Technician,2,2,2
+Hebei,Executive Officer / Executive Secretary,2,1,1
+Shandong,Director / Head / Chief,2,2,2
+Jiangsu,specialist / commissioner,2,2,2
+Hubei,Clerk / Office Administrator,2,2,2
+Jiangsu,"chief / director (of an Institute, Station, or Office)",2,1,2
+Guangdong,Technical Officer / Technician,2,2,2
+Jiangxi,Draftsman,2,1,2
+Henan,Technical Officer / Technician,2,2,2
+Jiangsu,bureau chief / bureau director,2,1,2
+Hunan,Assistant,2,2,2
+Jiangxi,Executive Officer / Executive Secretary,2,1,2
+Shandong,Research Fellow / Researcher,2,1,2
+Sichuan,Editor,2,1,2
+Hebei,Inspector,2,2,2
+Jiangxi,Secretary,2,2,2
+Hebei,Research Fellow / Researcher,2,2,2
+Shandong,Librarian,2,1,2
+Guangdong,Research Associate,2,2,2
+Jiangsu,Director of Academic Affairs,2,1,2
+Hunan,Counselor / Advisor,2,1,2
+Jiangsu,Analyst,2,1,1
+Jiangsu,Chief Engineer,2,2,2
+Fujian,provost / Dean of Academic Affairs,2,2,2
+Guangdong,Accountant,2,2,2
+Jiangsu,Head,2,1,1
+Zhejiang,Director of Academic Affairs,2,2,2
+Guangdong,Registered Broker,2,1,2
+Jiangsu,Intern,2,2,2
+Zhejiang,Consular Trainee,2,1,1
+Zhejiang,Junior Engineer,2,2,2
+Jiangsu,Junior Engineer,2,2,2
+Zhejiang,Committee Member / Commissioner,2,2,2
+Guangdong,Chief Engineer / Senior Technical Officer,2,2,2
+Zhejiang,Chief Mate / Chief Officer (Maritime),2,1,1
+Jiangsu,Accountant,2,2,2
+Guangdong,Counselor / Advisor,2,2,2
+Guangdong,Dean,2,2,2
+Jiangsu,Chief Engineer / Senior Technical Officer,2,2,2
+Fujian,Research Associate,2,2,2
+Hunan,"chief / director (of an Institute, Station, or Office)",2,2,2
+Zhejiang,Teacher,2,2,2
+Zhejiang,principal / chancellor / Headmaster / School President,2,2,2
+Anhui,Chemist,2,1,2
+Zhejiang,bureau chief / bureau director,2,2,2
+Zhejiang,Vice Consul,2,1,2
+Jiangsu,Designer,2,2,2
+Anhui,Teacher / Instructor,2,2,2
+Anhui,Teaching Assistant,2,2,2
+Jiangsu,Dean,2,1,2
+Fujian,Instructor,2,2,2
+Fujian,Associate Professor,2,2,1
+Zhejiang,Student Engineer,2,1,2
+Jiangsu,Employee,2,1,2
+Zhejiang,Staff Member / Section Staff,2,2,1
+Jiangsu,Consultant,2,2,2
+Zhejiang,Research Fellow / Researcher,2,2,2
+Fujian,Editor,2,2,2
+Jiangsu,Member,2,2,2
+Liaoning,Director / Head / Chief,2,2,2
+Jiangsu,Military Instructor / Drillmaster,2,2,1
+Hunan,Research Fellow,2,1,1
+Hunan,Dean,2,2,2
+Jiangsu,Researcher,2,2,2
+Guangdong,Production Engineer,2,2,2
+Unknown,Consul,2,2,2
+Unknown,Engineer,2,1,2
+Guangdong,Member,2,2,2
+Unknown,Instructor,2,2,2
+Hunan,Manager,2,2,2
+Jiangsu,Public Works Staff,2,2,2
+Guangdong,Machinist,2,2,2
+Guangdong,Junior Technician / Assistant Technical Officer,2,2,2
+Guangdong,Draftsman & Designer,2,1,2
+Guangdong,Junior Accountant,2,2,1
+Guangdong,Judge,2,2,2
+Unknown,Secretary,2,2,2
+Hunan,Section Chief,2,2,2
+Guangdong,Employee,2,2,2
+Hunan,Trainee,2,2,1
+Jiangxi,Staff Officer (Military),1,1,1
+Jiangsu,Representative to the USA,1,1,1
+Jiangsu,Service Engineer,1,1,1
+Jiangxi,Teacher / Instructor,1,1,1
+Jiangxi,Teacher,1,1,1
+Jiangsu,Liaison Officer,1,1,1
+Jiangsu,Subsection Chief / Unit Head,1,1,1
+Jiangsu,Trainee / Intern,1,1,1
+Jiangxi,Staff Nurse,1,1,1
+Jiangsu,Engineer / Senior Technician,1,1,1
+Jiangxi,Senior Surgeon,1,1,1
+Jiangsu,Engineer's Aid,1,1,1
+Jiangsu,Oil Refining Engineer,1,1,1
+Jiangxi,Trainee,1,1,1
+Jiangsu,Senior Technical Specialist / Deputy Factory Manager,1,1,1
+Jiangxi,Resident Physician,1,1,1
+Jiangsu,Research Engineer,1,1,1
+Jiangsu,Lieutenant Colonel (Technical Specialist),1,1,1
+Jiangsu,Electrical Engineer,1,1,1
+Jiangsu,Telecommunications Section Chief,1,1,1
+Jilin,Assistant,1,1,1
+Jilin,Trainee,1,1,1
+Liaoning,Assistant Engineer,1,1,1
+Jiangsu,Research Investigator,1,1,1
+Liaoning,Chief Engineer / Senior Technical Officer,1,1,1
+Jiangsu,Technical Officer / Technician,1,1,1
+Liaoning,Dean,1,1,1
+Jiangsu,Musician,1,1,1
+Jiangsu,Public Servant / Civil Servant,1,1,1
+Jiangxi,Research Associate,1,1,1
+Jiangsu,Power Station Engineer,1,1,1
+Jiangsu,First Secretary,1,1,1
+Jiangsu,Inspector,1,1,1
+Jiangsu,Transmission Engineer,1,1,1
+Jiangsu,Structural Engineer,1,1,1
+Jiangsu,Informant,1,1,1
+Jiangsu,High-ranking Editor,1,1,1
+Jiangsu,Head Nurse / Chief Nurse,1,1,1
+Jiangsu,committee member,1,1,1
+Jiangsu,principal / chancellor / Headmaster / School President,1,1,1
+Jiangsu,Physics and Chemistry Instructor,1,1,1
+Jiangsu,Stress Analyst,1,1,1
+Jiangxi,Accountant,1,1,1
+Jiangsu,General Manager,1,1,1
+Jiangxi,Advisory Officer / Consultant,1,1,1
+Jiangxi,Assistant Reader,1,1,1
+Jiangxi,Lecturer,1,1,1
+Jiangsu,Staff Officer (Military),1,1,1
+Jiangxi,Associate Professor,1,1,1
+Jiangsu,Process Designing Engineer,1,1,1
+Jiangxi,Chemical Analyst,1,1,1
+Jiangxi,Chemical Researcher,1,1,1
+Jiangsu,Organizer & Director,1,1,1
+Jiangsu,Fellow,1,1,1
+Jiangsu,Staff Member / Section Staff,1,1,1
+Jiangsu,Engineering Department,1,1,1
+Jiangsu,Engineering Consultant,1,1,0
+Jiangsu,Translator/Editor,1,1,1
+Jiangsu,Engineering Assistant / Engineer,1,1,1
+Jiangsu,Supply Committee Unit Chief,1,1,1
+Jiangsu,Water Supply Engineer,1,1,1
+Anhui,Assistant / Junior Assistant,1,1,1
+Liaoning,Director of Academic Affairs,1,1,1
+Yunnan,Executive Secretary,1,1,1
+Yunnan,Teacher / Instructor,1,1,1
+Yunnan,Trainee,1,1,1
+Zhejiang,Accounting Clerk,1,1,1
+Zhejiang,Administrative Secretary,1,1,1
+Zhejiang,Advisor / Consultant,1,1,1
+Zhejiang,Analyst / Inspector / Examiner,1,1,1
+Zhejiang,Assistant Director,1,1,1
+Zhejiang,Assistant Instructor,1,1,1
+Zhejiang,Assistant Office Engineer,1,1,1
+Zhejiang,Assistant Research Fellow,1,1,1
+Zhejiang,Assistant Resident Physician,1,1,1
+Zhejiang,Associate Research Fellow,1,1,1
+Zhejiang,Biology Instructor,1,1,1
+Zhejiang,Chairman of the Board / Executive Director,1,1,1
+Zhejiang,Chief Engineer / Senior Technical Officer,1,1,1
+Yunnan,Research Associate,1,1,1
+Yunnan,Committee Member / Commissioner,1,1,1
+Liaoning,Dispatcher / Coordinator,1,1,1
+Unknown,Vice Consul,1,1,1
+Unknown,Clerk / Office Administrator,1,1,1
+Unknown,Committee Member / Commissioner,1,1,1
+Unknown,Designer & Structural Engineer,1,1,1
+Unknown,Factory Manager / Plant Director,1,1,1
+Unknown,Field Representative,1,1,1
+Unknown,General Manager,1,1,1
+Unknown,Geologist,1,1,1
+Unknown,Inspector,1,1,1
+Unknown,Lecturer,1,1,1
+Unknown,Military Attaché / Military Officer,1,1,1
+Unknown,Physician,1,1,1
+Unknown,Researcher,1,1,1
+Unknown,Section Chief,1,1,1
+Unknown,Special Advisor,1,1,1
+Unknown,Trainee,1,1,1
+Zhejiang,Chief Engineering Officer / Engineering Director,1,1,1
+Zhejiang,Chief of Preparatory Office / Head Organizer,1,1,1
+Zhejiang,Consul,1,1,1
+Zhejiang,Council Member / Advisory Board Member,1,1,1
+Zhejiang,Political Councilor / Assembly Member,1,1,1
+Zhejiang,Public Works Staff,1,1,1
+Zhejiang,Purchasing Agent,1,1,1
+Zhejiang,Representative / Delegate,1,1,1
+Zhejiang,Researcher,1,1,1
+Zhejiang,Secretary-General,1,1,1
+Zhejiang,Special Economic Expert,1,1,1
+Zhejiang,Staff Officer (Military),1,1,1
+Zhejiang,Structural Engineer,1,1,1
+Zhejiang,Surveyor,1,1,1
+Zhejiang,Teaching Fellow,1,1,1
+Zhejiang,Television Engineer,1,1,1
+Zhejiang,Third Officer (Maritime),1,1,1
+Zhejiang,board member,1,1,1
+Zhejiang,provost / Dean of Academic Affairs,1,1,1
+Zhejiang,Physician,1,1,1
+Zhejiang,Managing Board Member / Executive Associate Director,1,1,1
+Zhejiang,Lecturer,1,1,1
+Zhejiang,Distinguished Professor,1,1,1
+Zhejiang,Counselor / Advisor,1,1,1
+Zhejiang,Department Director / Bureau Head,1,1,1
+Zhejiang,Deputy Department Director / Vice Department Head,1,1,1
+Zhejiang,Designer,1,1,1
+Zhejiang,Director,1,1,1
+Zhejiang,Director of Physical Education,1,1,1
+Zhejiang,Engineer / Senior Technician,1,1,1
+Zhejiang,Junior Technician / Assistant Technical Officer,1,1,1
+Zhejiang,Engineering Assistant / Engineer,1,1,1
+Zhejiang,Factory Manager / Plant Director,1,1,1
+Zhejiang,General Manager,1,1,1
+Zhejiang,Graduate Assistant,1,1,1
+Zhejiang,Inspector,1,1,1
+Zhejiang,Junior Agronomist,1,1,1
+Unknown,Clerk,1,1,1
+Unknown,Attache / Aide,1,1,1
+Unknown,Assistant Instructor,1,1,1
+Shandong,President,1,1,1
+Shandong,Acting Chief of Structure,1,1,1
+Shandong,Analyst,1,1,1
+Shandong,Assistant,1,1,1
+Shandong,Assistant Engineer,1,1,0
+Shandong,Assistant Research Fellow,1,1,1
+Shandong,Associate Editor,1,1,1
+Shandong,Chemist,1,1,1
+Shandong,Clerk / Office Administrator,1,1,1
+Shandong,Consul,1,1,1
+Shandong,Designing Head,1,1,1
+Shandong,Electrical Technical Specialist,1,1,1
+Shandong,Factory Manager / Plant Director,1,1,1
+Shandong,Fellow,1,1,1
+Shandong,Lecturer,1,1,1
+Shandong,Medical Entomologist,1,1,1
+Shaanxi,principal / chancellor / Headmaster / School President,1,1,1
+Shaanxi,Unknown,1,1,1
+Shaanxi,Teaching Assistant,1,1,1
+Liaoning,Staff Member,1,1,1
+Liaoning,Instructor,1,1,1
+Liaoning,Lecturer,1,1,1
+Liaoning,Planning Engineer,1,1,1
+Liaoning,Public Servant / Civil Servant,1,1,1
+Liaoning,Public Works Staff,1,1,1
+Liaoning,Scheduler,1,1,1
+Liaoning,Subsection Chief / Unit Head,1,1,1
+Shaanxi,Surveying Engineer,1,1,1
+Liaoning,Technical Officer / Technician,1,1,1
+Liaoning,Unknown,1,1,1
+Liaoning,committee member / association member / club member,1,1,1
+Shaanxi,Assistant,1,1,1
+Shaanxi,Engineer,1,1,1
+Shaanxi,School Inspector / Supervisor,1,1,1
+Shandong,Plant Pathology Inspector,1,1,1
+Shandong,Professor,1,1,1
+Unknown,Architectural Engineer,1,1,1
+Shandong,Research Assistant,1,1,1
+Sichuan,Associate Professor,1,1,1
+Sichuan,Chemical Engineer,1,1,1
+Sichuan,Clerk / Office Administrator,1,1,1
+Sichuan,Counselor / Advisor,1,1,1
+Sichuan,Dean,1,1,1
+Sichuan,Deputy Factory Manager / Vice Works Director,1,1,1
+Sichuan,Director of Academic Affairs,1,1,1
+Sichuan,Engineer,1,1,1
+Sichuan,Inspector,1,1,1
+Sichuan,Research Electrochemical Engineer,1,1,1
+Sichuan,Section Chief,1,1,1
+Sichuan,Staff Member / Section Staff,1,1,1
+Sichuan,Trainee,1,1,1
+Sichuan,principal / chancellor / Headmaster / School President,1,1,1
+Unknown,Advisor / Consultant,1,1,1
+Sichuan,Assistant Research Fellow,1,1,1
+Sichuan,Assistant,1,1,1
+Shanxi,Teaching Assistant,1,1,1
+Shandong,Trainee,1,1,1
+Shandong,Research Fellow,1,1,1
+Shandong,Research Mentor,1,1,1
+Shandong,Researcher,1,1,1
+Shandong,Senior Aerodynamist,1,1,1
+Shandong,Staff Member / Section Staff,1,1,1
+Shandong,Stress Engineer & Aerodynamist,1,1,1
+Shanxi,Chemist,1,1,1
+Shanxi,Teacher / Instructor,1,1,1
+Shanxi,Editor,1,1,1
+Jiangsu,Draftsman,1,1,1
+Shanxi,Electrical Machine Design Engineer,1,1,1
+Shanxi,Engineer,1,1,1
+Shanxi,Secretary,1,1,1
+Shanxi,Stress Analyst,1,1,1
+Shanxi,Electrical Engineer,1,1,1
+Hunan,Lecturer,1,1,1
+Jiangsu,Director,1,1,1
+Guangdong,Metallurgist,1,1,1
+Guangdong,Liaison Staff Officer,1,1,1
+Guangdong,Machine-Operator,1,1,1
+Guangdong,Managing Editor,1,1,1
+Guangdong,Marine Electrician,1,1,1
+Guangdong,Marine Inspector,1,1,1
+Guangdong,Mechanical Engineer,1,1,1
+Guangdong,Mechanical Maintenance Officer / Engineer,1,1,1
+Guangdong,Military Instructor / Drillmaster,1,1,1
+Guangdong,Junior Draftsman,1,1,1
+Guangdong,Minister Plenipotentiary / Envoy,1,1,1
+Guangdong,Navigation Officer,1,1,1
+Guangdong,Observer,1,1,1
+Guangdong,Operator & Service Manager,1,1,1
+Guangdong,Ore-dresser,1,1,1
+Guangdong,Personel Officer,1,1,1
+Guangdong,Postal Clerk,1,1,1
+Guangdong,Junior High School Director,1,1,1
+Guangdong,Junior Chemical Engineer,1,1,1
+Guangdong,Director of Publicity,1,1,1
+Guangdong,Executive Officer / Executive Secretary,1,1,1
+Guangdong,Editor/Reviewer,1,1,1
+Guangdong,Electrical Draftsman,1,1,1
+Guangdong,Electrical Engineer,1,1,1
+Guangdong,Engineer / Senior Technician,1,1,1
+Guangdong,Engineer Deputy,1,1,1
+Guangdong,Executive Associate,1,1,1
+Guangdong,Executive Officer / Deputy Commander (Warship),1,1,1
+Guangdong,Extension Assistant,1,1,1
+Guangdong,Intern,1,1,1
+Guangdong,First Secretary,1,1,1
+Guangdong,Graduate Assistant,1,1,1
+Guangdong,Head of Recruitment/Admissions,1,1,1
+Guangdong,Highway Engineer,1,1,1
+Guangdong,Honorary Advisor,1,1,1
+Guangdong,House Officer,1,1,1
+Guangdong,Inspector,1,1,1
+Guangdong,Power Plant Installation Engineer,1,1,1
+Guangdong,President,1,1,1
+Guangdong,Professor of Education,1,1,1
+Guangdong,specialist / commissioner,1,1,1
+Guangdong,Tester,1,1,1
+Guangdong,Testing Engineer,1,1,1
+Guangdong,Toolmaker,1,1,1
+Guangdong,Translator/Editor,1,1,1
+Guangdong,editor,1,1,1
+Guangdong,executive committee member,1,1,1
+Guangdong,journalist,1,1,1
+Guangdong,vice chairman / vice president,1,1,1
+Guangdong,Public Prosecutor,1,1,1
+Guangxi,Aide-de-Camp to the Deputy Chief of General Staff,1,1,1
+Guangxi,Associate Engineer / Deputy Engineer,1,1,1
+Guangxi,Chief Engineer / Senior Technical Officer,1,1,1
+Guangxi,Colonel (Director of Political Department),1,1,1
+Guangxi,Director / Head / Chief,1,1,1
+Guangxi,Factory Manager / Plant Director,1,1,1
+Guangxi,Inspector / Visiting Observer,1,1,1
+Guangdong,Technical Assistant,1,1,1
+Guangdong,Supervisor,1,1,1
+Guangdong,Structural Steel Designer,1,1,1
+Guangdong,Structural Designer,1,1,1
+Guangdong,Representative Abroad,1,1,1
+Guangdong,Research Chemist,1,1,1
+Guangdong,Research Physicist,1,1,1
+Guangdong,Research Teaching Assistant,1,1,1
+Guangdong,Researcher,1,1,1
+Guangdong,Resident Physician,1,1,1
+Guangdong,Secretary & Treasurer,1,1,1
+Guangdong,Senior Psychiatric Social Worker,1,1,1
+Guangdong,Senior Translator,1,1,1
+Guangdong,Special Correspondent,1,1,1
+Guangdong,Special Lecturer,1,1,1
+Guangdong,Specialist and Section Chief,1,1,1
+Guangdong,Staff Member / Section Staff,1,1,1
+Guangdong,Steam Turbine Engineer,1,1,1
+Guangdong,Stress Analyst,1,1,1
+Guangdong,Draftsman & Machinist,1,1,1
+Guangdong,Director of Editorial Office,1,1,1
+Guangxi,Political Instructor,1,1,1
+Fujian,Construction Engineer,1,1,1
+Fujian,Biology Instructor,1,1,1
+Fujian,Bishop,1,1,1
+Fujian,Case worker,1,1,1
+Fujian,Chemist,1,1,1
+Fujian,Chief Engineer / Senior Technical Officer,1,1,1
+Fujian,Clerk / Office Administrator,1,1,1
+Fujian,Clerk / Office Worker,1,1,1
+Fujian,Dean,1,1,1
+Fujian,Bank Employee / Staff Member,1,1,1
+Fujian,Editorial Advisor,1,1,1
+Fujian,Engineer / Senior Technician,1,1,1
+Fujian,English Instructor,1,1,1
+Fujian,Executive Officer / Executive Secretary,1,1,1
+Fujian,Head,1,1,1
+Fujian,Junior Accountant,1,1,1
+Fujian,Plant Engineer,1,1,1
+Fujian,Biochemist,1,1,1
+Fujian,Auditor / Reviewer,1,1,1
+Guangdong,Detailer,1,1,1
+Anhui,Instructor / Advisor / Counselor,1,1,1
+Anhui,Assistant Research Fellow,1,1,1
+Anhui,Chemical Engineer,1,1,1
+Anhui,Clerk / Office Administrator,1,1,1
+Anhui,Director / Head / Chief,1,1,1
+Anhui,Engineer,1,1,1
+Anhui,Engineer / Senior Technician,1,1,1
+Anhui,Full-time Lecturer,1,1,1
+Anhui,Manager,1,1,1
+Fujian,Acting Principal / Acting President (School),1,1,1
+Anhui,Professor,1,1,1
+Anhui,Research Associate,1,1,1
+Anhui,Research Fellow,1,1,1
+Anhui,Resident Otologist,1,1,1
+Anhui,Technical Officer / Technician,1,1,1
+Anhui,bureau chief / bureau director,1,1,1
+Anhui,deputy manager / Assistant Manager,1,1,1
+Fujian,Public Works Staff,1,1,1
+Fujian,Research Director,1,1,1
+Fujian,Research Fellow,1,1,1
+Guangdong,Consular Trainee,1,1,1
+Guangdong,Associate Professor,1,1,1
+Guangdong,Associate Research Fellow,1,1,1
+Guangdong,Auditor,1,1,1
+Guangdong,Clerk / Secretary,1,1,1
+Guangdong,Committee Member / Commissioner,1,1,1
+Guangdong,Committee member and director,1,1,1
+Guangdong,Consul General,1,1,1
+Guangdong,Consultant,1,1,1
+Fujian,Research Fellow / Researcher,1,1,1
+Guangdong,Consulting Chemist,1,1,1
+Guangdong,Control Engineer,1,1,1
+Guangdong,Corporal,1,1,1
+Guangdong,Correspondent / Reporter,1,1,1
+Guangdong,Department Head,1,1,1
+Guangdong,Deputy Secretary / Assistant Clerk,1,1,1
+Guangdong,Design Engineer,1,1,1
+Guangdong,Associate Editor / Deputy Editor,1,1,1
+Guangdong,Associate Editor,1,1,1
+Guangdong,Assistant to the Director,1,1,1
+Guangdong,Assistant Resident Surgeon,1,1,1
+Fujian,Research Investigator,1,1,1
+Fujian,Section Chief,1,1,1
+Fujian,Staff Member,1,1,1
+Fujian,Translator/Editor,1,1,1
+Fujian,acting office chief / acting director,1,1,1
+Guangdong,Administrator / Officer-in-Charge,1,1,1
+Guangdong,Advisor / Consultant,1,1,1
+Guangdong,Aide / Secretary,1,1,1
+Guangdong,Animal care-taker,1,1,1
+Guangdong,Apprentice,1,1,1
+Guangdong,Architect,1,1,1
+Guangdong,Archivist,1,1,1
+Guangdong,Assistant Food Chemist,1,1,1
+Guangdong,Assistant Instructor,1,1,1
+Guangdong,Assistant Naval Architect,1,1,1
+Guangxi,Military Instructor / Drillmaster,1,1,1
+Guangxi,Professor,1,1,1
+Jiangsu,Department Director / Bureau Head,1,1,1
+Hunan,Assistant Professor,1,1,1
+Hubei,Technician,1,1,1
+Hubei,Unknown,1,1,1
+Hubei,manager-assistant,1,1,1
+Hubei,specialist / commissioner,1,1,1
+Hunan,Acting Supervisor,1,1,1
+Hunan,Advisor / Consultant,1,1,1
+Hunan,Assistant Compiler,1,1,1
+Hunan,Chief Engineer / Senior Technical Officer,1,1,1
+Hubei,Teacher,1,1,1
+Hunan,Clerk / Office Administrator,1,1,1
+Hunan,Committee Member / Commissioner,1,1,1
+Hunan,Department Chief,1,1,1
+Hunan,Deputy Department Director / Vice Department Head,1,1,1
+Hunan,Director / Head / Chief,1,1,1
+Hunan,Editor,1,1,1
+Hunan,Factory Manager / Plant Director,1,1,1
+Hubei,Teaching Assistant,1,1,1
+Hubei,Staff Member,1,1,1
+Hubei,Assistant Technical Attaché / Junior Technical Assistant,1,1,1
+Hubei,Director of Instruction / Head of Discipline,1,1,1
+Hubei,Chief Resident Physician,1,1,1
+Hubei,Chief of Staff,1,1,1
+Hubei,Committee Member / Commissioner,1,1,1
+Hubei,Consulate Staff,1,1,1
+Hubei,Dean,1,1,1
+Hubei,Deputy Division Commander,1,1,1
+Hubei,Design Specialist,1,1,1
+Hubei,Editor,1,1,1
+Hubei,Research Fellow / Researcher,1,1,1
+Hubei,Fellow,1,1,1
+Hubei,Major General (Director of Operations Division),1,1,1
+Hubei,"Member (of a Delegation, Troupe, or Corps)",1,1,1
+Hubei,Military Instructor / Drillmaster,1,1,1
+Hubei,Physician,1,1,1
+Hubei,Preparatory Staff,1,1,1
+Hubei,Research Assistant,1,1,1
+Hunan,Faculty / Academician,1,1,1
+Hunan,General Manager,1,1,1
+Hunan,Investigator,1,1,1
+Jiangsu,Chief of Public Works,1,1,1
+Jiangsu,Assistant Research Fellow,1,1,1
+Jiangsu,Associate Professor,1,1,1
+Jiangsu,Associate Research Fellow,1,1,1
+Jiangsu,Attache / Aide,1,1,1
+Jiangsu,Bank Employee / Staff Member,1,1,1
+Jiangsu,Bridge Designer,1,1,1
+Jiangsu,Chemical Engineer,1,1,1
+Jiangsu,Clerk of Proceedings / Council Secretary,1,1,1
+Anhui,Assistant Engineer,1,1,1
+Jiangsu,Commandant of Education / Academic Dean,1,1,1
+Jiangsu,Committee Chairman / Director-in-Charge,1,1,1
+Jiangsu,Consul,1,1,1
+Jiangsu,Consulting Engineer,1,1,1
+Jiangsu,Counselor / Advisor,1,1,1
+Jiangsu,Craftsman,1,1,1
+Jiangsu,Customer Service Section Chief,1,1,1
+Jiangsu,Architect,1,1,1
+Jiangsu,Anesthetist,1,1,1
+Jiangsu,Aircraft Process Engineer,1,1,1
+Jiangsu,Advisor / Consultant,1,1,1
+Hunan,Medical Doctor / Physician,1,1,1
+Hunan,Military Instructor / Drillmaster,1,1,1
+Hunan,Political Councilor / Assembly Member,1,1,1
+Hunan,Research Assistant,1,1,1
+Hunan,Research Fellow / Researcher,1,1,1
+Hunan,Staff Member,1,1,1
+Hunan,Student Engineer,1,1,1
+Hunan,Technical Specialist / Senior Technical Specialist,1,1,1
+Hunan,Translator/Editor,1,1,1
+Hunan,Vice Consul,1,1,1
+Hunan,deputy manager / Assistant Manager,1,1,1
+Hunan,executive committee member,1,1,1
+Jiangsu,A Class Chief Officer,1,1,1
+Jiangsu,Administrative Committee Member,1,1,1
+Jiangsu,Administrator / Officer-in-Charge,1,1,1
+Hubei,Attache / Aide,1,1,1
+Hubei,Assistant Research Fellow,1,1,1
+Guangxi,Research Associate,1,1,1
+Hebei,Geologist,1,1,1
+Hebei,Department Director / Bureau Head,1,1,1
+Hebei,Design Engineer,1,1,1
+Hebei,Director,1,1,1
+Hebei,Editor,1,1,1
+Hebei,Engineer / Senior Technician,1,1,1
+Hebei,Fellow,1,1,1
+Hebei,Field Engineer,1,1,1
+Hebei,Hydraulic Engineer,1,1,1
+Hebei,County Magistrate,1,1,1
+Hebei,Hydraulic Engineer & Designer,1,1,1
+Hebei,Laboratory Assistant,1,1,1
+Hebei,Laboratory Technician,1,1,1
+Hebei,Lieutenant,1,1,1
+Hebei,Nurse,1,1,1
+Hebei,Research Biochemist,1,1,1
+Hebei,Research Fellow,1,1,1
+Hebei,Department Chief,1,1,1
+Hebei,Consulting Engineer,1,1,1
+Hubei,Administrator / Custodian,1,1,1
+Hebei,Assistant Manager,1,1,1
+Guangxi,Secretary,1,1,1
+Guangxi,Trainee,1,1,1
+Guizhou,Chief Commander / Corps Commander,1,1,1
+Guizhou,Editor,1,1,1
+Guizhou,Employee,1,1,1
+Guizhou,Executive Officer / Executive Secretary,1,1,1
+Guizhou,Translator,1,1,1
+Hebei,Associate Engineer / Deputy Engineer,1,1,1
+Hebei,Consul General,1,1,1
+Hebei,Associate Professor,1,1,1
+Hebei,Attache / Aide,1,1,1
+Hebei,Chemical Engineer,1,1,1
+Hebei,Chemist,1,1,1
+Hebei,Chief Proofreader / Chief Reviewer,1,1,1
+Hebei,Colonel (Section Chief),1,1,1
+Hebei,Committee Member / Commissioner,1,1,1
+Hebei,Resident Physician,1,1,1
+Hebei,Resident in Gynecology,1,1,1
+Hebei,Rotating Internship,1,1,1
+Henan,Research Metallurgical Engineer,1,1,1
+Henan,Design Engineer,1,1,1
+Henan,Director / Head / Chief,1,1,1
+Henan,Engineer,1,1,1
+Henan,Engineer / Senior Technician,1,1,1
+Henan,Fellow,1,1,1
+Henan,Intern,1,1,1
+Henan,Metallurgy Specialist,1,1,1
+Henan,Research Physicist,1,1,1
+Hebei,Secretary,1,1,1
+Henan,Specialist to the USA,1,1,1
+Henan,Structural Designer,1,1,1
+Henan,Technician,1,1,1
+Henan,Third Secretary,1,1,1
+Henan,Translator,1,1,1
+Henan,Translator/Editor,1,1,1
+Hubei,Accountant,1,1,1
+Henan,Committee Member / Commissioner,1,1,1
+Henan,Assistant,1,1,1
+Heilongjiang,Translator/Editor,1,1,1
+Hebei,secretary general / Director-General,1,1,1
+Hebei,Secretary-General / Chief Executive Officer,1,1,1
+Hebei,Senior Translator,1,1,1
+Hebei,Stress Analyst,1,1,1
+Hebei,Structure Engineer,1,1,1
+Hebei,Supervisor,1,1,1
+Hebei,Teacher,1,1,1
+Hebei,Technical Assistant,1,1,1
+Hebei,Technical Officer / Technician,1,1,1
+Hebei,Technician,1,1,1
+Hebei,Translator,1,1,1
+Hebei,"chief / director (of an Institute, Station, or Office)",1,1,1
+Hebei,chief editor,1,1,1
+Hebei,editor,1,1,1
+Hebei,managing editor / Chief editor,1,1,1
+Hebei,principal / chancellor / Headmaster / School President,1,1,1
+Zhejiang,standing director / Executive Director / Managing Board Member,1,1,1

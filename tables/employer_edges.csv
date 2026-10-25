@@ -1,0 +1,987 @@
+﻿source,target,shared_students,NameIDs
+Beiyang Women’s Hospital,University of Michigan,1,N00001
+Northern Pacific Railroad Company,"White Engineering Corporation, J.G.",1,N00006
+Beijing National Library,Harvard University,1,N00013
+Aeronautical Commission,Aviation Mechanics School,1,N00016
+Aeronautical Commission,Tsinghua University,1,N00016
+Aviation Mechanics School,Tsinghua University,1,N00016
+Guangzhou Electricity Administration Office,National Resources Commission,1,N00019
+Guangzhou Electricity Administration Office,Shanghai Power Company,1,N00019
+Guangzhou Electricity Administration Office,Ziliujing Power Plant,1,N00019
+National Resources Commission,Shanghai Power Company,1,N00019
+National Resources Commission,Ziliujing Power Plant,1,N00019
+Shanghai Power Company,Ziliujing Power Plant,1,N00019
+Iowa State College,University of Chicago,1,N00020
+Bank of China,Lee Engineering Company,1,N00024
+Tsinghua University,University of Illinois,1,N00027
+Nankou Locomotive Works,Universal Trading Corporation,1,N00034
+Guomindang,United States Department of Interior,1,N00038
+National Southwestern Associated University,Tsinghua University,4,N00044|N00375|N00513|N01553
+Ginling University,Massachusetts Institute of Technology,1,N00048
+Peking University,"Vultee Aircraft, Incorporated",1,N00053
+Harvard-Yenching Institute,Sichuan Nanchong Provincial Middle School,1,N00055
+Harvard-Yenching Institute,Sichuan Sanjiang County Middle School,1,N00055
+Sichuan Nanchong Provincial Middle School,Sichuan Sanjiang County Middle School,1,N00055
+Universal Trading Corporation,Yale University,1,N00056
+Beijing National Library,Library of Congress,2,N00057|N00078
+Chinese Ministry of Military Administration,Department of Military Training,5,N00059|N00100|N00322|N01093|N01479
+Chinese Consulate General in Honolulu,United States Embassy,1,N00063
+Chinese Consulate in Boston,United States Embassy,1,N00070
+Chinese Consulate in Boston,Weihaiwei Administrative Office,1,N00070
+United States Embassy,Weihaiwei Administrative Office,1,N00070
+Chinese Consulate General in Chicago,Chinese Consulate in New Orleans,1,N00071
+Chinese Consulate General in Chicago,Chinese Ministry of Foreign Affairs,1,N00071
+Chinese Consulate in New Orleans,Chinese Ministry of Foreign Affairs,2,N00071|N01401
+Hudson Coal Company,Wah Chang Trading Corporation,1,N00072
+University of Chicago,University of Shanghai,1,N00074
+University of Chicago,Zhejiang University,1,N00074
+University of Shanghai,Zhejiang University,1,N00074
+Merck & Company,West China Union University,1,N00079
+Chinese Ministry of Economic Affairs,Hankow Commodity Inspection Bureau,1,N00080
+Chinese Ministry of Economic Affairs,Wuhan University,1,N00080
+Hankow Commodity Inspection Bureau,Wuhan University,1,N00080
+Philadelphia Public Schools,Zhoushan Secondary School,1,N00084
+Chinese Ministry of Communications,Universal Trading Corporation,3,N00086|N01283|N01336
+Army Mechanized School,Department of Military Training,5,N00090|N00322|N00590|N00913|N01093
+Central Aircraft Manufacturing Factory,Gliding Society,1,N00093
+Industry Incorporated,Jiangsu Department of Reconstruction,1,N00094
+Industry Incorporated,Sterling Engineering & Manufacturing Company,1,N00094
+Jiangsu Department of Reconstruction,Sterling Engineering & Manufacturing Company,1,N00094
+Anhui First Girls’ Secondary School,Chinese Ministry of Education,1,N00096
+Anhui First Girls’ Secondary School,Dinghai Girls’ Secondary School,1,N00096
+Chinese Ministry of Education,Dinghai Girls’ Secondary School,1,N00096
+China Defense Supplies Corporation,China Development Finance Corporation,2,N00098|N01263
+China Defense Supplies Corporation,National Resources Commission,1,N00098
+China Defense Supplies Corporation,Zhejiang University,1,N00098
+China Development Finance Corporation,National Resources Commission,1,N00098
+China Development Finance Corporation,Zhejiang University,1,N00098
+National Resources Commission,Zhejiang University,4,N00098|N00195|N00748|N01540
+Hebei Provincial No. 17 Middle School,Princeton Institute for Advanced Study,1,N00105
+Hebei Provincial No. 17 Middle School,Shandong First Provincial Middle School,1,N00105
+Princeton Institute for Advanced Study,Shandong First Provincial Middle School,1,N00105
+Shaanxi Department of Education,Shaanxi Provincial First Vocational School,1,N00106
+Shaanxi Department of Education,Universal Trading Corporation,1,N00106
+Shaanxi Provincial First Vocational School,Universal Trading Corporation,1,N00106
+Chongqing University,Materials Testing Division,1,N00108
+Chongqing University,National Resources Commission,1,N00108
+Chongqing University,Ordnance Specialized School,1,N00108
+Materials Testing Division,National Resources Commission,1,N00108
+Materials Testing Division,Ordnance Specialized School,1,N00108
+National Resources Commission,Ordnance Specialized School,1,N00108
+Ethyl Gasoline Corporation,Micamold Radio Corporation,1,N00109
+Ethyl Gasoline Corporation,Texas Company,1,N00109
+Micamold Radio Corporation,Texas Company,1,N00109
+University of Michigan,Yenching University,1,N00110
+Beiping Middle School,Universal Trading Corporation,1,N00112
+Giffels & Vallet Incorporated,Universal Trading Corporation,1,N00116
+Ohio Division of Social Administration,Ohio State University,1,N00122
+Ohio Division of Social Administration,University of Chicago,1,N00122
+Ohio State University,University of Chicago,1,N00122
+Fu Jen Catholic University,Library of Congress,1,N00123
+Fu Jen Catholic University,Yenching University,1,N00123
+Library of Congress,Yenching University,1,N00123
+American Airlines Incorporated,Curtiss-Wright Aircraft Corporation,1,N00136
+Department of Military Training,Fifth Army,7,N00144|N00568|N00609|N01108|N01346|N01514|N01516
+Department of Military Training,Jiangxi Highway Bureau,1,N00144
+Department of Military Training,Yunnan–Burma Railway,1,N00144
+Fifth Army,Jiangxi Highway Bureau,1,N00144
+Fifth Army,Yunnan–Burma Railway,1,N00144
+Jiangxi Highway Bureau,Yunnan–Burma Railway,1,N00144
+China Motor Corporation,Fifth Army,1,N00154
+Chinese Ministry of Military Administration,Peking University,1,N00155
+Chinese Ministry of Military Administration,University of Minnesota,1,N00155
+Peking University,University of Minnesota,1,N00155
+American Bureau for Medical Aid to China,Chinese News Service,1,N00159
+American Bureau for Medical Aid to China,Guomindang,1,N00159
+American Bureau for Medical Aid to China,Yunnan First Provincial Middle School,1,N00159
+Chinese News Service,Guomindang,1,N00159
+Chinese News Service,Yunnan First Provincial Middle School,1,N00159
+Guomindang,Yunnan First Provincial Middle School,1,N00159
+Lingnan University,United States Department of Interior,1,N00160
+Philco Corporation,University of Minnesota,1,N00163
+Philco Corporation,University of Pennsylvania,1,N00163
+University of Minnesota,University of Pennsylvania,1,N00163
+Liuhegou Ironworks,National Resources Commission,1,N00166
+Liuhegou Ironworks,Peiyang University,1,N00166
+National Resources Commission,Peiyang University,1,N00166
+May Chemical Company,Puget Sound Navy Yard,1,N00172
+Guangdong Provincial Government,Military Affairs Commission,1,N00180
+Guangdong Provincial Government,Minqi Daily,1,N00180
+Military Affairs Commission,Minqi Daily,1,N00180
+Allis-Chalmers Manufacturing Company,General Cable Corporation,1,N00189
+Bank of China,McTyeire School for Girls,1,N00190
+Bank of China,Shanghai Municipal Council Girls' Middle School,1,N00190
+McTyeire School for Girls,Shanghai Municipal Council Girls' Middle School,1,N00190
+China Defense Supplies Corporation,Chinese Ministry of Military Administration,1,N00193
+Chinese Consulate General in New York,Chinese Consulate General in San Francisco,1,N00194
+Chinese Consulate General in New York,Chinese Consulate in Luanda,1,N00194
+Chinese Consulate General in New York,Chinese Consulate in Seattle,1,N00194
+Chinese Consulate General in San Francisco,Chinese Consulate in Luanda,1,N00194
+Chinese Consulate General in San Francisco,Chinese Consulate in Seattle,1,N00194
+Chinese Consulate in Luanda,Chinese Consulate in Seattle,1,N00194
+Farmers Bank of China,Yunnan Investigation & Design Commission,1,N00196
+Harvard University,Stone & Webster Engineering Corporation,1,N00198
+Guangdong Provincial Government,Wuzhou Municipal Education Bureau,1,N00205
+Army Mechanized School,China Defense Supplies Corporation,1,N00211
+Army Mechanized School,Nanjing General Headquarters,1,N00211
+China Defense Supplies Corporation,Nanjing General Headquarters,1,N00211
+Kaiser Shipbuilding Corporation,Seattle School of Economics,1,N00217
+Kaiser Shipbuilding Corporation,"Taishan County Secondary School, Guangdong",1,N00217
+Kaiser Shipbuilding Corporation,Willamette Iron & Steel Works,2,N00217|N00410
+Seattle School of Economics,"Taishan County Secondary School, Guangdong",1,N00217
+Seattle School of Economics,Willamette Iron & Steel Works,1,N00217
+"Taishan County Secondary School, Guangdong",Willamette Iron & Steel Works,1,N00217
+Beiping Datong Middle School,Free World (Monthly),1,N00236
+China Food Products Company,University of California,1,N00245
+China Food Products Company,University of Nanking (Ginling University),1,N00245
+University of California,University of Nanking (Ginling University),1,N00245
+National Central University,Sichuan Secondary School Teachers' Summer Training Class,1,N00247
+"Bugbird & Company, H.C.",Jacques Wolf & Company,1,N00250
+Library of Congress,State of Connecticut,1,N00251
+Commercial Counsellor for North America,Jiaotong University,1,N00252
+Commercial Counsellor for North America,National Central University,1,N00252
+Commercial Counsellor for North America,National Tariff Commission,1,N00252
+Jiaotong University,National Central University,1,N00252
+Jiaotong University,National Tariff Commission,1,N00252
+National Central University,National Tariff Commission,1,N00252
+Chinese Consulate General in Havana,Chinese Consulate General in Honolulu,2,N00253|N01028
+Chinese Consulate General in Havana,Chinese Legation in Germany,1,N00253
+Chinese Consulate General in Honolulu,Chinese Legation in Germany,1,N00253
+American Accounting Systems,Union Audit Bureau,1,N00256
+Federal Broadcasting Intelligence Service,Sino-American Daily,1,N00261
+Federal Broadcasting Intelligence Service,Yuantailin Transport Company,1,N00261
+Sino-American Daily,Yuantailin Transport Company,1,N00261
+Nankai Institute of Economics,National Resources Commission,1,N00269
+Grunman Aircraft Engineering Corporation,Lee Engineering Company,1,N00288
+Publicker Commercial Alcohol Company,Radio Corporation of America (RCA),1,N00296
+Bank of China,Chinese Ministry of Industry,2,N00301|N01182
+American Sheet Metal Company,Kaiser Shipbuilding Corporation,1,N00307
+Army Mechanized School,Chinese Ministry of Military Administration,2,N00322|N01093
+Cheeloo University (Shandong University),Northwestern University,1,N00326
+Acorn Wire & Cable Company,Universal Trading Corporation,1,N00328
+Central Radio Works,Tsinghua University,1,N00331
+Socony-Vacuum Oil Company Incorporated,"Xinyi Pharmaceutical Works, Shanghai",1,N00338
+Beijing Normal University,Stanford University,1,N00340
+China Defense Supplies Corporation,China Joint Transportation Company,1,N00342
+Boston City Hospital,Mount Morris Tuberculosis Hospital,1,N00343
+Gong County Arsenal,Universal Trading Corporation,1,N00354
+Free World (Monthly),League of Nations,1,N00359
+"Hutton & Company, E.F.",New York Stock Exchange,1,N00360
+American Airlines Incorporated,Liongsin Press,1,N00362
+Giffels & Vallet Incorporated,Mutai Engineering Office,1,N00363
+Canton–Hankow Railway,Chengting–Taiyuan Railways,1,N00369
+Canton–Hankow Railway,Chinese Ministry of Communications,1,N00369
+Canton–Hankow Railway,Jiaotong University,1,N00369
+Canton–Hankow Railway,Peiping–Mukden Railway,1,N00369
+Canton–Hankow Railway,Peiping–Suiyuan Railway,1,N00369
+Chengting–Taiyuan Railways,Chinese Ministry of Communications,1,N00369
+Chengting–Taiyuan Railways,Jiaotong University,1,N00369
+Chengting–Taiyuan Railways,Peiping–Mukden Railway,1,N00369
+Chengting–Taiyuan Railways,Peiping–Suiyuan Railway,1,N00369
+Chinese Ministry of Communications,Jiaotong University,1,N00369
+Chinese Ministry of Communications,Peiping–Mukden Railway,2,N00369|N00495
+Chinese Ministry of Communications,Peiping–Suiyuan Railway,1,N00369
+Jiaotong University,Peiping–Mukden Railway,1,N00369
+Jiaotong University,Peiping–Suiyuan Railway,1,N00369
+Peiping–Mukden Railway,Peiping–Suiyuan Railway,1,N00369
+Princeton University,Smith College,1,N00374
+Princeton University,University of California,1,N00374
+Smith College,University of California,1,N00374
+Chinese-American Weekly,Minqi Daily,1,N00379
+Chinese Embassy in the United States,United States Embassy,1,N00386
+Guangzhou Municipal Bureau of Engineering,Rangqin University (SoengKen University of Canton),1,N00393
+Guangzhou Municipal Bureau of Engineering,Rust Engineering Company,1,N00393
+Rangqin University (SoengKen University of Canton),Rust Engineering Company,1,N00393
+Chinese Consulate General in Iowa,Chinese Consulate General in New York,1,N00394
+Chinese Consulate General in Iowa,Chinese Consulate in Houston,1,N00394
+Chinese Consulate General in New York,Chinese Consulate in Houston,1,N00394
+Chongqing Postal Remittance and Savings Bank,Pillsbury's Flour Mills Company,1,N00408
+Bank of China,United States Department of Interior,1,N00409
+Republic Aviation Corporation,Stinson Aircraft Corporation,1,N00418
+China Review Weekly,Commercial Press,1,N00422
+China Review Weekly,Universal Trading Corporation,1,N00422
+Commercial Press,Universal Trading Corporation,1,N00422
+Illinois Institute of Technology,University of Notre Dame,1,N00425
+Pullman Car Manufacturing Company,United States Army,1,N00426
+Pullman Car Manufacturing Company,University of Chicago,1,N00426
+United States Army,University of Chicago,1,N00426
+Oregon Shipbuilding Corporation,Washington Pump & Machinery Company,1,N00434
+Aeronautical Commission,Department of Military Training,1,N00438
+Academia Sinica,Harvard-Yenching Institute,1,N00440
+Municipal Government,United States Treasury Department,1,N00447
+Chinese Consulate in New Orleans,Jiangsu Huaihe River Diversion Project Office,1,N00451
+Chinese Consulate in New Orleans,Military Affairs Commission,1,N00451
+Jiangsu Huaihe River Diversion Project Office,Military Affairs Commission,1,N00451
+Mayers' Aircraft Corporation,University of Michigan,1,N00452
+Chinese National Government,Tsinghua University,1,N00455
+Chinese National Government,Yunnan Provincial Economic Commission,1,N00455
+Tsinghua University,Yunnan Provincial Economic Commission,1,N00455
+Arthur Anderson & Company,China Merchants Steam Navigation Company,1,N00467
+Arthur Anderson & Company,Chinese Ministry of Finance,1,N00467
+Arthur Anderson & Company,Jianghan Bureau,1,N00467
+Arthur Anderson & Company,Luotian County Finance Bureau,1,N00467
+China Merchants Steam Navigation Company,Chinese Ministry of Finance,1,N00467
+China Merchants Steam Navigation Company,Jianghan Bureau,1,N00467
+China Merchants Steam Navigation Company,Luotian County Finance Bureau,1,N00467
+Chinese Ministry of Finance,Jianghan Bureau,1,N00467
+Chinese Ministry of Finance,Luotian County Finance Bureau,1,N00467
+Jianghan Bureau,Luotian County Finance Bureau,1,N00467
+Legislative Yuan,National Central University,1,N00476
+Legislative Yuan,People's Political Council,1,N00476
+Legislative Yuan,Wuhan University,1,N00476
+National Central University,People's Political Council,2,N00476|N00748
+National Central University,Wuhan University,1,N00476
+People's Political Council,Wuhan University,1,N00476
+Ferro Enamel Corporation,"Kellogg Company, M.W.",1,N00490
+Ferro Enamel Corporation,Mexico Refractories Company,1,N00490
+Ferro Enamel Corporation,National Refractories Company,1,N00490
+Ferro Enamel Corporation,Universal Trading Corporation,1,N00490
+Ferro Enamel Corporation,Yenching University,1,N00490
+"Kellogg Company, M.W.",Mexico Refractories Company,1,N00490
+"Kellogg Company, M.W.",National Refractories Company,1,N00490
+"Kellogg Company, M.W.",Universal Trading Corporation,1,N00490
+"Kellogg Company, M.W.",Yenching University,1,N00490
+Mexico Refractories Company,National Refractories Company,1,N00490
+Mexico Refractories Company,Universal Trading Corporation,1,N00490
+Mexico Refractories Company,Yenching University,1,N00490
+National Refractories Company,Universal Trading Corporation,1,N00490
+National Refractories Company,Yenching University,1,N00490
+Universal Trading Corporation,Yenching University,1,N00490
+Chinese Ministry of Communications,Fu’an Company,1,N00495
+Chinese Ministry of Communications,General Bureau of Highway Transport,1,N00495
+Fu’an Company,General Bureau of Highway Transport,1,N00495
+Fu’an Company,Peiping–Mukden Railway,1,N00495
+General Bureau of Highway Transport,Peiping–Mukden Railway,1,N00495
+Huasheng Electrical Appliance Manufacturing Works,Jiaotong University,1,N00496
+Huasheng Electrical Appliance Manufacturing Works,National Resources Commission,1,N00496
+Jiaotong University,National Resources Commission,2,N00496|N01187
+China Institute in America,Chinese News Service,2,N00501|N01258
+Pacific News Agency,Sun Yat-sen University,1,N00504
+Pacific News Agency,Whampoa Military Academy,1,N00504
+Pacific News Agency,Wuhan Daily,1,N00504
+Pacific News Agency,Zhonghua News Agency,1,N00504
+Sun Yat-sen University,Whampoa Military Academy,1,N00504
+Sun Yat-sen University,Wuhan Daily,1,N00504
+Sun Yat-sen University,Zhonghua News Agency,1,N00504
+Whampoa Military Academy,Wuhan Daily,1,N00504
+Whampoa Military Academy,Zhonghua News Agency,1,N00504
+Wuhan Daily,Zhonghua News Agency,1,N00504
+Central Aircraft Manufacturing Factory,Tsinghua University,1,N00508
+Committee on Wartime Planning for Chinese Students in the United States,Sino-American News Agency,1,N00519
+Committee on Wartime Planning for Chinese Students in the United States,United States Department of State,1,N00519
+Sino-American News Agency,United States Department of State,1,N00519
+Jones & Lamson Machine Company,Tsinghua Mechanized Training School,1,N00520
+Dry Food Incorporated,Lingnan University,1,N00526
+Chinese Ministry of Communications,Federal Telephone & Radio Corporation,1,N00529
+Bryant Chucking Grinder Company,Central Motors Corporation,1,N00531
+Bryant Chucking Grinder Company,Ford Motor Company,1,N00531
+Bryant Chucking Grinder Company,National Resources Commission,1,N00531
+Central Motors Corporation,Ford Motor Company,1,N00531
+Central Motors Corporation,National Resources Commission,1,N00531
+Ford Motor Company,National Resources Commission,1,N00531
+Cone Automatic Machine Company,Fifth Army,1,N00537
+Cone Automatic Machine Company,Lee Engineering Company,1,N00537
+Fifth Army,Lee Engineering Company,1,N00537
+Giffels & Vallet Incorporated,University of Michigan,1,N00546
+Aeronautical Commission,Chinese Ministry of Communications,1,N00559
+Aeronautical Commission,National Central University,1,N00559
+Chinese Ministry of Communications,National Central University,2,N00559|N00863
+Aerojet Engineering Corporation,China Aircraft Corporation,1,N00561
+Aerojet Engineering Corporation,General Electric Company,1,N00561
+Aerojet Engineering Corporation,Vought-Sikorsky Aircraft Company,1,N00561
+China Aircraft Corporation,General Electric Company,1,N00561
+China Aircraft Corporation,Vought-Sikorsky Aircraft Company,1,N00561
+General Electric Company,Vought-Sikorsky Aircraft Company,1,N00561
+Lee Engineering Company,New York Central Railroad Company,1,N00562
+National Resources Commission,Zhenjiang Dazhao Electric Light & Power Company,1,N00564
+Great China University (Daxia University),Sichuan University,1,N00571
+Great China University (Daxia University),Universal Trading Corporation,1,N00571
+Sichuan University,Universal Trading Corporation,1,N00571
+Chinese Ministry of Economic Affairs,National Construction Commission,1,N00578
+Chinese Ministry of Economic Affairs,National Resources Commission,2,N00578|N00602
+National Construction Commission,National Resources Commission,3,N00578|N01187|N01286
+Central Electrical Equipment Works,General Electric Company,1,N00580
+Bell Telephone Laboratory,Harvard University,1,N00584
+National Bank of Detroit,Tianjin Institute of Commerce and Industry,1,N00587
+University of California,Wayland Academy (Hangzhou Huilan Middle School),1,N00588
+Common Council for American Unity,Hwa Nan Academy,1,N00596
+National Central University,United States Department of Interior,1,N00604
+National Central University,University of Nanking (Ginling University),1,N00604
+United States Department of Interior,University of Nanking (Ginling University),1,N00604
+Aeronautical Commission,China Automobile Manufacturing Company,1,N00607
+Aeronautical Commission,National Resources Commission,1,N00607
+China Automobile Manufacturing Company,National Resources Commission,2,N00607|N00646
+Rural Reconstruction Association,Wenshang County Government,1,N00610
+Nankai University,Soochow University,1,N00616
+American Resinous Chemical Corporation,West China Union University,1,N00629
+"National Reconditioning Company, Incorporated",Republic Steel Mill,1,N00630
+"National Reconditioning Company, Incorporated",Westinghouse Electric Manufacturing Company,1,N00631
+Chinese Ministry of Military Administration,Jiaotong University,2,N00636|N01406
+Chinese Ministry of Military Administration,Tsinghua University,1,N00636
+Jiaotong University,Tsinghua University,1,N00636
+Jersey City Medical Center,New York Infirmary Hospital,1,N00641
+University of Colorado,University of Michigan,1,N00642
+John B. Fischer Architect,Mississippi Valley Structural Company,1,N00645
+China Automobile Manufacturing Company,Chinese Ministry of Military Administration,2,N00646|N01479
+Chinese Ministry of Military Administration,National Resources Commission,2,N00646|N01491
+Mississippi River Commission,Tennessee Valley Authority,1,N00649
+Mississippi River Commission,United States Waterways Experiment Station,1,N00649
+Mississippi River Commission,Universal Trading Corporation,1,N00649
+Mississippi River Commission,Yellow River Commission,1,N00649
+Tennessee Valley Authority,United States Waterways Experiment Station,1,N00649
+Tennessee Valley Authority,Universal Trading Corporation,1,N00649
+Tennessee Valley Authority,Yellow River Commission,1,N00649
+United States Waterways Experiment Station,Universal Trading Corporation,1,N00649
+United States Waterways Experiment Station,Yellow River Commission,1,N00649
+Universal Trading Corporation,Yellow River Commission,1,N00649
+Central Agricultural Experiment Station,Central Cotton Improvement Institute,1,N00666
+Central Agricultural Experiment Station,University of Minnesota,2,N00666|N01351
+Central Cotton Improvement Institute,University of Minnesota,1,N00666
+California Institute of Technology,Radio Corporation of America (RCA),1,N00672
+Jiujiang Coal Administration Office,National Resources Commission,1,N00676
+Jiujiang Coal Administration Office,Northern Yunnan Mining Bureau,1,N00676
+Jiujiang Coal Administration Office,Zhongfu Coal Mining Company,1,N00676
+National Resources Commission,Northern Yunnan Mining Bureau,1,N00676
+National Resources Commission,Zhongfu Coal Mining Company,1,N00676
+Northern Yunnan Mining Bureau,Zhongfu Coal Mining Company,1,N00676
+Northeastern (Dongbei) University,University of Shanghai,1,N00677
+Northeastern (Dongbei) University,Wuhan University,1,N00677
+University of Shanghai,Wuhan University,1,N00677
+China Institute in America,General Electric Company,1,N00681
+China Institute of Psychological Physiology,Yenching University,1,N00684
+Chinese Ministry of Foreign Affairs,Chinese Ministry of Propaganda,1,N00686
+Chinese Ministry of Foreign Affairs,Chizhi University,1,N00686
+Chinese Ministry of Foreign Affairs,Conference on the Reduction of Armaments,1,N00686
+Chinese Ministry of Foreign Affairs,Jiaotong University,1,N00686
+Chinese Ministry of Foreign Affairs,Legislative Yuan,1,N00686
+Chinese Ministry of Foreign Affairs,National Southeastern University,1,N00686
+Chinese Ministry of Foreign Affairs,Southern University,1,N00686
+Chinese Ministry of Propaganda,Chizhi University,1,N00686
+Chinese Ministry of Propaganda,Conference on the Reduction of Armaments,1,N00686
+Chinese Ministry of Propaganda,Jiaotong University,1,N00686
+Chinese Ministry of Propaganda,Legislative Yuan,1,N00686
+Chinese Ministry of Propaganda,National Southeastern University,1,N00686
+Chinese Ministry of Propaganda,Southern University,1,N00686
+Chizhi University,Conference on the Reduction of Armaments,1,N00686
+Chizhi University,Jiaotong University,1,N00686
+Chizhi University,Legislative Yuan,1,N00686
+Chizhi University,National Southeastern University,1,N00686
+Chizhi University,Southern University,1,N00686
+Conference on the Reduction of Armaments,Jiaotong University,1,N00686
+Conference on the Reduction of Armaments,Legislative Yuan,1,N00686
+Conference on the Reduction of Armaments,National Southeastern University,1,N00686
+Conference on the Reduction of Armaments,Southern University,1,N00686
+Jiaotong University,Legislative Yuan,1,N00686
+Jiaotong University,National Southeastern University,1,N00686
+Jiaotong University,Southern University,1,N00686
+Legislative Yuan,National Southeastern University,1,N00686
+Legislative Yuan,Southern University,1,N00686
+National Southeastern University,Southern University,1,N00686
+Jiangsu Provincial Changzhou Middle School,Tsinghua University,1,N00688
+Canton–Hankow Railway,National Resources Commission,1,N00693
+Canton–Hankow Railway,Xiang-Gui Railway Assistant Engineering Office,1,N00693
+Canton–Hankow Railway,Yunnan-Guangxi Railway,1,N00693
+National Resources Commission,Xiang-Gui Railway Assistant Engineering Office,1,N00693
+National Resources Commission,Yunnan-Guangxi Railway,1,N00693
+Xiang-Gui Railway Assistant Engineering Office,Yunnan-Guangxi Railway,1,N00693
+New Republic Chinese Daily,Young China Morning News,1,N00694
+New England Aircraft School,Stone & Webster Engineering Corporation,1,N00695
+China Institute in America,Construction Company,1,N00696
+China Institute in America,United States Department of War,1,N00696
+Construction Company,United States Department of War,1,N00696
+National Central University,Peking Union Medical College (PUMC),1,N00705
+Fu Jen Catholic University,"Joseph E. Seagran & Sons, Incorporated",1,N00707
+Fu Jen Catholic University,Kailan Mining Administration,1,N00707
+"Joseph E. Seagran & Sons, Incorporated",Kailan Mining Administration,1,N00707
+Chinese Ministry of Communications,Tsinghua University,1,N00716
+Northeastern (Dongbei) University,Peking University,1,N00717
+Northeastern (Dongbei) University,Tianjin French-Chinese College,1,N00717
+Northeastern (Dongbei) University,Tsinghua University,1,N00717
+Northeastern (Dongbei) University,Universal Trading Corporation,1,N00717
+Peking University,Tianjin French-Chinese College,1,N00717
+Peking University,Tsinghua University,2,N00717|N01511
+Peking University,Universal Trading Corporation,1,N00717
+Tianjin French-Chinese College,Tsinghua University,1,N00717
+Tianjin French-Chinese College,Universal Trading Corporation,1,N00717
+Tsinghua University,Universal Trading Corporation,1,N00717
+National Southwestern Associated University,Sichuan University,1,N00732
+National Southwestern Associated University,Yenching University,2,N00732|N01172
+Sichuan University,Yenching University,1,N00732
+Hsiangya (Hunan-Yale) Medical College,Yenching University,1,N00734
+Chinese Consulate in Managua,United China Relief,1,N00743
+Academia Sinica,National Central University,1,N00748
+Academia Sinica,National Defense Planning Commission,1,N00748
+Academia Sinica,National Resources Commission,1,N00748
+Academia Sinica,People's Political Council,1,N00748
+Academia Sinica,Zhejiang University,2,N00748|N00752
+National Central University,National Defense Planning Commission,1,N00748
+National Central University,National Resources Commission,1,N00748
+National Central University,Zhejiang University,1,N00748
+National Defense Planning Commission,National Resources Commission,1,N00748
+National Defense Planning Commission,People's Political Council,1,N00748
+National Defense Planning Commission,Zhejiang University,1,N00748
+National Resources Commission,People's Political Council,1,N00748
+People's Political Council,Zhejiang University,1,N00748
+Academia Sinica,Guangxi Provincial Grain Planning Commission,1,N00752
+Guangxi Provincial Grain Planning Commission,Zhejiang University,1,N00752
+Allied Engineers Incorporated,Francis Engineering Company,1,N00753
+Jiangsu Provincial Popular Education College,Zhejiang Provincial Hangzhou Normal School,1,N00755
+Jiangsu Provincial Popular Education College,Zhejiang University,1,N00755
+Zhejiang Provincial Hangzhou Normal School,Zhejiang University,1,N00755
+Peking University,Sichuan University,1,N00757
+Harvard University,Office of Scientific Research & Development,1,N00759
+Jiangxi Provincial Women’s Guidance Office,University of Chicago,1,N00761
+Aeronautical Commission,Consolidated Aircraft Corporation,1,N00762
+Chinese Embassy in Italy,United States Embassy,1,N00764
+Giffels & Vallet Incorporated,Tianjin Institute of Commerce and Industry,1,N00769
+Giffels & Vallet Incorporated,United States Army,2,N00769|N01097
+Tianjin Institute of Commerce and Industry,United States Army,1,N00769
+Chinese Ministry of Military Administration,Steel Company of Canada,1,N00772
+Nanjing Higher Police Officers Academy,University of Nanking (Ginling University),1,N00776
+Tsinghua University,Yale University,1,N00784
+Aircraft Structural Development,Glenn L. Martin Company,1,N00785
+Aircraft Structural Development,Tsinghua University,1,N00785
+Aircraft Structural Development,United States Plywood Corporation,1,N00785
+Glenn L. Martin Company,Tsinghua University,1,N00785
+Glenn L. Martin Company,United States Plywood Corporation,1,N00785
+Tsinghua University,United States Plywood Corporation,1,N00785
+Ginling University,National Central University,1,N00791
+Central Agricultural Experiment Station,National Rice and Wheat Improvement Institute,1,N00792
+Bank of China,Irving Trust Company New York,1,N00804
+Bank of China,National Gypsim Company,1,N00804
+Bank of China,Wells Fargo Bank & Union Trust Company,1,N00804
+Irving Trust Company New York,National Gypsim Company,1,N00804
+Irving Trust Company New York,Wells Fargo Bank & Union Trust Company,1,N00804
+National Gypsim Company,Wells Fargo Bank & Union Trust Company,1,N00804
+Hunan University,Peking University,1,N00808
+Harvard University,Lingnan University,2,N00818|N01067
+Department of Military Training,Guilin Field Headquarters,2,N00824|N00945
+Lingnan University,Peking University,2,N00833|N01374
+Lingnan University,Pomona College,1,N00833
+Lingnan University,University of Hawaii,2,N00833|N00894
+Peking University,Pomona College,1,N00833
+Peking University,University of Hawaii,1,N00833
+Pomona College,University of Hawaii,1,N00833
+Allis-Chalmers Manufacturing Company,Murray Iron Works Company,1,N00835
+Hong Kong Commercial Daily,Mills College,1,N00854
+Hong Kong Commercial Daily,Zhongshan Middle School,1,N00854
+Mills College,Zhongshan Middle School,1,N00854
+General Electric Company,Oregon Shipbuilding Corporation,1,N00855
+Academia Sinica,Jiangnan Cement Company,1,N00858
+Academia Sinica,Qixin Foreign Trading Company,1,N00858
+Jiangnan Cement Company,Qixin Foreign Trading Company,1,N00858
+Beijing Normal University,Hebei Provincial Fisheries Specialized School,1,N00860
+Chinese Ministry of Communications,Nankai University,2,N00863|N01379
+Chinese Ministry of Communications,Tientsin–Pukow Railway,2,N00863|N01224
+Chinese Ministry of Communications,Yunnan–Burma Railway,1,N00863
+Nankai University,National Central University,1,N00863
+Nankai University,Tientsin–Pukow Railway,1,N00863
+Nankai University,Yunnan–Burma Railway,1,N00863
+National Central University,Tientsin–Pukow Railway,1,N00863
+National Central University,Yunnan–Burma Railway,1,N00863
+Tientsin–Pukow Railway,Yunnan–Burma Railway,1,N00863
+Guangdong Provincial Government,Heyuan Procasa Company,1,N00872
+Guangdong Provincial Government,New York City Chemical Corporation,1,N00872
+Heyuan Procasa Company,New York City Chemical Corporation,1,N00872
+Primary School,Qingdao Railway,1,N00874
+Chinese Consulate in Houston,Guomin Daily,1,N00879
+Chinese Consulate in Houston,Guomindang,1,N00879
+Chinese Consulate in Houston,Minqi Daily,1,N00879
+Chinese Consulate in Houston,National Daily Special Edition,1,N00879
+Chinese Consulate in Houston,Overseas Chinese Affairs Commission,1,N00879
+Chinese Consulate in Houston,People's Daily (New York),1,N00879
+Guomin Daily,Guomindang,1,N00879
+Guomin Daily,Minqi Daily,1,N00879
+Guomin Daily,National Daily Special Edition,1,N00879
+Guomin Daily,Overseas Chinese Affairs Commission,1,N00879
+Guomin Daily,People's Daily (New York),1,N00879
+Guomindang,Minqi Daily,1,N00879
+Guomindang,National Daily Special Edition,1,N00879
+Guomindang,Overseas Chinese Affairs Commission,1,N00879
+Guomindang,People's Daily (New York),1,N00879
+Minqi Daily,National Daily Special Edition,1,N00879
+Minqi Daily,Overseas Chinese Affairs Commission,1,N00879
+Minqi Daily,People's Daily (New York),1,N00879
+National Daily Special Edition,Overseas Chinese Affairs Commission,1,N00879
+National Daily Special Edition,People's Daily (New York),1,N00879
+Overseas Chinese Affairs Commission,People's Daily (New York),1,N00879
+Yenching University,"Yingguang Secondary School, Canton",1,N00884
+Babcock & Wilcox Company,Purdue University,1,N00885
+Babcock & Wilcox Company,Shanghai Power Company,1,N00885
+Purdue University,Shanghai Power Company,1,N00885
+Peking Union Medical College (PUMC),University of Chicago,1,N00886
+Columbia University,Rockefeller Foundation,1,N00887
+Academia Sinica,Tsinghua University,2,N00889|N01203
+Atlantic Union College,Madison College,1,N00890
+Atlantic Union College,Michigan Agricultural Experiment Station,1,N00890
+Madison College,Michigan Agricultural Experiment Station,1,N00890
+Sun Yat-sen University,University of California,1,N00891
+Dartmouth College,Lingnan University,1,N00894
+Dartmouth College,Sun Yat-sen University,1,N00894
+Dartmouth College,University of Hawaii,1,N00894
+Lingnan University,Sun Yat-sen University,1,N00894
+Sun Yat-sen University,University of Hawaii,1,N00894
+Harvard-Yenching Institute,Yenching University,1,N00900
+Amoy University (Xiamen University),Fujian Provincial Senior Industrial Vocational School,1,N00903
+Chase National Bank,National Resources Commission,1,N00904
+Fukien Christian University,University of Southern California,1,N00905
+Kofa American Drug Company,Merck & Company,1,N00906
+Harvard University,Syracuse University,1,N00909
+Bristol Aircraft Corporation,Vidal Research Corporation,1,N00910
+Kaiser Shipbuilding Corporation,University of Oregon,1,N00925
+Kaiser Shipbuilding Corporation,Zhonghua School (Seattle),1,N00925
+University of Oregon,Zhonghua School (Seattle),1,N00925
+Peking Union Medical College (PUMC),Shanghai Medical College,1,N00928
+Peking Union Medical College (PUMC),University of Michigan,1,N00928
+Shanghai Medical College,University of Michigan,1,N00928
+Haikang County Education Bureau,"Nanning District Court, Guangxi",1,N00931
+Qiuzhi Middle School,Wah Chang Trading Corporation,1,N00935
+Jones & Lamson Machine Company,Rust Engineering Company,1,N00936
+Bank of China,National Bureau of Economic Research,1,N00944
+Department of Military Training,Office of the Deputy Chief of the General Staff,1,N00945
+Guilin Field Headquarters,Office of the Deputy Chief of the General Staff,1,N00945
+Ely Kahn & Robert Jacobs Architects,Matlock & Campell Mechanical,1,N00953
+Carnegie-Illinois Steel,Overseas Chinese School,1,N00958
+Carnegie-Illinois Steel,Zhonghua School (Chicago),1,N00958
+Overseas Chinese School,Zhonghua School (Chicago),1,N00958
+Central Broadcasting Administration,China National Aviation Corporation (CNAC),1,N00964
+Capital Power Plant,Dadukou Iron and Steel Works,1,N00965
+Capital Power Plant,Tianshenggang Power Plant,1,N00965
+Capital Power Plant,"Yufeng Cotton-Spinning Mill, Henan",1,N00965
+Dadukou Iron and Steel Works,Tianshenggang Power Plant,1,N00965
+Dadukou Iron and Steel Works,"Yufeng Cotton-Spinning Mill, Henan",1,N00965
+Tianshenggang Power Plant,"Yufeng Cotton-Spinning Mill, Henan",1,N00965
+Peiping Specialized School of Finance and Commerce,Sichuan Provincial Government Planning Commission,1,N00966
+Louisiana Sugar Factory,Lummus Company,1,N00971
+Louisiana Sugar Factory,National Resources Commission,1,N00971
+Lummus Company,National Resources Commission,2,N00971|N01227
+Peking Union Medical College (PUMC),Reed & Carnrick Company,1,N00973
+Central News Agency,United Nations,1,N00983
+American Gas & Electric Service Corporation,Henan Provincial Department of Reconstruction,1,N00987
+American Gas & Electric Service Corporation,Koppers Company,1,N00987
+Henan Provincial Department of Reconstruction,Koppers Company,1,N00987
+Shanghai Municipal Council,Zhejiang University,1,N00989
+Franco-Chinese University,Hengtong Chemical Company,1,N00990
+Chinese Consulate in Seattle,Chinese Embassy in Cuba,1,N00992
+Chongqing Direct Tax Bureau,Emil S. Fischer,1,N00993
+Chongqing Direct Tax Bureau,Hubei Provincial Direct Tax Bureau,1,N00993
+Emil S. Fischer,Hubei Provincial Direct Tax Bureau,1,N00993
+Chinese Ministry of Foreign Affairs,Chinese Ministry of Industry,1,N00994
+Chinese Ministry of Foreign Affairs,Economic Commission,1,N00994
+Chinese Ministry of Foreign Affairs,Minsheng Industrial Company,1,N00994
+Chinese Ministry of Foreign Affairs,Tacomy Engineering Company,1,N00994
+Chinese Ministry of Foreign Affairs,Yenching University,1,N00994
+Chinese Ministry of Industry,Economic Commission,1,N00994
+Chinese Ministry of Industry,Minsheng Industrial Company,1,N00994
+Chinese Ministry of Industry,Tacomy Engineering Company,1,N00994
+Chinese Ministry of Industry,Yenching University,1,N00994
+Economic Commission,Minsheng Industrial Company,1,N00994
+Economic Commission,Tacomy Engineering Company,1,N00994
+Economic Commission,Yenching University,1,N00994
+Minsheng Industrial Company,Tacomy Engineering Company,1,N00994
+Minsheng Industrial Company,Yenching University,1,N00994
+Tacomy Engineering Company,Yenching University,1,N00994
+Brown University,Huazhong University,1,N00997
+Cornell University,Yenching University,1,N00998
+Swiss Legation,United States Embassy,1,N00999
+Tsinghua University,Yenching University,1,N01007
+Pennsylvania Railroad,Universal Trading Corporation,1,N01009
+Aeronautical Commission,Curtiss-Wright Aircraft Corporation,1,N01011
+Chinese Consulate General in Havana,Chinese Ministry of Foreign Affairs,1,N01028
+Chinese Consulate General in Honolulu,Chinese Ministry of Foreign Affairs,1,N01028
+World Book Company,Zhejiang University,1,N01031
+Jiangsu Bureau of Entomology,University of Minnesota,1,N01036
+Jiangsu Bureau of Entomology,Zhejiang Bureau of Entomology,1,N01036
+University of Minnesota,Zhejiang Bureau of Entomology,1,N01036
+General Electric Company,National Resources Commission,1,N01042
+Chinese Ministry of Communications,International Standard Electric Company,1,N01044
+Amoy University (Xiamen University),Cheeloo University (Shandong University),1,N01047
+Amoy University (Xiamen University),Lingnan University,1,N01047
+Amoy University (Xiamen University),University of California,1,N01047
+Amoy University (Xiamen University),University of Michigan,1,N01047
+Cheeloo University (Shandong University),Lingnan University,1,N01047
+Cheeloo University (Shandong University),University of California,1,N01047
+Cheeloo University (Shandong University),University of Michigan,1,N01047
+Lingnan University,University of California,1,N01047
+Lingnan University,University of Michigan,1,N01047
+University of California,University of Michigan,1,N01047
+Bruce Engineering Company,Sanderson & Porter,1,N01052
+Bruce Engineering Company,Sun Yat-sen University,1,N01052
+Bruce Engineering Company,Wilputte Coke Oven Company,1,N01052
+Sanderson & Porter,Sun Yat-sen University,1,N01052
+Sanderson & Porter,Wilputte Coke Oven Company,1,N01052
+Sun Yat-sen University,Wilputte Coke Oven Company,1,N01052
+Hebei Provincial Agricultural College,Hebei University,1,N01054
+Hebei Provincial Agricultural College,United States Department of Agriculture,1,N01054
+Hebei Provincial Agricultural College,University of Illinois,1,N01054
+Hebei University,United States Department of Agriculture,1,N01054
+Hebei University,University of Illinois,1,N01054
+United States Department of Agriculture,University of Illinois,1,N01054
+National Central University,Office of the United States Army Attaché,1,N01056
+National Central University,United States Military Mission,1,N01056
+Office of the United States Army Attaché,United States Military Mission,1,N01056
+Executive Yuan,United States Embassy,1,N01057
+Guangzhou Pui Ching Middle School,Hong Kong Pui Ching Middle School,1,N01062
+Guangzhou University,Sun Yat-sen University,1,N01068
+Guangzhou University,United States Department of War,1,N01068
+Sun Yat-sen University,United States Department of War,1,N01068
+Sun Yat-sen University,University of Pittsburgh,1,N01069
+Chinese Ministry of Industry,Nankai University,1,N01074
+Chinese Ministry of Industry,"Sin Hua Trust, Savings & Commercial Bank",1,N01074
+Nankai University,"Sin Hua Trust, Savings & Commercial Bank",1,N01074
+Amoy University (Xiamen University),Central Trust of China,1,N01082
+Amoy University (Xiamen University),Chinese Consulate in Portland,1,N01082
+Amoy University (Xiamen University),Chinese Ministry of Finance,1,N01082
+Amoy University (Xiamen University),Jiaotong University,1,N01082
+Central Trust of China,Chinese Consulate in Portland,1,N01082
+Central Trust of China,Chinese Ministry of Finance,1,N01082
+Central Trust of China,Jiaotong University,1,N01082
+Chinese Consulate in Portland,Chinese Ministry of Finance,1,N01082
+Chinese Consulate in Portland,Jiaotong University,1,N01082
+Chinese Ministry of Finance,Jiaotong University,1,N01082
+Amoy University (Xiamen University),Kwang Hua University,1,N01084
+Amoy University (Xiamen University),Specialized School of Taxation,1,N01084
+Kwang Hua University,Specialized School of Taxation,1,N01084
+Federal Telephone & Radio Corporation,National Resources Commission,1,N01087
+John Hopkins University,Peking Union Medical College (PUMC),1,N01090
+Jing River Commission,North China River Conservancy Commission,1,N01092
+Army Mechanized School,Guangxi Electric Power Plant,1,N01093
+Chinese Ministry of Military Administration,Guangxi Electric Power Plant,1,N01093
+Department of Military Training,Guangxi Electric Power Plant,1,N01093
+National Central University,United States Educational Mission,1,N01094
+Military Operations Department,Third Fleet,1,N01099
+Chinese News Service,Soochow University,1,N01102
+Oregon State College,"Taohua Datong Company, Amoy",1,N01105
+25th International Labour Conference,Jiangsu Wuxian Red Cross Society,1,N01106
+25th International Labour Conference,Lederle Laboratories Incorporated,1,N01106
+25th International Labour Conference,Opium Suppression Commissioner,1,N01106
+25th International Labour Conference,Wu County Hospital,1,N01106
+25th International Labour Conference,Wu County Opium Rehabilitation Centre,1,N01106
+Jiangsu Wuxian Red Cross Society,Lederle Laboratories Incorporated,1,N01106
+Jiangsu Wuxian Red Cross Society,Opium Suppression Commissioner,1,N01106
+Jiangsu Wuxian Red Cross Society,Wu County Hospital,1,N01106
+Jiangsu Wuxian Red Cross Society,Wu County Opium Rehabilitation Centre,1,N01106
+Lederle Laboratories Incorporated,Opium Suppression Commissioner,1,N01106
+Lederle Laboratories Incorporated,Wu County Hospital,1,N01106
+Lederle Laboratories Incorporated,Wu County Opium Rehabilitation Centre,1,N01106
+Opium Suppression Commissioner,Wu County Hospital,1,N01106
+Opium Suppression Commissioner,Wu County Opium Rehabilitation Centre,1,N01106
+Wu County Hospital,Wu County Opium Rehabilitation Centre,1,N01106
+Chinese Consulate General in Chicago,Chinese Consulate in Seattle,1,N01116
+California Spray Chemical Company,United States Agriculture Western Regional Laboratory,1,N01122
+Aeronautical Commission,"Louis Allis Company, The",1,N01128
+Cheeloo University (Shandong University),Columbia University,1,N01129
+Cheeloo University (Shandong University),Rural Financial Society,1,N01129
+Columbia University,Rural Financial Society,1,N01129
+Aeronautical Commission,British Embassy,1,N01131
+Aeronautical Commission,United States Office of War Information,1,N01131
+British Embassy,United States Office of War Information,1,N01131
+Park College,United States Embassy,1,N01137
+Beijing Coal Depot,Heilongjiang Gold Mine Prospecting Team,1,N01138
+Beijing Coal Depot,National Resources Commission,1,N01138
+Beijing Coal Depot,Sichuan Oil Works,1,N01138
+Heilongjiang Gold Mine Prospecting Team,National Resources Commission,1,N01138
+Heilongjiang Gold Mine Prospecting Team,Sichuan Oil Works,1,N01138
+National Resources Commission,Sichuan Oil Works,1,N01138
+Dongbin Railway Administration,Guangdong Department of Reconstruction,1,N01144
+Dongbin Railway Administration,Guangzhou Municipal Telephone Administration,1,N01144
+Dongbin Railway Administration,Universal Trading Corporation,1,N01144
+Guangdong Department of Reconstruction,Guangzhou Municipal Telephone Administration,1,N01144
+Guangdong Department of Reconstruction,Universal Trading Corporation,1,N01144
+Guangzhou Municipal Telephone Administration,Universal Trading Corporation,1,N01144
+China Oriental Trading & Engineering Company,Stanford University,1,N01145
+Guizhou Aviation Office,Guizhou Reconstruction Office,1,N01146
+Merck & Company,Professional Pharmacy,1,N01150
+Merck & Company,Sacred Heart Hospital,1,N01150
+Professional Pharmacy,Sacred Heart Hospital,1,N01150
+National Resources Commission,Zhengtai Railway Engineering Office,1,N01153
+National Conservatory of Music,Zhejiang University,1,N01154
+Committee on Wartime Planning for Chinese Students in the United States,Iowa State College,1,N01155
+Committee on Wartime Planning for Chinese Students in the United States,Xinjiang Provincial Capital,1,N01155
+Committee on Wartime Planning for Chinese Students in the United States,Xi’an Field Headquarters,1,N01155
+Iowa State College,Xinjiang Provincial Capital,1,N01155
+Iowa State College,Xi’an Field Headquarters,1,N01155
+Xinjiang Provincial Capital,Xi’an Field Headquarters,1,N01155
+Puget Sound Navy Yard,San Francisco Baptist Secondary School,1,N01156
+Puget Sound Navy Yard,State of California Division of Highway,1,N01156
+San Francisco Baptist Secondary School,State of California Division of Highway,1,N01156
+Oregon State College,Westinghouse Electric Manufacturing Company,1,N01157
+University of Michigan,University of Pennsylvania,1,N01160
+Kunming Central Electrical Equipment Factory,"Longhua Cement Works, Shanghai",1,N01167
+Kunming Central Electrical Equipment Factory,Mingda Company,1,N01167
+"Longhua Cement Works, Shanghai",Mingda Company,1,N01167
+Amherst College,Soochow University,1,N01168
+Amherst College,Yenching University,1,N01168
+Soochow University,Yenching University,1,N01168
+Harvard University,University of Chicago,1,N01169
+Massachusetts Institute of Technology,National Southwestern Associated University,1,N01172
+Massachusetts Institute of Technology,University of California,1,N01172
+Massachusetts Institute of Technology,Yenching University,1,N01172
+National Southwestern Associated University,University of California,1,N01172
+University of California,Yenching University,1,N01172
+David H. Horn Architect,Hermans & Simon Architecture,1,N01175
+Royal Netherlands Navy,Sanbei Company,1,N01179
+Address Investigation Bureau,Gansu Petroleum Bureau,1,N01180
+Address Investigation Bureau,National Resources Commission,1,N01180
+Address Investigation Bureau,Power Fuel Plant,1,N01180
+Address Investigation Bureau,Southern Gansu Petroleum Bureau,1,N01180
+Gansu Petroleum Bureau,National Resources Commission,1,N01180
+Gansu Petroleum Bureau,Power Fuel Plant,1,N01180
+Gansu Petroleum Bureau,Southern Gansu Petroleum Bureau,1,N01180
+National Resources Commission,Power Fuel Plant,1,N01180
+National Resources Commission,Southern Gansu Petroleum Bureau,1,N01180
+Power Fuel Plant,Southern Gansu Petroleum Bureau,1,N01180
+Jiangxi Provincial Popular Education Center,Jiangxi Provincial Travelling Educational Film Unit,1,N01186
+Huacheng Electric Motor Manufacturing Works,Jiaotong University,1,N01187
+Huacheng Electric Motor Manufacturing Works,National Construction Commission,1,N01187
+Huacheng Electric Motor Manufacturing Works,National Resources Commission,1,N01187
+Jiaotong University,National Construction Commission,1,N01187
+"Euston Architect, A.F.","Lorec Architect, D.D.",1,N01188
+Conrad O. Hersan Company,Fred J. Ryan Company,1,N01194
+Conrad O. Hersan Company,Illinois Institute of Technology,1,N01194
+Fred J. Ryan Company,Illinois Institute of Technology,1,N01194
+Gongliang School,Kaiser Shipbuilding Corporation,1,N01195
+Shanghai Huahua Middle School,University of Shanghai,1,N01198
+Academia Sinica,Harvard University,2,N01203|N01284
+Harvard University,Tsinghua University,1,N01203
+China Defense Supplies Corporation,Duke University,1,N01205
+Bacon Laboratory,Massachusetts Institute of Technology,1,N01218
+Aeronautical Commission,American Volunteer Group (Flying Tigers),1,N01219
+China Rural Reconstruction Talent Training Institute,China Social Education Association,1,N01221
+China Rural Reconstruction Talent Training Institute,Jiangsu Provincial College of Education,1,N01221
+China Social Education Association,Jiangsu Provincial College of Education,1,N01221
+Chinese Ministry of Communications,Fujian-Zhejiang Highway Transport Office,1,N01224
+Chinese Ministry of Communications,General Transport Headquarters,1,N01224
+Fujian-Zhejiang Highway Transport Office,General Transport Headquarters,1,N01224
+Fujian-Zhejiang Highway Transport Office,Tientsin–Pukow Railway,1,N01224
+General Transport Headquarters,Tientsin–Pukow Railway,1,N01224
+Chinese Ministry of Industry,Lummus Company,1,N01227
+Chinese Ministry of Industry,National Resources Commission,1,N01227
+Central Bank of China,China Association for Promotion of Commerce & Industry,1,N01229
+Central Bank of China,China Film Enterprise Company,1,N01229
+Central Bank of China,China Tea Company,1,N01229
+Central Bank of China,Chinese Ministry of Economic Affairs,1,N01229
+Central Bank of China,Sino-American Cultural Association,1,N01229
+China Association for Promotion of Commerce & Industry,China Film Enterprise Company,1,N01229
+China Association for Promotion of Commerce & Industry,China Tea Company,1,N01229
+China Association for Promotion of Commerce & Industry,Chinese Ministry of Economic Affairs,1,N01229
+China Association for Promotion of Commerce & Industry,Sino-American Cultural Association,1,N01229
+China Film Enterprise Company,China Tea Company,1,N01229
+China Film Enterprise Company,Chinese Ministry of Economic Affairs,1,N01229
+China Film Enterprise Company,Sino-American Cultural Association,1,N01229
+China Tea Company,Chinese Ministry of Economic Affairs,2,N01229|N01356
+China Tea Company,Sino-American Cultural Association,1,N01229
+Chinese Ministry of Economic Affairs,Sino-American Cultural Association,1,N01229
+Geological Survey,National Resources Commission,1,N01232
+Bank of China,Zhongxiao Bank,1,N01236
+Guangzhou Pui Ching Middle School,Lingnan University,1,N01246
+Chinese Delegation for World Cultural Cooperation,Sino-French Foundation Commission,1,N01248
+Detroit Edison Company,Drury & McNamee Shoecraft,1,N01249
+Detroit Edison Company,Giffels & Vallet Incorporated,1,N01249
+Drury & McNamee Shoecraft,Giffels & Vallet Incorporated,1,N01249
+Guangzhou Daily,Guangzhou Municipal First Middle School,1,N01250
+Guangzhou Daily,Guomin Daily,1,N01250
+Guangzhou Daily,Sun Yat-sen University,1,N01250
+Guangzhou Municipal First Middle School,Guomin Daily,1,N01250
+Guangzhou Municipal First Middle School,Sun Yat-sen University,1,N01250
+Guomin Daily,Sun Yat-sen University,1,N01250
+Beijing-Shanghai Railway,Shanghai-Hangzhou-Ningbo Railway,1,N01252
+China Defense Supplies Corporation,Huai'an Middle School,1,N01253
+China Defense Supplies Corporation,Massachusetts Institute of Technology,1,N01253
+Huai'an Middle School,Massachusetts Institute of Technology,1,N01253
+China National Aviation Corporation (CNAC),National Resources Commission,1,N01255
+China Institute in America,Columbia University,1,N01258
+Chinese News Service,Columbia University,1,N01258
+China Defense Supplies Corporation,Chinese Ministry of Communications,2,N01263|N01283
+China Development Finance Corporation,Chinese Ministry of Communications,1,N01263
+Central Political Department,Cheeloo University (Shandong University),1,N01270
+Central Political Department,Oregon State College,1,N01270
+Central Political Department,University of Arkansas,1,N01270
+Cheeloo University (Shandong University),Oregon State College,1,N01270
+Cheeloo University (Shandong University),University of Arkansas,1,N01270
+Oregon State College,University of Arkansas,1,N01270
+Bank of China,Lingnan University,1,N01275
+British Embassy,Legislative Yuan,1,N01276
+British Embassy,United States Embassy,1,N01276
+Legislative Yuan,United States Embassy,1,N01276
+Tsinghua University,Yunnan University,1,N01277
+Ambassador Wei Daoming,Central News Agency,1,N01280
+China Defense Supplies Corporation,Harvard University,1,N01283
+China Defense Supplies Corporation,Universal Trading Corporation,1,N01283
+Chinese Ministry of Communications,Harvard University,1,N01283
+Harvard University,Universal Trading Corporation,1,N01283
+Academia Sinica,Massachusetts Institute of Technology,1,N01284
+Harvard University,Massachusetts Institute of Technology,1,N01284
+Georgetown University,Providence College,1,N01287
+Jing River Commission,Sichuan Provincial Geological Survey,1,N01288
+American Airlines Incorporated,Thunderbird Field,1,N01291
+Irvington Varnish Insolator Company,United States Steel Export Company,1,N01298
+Fukien Christian University,Lingnan University,1,N01306
+Citizens' Foreign Relations Association,Pacification Commissioner of Mangshi,1,N01314
+Frank Wyckoop Company,United States Department of War,1,N01316
+Military Affairs Commission,Twelfth Infantry Division,1,N01317
+Military Affairs Commission,United States Military Mission,1,N01317
+Twelfth Infantry Division,United States Military Mission,1,N01317
+China Monthly,Social Welfare (Yishibao),1,N01322
+China Monthly,Social Welfare Service Department,1,N01322
+Social Welfare (Yishibao),Social Welfare Service Department,1,N01322
+China Defense Supplies Corporation,Chinese Embassy in the United States,1,N01329
+Cone Automatic Machine Company,Ford Motor Company,1,N01334
+Cone Automatic Machine Company,Holley Carburetor Company,1,N01334
+Ford Motor Company,Holley Carburetor Company,1,N01334
+Chinese Ministry of Communications,Zhejiang Provincial Senior High School,1,N01336
+Universal Trading Corporation,Zhejiang Provincial Senior High School,1,N01336
+Bendix Aviation Corporation,Delisser Machine & Tool Company,1,N01338
+Bendix Aviation Corporation,Universal Camera Corporation,1,N01338
+Delisser Machine & Tool Company,Universal Camera Corporation,1,N01338
+Northeast Air Lines,United States Air Corporation,1,N01339
+Historical Annal,Library of Congress,1,N01341
+Historical Annal,University of Chicago,1,N01341
+Library of Congress,University of Chicago,1,N01341
+Armored Corps Factory,Department of Military Training,1,N01346
+Armored Corps Factory,Fifth Army,1,N01346
+Central Agricultural Experiment Station,Minnesota Agricultural Experiment Station,1,N01351
+Minnesota Agricultural Experiment Station,University of Minnesota,1,N01351
+Central Political School,China Tea Company,1,N01356
+Central Political School,Chinese Consulate in London,1,N01356
+Central Political School,Chinese Ministry of Economic Affairs,1,N01356
+China Tea Company,Chinese Consulate in London,1,N01356
+Chinese Consulate in London,Chinese Ministry of Economic Affairs,1,N01356
+University of Minnesota,University of Nanking (Ginling University),1,N01357
+Radio Corporation of America (RCA),Universal Radio,1,N01362
+Chinese Ministry of Industry,Fuhua Trading Company,1,N01369
+Massachusetts Institute of Technology,United States Department of War,1,N01371
+Qiuzhi Middle School,Riverside Nursery School,1,N01373
+Chinese Ministry of Communications,National Resources Commission,1,N01379
+Chinese Ministry of Communications,United States Navy,1,N01379
+Nankai University,National Resources Commission,1,N01379
+Nankai University,United States Navy,1,N01379
+National Resources Commission,United States Navy,1,N01379
+Committee on Wartime Planning for Chinese Students in the United States,Guangzhou District Court,1,N01389
+Committee on Wartime Planning for Chinese Students in the United States,Lingnan University,1,N01389
+Committee on Wartime Planning for Chinese Students in the United States,National Guangdong College of Law,1,N01389
+Committee on Wartime Planning for Chinese Students in the United States,Zhonghua News Agency,1,N01389
+Guangzhou District Court,Lingnan University,1,N01389
+Guangzhou District Court,National Guangdong College of Law,1,N01389
+Guangzhou District Court,Zhonghua News Agency,1,N01389
+Lingnan University,National Guangdong College of Law,1,N01389
+Lingnan University,Zhonghua News Agency,1,N01389
+National Guangdong College of Law,Zhonghua News Agency,1,N01389
+Peiping Municipal Psychiatric Hospital,Peking Union Medical College (PUMC),1,N01390
+Curtiss-Wright Aircraft Corporation,Republic Aviation Corporation,1,N01391
+Curtiss-Wright Aircraft Corporation,University of Minnesota,1,N01391
+Curtiss-Wright Aircraft Corporation,York Aircraft Corporation,1,N01391
+Republic Aviation Corporation,University of Minnesota,1,N01391
+Republic Aviation Corporation,York Aircraft Corporation,1,N01391
+University of Minnesota,York Aircraft Corporation,1,N01391
+Bank of China,China Institute in America,1,N01397
+Jiaotong University,Universal Trading Corporation,1,N01399
+Chinese Ministry of Military Administration,Gong County Arsenal,1,N01406
+Gong County Arsenal,Jiaotong University,1,N01406
+Army Mechanized School,National Resources Commission,1,N01407
+Aeronautical Commission,Air Force Mechanics School,1,N01409
+Aeronautical Commission,Aviation Mechanics Monthly,1,N01409
+Air Force Mechanics School,Aviation Mechanics Monthly,1,N01409
+Guangzhou Pui Ching Middle School,University of Chicago,1,N01416
+Oregon State College,United States Navy,1,N01417
+"National Reconditioning Company, Incorporated",United States Steel Export Company,1,N01421
+California Institute of Technology,Cheeloo University (Shandong University),1,N01422
+California Institute of Technology,Peiping Academy,1,N01422
+Cheeloo University (Shandong University),Peiping Academy,1,N01422
+Jones & Lamson Machine Company,Studebaker Corporation,1,N01431
+Jones & Lamson Machine Company,University of Notre Dame,1,N01431
+Studebaker Corporation,University of Notre Dame,1,N01431
+Holabird & Root Company,James Stewart Corporation,1,N01440
+Bank of China,National Diplomacy Association,1,N01442
+Bank of China,National Diplomacy Monthly,1,N01442
+National Diplomacy Association,National Diplomacy Monthly,1,N01442
+Central Military Academy,Guangxi Student Army,1,N01444
+Central Military Academy,Military Affairs Commission,1,N01444
+Guangxi Student Army,Military Affairs Commission,1,N01444
+Capital Power Plant,Lanzhou Power Plant,1,N01446
+Capital Power Plant,National Resources Commission,1,N01446
+Lanzhou Power Plant,National Resources Commission,1,N01446
+Bank of China,Three Principles of the People Youth Corps,1,N01455
+Aircraft Screw Brod Company,Deal Electric Company,1,N01459
+Aircraft Screw Brod Company,Models & Patents Corporation,1,N01459
+Deal Electric Company,Models & Patents Corporation,1,N01459
+Dorr Company,James Stewart Corporation,1,N01465
+Chrysler Corporation,Stinson Aircraft Corporation,1,N01466
+Chrysler Corporation,University of Michigan,1,N01466
+Stinson Aircraft Corporation,University of Michigan,1,N01466
+Baldwin Locomotive Works,Dachang Industrial Company,1,N01473
+Baldwin Locomotive Works,Kiaochow–Tsinan Railway Administration,1,N01473
+Baldwin Locomotive Works,Yongtai Company,1,N01473
+Dachang Industrial Company,Kiaochow–Tsinan Railway Administration,1,N01473
+Dachang Industrial Company,Yongtai Company,1,N01473
+Kiaochow–Tsinan Railway Administration,Yongtai Company,1,N01473
+China Automobile Manufacturing Company,Department of Military Training,1,N01479
+Beijing Normal University,Chinese Delegation for World Cultural Cooperation,1,N01482
+Beijing Normal University,Institute for the Ideological Education of Overseas Chinese,1,N01482
+Beijing Normal University,The City College of New York,1,N01482
+Chinese Delegation for World Cultural Cooperation,Institute for the Ideological Education of Overseas Chinese,1,N01482
+Chinese Delegation for World Cultural Cooperation,The City College of New York,1,N01482
+Institute for the Ideological Education of Overseas Chinese,The City College of New York,1,N01482
+Chinese Consulate General in San Francisco,United States Embassy,1,N01483
+Carnegie Corporation,Chinese Ministry of Military Administration,1,N01491
+Carnegie Corporation,National Resources Commission,1,N01491
+Aeronautical Commission,Central Industrial Research Institute,1,N01493
+Aeronautical Commission,Merck & Company,1,N01493
+Aeronautical Commission,Universal Trading Corporation,1,N01493
+Central Industrial Research Institute,Merck & Company,1,N01493
+Central Industrial Research Institute,Universal Trading Corporation,1,N01493
+Merck & Company,Universal Trading Corporation,1,N01493
+Bank of China,"Yumei Secondary School, Taishan",1,N01503
+Peizhi Middle School,Zhonghua School [Provincial],1,N01507
+Chinese school in San Mateo,K.C.F. Food Products Laboratory,1,N01510
+Department of Machinery Division,Department of Military Training,1,N01514
+Department of Machinery Division,Fifth Army,1,N01514
+"Finkel & Finkel, C.P.A.",Jiaotong University,1,N01519
+"Finkel & Finkel, C.P.A.",University of Southern California,1,N01519
+Jiaotong University,University of Southern California,1,N01519
+Academia Sinica,University of Minnesota,1,N01520
+United States Office of War Information,Zhonghua Middle School (San Francisco),1,N01524
+China Film Studio,Chongqing New Society Daily,1,N01526
+China Film Studio,Jinjiang Daily,1,N01526
+China Film Studio,Military Affairs Commission,1,N01526
+Chongqing New Society Daily,Jinjiang Daily,1,N01526
+Chongqing New Society Daily,Military Affairs Commission,1,N01526
+Jinjiang Daily,Military Affairs Commission,1,N01526
+Economic Commission,Institute for National Survey Research,1,N01529
+Economic Commission,Tsinghua University,1,N01529
+Institute for National Survey Research,Tsinghua University,1,N01529
+Bianhe Road Rolling Stock Division,Chinese Ministry of Communications,1,N01531
+Bianhe Road Rolling Stock Division,Southwestern Highway,1,N01531
+Chinese Ministry of Communications,Southwestern Highway,1,N01531
+Chinese Consulate in Portland,St. John’s University,1,N01532
+Chinese Consulate in Portland,Tsinghua University,1,N01532
+St. John’s University,Tsinghua University,1,N01532
+Academia Sinica,Chinese Consulate General in Seoul,1,N01535
+Academia Sinica,University of Pittsburgh,1,N01535
+Chinese Consulate General in Seoul,University of Pittsburgh,1,N01535
+China Institute in America,Nankai University,1,N01537
+China Institute in America,Nankai University Journal,1,N01537
+China Institute in America,Shanghai Ta Kung Pao,1,N01537
+Nankai University,Nankai University Journal,1,N01537
+Nankai University,Shanghai Ta Kung Pao,1,N01537
+Nankai University Journal,Shanghai Ta Kung Pao,1,N01537
+Archer-Danials-Midland Vegetable Oil Company,Commander-Larabee Milling Company,1,N01538
+Chongqing Minkang Industrial Company,National Resources Commission,1,N01540
+Chongqing Minkang Industrial Company,Zhejiang University,1,N01540
+China Defense Supplies Corporation,"Kellogg Company, M.W.",1,N01546
+Beijing Normal University,West China Union University,1,N01550
+Nankai University,National Southwestern Associated University,1,N01552
+China Institute in America,Jiangsu Provincial Farmers Bank,1,N01554
+American Bureau for Medical Aid to China,University of Shanghai,1,N01560
+China Institute in America,Overseas Chinese School,1,N01569
+Sun Yat-sen University,Universal Trading Corporation,1,N01578
+Fukien Christian University,Methodist Church,1,N01581
+China Transport Company,High Standard Manufacturing Company,1,N01583
+China Transport Company,Kunming Huayi Trading Company,1,N01583
+China Transport Company,Republic Aviation Corporation,1,N01583
+High Standard Manufacturing Company,Kunming Huayi Trading Company,1,N01583
+High Standard Manufacturing Company,Republic Aviation Corporation,1,N01583
+Kunming Huayi Trading Company,Republic Aviation Corporation,1,N01583
+New York Commercial News,United States Military Mission,1,N01594
+Chongqing Physical Education Promotion Association,Tax Police Corps,1,N01612
+Executive Yuan,National General Mobilization Council,1,N01613

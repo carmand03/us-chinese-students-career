@@ -1,0 +1,202 @@
+﻿country,province,city,appointments,students,employers
+United States,Unknown,Unknown,285,251,183
+China,Unknown,Unknown,277,191,118
+United States,New York,New York,171,156,49
+China,Hebei,Beijing,118,99,24
+China,Yunnan,Kunming,64,57,10
+China,Jiangsu,Shanghai,51,41,34
+United States,District of Columbia,Washington,42,39,9
+China,Guangdong,Guangzhou,34,28,15
+United States,Massachusetts,Cambridge,28,25,3
+China,Jiangsu,Nanjing,26,24,7
+United States,Illinois,Chicago,26,23,10
+China,Sichuan,Chongqing,18,17,16
+United States,Michigan,Ann Arbor,17,17,1
+United States,Michigan,Detroit,16,15,4
+China,Hebei,Tianjin,16,14,9
+China,Guangdong,Unknown,15,14,8
+United States,New York,Schenectady,15,12,1
+China,Zhejiang,Hangzhou,14,13,5
+China,Chongqing,Chongqing,14,14,3
+China,Fujian,Fuzhou,13,10,4
+United States,California,San Francisco,12,11,10
+United States,Minnesota,Minneapolis,11,11,3
+United States,California,Los Angeles,11,9,6
+China,Guangdong,Zhongshan,11,11,2
+China,Yunnan,Unknown,11,9,8
+United States,Connecticut,New Haven,10,10,2
+United States,Washington,Seattle,9,9,5
+China,Sichuan,Chengdu,9,9,4
+United States,Hawaii,Honolulu,8,7,3
+China,Hubei,Wuhan,8,7,3
+China,Fujian,Xiamen,8,8,4
+United States,California,Berkeley,8,8,2
+United States,Pennsylvania,Pittsburgh,8,8,4
+United States,Oregon,Portland,7,7,3
+United States,New York,Buffalo,7,7,2
+China,Jiangsu,Unknown,6,5,5
+China,Jiangsu,Suzhou,6,6,1
+United States,Massachusetts,Boston,6,6,6
+United States,Louisiana,New Orleans,6,4,2
+United States,New Jersey,Rahway,5,5,2
+United States,Oregon,Corvallis,5,5,1
+Hong Kong,Hong Kong,Hong Kong,5,5,5
+United States,Pennsylvania,Philadelphia,5,4,4
+United States,Iowa,Ames,5,5,2
+China,Shandong,Jinan,5,5,1
+United States,Wisconsin,West Allis,4,4,1
+China,Jiangxi,Unknown,4,3,4
+China,Jiangsu,Wuxian,4,1,4
+China,Sichuan,Unknown,4,4,4
+China,Guangxi,Unknown,4,4,4
+China,Zhejiang,Unknown,4,4,4
+United States,Indiana,South Bend,4,3,3
+China,Gansu,Kunming,4,4,1
+United States,New York,Ithaca,4,4,2
+United States,California,Pasadena,4,3,1
+Cuba,Havana,Havana,3,3,2
+Switzerland,Geneva,Geneva,3,3,2
+United States,Pennsylvania,Eddystone,3,3,1
+United States,Michigan,East Lansing,3,2,2
+United States,Wisconsin,Madison,3,2,2
+United States,New Jersey,Princeton,3,3,3
+United States,New York,Farmingdale,3,3,1
+China,Hebei,Unknown,3,3,3
+United States,Texas,Houston,3,2,1
+United States,Massachusetts,Lancaster,2,1,1
+Switzerland,Unknown,Geneva,2,2,1
+United States,Wisconsin,Eau Claire,2,1,2
+United States,Washington,Bremerton,2,1,1
+United States,Rhode Island,Providence,2,2,2
+United States,California,Culver City,2,2,1
+United States,California,Oakland,2,2,2
+United States,North Carolina,Durham,2,2,1
+United States,Ohio,Columbus,2,1,2
+United States,Ohio,Cleveland,2,2,2
+United States,Michigan,Dearborn,2,2,1
+United States,New York,Syracuse,2,2,1
+United States,California,Stanford,2,2,1
+United States,New Jersey,Jersey City,2,1,1
+United States,New Jersey,Harrison,2,2,1
+United States,Illinois,Champaign,2,2,1
+United States,Mississippi,Vicksburg,2,2,2
+United States,Minnesota,Saint Paul,2,2,2
+Angola,Luanda,Luanda,2,2,1
+China,Shanghai,Shanghai,2,2,1
+China,Guangdong,Bao'an,2,1,1
+China,Liaoning,Shenyang,2,2,1
+China,Shaanxi,Unknown,2,1,2
+China,Hunan,Changsha,2,2,2
+China,Henan,Unknown,2,2,2
+China,Henan,Gongxian,2,2,1
+China,Guizhou,Unknown,2,1,2
+China,Guangxi,Guilin,2,2,1
+China,Guangdong,Taishan,2,2,2
+China,Yunnan,Ruili,2,2,1
+China,Jiangsu,Nantong,2,1,1
+China,Gansu,Unknown,2,1,2
+China,Fujian,Unknown,2,2,2
+United States,Tennessee,Nashville,1,1,1
+United States,New Jersey,Burlington,1,1,1
+China,Gansu,Lanzhou,1,1,1
+United States,New York,Beacon,1,1,1
+China,Hubei,Luotian,1,1,1
+China,Hubei,Unknown,1,1,1
+United States,New Jersey,Paulsboro,1,1,1
+United States,New Jersey,Passaic,1,1,1
+United States,New Jersey,Newark,1,1,1
+China,Anhui,Wuhu,1,1,1
+China,Hunan,Unknown,1,1,1
+China,Anhui,Unknown,1,1,1
+China,Heilongjiang,Unknown,1,1,1
+Canada,Ontario,Hamilton,1,1,1
+United States,New Jersey,Bound Brook,1,1,1
+United States,New Hampshire,Hanover,1,1,1
+United States,Montana,Butte,1,1,1
+United States,Missouri,Weldon Spring,1,1,1
+United States,Missouri,Parkville,1,1,1
+United States,Missouri,Kansas City,1,1,1
+China,Jiangsu,Changzhou,1,1,1
+China,Jiangsu,Dongtai,1,1,1
+United States,New York,Geneva,1,1,1
+United States,New York,Long Island,1,1,1
+United States,Tennessee,Knoxville,1,1,1
+China,Guangxi,Nanning,1,1,1
+China,Guangdong,Shantou,1,1,1
+China,Guangdong,Shunde,1,1,1
+United States,Vermont,Springfield,1,1,1
+China,Guangdong,Wuzhou,1,1,1
+United States,Pennsylvania,Bristol,1,1,1
+United States,Pennsylvania,Bethlehem,1,1,1
+United States,Virginia,Arlington,1,1,1
+United States,Oregon,Oregon,1,1,1
+United States,Oregon,Eugene,1,1,1
+United States,Ohio,Delaware,1,1,1
+United States,New York,Mount Morris,1,1,1
+China,Guizhou,Guiyang,1,1,1
+United States,Washington,Bramerton,1,1,1
+United States,Ohio,Akron,1,1,1
+China,Hebei,Nankou,1,1,1
+China,Jiangsu,Huai'an,1,1,1
+China,Hebei,Shijiazhuang,1,1,1
+China,Hebei,Tangshan,1,1,1
+United States,New York,Rochester,1,1,1
+China,Hebei,Zhengding,1,1,1
+Italy,Lazio,Rome,1,1,1
+China,Jiangsu,Rugao,1,1,0
+United States,Michigan,Pontiac,1,1,1
+Korea,Seoul,Seoul,1,1,1
+United States,Colorado,Boulder,1,1,1
+China,Sichuan,Sanjiang,1,1,1
+United States,California,Santa Monica,1,1,1
+United States,California,San Mateo,1,1,1
+China,Sichuan,Zigong,1,1,1
+United States,California,San Diego,1,1,1
+United States,California,Sacramento,1,1,1
+United States,California,Pomona,1,1,1
+China,Xinjiang,Ürümqi,1,1,1
+China,Yunnan,Mangshi,1,1,1
+Canada,British Columbia,Victoria,1,1,1
+United States,California,Glendale,1,1,1
+United States,California,Claremont,1,1,1
+China,Zhejiang,Dinghai,1,1,1
+United States,California,Azusa,1,1,1
+United States,California,Albany,1,1,1
+United States,Arkansas,Fayetteville,1,1,1
+United States,Arizona,Phoenix,1,1,1
+United States,Arizona,Glendale,1,1,1
+United Kingdom,England,London,1,1,1
+China,Zhejiang,Zhoushan,1,1,1
+Germany,Berlin,Berlin,1,1,1
+Philippines,National Capital Region,Manila,1,1,1
+Panama,Panama,Panama City,1,1,1
+Nicaragua,Managua Department,Managua,1,1,1
+United States,Connecticut,Hartford,1,1,1
+China,Sichuan,Nanchong,1,1,1
+China,Shandong,Wenshang,1,1,1
+United States,Louisiana,Belle Rose,1,1,1
+China,Jiangsu,Zhenjiang,1,1,1
+China,Jiangxi,Jiujiang,1,1,1
+United States,Massachusetts,Watertown,1,1,1
+United States,Massachusetts,Pittsfield,1,1,1
+United States,Massachusetts,Peabody,1,1,1
+United States,Massachusetts,Northampton,1,1,1
+China,Jiangxi,Nanchang,1,1,1
+United States,Massachusetts,Amherst,1,1,1
+United States,Maryland,Baltimore,1,1,1
+United States,Maine,Westbrook,1,1,1
+China,Shaanxi,Xi'an,1,1,1
+United States,Iowa,Iowa City,1,1,1
+United States,Hubei,Wuhan,1,1,1
+China,Shandong,Jiaozhou,1,1,1
+United States,Indiana,West Lafayette,1,1,1
+China,Shandong,Qingdao,1,1,1
+United States,Indiana,Indianapolis,1,1,1
+United States,Indiana,Hammond,1,1,1
+United States,Indiana,East Chicago,1,1,1
+United States,Illinois,Rockford,1,1,1
+United States,Illinois,Evanston,1,1,1
+United States,Illinois,Cook County,1,1,1
+China,Shandong,Unknown,1,1,1
+China,Shandong,Weihaiwei,1,1,1
+Unknown,Unknown,Unknown,1,1,0

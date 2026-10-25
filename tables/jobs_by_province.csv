@@ -1,0 +1,74 @@
+﻿country,province,appointments,students,employers
+United States,Unknown,285,251,183
+China,Unknown,277,191,118
+United States,New York,207,186,61
+China,Hebei,141,115,40
+China,Jiangsu,100,80,56
+China,Yunnan,78,67,20
+China,Guangdong,67,52,31
+United States,California,50,44,29
+United States,District of Columbia,42,39,9
+United States,Massachusetts,41,36,15
+United States,Michigan,39,36,9
+China,Sichuan,34,31,27
+United States,Illinois,31,28,14
+China,Fujian,23,19,10
+China,Zhejiang,20,19,11
+United States,Pennsylvania,18,17,11
+United States,New Jersey,17,16,11
+China,Chongqing,14,14,3
+United States,Oregon,14,14,5
+United States,Minnesota,13,12,5
+United States,Washington,12,11,6
+United States,Connecticut,11,11,3
+China,Shandong,10,10,6
+China,Hubei,10,8,5
+United States,Wisconsin,9,7,5
+United States,Indiana,8,7,7
+United States,Hawaii,8,7,3
+China,Gansu,7,6,4
+United States,Louisiana,7,5,3
+China,Guangxi,7,7,6
+United States,Ohio,6,5,6
+United States,Iowa,6,6,3
+China,Jiangxi,6,5,6
+Hong Kong,Hong Kong,5,5,5
+China,Henan,4,4,3
+United States,Missouri,3,3,3
+Switzerland,Geneva,3,3,2
+China,Guizhou,3,2,3
+United States,Texas,3,2,1
+China,Hunan,3,3,3
+Cuba,Havana,3,3,2
+China,Shaanxi,3,2,3
+Switzerland,Unknown,2,2,1
+China,Shanghai,2,2,1
+United States,Mississippi,2,2,2
+China,Anhui,2,2,2
+China,Liaoning,2,2,1
+Angola,Luanda,2,2,1
+United States,Arizona,2,2,2
+United States,Tennessee,2,2,2
+United States,North Carolina,2,2,1
+United States,Rhode Island,2,2,2
+United States,Vermont,1,1,1
+United States,New Hampshire,1,1,1
+United States,Montana,1,1,1
+United States,Virginia,1,1,1
+United Kingdom,England,1,1,1
+United States,Maryland,1,1,1
+United States,Maine,1,1,1
+United States,Hubei,1,1,1
+United States,Colorado,1,1,1
+United States,Arkansas,1,1,1
+Canada,British Columbia,1,1,1
+Philippines,National Capital Region,1,1,1
+Panama,Panama,1,1,1
+Nicaragua,Managua Department,1,1,1
+Korea,Seoul,1,1,1
+Italy,Lazio,1,1,1
+Germany,Berlin,1,1,1
+China,Xinjiang,1,1,1
+China,Heilongjiang,1,1,1
+Canada,Ontario,1,1,1
+Unknown,Unknown,1,1,0

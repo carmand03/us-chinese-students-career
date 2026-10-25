@@ -1,0 +1,727 @@
+﻿education_institutions,level,appointments,students,employers
+Jiaotong University,mid-level,101,60,64
+University of Michigan,mid-level,86,64,60
+Yenching University,mid-level,81,59,64
+Massachusetts Institute of Technology,mid-level,53,40,38
+Tsinghua University,mid-level,52,40,39
+Tsinghua University,junior,45,40,22
+Columbia University,senior,45,23,40
+Harvard University,mid-level,45,35,37
+Columbia University,mid-level,44,33,39
+Yenching University,senior,42,28,30
+New York University,mid-level,41,32,26
+Jiaotong University,senior,39,25,26
+Massachusetts Institute of Technology,junior,33,27,19
+Harvard University,senior,32,19,25
+University of Illinois,mid-level,31,18,27
+University of California,mid-level,29,25,26
+University of Chicago,senior,29,15,24
+Purdue University,mid-level,29,23,22
+Central University,mid-level,28,19,20
+Lingnan University,mid-level,28,21,25
+St. John's University,mid-level,28,25,24
+Tsinghua University,senior,28,16,22
+Yenching University,junior,27,25,17
+Jiaotong University,junior,26,22,17
+University of Michigan,senior,23,17,18
+University of Minnesota,mid-level,23,20,22
+University of Michigan,junior,23,22,16
+University of Minnesota,junior,22,17,13
+University of Chicago,mid-level,22,19,21
+University of Pennsylvania,mid-level,21,16,19
+Zhongshan University,mid-level,20,16,17
+University of California,junior,20,17,15
+Shanghai University,mid-level,20,14,18
+Cornell University,mid-level,19,12,18
+Massachusetts Institute of Technology,senior,19,13,15
+Beijing University,mid-level,19,17,18
+Columbia University,executive,18,15,18
+Massachusetts Institute of Technology,Unknown,17,17,12
+New York University,Unknown,17,13,15
+California Institute of Technology,mid-level,17,10,16
+Jiaotong University,Unknown,16,15,11
+University of Michigan,Unknown,16,15,14
+Southeast University,senior,16,8,13
+Jinling University,junior,15,12,10
+University of Illinois,senior,15,7,13
+Jinling University,senior,15,8,13
+Harvard University,junior,15,14,10
+Columbia University,Unknown,14,14,11
+Lingnan University,senior,14,6,10
+Purdue University,Unknown,14,13,12
+New York University,senior,13,10,13
+Stanford University,mid-level,13,10,13
+Central University,junior,12,9,8
+Central Army Military Academy,student,12,12,1
+Fudan University,mid-level,12,9,10
+Jinling University,mid-level,12,10,12
+Shanghai University,senior,12,8,11
+Central University,senior,12,8,11
+Columbia University,junior,12,12,10
+Jinan University,mid-level,11,6,10
+Purdue University,junior,11,9,9
+Yenching University,Unknown,11,11,10
+Oregon State College,mid-level,11,8,9
+St. John's University,junior,11,10,11
+Normal University,mid-level,11,6,8
+State University of Iowa,mid-level,11,8,11
+University of London,mid-level,11,7,11
+New York University,junior,10,8,10
+Beijing University,junior,10,8,6
+University of California,senior,10,7,8
+Beijing University,senior,10,7,10
+Stanford University,senior,10,4,10
+Zhejiang University,mid-level,10,9,8
+University of Illinois,junior,10,8,7
+Southeast University,mid-level,10,8,10
+State University of Iowa,junior,10,6,9
+University of Southern California,mid-level,10,9,10
+St. John's University,Unknown,10,9,9
+St. John's University,senior,10,7,10
+Nankai University,senior,10,7,8
+Unknown,mid-level,9,6,8
+State University of Iowa,senior,9,4,9
+Ohio State University,mid-level,9,5,8
+Tri-State College,mid-level,9,6,8
+Edinburgh University,senior,9,2,8
+University of Chicago,junior,9,7,5
+University of California,Unknown,9,9,9
+Yale University,mid-level,9,6,9
+California Institute of Technology,junior,9,8,6
+Ginling College,mid-level,8,7,8
+University of Southern California,senior,8,5,7
+Zhijiang University,mid-level,8,7,8
+University of Southern California,junior,8,6,8
+Cornell University,senior,8,5,8
+University of Washington,mid-level,8,7,8
+Qilu University,mid-level,8,5,8
+Nankai University,mid-level,8,6,7
+University of Washington,senior,8,6,6
+Northeast University,mid-level,8,3,8
+Beiyang University,senior,7,3,5
+Northwestern University,senior,7,3,7
+University of Pennsylvania,senior,7,5,7
+University of Wisconsin,mid-level,7,6,7
+Penn State College,mid-level,7,3,7
+Fudan University,senior,7,3,7
+University of Minnesota,senior,7,4,7
+University of London,senior,7,3,3
+Iowa State College,junior,7,6,7
+University of Chicago,Unknown,7,7,7
+Tsinghua University,Unknown,7,7,5
+University of Toronto,junior,7,7,3
+Zhejiang University,junior,7,6,5
+University of Wisconsin,senior,6,4,6
+Zhongshan University,junior,6,5,4
+Harvard University,Unknown,6,6,6
+Yenching University,executive,6,5,5
+University of Missouri,mid-level,6,4,6
+University of Missouri,senior,6,3,6
+University of London,junior,6,6,5
+Cornell University,junior,6,6,6
+Shanghai University,junior,6,6,5
+University of Southern California,Unknown,6,6,6
+Tsinghua University,student,6,5,5
+George Washington University,mid-level,6,3,5
+Glasgow University,senior,6,1,6
+Beiyang University,mid-level,6,4,5
+Jiaotong University,student,6,6,4
+Peking Union Medical College,senior,6,4,6
+Technical University Berlin,senior,6,1,2
+Nanking Higher Normal School,senior,6,1,6
+Zhijiang University,junior,6,6,5
+Xiamen University,senior,6,2,5
+Fujian Union University,senior,5,3,4
+University of Paris,mid-level,5,4,5
+University of Michigan,student,5,4,5
+University of Chicago,executive,5,4,5
+Northeastern University,mid-level,5,3,5
+Illinois Institute of Technology,mid-level,5,3,5
+University of Hong Kong,Unknown,5,5,5
+Purdue University,senior,5,3,5
+Purdue University,student,5,4,4
+Central Political School,mid-level,5,4,4
+Lingnan University,Unknown,5,5,5
+Nankai University,Unknown,5,4,4
+University of Houston,mid-level,5,1,5
+Rensselaer Polytechnic Institute,mid-level,5,3,5
+Clark University,Unknown,5,2,5
+Michigan State College,senior,5,3,4
+Cornell University,Unknown,5,4,5
+Zhongshan University,senior,5,3,5
+Unknown,senior,5,5,5
+Unknown,executive,5,5,4
+University of Pennsylvania,executive,4,4,4
+California Institute of Technology,senior,4,4,3
+Datong University,mid-level,4,2,4
+Fujian Union University,junior,4,4,2
+Fujian Union University,mid-level,4,3,4
+Cambridge University,senior,4,2,3
+Zhongshan University,Unknown,4,4,4
+Cambridge University,mid-level,4,3,4
+University of Colorado,junior,4,4,4
+Beiyang University,junior,4,3,4
+Guanghua University,senior,4,3,3
+Syracuse University,mid-level,4,3,4
+Stanford University,junior,4,4,3
+Normal University,senior,4,3,4
+University of Hong Kong,mid-level,4,3,4
+Oberlin College,mid-level,4,3,4
+Stanford University,Unknown,4,4,4
+University of Paris,senior,4,2,4
+Shanghai University,Unknown,4,4,4
+Xiamen University,mid-level,4,2,4
+Central Army Military Academy,mid-level,4,3,4
+University of Washington,junior,4,4,4
+China University,senior,4,2,4
+Peking Union Medical College,mid-level,4,3,2
+Johns Hopkins University,senior,4,2,4
+Washington University,mid-level,4,3,4
+University of Washington,Unknown,4,4,4
+Iowa State College,senior,4,4,4
+Peiping College of Finance and Commerce,Unknown,4,1,4
+Wuhan University,junior,4,3,4
+Princeton University,mid-level,4,3,4
+Fu-jen University,Unknown,4,4,2
+University of Wisconsin,Unknown,4,4,4
+Datong University,junior,4,4,4
+Fu-jen University,senior,4,3,4
+Johns Hopkins University,mid-level,4,3,4
+University of Pennsylvania,Unknown,3,3,3
+Mount Holyoke College,mid-level,3,2,3
+University of Michigan,executive,3,3,3
+Aachen Technical University,senior,3,1,3
+Hebei Institute of Technology,junior,3,2,3
+University of Hong Kong,junior,3,3,3
+Michigan State College,mid-level,3,2,2
+University of Oklahoma,junior,3,2,3
+University of Oklahoma,mid-level,3,2,3
+University of Houston,senior,3,1,2
+Loyola University,mid-level,3,2,3
+Hwa Nan College,junior,3,2,3
+Louisiana State University,mid-level,3,2,3
+Naval school,mid-level,3,1,2
+University of Notre Dame,mid-level,3,3,3
+University of Cincinnati,mid-level,3,2,3
+Lingnan University,junior,3,3,2
+Mary Hardin-Baylor College,Unknown,3,1,3
+New School For Social Research,executive,3,2,2
+New York University,executive,3,3,3
+Kansas State College,junior,3,2,3
+Hebei University,junior,3,1,3
+Massachusetts Institute of Technology,student,3,3,3
+University of Illinois,Unknown,3,3,3
+University of Notre Dame,junior,3,3,3
+University of Chicago,student,3,3,3
+University of Minnesota,Unknown,3,3,3
+Oberlin College,Unknown,3,3,2
+Emmanuel Missionary College,senior,3,1,2
+University of Toronto,mid-level,3,3,3
+Edinburgh University,mid-level,3,2,3
+University of Toronto,senior,3,2,2
+Zhejiang University,senior,3,3,2
+Peking Union Medical College,junior,3,3,2
+Penn State College,Unknown,3,3,3
+Shanghai University,executive,3,3,3
+Pomona College,junior,3,2,2
+Zhejiang Provincial Technical College,mid-level,3,1,3
+University of the Philippines,mid-level,3,2,3
+Princeton University,senior,3,2,3
+Colorado School of Mines,Unknown,3,3,3
+Brown University,mid-level,3,3,3
+West China University,mid-level,3,2,3
+City College of New York,mid-level,3,1,3
+University of Pittsburgh,Unknown,3,3,3
+Yale University,senior,3,3,3
+Rostock University,senior,3,1,3
+Tianjin Industrial and Commercial College,mid-level,3,1,3
+Central University,Unknown,3,3,3
+Central Political School,senior,3,3,3
+Wusong Merchant Shipping School,senior,3,2,2
+Carnegie Institute of Technology,mid-level,3,3,3
+University of Hawaii,senior,3,2,3
+Penn State College,junior,3,3,3
+Park College,mid-level,3,2,3
+Oregon State College,junior,3,3,2
+Guangxi University,senior,3,1,2
+Guangxi University,mid-level,3,2,3
+Guanghua University,mid-level,3,2,3
+University of Pittsburgh,junior,3,2,3
+Zhongshan University,executive,3,3,3
+Army Mechanization School,student,3,3,1
+Ginling College,senior,3,2,3
+University of Texas,Unknown,3,1,3
+St. John's University,student,3,3,3
+University of Southern California,executive,3,3,3
+Art Institute of Chicago,mid-level,3,2,3
+Shanghai Sanyu University,senior,3,1,2
+Fudan University,Unknown,3,3,3
+Fordham University,mid-level,3,2,3
+Fu-jen University,junior,3,3,3
+Fudan University,junior,3,1,3
+Oxford University,mid-level,3,2,3
+Oxford University,senior,3,2,3
+Spartan College of Aeronautics and Technology,Unknown,2,1,2
+Missouri School of Mines & Metals,mid-level,2,2,1
+Shanghai University,student,2,2,2
+Syracuse University,executive,2,1,1
+Shanghai Xinhua University of Art,mid-level,2,1,2
+Sino-French University,Unknown,2,1,2
+Tangshan Chiao Tung University,mid-level,2,1,2
+Nankai University,junior,2,2,2
+Smith College,Unknown,2,2,2
+Stanford University,executive,2,2,2
+Southeast University,Unknown,2,2,2
+University of Dubuque,mid-level,2,2,1
+University of Colorado,mid-level,2,2,2
+University of Denver,senior,2,1,2
+St. Louis College of Pharmacy,junior,2,1,2
+Moody Bible Institute,senior,2,1,1
+University of Detroit,mid-level,2,1,2
+Mount Union College,Unknown,2,1,2
+Southeast University,junior,2,2,2
+Taliesin Fellowship,mid-level,2,1,2
+Syracuse University,junior,2,2,1
+Southwest Associated University,mid-level,2,1,2
+Southeast University,executive,2,2,2
+Radcliffe College,junior,2,1,2
+Shanghai Sanyu University,mid-level,2,1,1
+Pomona College,senior,2,1,2
+Northwestern University,mid-level,2,2,2
+Oberlin College,executive,2,1,2
+Oberlin College,junior,2,1,2
+Ohio State University,junior,2,2,2
+Northeastern University,junior,2,2,2
+Ohio State University,senior,2,1,2
+Oregon State College,Unknown,2,2,2
+Northeast University,junior,2,1,2
+Oregon State College,senior,2,1,2
+Nihon University,senior,2,1,2
+Peking Metropolitan University,senior,2,1,2
+Polytechnic Institute of Brooklyn,Unknown,2,1,2
+Polytechnic Institute of Brooklyn,mid-level,2,1,2
+Tulane University,senior,2,1,2
+Princeton University,executive,2,2,2
+Technical College of Hanover,mid-level,2,1,2
+Princeton University,junior,2,2,2
+Propaganda Fide,senior,2,1,2
+Niagara University,executive,2,1,2
+University of Cincinnati,Unknown,2,2,2
+Qilu University,senior,2,2,2
+Tri-State College,junior,2,2,2
+Tokyo Imperial University,senior,2,1,2
+Tientsin Institute of Commerce,mid-level,2,1,2
+Rostock University,executive,2,1,2
+Royal Military College,junior,2,2,2
+New School For Social Research,senior,2,1,2
+Rutgers University,mid-level,2,1,2
+Shandong University,mid-level,2,1,2
+Shandong University,senior,2,1,2
+University of Berlin,student,2,1,2
+State University of Iowa,Unknown,2,2,2
+Wheaton College,junior,2,1,2
+Yale University,junior,2,2,2
+Cornell University,executive,2,2,2
+Fujian Union University,executive,2,2,2
+Fujian Union University,student,2,2,2
+George Peabody College,junior,2,2,2
+George Peabody College,mid-level,2,1,2
+Canisus College,senior,2,1,2
+University of San Francisco,senior,2,1,2
+University of San Francisco,mid-level,2,1,2
+Cambridge University,junior,2,2,2
+Fordham University,senior,2,1,2
+Cambridge University,executive,2,1,1
+Brown University,junior,2,2,2
+Boston University,mid-level,2,2,2
+University of Pittsburgh,senior,2,2,2
+University of Pittsburgh,mid-level,2,2,2
+Guangdong College of Law,mid-level,2,1,2
+University of Perugia,student,2,1,2
+Boston University,junior,2,2,2
+Curtiss-Wright Technical Institute,junior,2,2,2
+University of Texas,mid-level,2,2,2
+Haverford College,senior,2,1,2
+Daxia University,junior,2,2,2
+Mills College,mid-level,2,2,2
+Chengdu Sino-French University,mid-level,2,1,2
+Wuhan University,mid-level,2,1,2
+Wusong Merchant Shipping School,junior,2,2,2
+Central Army Military Academy,senior,2,1,1
+Daxia University,mid-level,2,1,2
+Duke University,executive,2,1,1
+Duke University,mid-level,2,2,2
+Xiamen University,executive,2,1,2
+Carnegie Institute of Technology,junior,2,2,2
+Catholic University of America,senior,2,1,2
+Ecole des Hautes Etudes Industrielles et Commerciales,senior,2,1,2
+Edinburgh University,executive,2,2,2
+Chengdu Sino-French University,senior,2,1,2
+Emmanuel Missionary College,mid-level,2,1,1
+Catholic University of America,Unknown,2,2,2
+Fordham University,Unknown,2,1,2
+Case School of Applied Science,Unknown,2,1,2
+Daxia University,senior,2,1,2
+University of Pennsylvania,junior,2,2,1
+Birmingham University,junior,2,1,2
+West China Union University,mid-level,2,1,2
+University of London,Unknown,2,2,2
+Zhejiang University,student,2,2,1
+Madison College,mid-level,2,1,2
+Army University,senior,2,1,1
+Mapúa Institute of Technology,mid-level,2,1,2
+Zhijiang University,Unknown,2,2,2
+Army Signal Corps School,mid-level,2,1,2
+Army Mechanization School,junior,2,2,1
+Maryville College,junior,2,1,2
+Arkansas State College,mid-level,2,1,2
+McGill University,junior,2,2,2
+University of Illinois,executive,2,2,2
+Mercer University,mid-level,2,1,2
+Mercer University,senior,2,1,2
+Antioch College,senior,2,1,2
+American National University,senior,2,2,2
+Wheaton College,mid-level,2,2,2
+Hebei Institute of Technology,senior,2,1,2
+Loyola University,student,2,1,1
+Baldwin Wallace College,junior,2,1,2
+Jiaozuo Institute of Technology,mid-level,2,1,2
+Beijing University,executive,2,2,2
+Zhejiang University,Unknown,2,2,2
+Henan University,mid-level,2,1,2
+Asbury College,mid-level,2,2,2
+China College University Department,mid-level,2,2,2
+Jinan University,junior,2,2,2
+Jinan University,student,2,1,1
+University of Maryland,senior,2,1,2
+Johns Hopkins University,Unknown,2,2,2
+Johns Hopkins University,executive,2,1,2
+Atlantic Union College,mid-level,2,1,2
+Witwatersrand College,Unknown,2,1,2
+China College University Department,senior,2,1,2
+Tianjin Industrial and Commercial College,senior,1,1,1
+Williams Hospital,senior,1,1,1
+Wuchang University,student,1,1,1
+Women's Christian Medical College,Unknown,1,1,1
+Tri-State College,Unknown,1,1,1
+Tokyo University of Commerce,senior,1,1,1
+Worcester Polytechnic Institute,Unknown,1,1,1
+Tianjin Industrial and Commercial College,Unknown,1,1,1
+University of Hawaii,student,1,1,1
+Texas Technical College,junior,1,1,1
+Syracuse University,senior,1,1,1
+École Libre des Sciences Politiques,executive,1,1,1
+Zhonghua University,mid-level,1,1,1
+Zhizhi College,Unknown,1,1,1
+Zhijiang University,senior,1,1,1
+Stevens Institute of Technology,Unknown,1,1,1
+Sweet Briar College,mid-level,1,1,1
+Yungli Chemical Industries Limited,Unknown,1,1,1
+Syracuse University,student,1,1,1
+Wusong Merchant Shipping School,student,1,1,1
+Yenching University,student,1,1,1
+Western Reserve University,mid-level,1,1,1
+Tangshan Chiao Tung University,senior,1,1,1
+Taxation College,mid-level,1,1,1
+Yale University,executive,1,1,1
+Xiamen University,junior,1,1,1
+Xiamen University,Unknown,1,1,1
+Tangshan Chiao Tung University,Unknown,1,1,1
+University of Wisconsin,junior,1,1,1
+West China University,senior,1,1,1
+University of Maryland,junior,1,1,1
+University of Richmond,senior,1,1,1
+University of Richmond,mid-level,1,1,1
+University of Richmond,junior,1,1,1
+University of Pennsylvania,student,1,1,1
+University of Paris,executive,1,1,1
+University of Notre Dame,student,1,1,1
+University of Notre Dame,senior,1,1,1
+University of Notre Dame,Unknown,1,1,1
+University of Missouri,executive,1,1,1
+University of Missouri,Unknown,1,1,1
+University of Minnesota,student,1,1,1
+University of Minnesota,executive,1,1,1
+University of Maryland,mid-level,1,1,1
+University of Maryland,Unknown,1,1,1
+University of San Francisco,junior,1,1,1
+University of Lyon,mid-level,1,1,1
+University of Colorado,Unknown,1,1,1
+University of Kentucky,mid-level,1,1,1
+University of Kansas,mid-level,1,1,1
+University of Kansas,junior,1,1,1
+University of Iowa,Unknown,1,1,1
+University of Costa Rica,junior,1,1,1
+University of Illinois,student,1,1,1
+University of Dubuque,Unknown,1,1,1
+University of Hawaii,Unknown,1,1,1
+University of Houston,junior,1,1,1
+University of Hawaii,junior,1,1,1
+University of Hawaii,mid-level,1,1,1
+University of Rochester,junior,1,1,1
+University of California,student,1,1,1
+Tsinghua University,executive,1,1,1
+University of Wisconsin,executive,1,1,1
+West China University,executive,1,1,1
+West China University,Unknown,1,1,1
+West China Union University,student,1,1,1
+Wentworth Institute,mid-level,1,1,1
+Wentworth Institute,junior,1,1,1
+Wellesley College,junior,1,1,1
+Wayne University,senior,1,1,1
+Washington State College,senior,1,1,1
+Washington Missionary College,mid-level,1,1,1
+Washington & Jefferson College,mid-level,1,1,1
+Unknown,Unknown,1,1,1
+Tulane University,mid-level,1,1,1
+University of the Philippines,Unknown,1,1,1
+University de Liege,Unknown,1,1,1
+University of Santo Tomas,Unknown,1,1,1
+University of Washington,student,1,1,1
+University de Nancy,mid-level,1,1,1
+University de Nancy,senior,1,1,1
+University of Washington,executive,1,1,1
+University of Turin,senior,1,1,1
+University of Turin,mid-level,1,1,1
+University of Berlin,mid-level,1,1,1
+University of Bonn,executive,1,1,1
+University of Bonn,mid-level,1,1,1
+University of British Columbia,senior,1,1,1
+University of Tennessee,mid-level,1,1,1
+University of Southern California,student,1,1,1
+University of California,executive,1,1,1
+Aachen Technical University,mid-level,1,1,1
+Northeastern University,senior,1,1,1
+State University of Iowa,executive,1,1,1
+Drew University,mid-level,1,1,1
+Fordham University,executive,1,1,1
+Field Artillery School,junior,1,1,1
+Embry–Riddle Aeronautical University (ERAU),mid-level,1,1,1
+Edinburgh University,junior,1,1,1
+Ecole des Hautes Etudes Industrielles et Commerciales,mid-level,1,1,1
+Duquesne University,senior,1,1,1
+Duquesne University,junior,1,1,1
+Duquesne University,Unknown,1,1,1
+Duke University,senior,1,1,1
+Duke University,junior,1,1,1
+Duke University,Unknown,1,1,1
+Drew University,student,1,1,1
+Drake University,junior,1,1,1
+Hebei Institute of Technology,student,1,1,1
+Dickinson College,junior,1,1,1
+Detroit Institute of Technology,mid-level,1,1,1
+Denison University,executive,1,1,1
+De La Salle College,mid-level,1,1,1
+Daxia University,Unknown,1,1,1
+Datong University,Unknown,1,1,1
+Dartmouth College,junior,1,1,1
+Curtiss-Wright Technical Institute,senior,1,1,1
+Curtiss-Wright Technical Institute,Unknown,1,1,1
+Cornell University,student,1,1,1
+Columbia University,student,1,1,1
+Colorado School of Mines,mid-level,1,1,1
+Fordham University,junior,1,1,1
+Fu-jen University,mid-level,1,1,1
+Fudan University,executive,1,1,1
+George Washington University,Unknown,1,1,1
+Heald’s Engineering College,senior,1,1,1
+Heald's College,mid-level,1,1,1
+Haverford College,mid-level,1,1,1
+Haverford College,junior,1,1,1
+Haverford College,executive,1,1,1
+Haverford College,Unknown,1,1,1
+Harvard University,executive,1,1,1
+Harbin Polytechnic Institute,junior,1,1,1
+Guangzhou University,mid-level,1,1,1
+Guangxi University,student,1,1,1
+Guanghua University,Unknown,1,1,1
+Goucher College,mid-level,1,1,1
+Gonzaga University,mid-level,1,1,1
+Gonzaga University,junior,1,1,0
+Glasgow University,mid-level,1,1,1
+Glasgow University,executive,1,1,1
+Ginling College,junior,1,1,1
+Ginling College,executive,1,1,1
+Georgia School of Technology,mid-level,1,1,1
+Georgetown University,student,1,1,1
+Georgetown University,senior,1,1,1
+Georgetown University,executive,1,1,1
+Georgetown University,Unknown,1,1,1
+George Washington University,senior,1,1,1
+George Washington University,executive,1,1,1
+Colorado School of Mines,junior,1,1,1
+Colorado College,senior,1,1,1
+Colorado College,mid-level,1,1,1
+Cambridge University,Unknown,1,1,1
+Bryn Mawr College,senior,1,1,1
+Bryn Mawr College,junior,1,1,1
+Brown University,Unknown,1,1,1
+Birmingham University,mid-level,1,1,1
+Bennett College,mid-level,1,1,1
+Beiyang University,Unknown,1,1,1
+Beijing University,student,1,1,1
+Beijing University,Unknown,1,1,1
+Baylor University,Unknown,1,1,1
+Barnard College,Unknown,1,1,1
+Baldwin Wallace College,mid-level,1,1,1
+Aurora University,mid-level,1,1,1
+Art Institute of Chicago,Unknown,1,1,1
+Army University,mid-level,1,1,1
+Army University,executive,1,1,1
+Armstrong Junior College,junior,1,1,1
+Arkansas State College,Unknown,1,1,1
+Arizona State Teachers' College,Unknown,1,1,1
+Antioch College,mid-level,1,1,1
+American National University,mid-level,1,1,1
+American National University,junior,1,1,1
+American National University,executive,1,1,1
+American Conservatory of Music,senior,1,1,1
+Alfred University,mid-level,1,1,1
+Air Force Technical College,junior,1,1,1
+California Institute of Technology,Unknown,1,1,1
+Cambridge University,student,1,1,1
+College of St. Elisabeth,mid-level,1,1,1
+Carleton College,junior,1,1,1
+College of St. Elisabeth,junior,1,1,1
+College of St. Elisabeth,Unknown,1,1,1
+Clark University,senior,1,1,1
+Clarence White School of Photography,executive,1,1,1
+Claremont College,mid-level,1,1,1
+City College of New York,senior,1,1,1
+City College of New York,Unknown,1,1,1
+Chrysler Institute of Engineering,mid-level,1,1,1
+Chongqing University,senior,1,1,1
+China University,mid-level,1,1,1
+China University,junior,1,1,1
+China University,Unknown,1,1,1
+China College University Department,student,1,1,1
+"Children Hospital, Massachusetts",senior,1,1,1
+Chicago Aeronautical University,mid-level,1,1,1
+Chemical Institute of Lyon,mid-level,1,1,1
+Central University,student,1,1,1
+Central Political School,student,1,1,1
+Central Political School,junior,1,1,1
+Central Army Military Academy,junior,1,1,1
+Central Army Military Academy,executive,1,1,1
+Central Army Military Academy,Unknown,1,1,1
+Catholic University of America,mid-level,1,1,1
+Carroll College,mid-level,1,1,1
+Carleton College,mid-level,1,1,1
+Hebei Institute of Technology,mid-level,1,1,1
+Hebei Provincial Institute of Technology,Unknown,1,1,1
+St. Paul's Girls' School,mid-level,1,1,1
+Pacific School of Religion,mid-level,1,1,1
+Propaganda Fide,executive,1,1,1
+Princeton Seminary,mid-level,1,1,1
+Princeton Seminary,junior,1,1,1
+Pomona College,Unknown,1,1,1
+Polytechnic Institute of Brooklyn,junior,1,1,1
+Peter Bent Brigham Hospital,mid-level,1,1,1
+Penn State College,senior,1,1,1
+Peking Metropolitan University,junior,1,1,1
+Peiping Minguo University,senior,1,1,1
+Peiping College of Finance and Commerce,senior,1,1,1
+Peabody Conservatory of Music,mid-level,1,1,1
+Parks Air College,Unknown,1,1,1
+Oxford University,junior,1,1,1
+Hebei University,senior,1,1,1
+Oxford University,executive,1,1,1
+Ohio Wesleyan University,senior,1,1,1
+Ohio Wesleyan University,mid-level,1,1,1
+Ohio Wesleyan University,junior,1,1,1
+Ohio Wesleyan University,executive,1,1,1
+Oberlin College,senior,1,1,1
+Northeast University,Unknown,1,1,0
+Normal University,junior,1,1,1
+Normal University,executive,1,1,1
+Nihon University,mid-level,1,1,1
+New York University,student,1,1,1
+National College of Music,senior,1,1,1
+Pughy College,Unknown,1,1,1
+Qilu University,junior,1,1,1
+Qilu University,student,1,1,1
+Radcliffe College,mid-level,1,1,1
+St. Louis College of Pharmacy,mid-level,1,1,1
+St. John's University,executive,1,1,1
+St. John's Hospital,junior,1,1,1
+Springfield College,senior,1,1,1
+Springfield College,mid-level,1,1,1
+Southwestern University,mid-level,1,1,1
+Southern College,senior,1,1,1
+Southern College,executive,1,1,1
+Southeast University,student,1,1,1
+Sino-Russian Industrial University,senior,1,1,1
+Sino-French University,mid-level,1,1,1
+Simmons College,senior,1,1,1
+Simmons College,mid-level,1,1,1
+Shanghai Medical College,mid-level,1,1,1
+Shandong University,junior,1,1,1
+Seton Hill College,mid-level,1,1,1
+San Francisco State College,Unknown,1,1,1
+Royal Polytechnic University of Milan,Unknown,1,1,1
+Rostock University,Unknown,1,1,1
+Rochester Institute of Technology,mid-level,1,1,1
+Rice Institute,junior,1,1,1
+Rice Institute,Unknown,1,1,1
+Rensselaer Polytechnic Institute,senior,1,1,1
+Rensselaer Polytechnic Institute,junior,1,1,1
+Radio Corporation of America Institute,mid-level,1,1,1
+National College of Music,mid-level,1,1,1
+Nankai University,executive,1,1,1
+Nankai School,student,1,1,1
+Louisiana State University,senior,1,1,1
+Linfield College,junior,1,1,1
+Linfield College,Unknown,1,1,1
+Lehigh University,mid-level,1,1,1
+LaSalle College,Unknown,1,1,1
+Jinling University,Unknown,1,1,1
+Jinan University,executive,1,1,1
+Jiaozuo Institute of Technology,student,1,1,1
+Jiaozuo Institute of Technology,senior,1,1,1
+Jiaozuo Institute of Technology,junior,1,1,1
+Jiaotong University,executive,1,1,1
+Iowa State College,mid-level,1,1,1
+Iowa State College,Unknown,1,1,1
+International University,mid-level,1,1,1
+Institute for Advanced Study,junior,1,1,1
+Indiana University,senior,1,1,1
+Indiana University,mid-level,1,1,1
+Indiana University,Unknown,1,1,1
+Indiana Technical College,mid-level,1,1,1
+Indiana Technical College,Unknown,1,1,1
+Illinois Institute of Technology,junior,1,1,1
+Hunan University,senior,1,1,1
+Hunan University,mid-level,1,1,1
+Huazhong University,mid-level,1,1,1
+Huazhong University,junior,1,1,1
+Hongkong University,senior,1,1,1
+Lingnan University,student,1,1,1
+Lowell Textile Institute,mid-level,1,1,1
+Nankai School,executive,1,1,1
+Madison College,Unknown,1,1,1
+Multnomah University,mid-level,1,1,1
+Mount Mary College,mid-level,1,1,1
+Mount Mary College,Unknown,1,1,1
+Mount Holyoke College,senior,1,1,1
+Mount Holyoke College,junior,1,1,1
+Montana State College,junior,1,1,1
+Montana School of Mines,Unknown,1,1,1
+Missouri School of Mines & Metals,Unknown,1,1,1
+Millsaps College,Unknown,1,1,1
+Mills College,senior,1,1,1
+Mills College,Unknown,1,1,1
+Middlesex University,student,1,1,1
+Michigan State College,junior,1,1,1
+Michigan State College,Unknown,1,1,0
+Mercer University,junior,1,1,1
+Medical College of Virginia,junior,1,1,1
+McGill University,mid-level,1,1,1
+Master Institute of United Arts,Unknown,1,1,1
+Massachusetts College of Pharmacy,junior,1,1,1
+Massachusetts College of Pharmacy,Unknown,1,1,1
+Maryville College,mid-level,1,1,1
+Mary Hardin-Baylor College,mid-level,1,1,1
+Marquette University,mid-level,1,1,1
+Marquette University,Unknown,1,1,1
+Manhattan College,Unknown,1,1,1
+École Libre des Sciences Politiques,senior,1,1,1

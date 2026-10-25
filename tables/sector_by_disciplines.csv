@@ -1,0 +1,326 @@
+﻿disciplines,sector,appointments,students,employers
+Unknown,Military / defense,52,36,20
+Physiology,Academic / education,46,25,26
+Education,Academic / education,41,24,33
+Unknown,Government / public administration,39,28,27
+Economics,Government / public administration,38,25,32
+Electrical Engineering,Government / public administration,37,27,10
+Political Science,Government / public administration,37,26,27
+Unknown,Academic / education,37,24,27
+Mechanical Engineering,Industry / manufacturing / extraction,35,27,30
+Chemistry,Academic / education,35,26,26
+Electrical Engineering,Industry / manufacturing / extraction,33,26,21
+Chemical Engineering,Industry / manufacturing / extraction,28,23,26
+Civil Engineering,Professional services,28,24,16
+Mechanical Engineering,Military / defense,27,15,7
+Law,Government / public administration,25,13,16
+Aeronautical Engineering,Industry / manufacturing / extraction,23,17,14
+Electrical Engineering,Academic / education,22,18,16
+Sociology,Academic / education,22,17,17
+Chemical Engineering,Academic / education,21,16,13
+Chemical Engineering,Government / public administration,21,15,9
+Mechanical Engineering,Academic / education,20,15,16
+Mechanical Engineering,Government / public administration,17,15,5
+Civil Engineering,Government / public administration,17,13,10
+Aeronautical Engineering,Military / defense,16,11,4
+Political Science,Academic / education,16,9,14
+History,Academic / education,15,10,11
+Aeronautical Engineering,Academic / education,15,13,9
+Medicine,Healthcare / medical services,15,11,14
+Economics,Finance / banking / insurance,15,15,6
+Electrical Engineering,Military / defense,14,9,7
+Mechanical Engineering,Business / commerce,14,11,13
+Chemical Engineering,Business / commerce,14,13,12
+Metallurgy,Government / public administration,14,7,6
+Civil Engineering,Industry / manufacturing / extraction,14,14,11
+Chemistry,Industry / manufacturing / extraction,13,11,12
+Civil Engineering,Transport / utilities / communications,13,10,11
+Literature,Academic / education,12,5,11
+Economics,Academic / education,12,10,12
+Education,Media / publishing / entertainment,12,8,11
+Civil Engineering,Military / defense,12,10,9
+Mechanical Engineering,Transport / utilities / communications,12,11,11
+Architecture,Professional services,12,9,11
+Sociology,Government / public administration,11,9,10
+Unknown,Industry / manufacturing / extraction,11,9,10
+Banking & Finance,Finance / banking / insurance,11,8,9
+Civil Engineering,Academic / education,11,8,9
+Biochemistry,Academic / education,11,9,10
+Business,Finance / banking / insurance,11,9,7
+Electrical Engineering,Transport / utilities / communications,10,7,9
+Botany,Academic / education,10,4,8
+Chemical Engineering,Military / defense,10,8,6
+Political Science,Media / publishing / entertainment,10,7,7
+Philosophy,Academic / education,10,5,9
+Law,Academic / education,9,4,8
+Economics,Media / publishing / entertainment,9,6,9
+Psychology,Academic / education,9,7,7
+Plant Pathology,Academic / education,9,5,8
+Medicine,Academic / education,9,6,4
+Unknown,Non-state / nonprofit organization,9,7,6
+Accounting,Government / public administration,9,7,8
+Political Science,Military / defense,8,6,8
+Electrical Engineering,Business / commerce,8,7,8
+Business,Government / public administration,8,7,6
+Economics,Military / defense,8,5,6
+Unknown,Transport / utilities / communications,8,5,7
+Metallurgy,Industry / manufacturing / extraction,8,8,8
+Education,Military / defense,7,4,5
+Accounting,Academic / education,7,3,7
+Mathematics,Academic / education,7,5,5
+English,Academic / education,7,7,7
+Unknown,Finance / banking / insurance,7,7,2
+Aeronautical Engineering,Transport / utilities / communications,7,7,3
+Political Science,Finance / banking / insurance,7,6,2
+Engineering,Military / defense,6,1,2
+Economics,Industry / manufacturing / extraction,6,6,6
+Political Science,Non-state / nonprofit organization,6,6,4
+Nutrition,Academic / education,6,4,6
+Business,Industry / manufacturing / extraction,6,6,5
+Metallurgy,Business / commerce,6,5,5
+Chemistry,Research institutions,6,5,4
+Geography,Academic / education,6,4,5
+Economics,Transport / utilities / communications,5,4,5
+Mining Engineering,Business / commerce,5,5,2
+Physical Education,Academic / education,5,3,5
+Geology,Government / public administration,5,3,5
+Education,Non-state / nonprofit organization,5,4,4
+Sociology,Non-state / nonprofit organization,5,5,4
+Transportation,Government / public administration,5,4,3
+Entomology,Academic / education,5,5,3
+Mining Engineering,Industry / manufacturing / extraction,5,3,5
+Zoology,Academic / education,5,3,5
+Architecture,Government / public administration,5,5,4
+Aeronautical Engineering,Business / commerce,4,4,3
+Soil Science,Academic / education,4,2,4
+Aeronautical Engineering,Professional services,4,3,4
+Unknown,Libraries / cultural institutions,4,2,2
+Chemistry,Military / defense,4,2,3
+Unknown,Media / publishing / entertainment,4,4,4
+Automotive Engineering,Industry / manufacturing / extraction,4,3,4
+Bacteriology,Academic / education,4,3,4
+Business,Business / commerce,4,4,4
+Metallurgy,Academic / education,4,4,4
+Economics,Research institutions,4,4,3
+Accounting,Industry / manufacturing / extraction,4,4,3
+Industrial Management,Industry / manufacturing / extraction,4,3,4
+Banking & Finance,Government / public administration,4,4,4
+Anthropology,Academic / education,4,2,2
+Language,Academic / education,4,2,4
+Language,Research institutions,4,3,3
+Literature,Government / public administration,4,3,4
+Transportation,Transport / utilities / communications,4,3,4
+Public Health,Academic / education,4,2,4
+Entomology,Research institutions,3,2,3
+Metallurgy,Military / defense,3,2,1
+Architecture,Business / commerce,3,3,3
+Transportation,Military / defense,3,2,2
+Architecture,Academic / education,3,3,3
+Geology,Academic / education,3,1,2
+Railroad Administration,Government / public administration,3,1,3
+Mechanical Engineering,Professional services,3,3,3
+Unknown,Business / commerce,3,3,3
+Surgery,Academic / education,3,1,3
+Social Welfare,Government / public administration,3,3,3
+Sociology,Finance / banking / insurance,3,3,1
+Journalism,Media / publishing / entertainment,3,3,2
+Accounting,Finance / banking / insurance,3,3,1
+Agriculture,Academic / education,3,3,3
+Social Science,Academic / education,3,2,3
+English,Non-state / nonprofit organization,3,2,2
+Nursing,Healthcare / medical services,3,3,3
+Business,Military / defense,3,3,3
+Physiology,Military / defense,3,2,3
+Dentistry,Academic / education,3,2,3
+Agricultural Economics,Media / publishing / entertainment,3,2,3
+Accounting,Professional services,3,3,3
+Chemistry,Business / commerce,3,3,3
+Chemical Engineering,Research institutions,3,3,3
+Civil Engineering,Business / commerce,3,3,2
+Unknown,Healthcare / medical services,3,3,3
+Electrical Engineering,Professional services,3,3,3
+Mining Engineering,Government / public administration,3,3,2
+Accounting,Media / publishing / entertainment,3,1,2
+Political Science,Political / party organization,3,2,1
+Aeronautical Engineering,Media / publishing / entertainment,2,2,2
+Marine Enginerring,Academic / education,2,1,1
+Physiology,Research institutions,2,2,2
+Law,Non-state / nonprofit organization,2,2,2
+Literature,Military / defense,2,1,2
+Pharmacy,Healthcare / medical services,2,1,2
+Agriculture,Research institutions,2,1,2
+Library Science,Libraries / cultural institutions,2,1,2
+Physiology,Industry / manufacturing / extraction,2,2,2
+Pharmacy,Industry / manufacturing / extraction,2,2,2
+Political Science,Industry / manufacturing / extraction,2,1,2
+Pharmacy,Business / commerce,2,2,1
+Pharmacy,Academic / education,2,2,2
+Agricultural Economics,Finance / banking / insurance,2,2,2
+Metallurgy,Research institutions,2,2,1
+Agricultural Economics,Academic / education,2,2,2
+Automotive Engineering,Government / public administration,2,2,1
+Automotive Engineering,Business / commerce,2,2,2
+Automotive Engineering,Academic / education,2,2,2
+Railroad Administration,Transport / utilities / communications,2,1,2
+Radio Engineering,Industry / manufacturing / extraction,2,2,2
+Mining Engineering,Military / defense,2,1,2
+Public Administration,Government / public administration,2,2,2
+Sociology,Military / defense,2,2,1
+Law,Intergovernmental / international organization,2,2,2
+Aeronautical Engineering,Government / public administration,2,2,2
+History,Government / public administration,2,2,2
+Theology,Religious / faith organization,2,1,1
+Forestry,Academic / education,2,1,2
+Botany,Research institutions,2,1,2
+Engineering,Industry / manufacturing / extraction,2,2,2
+Electrical Engineering,Non-state / nonprofit organization,2,2,1
+Electrical Engineering,Media / publishing / entertainment,2,2,2
+Chemistry,Government / public administration,2,2,2
+Child Welfare,Academic / education,2,2,2
+Education,Government / public administration,2,2,2
+Education,Finance / banking / insurance,2,2,2
+Unknown,Political / party organization,2,2,1
+Economics,Non-state / nonprofit organization,2,1,2
+Civil Engineering,Non-state / nonprofit organization,2,2,2
+Economics,Intergovernmental / international organization,2,2,2
+Unknown,Unknown / not stated,2,2,0
+Veterinary Medicine,Academic / education,2,1,2
+Economics,Business / commerce,2,2,2
+Biology,Academic / education,2,1,2
+Physiology,Government / public administration,2,2,2
+History,Libraries / cultural institutions,2,2,1
+Biochemistry,Business / commerce,2,2,2
+Biochemistry,Industry / manufacturing / extraction,2,2,2
+History,Non-state / nonprofit organization,2,2,2
+Language,Government / public administration,2,1,2
+Sociology,Research institutions,2,2,2
+Soil Science,Government / public administration,2,2,2
+Agricultural Economics,Intergovernmental / international organization,1,1,1
+Political Science,Unknown / not stated,1,1,0
+Unknown,Intergovernmental / international organization,1,1,1
+Aeronautical Engineering,Unknown / not stated,1,1,0
+Aeronautical Engineering,Non-state / nonprofit organization,1,1,1
+Agricultural Economics,Business / commerce,1,1,1
+Political Science,Libraries / cultural institutions,1,1,1
+Sociology,Business / commerce,1,1,1
+Unknown,Research institutions,1,1,1
+Accounting,Military / defense,1,1,1
+Sociology,Transport / utilities / communications,1,1,1
+Social Welfare,Finance / banking / insurance,1,1,1
+Plant Pathology,Research institutions,1,1,1
+Plant Pathology,Military / defense,1,1,1
+Plant Pathology,Government / public administration,1,1,1
+Agricultural Economics,Non-state / nonprofit organization,1,1,1
+Sociology,Professional services,1,1,1
+Sociology,Healthcare / medical services,1,1,1
+Soil Science,Industry / manufacturing / extraction,1,1,1
+Psychology,Finance / banking / insurance,1,1,1
+Theology,Academic / education,1,1,1
+Psychology,Healthcare / medical services,1,1,1
+Theology,Finance / banking / insurance,1,1,1
+Theology,Government / public administration,1,1,1
+Railroad Administration,Academic / education,1,1,1
+Radio Engineering,Transport / utilities / communications,1,1,1
+Radio Engineering,Government / public administration,1,1,1
+Transportation,Academic / education,1,1,1
+Transportation,Business / commerce,1,1,1
+Surgery,Healthcare / medical services,1,1,1
+Transportation,Finance / banking / insurance,1,1,1
+Aeronautical Engineering,Finance / banking / insurance,1,1,1
+Public Administration,Military / defense,1,1,1
+Social Science,Government / public administration,1,1,1
+Sociology,Media / publishing / entertainment,1,1,1
+Accounting,Unknown / not stated,1,1,0
+Public Administration,Academic / education,1,1,1
+Psychology,Research institutions,1,1,1
+Psychology,Religious / faith organization,1,1,1
+Soil Science,Research institutions,1,1,1
+Accounting,Transport / utilities / communications,1,1,1
+Social Welfare,Academic / education,1,1,1
+Psychology,Military / defense,1,1,1
+Public Administration,Media / publishing / entertainment,1,1,1
+Drama,Professional services,1,1,1
+Physical Education,Non-state / nonprofit organization,1,1,1
+Home Economics,Transport / utilities / communications,1,1,1
+Geography,Government / public administration,1,1,1
+Geography,Research institutions,1,1,1
+Biology,Finance / banking / insurance,1,1,1
+Geology,Industry / manufacturing / extraction,1,1,1
+History,Media / publishing / entertainment,1,1,1
+History,Research institutions,1,1,1
+Home Economics,Academic / education,1,1,1
+Home Economics,Government / public administration,1,1,1
+Horticulture,Academic / education,1,1,1
+Physical Education,Military / defense,1,1,1
+Industrial Management,Business / commerce,1,1,1
+Industrial Management,Transport / utilities / communications,1,1,1
+Journalism,Academic / education,1,1,1
+Law,Finance / banking / insurance,1,1,1
+Law,Media / publishing / entertainment,1,1,1
+Law,Professional services,1,1,1
+Library Science,Academic / education,1,1,1
+Banking & Finance,Industry / manufacturing / extraction,1,1,1
+Biology,Healthcare / medical services,1,1,1
+Fine Arts,Non-state / nonprofit organization,1,1,1
+Fine Arts,Academic / education,1,1,1
+Entomology,Military / defense,1,1,1
+Drama,Academic / education,1,1,1
+Climateology,Government / public administration,1,1,1
+Economics,Political / party organization,1,1,1
+Economics,Professional services,1,1,1
+City Planning,Media / publishing / entertainment,1,1,1
+Economics,Unknown / not stated,1,1,0
+City Planning,Intergovernmental / international organization,1,1,1
+Chemistry,Unknown / not stated,1,1,0
+Education,Unknown / not stated,1,1,0
+Chemistry,Healthcare / medical services,1,1,1
+Electrical Engineering,Finance / banking / insurance,1,1,1
+Electrical Engineering,Political / party organization,1,1,1
+Engineering,Business / commerce,1,1,1
+Business,Academic / education,1,1,1
+English,Military / defense,1,1,1
+Botany,Industry / manufacturing / extraction,1,1,1
+Entomology,Government / public administration,1,1,1
+Literature,Non-state / nonprofit organization,1,1,1
+Mathematics,Government / public administration,1,1,1
+Mathematics,Healthcare / medical services,1,1,1
+Music,Non-state / nonprofit organization,1,1,1
+Nursing,Academic / education,1,1,1
+Nursing,Non-state / nonprofit organization,1,1,1
+Animal Husbandry,Research institutions,1,1,1
+Nutrition,Government / public administration,1,1,1
+Nutrition,Industry / manufacturing / extraction,1,1,1
+Nutrition,Research institutions,1,1,1
+Obstetrics,Academic / education,1,1,1
+Obstetrics,Business / commerce,1,1,1
+Parasitology,Academic / education,1,1,1
+Parasitology,Healthcare / medical services,1,1,1
+Agrononmy,Academic / education,1,1,1
+Philosophy,Media / publishing / entertainment,1,1,1
+Philosophy,Military / defense,1,1,1
+Philosophy,Non-state / nonprofit organization,1,1,1
+Philosophy,Research institutions,1,1,1
+Photography,Libraries / cultural institutions,1,1,1
+Photography,Media / publishing / entertainment,1,1,1
+Music,Religious / faith organization,1,1,1
+Music,Finance / banking / insurance,1,1,1
+Mathematics,Industry / manufacturing / extraction,1,1,1
+Drama,Finance / banking / insurance,1,1,1
+Mathematics,Professional services,1,1,1
+Mathematics,Research institutions,1,1,1
+Banking & Finance,Academic / education,1,1,1
+Automotive Engineering,Military / defense,1,1,1
+Mechanical Engineering,Media / publishing / entertainment,1,1,1
+Medicine,Government / public administration,1,1,1
+Architecture,Military / defense,1,1,1
+Medicine,Industry / manufacturing / extraction,1,1,1
+Medicine,Intergovernmental / international organization,1,1,1
+Medicine,Military / defense,1,1,1
+Medicine,Non-state / nonprofit organization,1,1,1
+Architecture,Industry / manufacturing / extraction,1,1,1
+Metallurgy,Non-state / nonprofit organization,1,1,1
+Metallurgy,Unknown / not stated,1,1,0
+Meteorology,Military / defense,1,1,1
+Meteorology,Transport / utilities / communications,1,1,1
+Mining Engineering,Academic / education,1,1,1
+Law,Business / commerce,1,1,1
